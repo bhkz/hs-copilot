@@ -1,0 +1,52 @@
+[
+  {
+    "case": "13@23:42:43 \u2014 action (tour 7, 7 mana)",
+    "payloadBefore": 19668,
+    "payloadAfter": 20921,
+    "avant": {
+      "action": "Jouer Profondeurs Sanguines",
+      "summary": "Joue Profondeurs Sanguines sans l\u2019activer, puis d\u00E9veloppe Glissedrake visionnaire et \u00E9limine le Rejeton avec D\u00E9vastateur Om\u00E9ga.",
+      "why": "Pr\u00E9serve le lieu pour Grommash au prochain tour tout en consolidant le plateau.",
+      "rationale": "Les 7 cristaux permettent lieu, Glissedrake et pouvoir h\u00E9ro\u00EFque. D\u00E9vastateur \u00E9limine le Rejeton et survit \u00E0 3 PV ; le Glissedrake d\u00E9j\u00E0 pr\u00E9sent inflige 6 au h\u00E9ros. Le maximum imm\u00E9diat calcul\u00E9 est 14, sans l\u00E9tal. Je recommande de renoncer au bonus imm\u00E9diat du lieu : l\u2019activer maintenant emp\u00EAcherait son utilisation au prochain tour pour Grommash. Jouer le Dragon pr\u00E9pare \u00E9galement la r\u00E9duction du Wyrm.",
+      "plan": "Envisager Grommash puis Profondeurs Sanguines pour 12 d\u00E9g\u00E2ts avec Charge, selon le plateau.",
+      "costUsd": 0.0178437,
+      "inputTokens": 8688,
+      "outputTokens": 525
+    },
+    "apr\u00E8s": {
+      "action": "Jouer Glissedrake visionnaire",
+      "summary": "Joue Glissedrake visionnaire sans cible, puis pr\u00E9pare Profondeurs Sanguines pour Grommash au prochain tour.",
+      "why": "D\u00E9veloppe le plateau, active Parent\u00E9 et conserve le lieu pour les 12 d\u00E9g\u00E2ts de Grommash.",
+      "rationale": "Les 7 cristaux permettent Glissedrake (4), Profondeurs (1) et le pouvoir h\u00E9ro\u00EFque (2). D\u00E9vastateur \u00E9limine le Rejeton en restant \u00E0 3 PV ; le Glissedrake existant inflige 6 au h\u00E9ros. Le maximum imm\u00E9diat calcul\u00E9 est 14, mais activer le lieu maintenant emp\u00EAcherait son utilisation au prochain tour. Le conserver pr\u00E9pare Grommash \u00E0 12 d\u00E9g\u00E2ts pour 8 mana, tandis que jouer un Dragon r\u00E9duit aussi le Wyrm \u00E0 6.",
+      "plan": "Envisager Grommash avec Profondeurs Sanguines pour 12 d\u00E9g\u00E2ts, selon le plateau adverse.",
+      "costUsd": 0.0184992,
+      "inputTokens": 9138,
+      "outputTokens": 511
+    }
+  },
+  {
+    "case": "22@00:59:56 \u2014 action (tour 5, 5 mana)",
+    "payloadBefore": 17350,
+    "payloadAfter": 18481,
+    "avant": {
+      "action": "Jouer Forgeron dimensionnel",
+      "summary": "Joue Forgeron dimensionnel sans cible pour renforcer tes serviteurs en main.",
+      "why": "D\u00E9veloppe le plateau et pr\u00E9pare un Wyrm renforc\u00E9 \u00E0 six manas au prochain tour.",
+      "rationale": "Le Forgeron co\u00FBte 3 sur 5 et renforce cinq serviteurs en main. La seconde Voyante peut ensuite \u00EAtre d\u00E9velopp\u00E9e pour 1 mana. La Voyante 5/5 \u00E9limine le Destrier 2/2 et survit \u00E0 3 PV. Cet \u00E9change para\u00EEt pr\u00E9f\u00E9rable aux d\u00E9g\u00E2ts au h\u00E9ros, que Reconstruction squelettique peut effacer. Jouer un Dragon pr\u00E9pare \u00E9galement la r\u00E9duction des Wyrms au prochain tour.",
+      "plan": "Envisager un Wyrm r\u00E9duit \u00E0 six manas pour \u00E9liminer une menace et gagner de l\u2019armure.",
+      "costUsd": 0.0148657,
+      "inputTokens": 7874,
+      "outputTokens": 390
+    },
+    "apr\u00E8s": {
+      "action": "Jouer Forgeron dimensionnel",
+      "summary": "Joue Forgeron dimensionnel pour renforcer ta main, puis dirige la Voyante contre le Destrier de la mort.",
+      "why": "D\u00E9veloppe le plateau et pr\u00E9pare un Wyrm renforc\u00E9, plut\u00F4t que des d\u00E9g\u00E2ts aussit\u00F4t soign\u00E9s.",
+      "rationale": "Le Forgeron co\u00FBte 3 et renforce les cinq autres serviteurs en main, notamment les deux Wyrms. Les 2 cristaux restants permettent le pouvoir h\u00E9ro\u00EFque. La Voyante \u00E9limine le Destrier et survit avec 3 PV. Contr\u00F4ler le plateau para\u00EEt pr\u00E9f\u00E9rable aux d\u00E9g\u00E2ts au h\u00E9ros, puisque Reconstruction squelettique peut le soigner int\u00E9gralement. Un Dragon jou\u00E9 pr\u00E9pare \u00E9galement Parent\u00E9 au prochain tour.",
+      "plan": "Envisager Wyrm du pic venteux \u00E0 6 mana pour d\u00E9velopper le plateau et \u00E9liminer une menace.",
+      "costUsd": 0.0152572,
+      "inputTokens": 8287,
+      "outputTokens": 357
+    }
+  }
+]

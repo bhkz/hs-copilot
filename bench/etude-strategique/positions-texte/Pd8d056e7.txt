@@ -1,0 +1,75 @@
+Position Pd8d056e7 — tour 8
+
+Mode GT_RANKED / FT_WILD — Tour 8 (TURN=16, vous) — étape MAIN_ACTION — premier joueur : adversaire
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+  [info] Rembobinage : l'état a été reconstruit à partir de l'instantané envoyé par le serveur.
+
+== ADVERSAIRE (PALADIN) — Dame Liadrin 18/40 PV — mana 0/8
+   Pouvoir : Renfort (2)
+   Arme : Porte-Cendres 5/3
+   Plateau (0) :
+   Main (5) :
+     1. carte cachée — en main depuis TURN=10
+     2. carte cachée — en main depuis TURN=10
+     3. carte cachée — en main depuis TURN=11
+     4. carte cachée — en main depuis TURN=11
+     5. carte cachée — en main depuis TURN=13
+   Deck : 28 carte(s)
+   Dernier tour (TURN=15) : Tirion Fordring (n'est plus en jeu)
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 24/30 PV +5 armure — mana 6/8
+   Pouvoir : Gain d’armure ! (2)
+   Plateau (4) :
+     1. Wyrm du pic venteux 10/6 {À la pointe, À la pointe} (peut attaquer)
+     2. Profondeurs Sanguines 1 charge(s) (non activable)
+     3. Forgeron dimensionnel 4/5 (max 7) {Garde du temps} (peut attaquer)
+     4. Forgeron dimensionnel 4/4 (max 5) {À la pointe} (peut attaquer)
+   Main (6) :
+     1. (9) Mande-dragon Alanna 7/3 [base 3/3] (créée)
+     2. (6, base 8) Wyrm du pic venteux 10/6 [base 6/6] ✦condition remplie
+     3. (2) Gardien des couvées 6/3 [base 2/3] ✦condition remplie
+     4. (2) Colporteur de pétales 1/4
+     5. (8) Le Grand Dracorex 5/12
+     6. (8) Bagarreur coup-d’poing 9/6 [base 6/6] (créée)
+   Deck : 15 carte(s)
+   Dernier tour (TURN=14) : Wyrm du pic venteux (encore en jeu)
+   Ce tour : Suffusion d’ombreflamme
+
+Actions légales (serveur, options #51, révision 101, à jour) : 7 jouable(s) + fin de tour
+  - Jouer Wyrm du pic venteux → Dame Liadrin, Garrosh Hurlenfer (allié), Forgeron dimensionnel (allié), Forgeron dimensionnel (allié), Wyrm du pic venteux (allié)
+  - Jouer Gardien des couvées
+  - Jouer Colporteur de pétales
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Forgeron dimensionnel → Dame Liadrin
+  - Attaquer avec Forgeron dimensionnel → Dame Liadrin
+  - Attaquer avec Wyrm du pic venteux → Dame Liadrin
+
+Historique récent :
+  T7 vous attaque : Forgeron dimensionnel → Statue abîmée
+  T7 morts : Statue abîmée
+  — Tour 8 (TURN=15, adversaire) —
+  T8 adversaire joue Tirion Fordring
+  T8 adversaire attaque : Prince Rénathal → Glissedrake visionnaire
+  T8 morts : Prince Rénathal
+  — Tour 8 (TURN=16, vous) —
+  T8 vous joue Suffusion d’ombreflamme → Tirion Fordring
+  T8 choix vous (GENERAL) : Bagarreur coup-d’poing (choisie), Tortolla (proposée), Larbin effrayé (proposée)
+  T8 vous attaque : Glissedrake visionnaire → Tirion Fordring
+  T8 morts : Glissedrake visionnaire, Tirion Fordring
+  T8 déclenchement Tirion Fordring (adversaire)
+
+
+Actions légales :
+  - Jouer Wyrm du pic venteux → Dame Liadrin (18 PV)
+  - Jouer Wyrm du pic venteux → Garrosh Hurlenfer (allié) (24 PV + 5 armure)
+  - Jouer Wyrm du pic venteux → Forgeron dimensionnel (allié) 4/5
+  - Jouer Wyrm du pic venteux → Forgeron dimensionnel (allié) 4/4
+  - Jouer Wyrm du pic venteux → Wyrm du pic venteux (allié) 10/6
+  - Jouer Gardien des couvées
+  - Jouer Colporteur de pétales
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Forgeron dimensionnel → Dame Liadrin (18 PV)
+  - Attaquer avec Forgeron dimensionnel → Dame Liadrin (18 PV)
+  - Attaquer avec Wyrm du pic venteux → Dame Liadrin (18 PV)
+  - Finir le tour

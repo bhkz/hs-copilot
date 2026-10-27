@@ -1,0 +1,25 @@
+{
+  "createdUtc": "2026-10-25T13:29:07.2591861Z",
+  "updatedUtc": "2026-10-25T13:29:07.2592877Z",
+  "casesSource": "bench/cases-deck.jsonl",
+  "casesFingerprint": "472128292b87",
+  "caseCount": 30,
+  "variants": [
+    "gpt-6.1-sol:medium"
+  ],
+  "instructionsFingerprint": "89db2eda2c5a",
+  "strategyFingerprint": "2076d066f36e",
+  "historyItems": 25,
+  "concurrency": 4,
+  "budgetUsd": 2,
+  "maxOutputTokens": 24000,
+  "prices": {
+    "gpt-6.1-sol": {
+      "input": 2,
+      "cachedInput": 0.1,
+      "output": 10,
+      "source": "developers.openai.com et annonce GPT-6.1 Sol, 25/10/2026"
+    }
+  },
+  "note": "Le coup réellement joué sert d'étiquette d'évaluation et n'est jamais transmis au modèle."
+}

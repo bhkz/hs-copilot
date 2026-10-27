@@ -1,0 +1,19 @@
+parties : 48 ; décisions (blocs d options) : 1365 ; tracées : 1352
+temps de réponse du joueur (bloc -> action), toutes: n=1332 médiane=6.72 P25=3.38 P75=10.74 P90=14.97
+  1re décision du tour: n=337 médiane=11.09 P25=8.62 P75=14.92 P90=18.74
+  milieu de tour: n=995 médiane=5.27 P25=2.70 P75=8.51 P90=12.43
+  milieu de tour, hors fin de tour: n=706 médiane=6.51 P25=3.60 P75=10.07 P90=13.62
+retard écran (PowerTaskList MAIN_ACTION - bloc), 1re décision: n=318 médiane=0.85 P25=0.50 P75=2.38 P90=4.42
+temps de réponse depuis l écran, 1re décision: n=312 médiane=9.43 P25=6.83 P75=13.50 P90=17.39
+première action affichée par décision :
+   663  partiel / modèle
+   323  prêt / plan
+   226  sans action affichée (ignoré / fin-de-tour)
+    69  prêt / solveur
+    57  sans action affichée (analyse)
+    14  sans action affichée (ignoré / budget)
+    13  non tracé
+décisions d action avec analyse et coup joué : 824 ; action affichée avant ton coup : 765 (93%)
+  délai bloc -> 1re action affichée (si avant ton coup): n=765 médiane=5.60 P25=4.15 P75=8.52 P90=11.42
+fenêtre de visibilité des faits rapides avant ton coup (s), décisions d action: n=1332 médiane=3.50 P25=1.14 P75=6.32 P90=9.83
+  part des décisions où la fenêtre est nulle : 20%

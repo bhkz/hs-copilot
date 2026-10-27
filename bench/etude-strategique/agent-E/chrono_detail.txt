@@ -1,0 +1,32 @@
+== 1re décision du tour 337
+   313 action affichée avant ton coup : partiel/modèle
+    12 action affichée avant ton coup : prêt/solveur
+     9 ignoré : fin-de-tour
+     2 aucune action affichée (analyse)
+     1 ignoré : budget
+  appels au modèle : 315 ; action affichée avant ton coup : 313 (99%)
+  délai bloc -> 1re action affichée (appels): n=313 médiane=6.48 P10=2.25 P25=4.50 P75=9.56 P90=13.03
+  ton coup - 1re action affichée (appels): n=313 médiane=4.16 P10=2.73 P25=3.31 P75=5.75 P90=8.11
+  ton temps de réponse quand aucune action n a précédé ton coup (appels): n=2 médiane=6.97 P10=1.66 P25=1.66 P75=12.29 P90=12.29
+  ton temps de réponse sur suite de plan: aucun
+  ton temps de réponse sur létal du solveur: n=12 médiane=7.95 P10=5.73 P25=6.52 P75=10.92 P90=13.52
+== milieu de tour 995
+   336 action affichée avant ton coup : partiel/modèle
+   323 action affichée avant ton coup : prêt/plan
+   217 ignoré : fin-de-tour
+    50 action affichée avant ton coup : prêt/solveur
+    48 aucune action affichée (analyse)
+    12 ignoré : budget
+     9 action affichée APRÈS ton coup
+  appels au modèle : 509 ; action affichée avant ton coup : 452 (89%)
+  délai bloc -> 1re action affichée (appels): n=452 médiane=4.66 P10=1.71 P25=4.09 P75=7.83 P90=10.45
+  ton coup - 1re action affichée (appels): n=452 médiane=3.09 P10=1.54 P25=2.33 P75=4.47 P90=6.02
+  ton temps de réponse quand aucune action n a précédé ton coup (appels): n=57 médiane=2.10 P10=1.15 P25=1.42 P75=4.13 P90=8.75
+  ton temps de réponse sur suite de plan: n=323 médiane=4.52 P10=2.29 P25=3.13 P75=6.38 P90=8.03
+  ton temps de réponse sur létal du solveur: n=50 médiane=3.46 P10=1.87 P25=2.48 P75=4.62 P90=7.60
+  écart coup - action affichée dans [0,1) s : 6
+  écart coup - action affichée dans [1,2) s : 79
+  écart coup - action affichée dans [2,4) s : 370
+  écart coup - action affichée dans [4,8) s : 263
+  écart coup - action affichée dans [8,1000000000.0) s : 47
+décisions avec action affichée avant le coup : 765

@@ -1,0 +1,82 @@
+Position Pcdfaad00 — tour 7
+
+Mode GT_RANKED / FT_WILD — Tour 7 (TURN=13, vous) — étape MAIN_ACTION — premier joueur : vous
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+
+== ADVERSAIRE (PRIEST) — Roi Anduin 37/40 PV +7 armure — mana 1/6
+   Pouvoir : Soins inférieurs (2)
+   Plateau (1) :
+     1. Cathédrale de l’Expiation 2 charge(s) (en recharge)
+   Main (9) :
+     1. carte cachée — en main depuis TURN=2
+     2. carte cachée — en main depuis TURN=4
+     3. carte cachée — en main depuis TURN=6
+     4. carte cachée — en main depuis TURN=6
+     5. carte cachée — en main depuis TURN=8
+     6. carte cachée — en main depuis TURN=10
+     7. carte cachée — en main depuis TURN=10
+     8. carte cachée — en main depuis TURN=10
+     9. carte cachée — en main depuis TURN=12
+   Deck : 28 carte(s)
+   Quêtes/éléments publics : Découvrir l’éclat du Vide
+   Dernier tour (TURN=12) : Potion de Kazakus
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 30/30 PV — mana 7/7
+   Pouvoir : Gain d’armure ! (2)
+   Plateau (1) :
+     1. Serpent-nuage 5/1 (max 5) [CANT_BE_TARGETED_BY_SPELLS, CANT_BE_TARGETED_BY_HERO_POWERS, ELUSIVE] {Repos serein} (peut attaquer)
+   Main (7) :
+     1. (8) Le Grand Dracorex 7/12 [base 5/12]
+     2. (3) Avant-garde du portail 4/2 [base 2/2]
+     3. (2) Luisaile 5/2 [base 3/2]
+     4. (4) Animatrice de stade 3/3
+     5. (4) Animatrice de stade 3/3
+     6. (9) Mal’Ganis 9/7 (créée)
+     7. (6, base 8) Wyrm du pic venteux 6/6 ✦condition remplie
+   Deck : 19 carte(s)
+   Dernier tour (TURN=11) : Sombre chevaucheur (n'est plus en jeu), Serpent-nuage (encore en jeu), Luisaile (n'est plus en jeu)
+
+Actions légales (serveur, options #36, révision 87, à jour) : 7 jouable(s) + fin de tour
+  - Jouer Avant-garde du portail
+  - Jouer Luisaile
+  - Jouer Animatrice de stade
+  - Jouer Animatrice de stade
+  - Jouer Wyrm du pic venteux → Garrosh Hurlenfer (allié), Roi Anduin, Serpent-nuage (allié)
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Serpent-nuage → Roi Anduin
+
+Historique récent :
+  T5 adversaire active le lieu Cathédrale de l’Expiation → Luisaile
+  — Tour 6 (TURN=11, vous) —
+  T6 vous joue Sombre chevaucheur
+  T6 choix vous (GENERAL) : Drake ronceux (proposée), Gardienne bronze (proposée), Serpent-nuage (choisie)
+  T6 vous joue Serpent-nuage
+  T6 vous attaque : Glissedrake visionnaire → Luisaile
+  T6 morts : Luisaile
+  T6 vous joue Luisaile
+  T6 vous attaque : Forgeron dimensionnel → Roi Anduin
+  — Tour 6 (TURN=12, adversaire) —
+  T6 adversaire joue Potion de Kazakus : Forgeron dimensionnel (détruit pendant l'action), Glissedrake visionnaire (détruit pendant l'action), Sombre chevaucheur (détruit pendant l'action), Luisaile (détruit pendant l'action)
+  — Tour 7 (TURN=13, vous) —
+
+
+Actions légales :
+  - Jouer Avant-garde du portail
+  - Jouer Luisaile
+  - Jouer Animatrice de stade
+  - Jouer Animatrice de stade
+  - Jouer Wyrm du pic venteux → Garrosh Hurlenfer (allié) (30 PV)
+  - Jouer Wyrm du pic venteux → Roi Anduin (37 PV + 7 armure)
+  - Jouer Wyrm du pic venteux → Serpent-nuage (allié) 5/1
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Serpent-nuage → Roi Anduin (37 PV + 7 armure)
+  - Finir le tour
+
+
+Conseil donné en partie par HS Copilot :
+  action : Jouer Wyrm du pic venteux → Roi Anduin (37 PV + 7 armure)
+  résumé : Joue Wyrm du pic venteux sur Roi Anduin, puis attaque avec Serpent-nuage.
+  raison : Profite de Parenté pour développer une 6/6 et infliger 10 dégâts ce tour.
+  suite prévue : ['Attaquer Roi Anduin avec Serpent-nuage pour 5 dégâts.']
+  plan : Envisager Le Grand Dracorex pour reprendre le plateau si l’adversaire développe des serviteurs.

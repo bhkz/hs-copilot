@@ -1,0 +1,57 @@
+{
+ "Pc6bba113": {
+  "X": "gpt-6.1-sol:medium+local",
+  "Y": "gpt-6.1-sol:medium+local+danger",
+  "memeAction": true
+ },
+ "Pd8d056e7": {
+  "X": "gpt-6.1-sol:medium+local+danger",
+  "Y": "gpt-6.1-sol:medium+local",
+  "memeAction": true
+ },
+ "P92e667bd": {
+  "X": "gpt-6.1-sol:medium+local+danger",
+  "Y": "gpt-6.1-sol:medium+local",
+  "memeAction": true
+ },
+ "P282892f8": {
+  "X": "gpt-6.1-sol:medium+local",
+  "Y": "gpt-6.1-sol:medium+local+danger",
+  "memeAction": true
+ },
+ "P7e725c0d": {
+  "X": "gpt-6.1-sol:medium+local+danger",
+  "Y": "gpt-6.1-sol:medium+local",
+  "memeAction": true
+ },
+ "Pc6600069": {
+  "X": "gpt-6.1-sol:medium+local+danger",
+  "Y": "gpt-6.1-sol:medium+local",
+  "memeAction": true
+ },
+ "P2529cd5b": {
+  "X": "gpt-6.1-sol:medium+local",
+  "Y": "gpt-6.1-sol:medium+local+danger",
+  "memeAction": true
+ },
+ "P3c57d927": {
+  "X": "gpt-6.1-sol:medium+local",
+  "Y": "gpt-6.1-sol:medium+local+danger",
+  "memeAction": false
+ },
+ "P79561396": {
+  "X": "gpt-6.1-sol:medium+local+danger",
+  "Y": "gpt-6.1-sol:medium+local",
+  "memeAction": true
+ },
+ "P3f1ccb2b": {
+  "X": "gpt-6.1-sol:medium+local",
+  "Y": "gpt-6.1-sol:medium+local+danger",
+  "memeAction": true
+ },
+ "P89822427": {
+  "X": "gpt-6.1-sol:medium+local",
+  "Y": "gpt-6.1-sol:medium+local+danger",
+  "memeAction": true
+ }
+}

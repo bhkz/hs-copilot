@@ -1,0 +1,79 @@
+Position Paf9a76e3 — tour 11
+
+Mode GT_RANKED / FT_WILD — Tour 11 (TURN=21, vous) — étape MAIN_ACTION — premier joueur : vous
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+
+== ADVERSAIRE (PRIEST) — Roi Anduin 23/40 PV — mana 0/10
+   Pouvoir : Soins inférieurs (2)
+   Plateau (1) :
+     1. Cathédrale de l’Expiation 2 charge(s) (prêt)
+   Main (9) :
+     1. carte cachée — en main depuis TURN=17
+     2. carte cachée — en main depuis TURN=4
+     3. carte cachée — en main depuis TURN=6
+     4. carte cachée — en main depuis TURN=6
+     5. carte cachée — en main depuis TURN=10
+     6. carte cachée — en main depuis TURN=14
+     7. carte cachée — en main depuis TURN=20
+     8. carte cachée — en main depuis TURN=20
+     9. carte cachée — en main depuis TURN=20
+   Deck : 23 carte(s)
+   Quêtes/éléments publics : Illuminer le Vide
+   Dernier tour (TURN=20) : Cri psychique, Usurpation d’identité
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 30/30 PV +4 armure — mana 7/10
+   Pouvoir : Gain d’armure ! (2)
+   Plateau (2) :
+     1. Luisaile 5/2 {À la pointe} (ne peut pas attaquer)
+     2. Sombre chevaucheur 1/1 (ne peut pas attaquer)
+   Main (6) :
+     1. (4) Animatrice de stade 3/3
+     2. (4) Animatrice de stade 3/3
+     3. (9) Mal’Ganis 9/7 (créée)
+     4. (6) Kronx Sabot-de-Dragon 6/6 (créée)
+     5. (5) Aile de l’effroi tourmentée 5/5 (créée)
+     6. (7) Tour des Hurleurs noirs 3/8 (créée)
+   Deck : 19 carte(s)
+   Dernier tour (TURN=19) : Suffusion d’ombreflamme, Huissier antrelige (n'est plus en jeu), Dragonnet du Vol infini (n'est plus en jeu)
+   Ce tour : Sombre chevaucheur, Luisaile
+
+Actions légales (serveur, options #73, révision 171, à jour) : 6 jouable(s) + fin de tour
+  - Jouer Animatrice de stade
+  - Jouer Animatrice de stade
+  - Jouer Kronx Sabot-de-Dragon
+  - Jouer Aile de l’effroi tourmentée
+  - Jouer Tour des Hurleurs noirs
+  - Pouvoir héroïque Gain d’armure !
+
+Historique récent :
+  — Tour 10 (TURN=20, adversaire) —
+  T10 adversaire attaque : Théotar, le duc fou → Huissier antrelige
+  T10 morts : Théotar, le duc fou
+  T10 déclenchement Illuminer le Vide (adversaire)
+  T10 adversaire joue Cri psychique
+  T10 adversaire joue Usurpation d’identité
+  T10 choix adversaire (choix adverse (GENERAL))
+  T10 choix adversaire (choix adverse (GENERAL))
+  — Tour 11 (TURN=21, vous) —
+  T11 vous joue Sombre chevaucheur
+  T11 choix vous (GENERAL) : Aile de l’effroi tourmentée (choisie), Drake-tempête tourbillonnant (proposée), Mère des couvées sombrécaille (proposée)
+  T11 vous joue Luisaile
+
+
+Actions légales :
+  - Jouer Animatrice de stade
+  - Jouer Animatrice de stade
+  - Jouer Kronx Sabot-de-Dragon
+  - Jouer Aile de l’effroi tourmentée
+  - Jouer Tour des Hurleurs noirs
+  - Pouvoir héroïque Gain d’armure !
+  - Finir le tour
+
+
+Conseil donné en partie par HS Copilot :
+  action : Jouer Aile de l’effroi tourmentée
+  résumé : Joue Aile de l’effroi tourmentée, puis attaque Roi Anduin pour 5 dégâts.
+  raison : La Charge apporte une pression immédiate, avec une pioche de Dragons en réserve.
+  suite prévue : ['Attaquer Roi Anduin avec Aile de l’effroi tourmentée.', 'Utiliser Gain d’armure ! avec les 2 cristaux restants.']
+  plan : Maintenir la pression et exploiter les Dragons piochés si le râle d’agonie se déclenche.

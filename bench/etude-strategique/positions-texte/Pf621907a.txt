@@ -1,0 +1,96 @@
+Position Pf621907a — tour 6
+
+Mode GT_RANKED / FT_STANDARD — Tour 6 (TURN=12, vous) — étape MAIN_ACTION — premier joueur : adversaire
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+  [info] Rembobinage : l'état a été reconstruit à partir de l'instantané envoyé par le serveur.
+
+== ADVERSAIRE (WARRIOR) — Garrosh, roi des pirates 29/30 PV — mana 1/6
+   Pouvoir : Gain d’armure ! (2)
+   Plateau (4) :
+     1. Rescapée de la fin des temps 9/11 [TAUNT] {Beaux rêves} (épuisé)
+     2. Canonnière 1/1 [TRIGGER_VISUAL] (épuisé)
+     3. Capitaine Crowley 4/5 [REBORN, AURA] {Horreur persistante} (épuisé)
+     4. Canonnière 1/1 [TRIGGER_VISUAL] (épuisé)
+   Main (6) :
+     1. carte cachée — en main depuis TURN=8
+     2. carte cachée — en main depuis TURN=8
+     3. Lardeur, briseur de chaînes (vue publiquement) — en main depuis TURN=8
+     4. carte cachée — en main depuis TURN=8
+     5. carte cachée — en main depuis TURN=8
+     6. carte cachée — en main depuis TURN=11
+   Deck : 43 carte(s)
+   Dernier tour (TURN=11) : Capitaine Crowley (encore en jeu)
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 20/30 PV — mana 6/6
+   Pouvoir : Gain d’armure ! (2)
+   Plateau (6) :
+     1. Colporteur de pétales 3/2 (max 4) [TRIGGER_VISUAL] {À la pointe} (peut attaquer)
+     2. Dragonnet du Vol infini 5/6 [POISONOUS, REBORN] {À la pointe, Floraison, Floraison} (peut attaquer)
+     3. Colporteur de pétales 3/6 [TRIGGER_VISUAL] {Garde du temps} (peut attaquer)
+     4. Avant-garde du portail 4/1 (max 2) {À la pointe} (peut attaquer)
+     5. Voyante distordue par le temps 1/2 (max 3) [SPELLPOWER+2] {Distorsion par le temps} (peut attaquer)
+     6. Forgeron dimensionnel 4/3 (max 7) {Floraison} (peut attaquer)
+   Main (5) :
+     1. (2) Luisaile 5/2 [base 3/2]
+     2. (5) Drake terrestre 6/4 [base 4/4] (créée)
+     3. (6, base 8) Wyrm du pic venteux 6/6 ✦condition remplie
+     4. (1) Voyante distordue par le temps 1/3
+     5. (3) Forgeron dimensionnel 2/5
+   Deck : 19 carte(s)
+   Dernier tour (TURN=10) : Dragonnet du Vol infini (encore en jeu), Colporteur de pétales (encore en jeu)
+
+Actions légales (serveur, options #32, révision 71, à jour) : 12 jouable(s) + fin de tour
+  - Jouer Luisaile
+  - Jouer Drake terrestre
+  - Jouer Wyrm du pic venteux → Garrosh Hurlenfer (allié), Garrosh, roi des pirates, Forgeron dimensionnel (allié), Colporteur de pétales (allié), Avant-garde du portail (allié), Voyante distordue par le temps (allié), Rescapée de la fin des temps, Dragonnet du Vol infini (allié), Colporteur de pétales (allié), Capitaine Crowley, Canonnière, Canonnière
+  - Jouer Voyante distordue par le temps
+  - Jouer Forgeron dimensionnel
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Forgeron dimensionnel → Rescapée de la fin des temps
+  - Attaquer avec Colporteur de pétales → Rescapée de la fin des temps
+  - Attaquer avec Avant-garde du portail → Rescapée de la fin des temps
+  - Attaquer avec Voyante distordue par le temps → Rescapée de la fin des temps
+  - Attaquer avec Dragonnet du Vol infini → Rescapée de la fin des temps
+  - Attaquer avec Colporteur de pétales → Rescapée de la fin des temps
+
+Historique récent :
+  T5 adversaire joue Rescapée de la fin des temps
+  — Tour 5 (TURN=10, vous) —
+  T5 vous joue Dragonnet du Vol infini
+  T5 vous joue Colporteur de pétales
+  T5 déclenchement Colporteur de pétales (vous)
+  T5 déclenchement Colporteur de pétales (vous)
+  — Tour 6 (TURN=11, adversaire) —
+  T6 adversaire joue Capitaine Crowley
+  T6 adversaire attaque : Rescapée de la fin des temps → Garrosh Hurlenfer
+  T6 déclenchement Canonnière (adversaire)
+  T6 déclenchement Canonnière (adversaire)
+  — Tour 6 (TURN=12, vous) —
+
+
+Actions légales :
+  - Jouer Luisaile
+  - Jouer Drake terrestre
+  - Jouer Wyrm du pic venteux → Garrosh Hurlenfer (allié) (20 PV)
+  - Jouer Wyrm du pic venteux → Garrosh, roi des pirates (29 PV)
+  - Jouer Wyrm du pic venteux → Forgeron dimensionnel (allié) 4/3
+  - Jouer Wyrm du pic venteux → Colporteur de pétales (allié) 3/2
+  - Jouer Wyrm du pic venteux → Avant-garde du portail (allié) 4/1
+  - Jouer Wyrm du pic venteux → Voyante distordue par le temps (allié) 1/2
+  - Jouer Wyrm du pic venteux → Rescapée de la fin des temps 9/11
+  - Jouer Wyrm du pic venteux → Dragonnet du Vol infini (allié) 5/6
+  - Jouer Wyrm du pic venteux → Colporteur de pétales (allié) 3/6
+  - Jouer Wyrm du pic venteux → Capitaine Crowley 4/5
+  - Jouer Wyrm du pic venteux → Canonnière 1/1
+  - Jouer Wyrm du pic venteux → Canonnière 1/1
+  - Jouer Voyante distordue par le temps
+  - Jouer Forgeron dimensionnel
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Forgeron dimensionnel → Rescapée de la fin des temps 9/11
+  - Attaquer avec Colporteur de pétales → Rescapée de la fin des temps 9/11
+  - Attaquer avec Avant-garde du portail → Rescapée de la fin des temps 9/11
+  - Attaquer avec Voyante distordue par le temps → Rescapée de la fin des temps 9/11
+  - Attaquer avec Dragonnet du Vol infini → Rescapée de la fin des temps 9/11
+  - Attaquer avec Colporteur de pétales → Rescapée de la fin des temps 9/11
+  - Finir le tour

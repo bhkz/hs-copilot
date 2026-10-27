@@ -1,0 +1,8 @@
+faits calculés (3) :
+  [alerte] Danger au prochain tour : 25 dégâts visibles (Prédateur en chasse 4 + Serpent éternel 7 + Ursol 9 + arme 3 + pouvoir héroïque 2) contre tes 25 PV, létal adverse visible ; défenses : Attaquer avec Garrosh Hurlenfer → Serpent éternel 7/3 : −7 dégâts visibles, 3 de moins au visage ; Attaquer avec Glissedrake visionnaire → Serpent éternel 7/3 : −7 dégâts visibles, 6 de moins au visage.
+  [info] Fatigue proche : l'adversaire n'a plus que 1 carte(s) dans son deck ; survivre le fera bientôt subir des dégâts de fatigue.
+  [info] Encore possible : attaque de Garrosh Hurlenfer (3 ATQ), héros adverse possible ; attaque de Glissedrake visionnaire (6 ATQ), héros adverse possible ; pouvoir héroïque Gain d’armure ! (2).
+phase analyse : titre « ANALYSE », action « Analyse en cours… 0,0 s », faits affichés 3, alerte de danger visible : OUI
+phase partiel : titre « ACTION IMMÉDIATE », action « Attaquer avec Glissedrake visionnaire → Rexxar (17 PV) », faits affichés 0, alerte de danger visible : NON
+phase prêt (modèle) : titre « ACTION IMMÉDIATE », action « Attaquer avec Glissedrake visionnaire → Rexxar (17 PV) », faits affichés 0, alerte de danger visible : NON
+phase prêt (suite du plan) : titre « ACTION IMMÉDIATE », action « Attaquer avec Glissedrake visionnaire → Rexxar (17 PV) », faits affichés 0, alerte de danger visible : NON

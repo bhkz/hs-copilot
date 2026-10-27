@@ -1,0 +1,84 @@
+Position Pbb83453d — tour 4
+
+Mode GT_RANKED / FT_STANDARD — Tour 4 (TURN=8, vous) — étape MAIN_ACTION — premier joueur : adversaire
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+
+== ADVERSAIRE (PALADIN) — Dame Liadrin 30/30 PV — mana 0/4
+   Pouvoir : Renfort (2)
+   Plateau (2) :
+     1. Bibliothécaire royal 4/4 (épuisé)
+     2. Murmie 1/1 (épuisé)
+   Main (3) :
+     1. carte cachée — en main depuis TURN=5
+     2. carte cachée — en main depuis TURN=5
+     3. carte cachée — en main depuis TURN=7
+   Deck : 23 carte(s)
+   Quêtes/éléments publics : Plongée dans l’abîme de Golakka
+   Dernier tour (TURN=7) : Bibliothécaire royal (encore en jeu)
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 30/30 PV — mana 4/4
+   Pouvoir : Gain d’armure ! (2)
+   Plateau (3) :
+     1. Colporteur de pétales 1/4 [SILENCED] (peut attaquer)
+     2. Forgeron dimensionnel 3/4 (max 6) {Floraison} (peut attaquer)
+     3. Profondeurs Sanguines 2 charge(s) (activable)
+   Main (5) :
+     1. (8) Grommash Hurlenfer 6/9 [base 4/9]
+     2. (2) Luisaile 5/2 [base 3/2]
+     3. (4, base 7) Glissedrake visionnaire 7/8 [base 5/8] ✦condition remplie
+     4. (4) Animatrice de stade 3/3
+     5. (3) Forgeron dimensionnel 2/5
+   Deck : 22 carte(s)
+   Dernier tour (TURN=6) : Colporteur de pétales (encore en jeu)
+
+Actions légales (serveur, options #20, révision 38, à jour) : 8 jouable(s) + fin de tour
+  - Jouer Luisaile
+  - Jouer Glissedrake visionnaire
+  - Jouer Animatrice de stade
+  - Jouer Forgeron dimensionnel
+  - Pouvoir héroïque Gain d’armure !
+  - Activer le lieu Profondeurs Sanguines → Forgeron dimensionnel (allié), Colporteur de pétales (allié), Bibliothécaire royal, Murmie
+  - Attaquer avec Forgeron dimensionnel → Dame Liadrin, Bibliothécaire royal, Murmie
+  - Attaquer avec Colporteur de pétales → Dame Liadrin, Bibliothécaire royal, Murmie
+
+Historique récent :
+  T3 adversaire joue Murmie
+  — Tour 3 (TURN=6, vous) —
+  T3 vous joue Colporteur de pétales
+  T3 vous attaque : Forgeron dimensionnel → Végétaileron avide
+  T3 morts : Végétaileron avide
+  T3 déclenchement Colporteur de pétales (vous)
+  — Tour 4 (TURN=7, adversaire) —
+  T4 adversaire joue Bibliothécaire royal → Colporteur de pétales
+  T4 adversaire attaque : Murmie → Forgeron dimensionnel
+  T4 morts : Murmie
+  T4 déclenchement Plongée dans l’abîme de Golakka (adversaire)
+  — Tour 4 (TURN=8, vous) —
+
+
+Actions légales :
+  - Jouer Luisaile
+  - Jouer Glissedrake visionnaire
+  - Jouer Animatrice de stade
+  - Jouer Forgeron dimensionnel
+  - Pouvoir héroïque Gain d’armure !
+  - Activer Profondeurs Sanguines → Forgeron dimensionnel (allié) 3/4
+  - Activer Profondeurs Sanguines → Colporteur de pétales (allié) 1/4
+  - Activer Profondeurs Sanguines → Bibliothécaire royal 4/4
+  - Activer Profondeurs Sanguines → Murmie 1/1
+  - Attaquer avec Forgeron dimensionnel → Dame Liadrin (30 PV)
+  - Attaquer avec Forgeron dimensionnel → Bibliothécaire royal 4/4
+  - Attaquer avec Forgeron dimensionnel → Murmie 1/1
+  - Attaquer avec Colporteur de pétales → Dame Liadrin (30 PV)
+  - Attaquer avec Colporteur de pétales → Bibliothécaire royal 4/4
+  - Attaquer avec Colporteur de pétales → Murmie 1/1
+  - Finir le tour
+
+
+Conseil donné en partie par HS Copilot :
+  action : Activer Profondeurs Sanguines → Colporteur de pétales (allié) 1/4
+  résumé : Active Profondeurs Sanguines sur le Colporteur de pétales avant son attaque, puis développe Glissedrake visionnaire.
+  raison : Renforce le Colporteur silencé et prépare une pression solide tout en éliminant Murmie.
+  suite prévue : ['Jouer Glissedrake visionnaire pour 4 cristaux.', 'Attaquer Murmie avec Forgeron dimensionnel pour éliminer le petit serviteur.', 'Attaquer Dame Liadrin avec Colporteur de pétales pour 3 dégâts.']
+  plan : Maintenir la pression avec Glissedrake et envisager Forgeron dimensionnel avant Luisaile pour renforcer la main.

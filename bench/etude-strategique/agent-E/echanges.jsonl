@@ -1,0 +1,830 @@
+{"caseId":"sessions/20261025_192643_hdt.log#1@871","turn":1,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Voyante distordue par le temps"}
+{"caseId":"sessions/20261025_192643_hdt.log#1@1789","turn":2,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":3,"taunts":0,"played":"Attaquer avec Voyante distordue par le temps → Émissaire des Très anciens"}
+{"caseId":"sessions/20261025_192643_hdt.log#1@1963","turn":2,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":4,"taunts":0,"played":"Jouer Suffusion d’ombreflamme → Illidan, ravageur de fiel"}
+{"caseId":"sessions/20261025_192643_hdt.log#1@3118","turn":3,"decisionInTurn":1,"level":"aucun","needed":25,"maxFace":2,"taunts":0,"played":"Jouer Avant-garde du portail"}
+{"caseId":"sessions/20261025_192643_hdt.log#1@4680","turn":4,"decisionInTurn":1,"level":"aucun","needed":26,"maxFace":2,"taunts":1,"played":"Jouer Glissedrake visionnaire","nodes":3}
+{"caseId":"sessions/20261025_192643_hdt.log#1@6922","turn":5,"decisionInTurn":1,"level":"aucun","needed":24,"maxFace":2,"taunts":0,"played":"Jouer Avant-garde du portail"}
+{"caseId":"sessions/20261025_192643_hdt.log#1@7298","turn":5,"decisionInTurn":2,"level":"aucun","needed":24,"maxFace":2,"taunts":0,"played":"Jouer Colporteur de pétales"}
+{"caseId":"sessions/20261025_192643_hdt.log#1@8408","turn":6,"decisionInTurn":1,"level":"aucun","needed":24,"maxFace":2,"taunts":1,"played":"Jouer Suffusion d’ombreflamme → Brute écaille-du-Vide","nodes":8}
+{"caseId":"sessions/20261025_192643_hdt.log#1@9165","turn":6,"decisionInTurn":2,"level":"aucun","needed":24,"maxFace":5,"taunts":0,"played":"Jouer Calamar pas cuit → Artificier mo’arg"}
+{"caseId":"sessions/20261025_192643_hdt.log#1@9331","turn":6,"decisionInTurn":3,"level":"aucun","needed":24,"maxFace":3,"taunts":0,"played":"Attaquer avec Colporteur de pétales → Illidan, ravageur de fiel"}
+{"caseId":"sessions/20261025_192643_hdt.log#1@10726","turn":7,"decisionInTurn":1,"level":"aucun","needed":18,"maxFace":8,"taunts":0,"played":"Jouer Cogneur d’œufs → Colporteur de pétales (allié)"}
+{"caseId":"sessions/20261025_192643_hdt.log#1@10980","turn":7,"decisionInTurn":2,"level":"aucun","needed":18,"maxFace":12,"taunts":0,"played":"Jouer Gardien des couvées"}
+{"caseId":"sessions/20261025_192643_hdt.log#1@11278","turn":7,"decisionInTurn":3,"level":"aucun","needed":18,"maxFace":12,"taunts":0,"played":"Attaquer avec Garrosh Hurlenfer → Satyre illidari"}
+{"caseId":"sessions/20261025_193512_hdt.log#1@1206","turn":1,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Sombre chevaucheur"}
+{"caseId":"sessions/20261025_193512_hdt.log#1@1788","turn":1,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261025_193512_hdt.log#1@2560","turn":2,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":1,"taunts":0,"played":"Jouer La pièce"}
+{"caseId":"sessions/20261025_193512_hdt.log#1@2640","turn":2,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":1,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261025_193512_hdt.log#1@2836","turn":2,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":1,"taunts":0,"played":"Attaquer avec Sombre chevaucheur → Thrall"}
+{"caseId":"sessions/20261025_193512_hdt.log#1@4343","turn":3,"decisionInTurn":1,"level":"aucun","needed":29,"maxFace":2,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261025_193512_hdt.log#1@5506","turn":4,"decisionInTurn":1,"level":"aucun","needed":29,"maxFace":6,"taunts":0,"played":"Jouer Glissedrake visionnaire"}
+{"caseId":"sessions/20261025_193512_hdt.log#1@5610","turn":4,"decisionInTurn":2,"level":"aucun","needed":29,"maxFace":4,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Soldat d’Al’Akir"}
+{"caseId":"sessions/20261025_193512_hdt.log#1@7532","turn":5,"decisionInTurn":1,"level":"aucun","needed":29,"maxFace":11,"taunts":0,"played":"Attaquer avec Glissedrake visionnaire → Prédateur en chasse"}
+{"caseId":"sessions/20261025_193512_hdt.log#1@7702","turn":5,"decisionInTurn":2,"level":"aucun","needed":29,"maxFace":2,"taunts":0,"played":"Jouer Guerrière du Vol infini"}
+{"caseId":"sessions/20261025_193512_hdt.log#1@7964","turn":5,"decisionInTurn":3,"level":"aucun","needed":29,"maxFace":0,"taunts":0,"played":"Attaquer avec Guerrière du Vol infini → Élémentaire radieux"}
+{"caseId":"sessions/20261025_193512_hdt.log#1@9507","turn":6,"decisionInTurn":1,"level":"aucun","needed":29,"maxFace":2,"taunts":0,"played":"Jouer Glissedrake visionnaire"}
+{"caseId":"sessions/20261025_193512_hdt.log#1@9606","turn":6,"decisionInTurn":2,"level":"aucun","needed":29,"maxFace":2,"taunts":0,"played":"Jouer Luisaile"}
+{"caseId":"sessions/20261025_193512_hdt.log#1@11142","turn":7,"decisionInTurn":1,"level":"aucun","needed":29,"maxFace":5,"taunts":0,"played":"Jouer Wyrm du pic venteux → Élémentaire d’or en fusion"}
+{"caseId":"sessions/20261025_193512_hdt.log#1@12898","turn":8,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":8,"taunts":0,"played":"Jouer Avant-garde du portail"}
+{"caseId":"sessions/20261025_193512_hdt.log#1@13299","turn":8,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":8,"taunts":0,"played":"Jouer Gardien des couvées"}
+{"caseId":"sessions/20261025_193512_hdt.log#1@13426","turn":8,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":8,"taunts":0,"played":"Attaquer avec Wyrm du pic venteux → Élémentaire furie-des-tempêtes"}
+{"caseId":"sessions/20261025_193512_hdt.log#1@14856","turn":9,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":4,"taunts":0,"played":"Attaquer avec Garrosh Hurlenfer → Thrall"}
+{"caseId":"sessions/20261025_193512_hdt.log#1@15202","turn":9,"decisionInTurn":2,"level":"aucun","needed":28,"maxFace":2,"taunts":0,"played":"Jouer Colporteur de pétales"}
+{"caseId":"sessions/20261025_193512_hdt.log#1@15287","turn":9,"decisionInTurn":3,"level":"aucun","needed":28,"maxFace":2,"taunts":0,"played":"Jouer Dragonnet du Vol infini"}
+{"caseId":"sessions/20261025_193512_hdt.log#1@16683","turn":10,"decisionInTurn":1,"level":"aucun","needed":26,"maxFace":11,"taunts":0,"played":null}
+{"caseId":"sessions/20261025_194727_hdt.log#1@1547","turn":1,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Sombre chevaucheur"}
+{"caseId":"sessions/20261025_194727_hdt.log#1@2005","turn":1,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261025_194727_hdt.log#1@2668","turn":2,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":4,"taunts":0,"played":"Jouer La pièce"}
+{"caseId":"sessions/20261025_194727_hdt.log#1@2784","turn":2,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":4,"taunts":0,"played":"Jouer Gorgonzormu"}
+{"caseId":"sessions/20261025_194727_hdt.log#1@3005","turn":2,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":1,"taunts":0,"played":"Attaquer avec Sombre chevaucheur → Chasse-marée murloc"}
+{"caseId":"sessions/20261025_194727_hdt.log#1@4618","turn":3,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":3,"taunts":1,"played":"Jouer Forgeron dimensionnel","nodes":4}
+{"caseId":"sessions/20261025_194727_hdt.log#1@4787","turn":3,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":0,"taunts":1,"played":"Attaquer avec Gorgonzormu → Totem de griffes de pierre","nodes":2}
+{"caseId":"sessions/20261025_194727_hdt.log#1@6420","turn":4,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":10,"taunts":0,"played":"Jouer Suffusion d’ombreflamme → Fouisseur merrant"}
+{"caseId":"sessions/20261025_194727_hdt.log#1@7026","turn":4,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":8,"taunts":0,"played":"Attaquer avec Gorgonzormu → Oracle sinistrécaille"}
+{"caseId":"sessions/20261025_194727_hdt.log#1@7249","turn":4,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":5,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Éclaireur de l’oasis"}
+{"caseId":"sessions/20261025_194727_hdt.log#1@8736","turn":5,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":5,"taunts":0,"played":"Jouer Berserker hacheuse"}
+{"caseId":"sessions/20261025_194727_hdt.log#1@8850","turn":5,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":5,"taunts":0,"played":"Attaquer avec Berserker hacheuse → Amalgame des profondeurs"}
+{"caseId":"sessions/20261025_194727_hdt.log#1@9024","turn":5,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":5,"taunts":0,"played":"Attaquer avec Berserker hacheuse → Éclaireur de l’oasis"}
+{"caseId":"sessions/20261025_194727_hdt.log#1@10877","turn":6,"decisionInTurn":1,"level":"aucun","needed":27,"maxFace":5,"taunts":0,"played":"Jouer Fromage savoureux"}
+{"caseId":"sessions/20261025_194727_hdt.log#1@11145","turn":6,"decisionInTurn":2,"level":"aucun","needed":27,"maxFace":5,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Chef de la côte sud"}
+{"caseId":"sessions/20261025_194727_hdt.log#1@11322","turn":6,"decisionInTurn":3,"level":"aucun","needed":27,"maxFace":3,"taunts":0,"played":"Jouer Luisaile"}
+{"caseId":"sessions/20261025_194727_hdt.log#1@12804","turn":7,"decisionInTurn":1,"level":"conditionnel","needed":24,"maxFace":23,"taunts":0,"played":"Jouer Animatrice de stade"}
+{"caseId":"sessions/20261025_210804_hdt.log#1@1638","turn":1,"decisionInTurn":1,"level":"aucun","needed":40,"maxFace":0,"taunts":0,"played":"Jouer Voyante distordue par le temps"}
+{"caseId":"sessions/20261025_210804_hdt.log#1@1843","turn":1,"decisionInTurn":2,"level":"aucun","needed":40,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261025_210804_hdt.log#1@2434","turn":2,"decisionInTurn":1,"level":"aucun","needed":40,"maxFace":4,"taunts":0,"played":"Jouer Luisaile"}
+{"caseId":"sessions/20261025_210804_hdt.log#1@2719","turn":2,"decisionInTurn":2,"level":"aucun","needed":40,"maxFace":1,"taunts":0,"played":"Attaquer avec Voyante distordue par le temps → Recrue de la Main d’argent"}
+{"caseId":"sessions/20261025_210804_hdt.log#1@2980","turn":2,"decisionInTurn":3,"level":"aucun","needed":40,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261025_210804_hdt.log#1@3784","turn":3,"decisionInTurn":1,"level":"aucun","needed":40,"maxFace":11,"taunts":0,"played":"Jouer Avant-garde du portail"}
+{"caseId":"sessions/20261025_210804_hdt.log#1@4228","turn":3,"decisionInTurn":2,"level":"aucun","needed":40,"maxFace":4,"taunts":0,"played":"Attaquer avec Voyante distordue par le temps → Recrue de la Main d’argent"}
+{"caseId":"sessions/20261025_210804_hdt.log#1@4428","turn":3,"decisionInTurn":3,"level":"aucun","needed":40,"maxFace":3,"taunts":0,"played":"Attaquer avec Luisaile → Dame Liadrin"}
+{"caseId":"sessions/20261025_210804_hdt.log#1@5439","turn":4,"decisionInTurn":1,"level":"aucun","needed":37,"maxFace":3,"taunts":0,"played":"Jouer Glissedrake visionnaire"}
+{"caseId":"sessions/20261025_210804_hdt.log#1@5729","turn":4,"decisionInTurn":2,"level":"aucun","needed":37,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261025_210804_hdt.log#1@6498","turn":5,"decisionInTurn":1,"level":"aucun","needed":37,"maxFace":14,"taunts":0,"played":"Jouer Avant-garde du portail"}
+{"caseId":"sessions/20261025_210804_hdt.log#1@8916","turn":5,"decisionInTurn":2,"level":"aucun","needed":37,"maxFace":14,"taunts":0,"played":null}
+{"caseId":"sessions/20261025_210804_hdt.log#1@9067","turn":5,"decisionInTurn":3,"level":"aucun","needed":37,"maxFace":10,"taunts":0,"played":"Jouer Profondeurs Sanguines"}
+{"caseId":"sessions/20261025_210804_hdt.log#1@10639","turn":6,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":12,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261025_210804_hdt.log#1@10985","turn":6,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":9,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261025_210804_hdt.log#1@11327","turn":6,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":7,"taunts":0,"played":"Attaquer avec Glissedrake visionnaire → Dame Liadrin"}
+{"caseId":"sessions/20261025_210804_hdt.log#1@12518","turn":7,"decisionInTurn":1,"level":"aucun","needed":23,"maxFace":5,"taunts":3,"played":"Activer Profondeurs Sanguines → Glissedrake visionnaire (allié)","nodes":289}
+{"caseId":"sessions/20261025_210804_hdt.log#1@12705","turn":7,"decisionInTurn":2,"level":"aucun","needed":23,"maxFace":5,"taunts":3,"played":"Jouer Wyrm du pic venteux → Dame Liadrin","nodes":285}
+{"caseId":"sessions/20261025_210804_hdt.log#1@12892","turn":7,"decisionInTurn":3,"level":"aucun","needed":18,"maxFace":0,"taunts":3,"played":"Attaquer avec Glissedrake visionnaire → Statue immaculée","nodes":43}
+{"caseId":"sessions/20261025_210804_hdt.log#1@14291","turn":8,"decisionInTurn":1,"level":"plausible","needed":18,"maxFace":7,"taunts":1,"played":"Jouer Suffusion d’ombreflamme → Tirion Fordring","nodes":110,"tradeLethal":"à risque","tradeSteps":["Wyrm du pic venteux (5) → Tirion Fordring","Glissedrake visionnaire attaque Tirion Fordring 8/8"],"afterLevel":"certain","afterSequence":"Jouer Suffusion d’ombreflamme → héros adverse (2), puis Attaquer avec Wyrm du pic venteux → héros adverse (10), puis Attaquer avec Forgeron dimensionnel → héros adverse (4), puis Attaquer avec Forgeron dimensionnel → héros adverse (4)","afterDamage":20,"afterConditions":""}
+{"caseId":"sessions/20261025_210804_hdt.log#1@14855","turn":8,"decisionInTurn":2,"level":"plausible","needed":18,"maxFace":5,"taunts":1,"played":"Attaquer avec Glissedrake visionnaire → Tirion Fordring","nodes":15,"tradeLethal":"à risque","tradeSteps":["Glissedrake visionnaire attaque Tirion Fordring 8/8"],"afterLevel":"certain","afterSequence":"Jouer Wyrm du pic venteux → héros adverse (5), puis Attaquer avec Wyrm du pic venteux → héros adverse (10), puis Attaquer avec Forgeron dimensionnel → héros adverse (4), puis Attaquer avec Forgeron dimensionnel → héros adverse (4)","afterDamage":23,"afterConditions":""}
+{"caseId":"sessions/20261025_210804_hdt.log#1@15134","turn":8,"decisionInTurn":3,"level":"certain","needed":18,"maxFace":23,"taunts":0,"played":"Jouer Wyrm du pic venteux → Dame Liadrin"}
+{"caseId":"sessions/20261025_211732_hdt.log#1@1591","turn":2,"decisionInTurn":1,"level":"aucun","needed":40,"maxFace":0,"taunts":0,"played":"Jouer Colporteur de pétales"}
+{"caseId":"sessions/20261025_211732_hdt.log#1@2257","turn":3,"decisionInTurn":1,"level":"aucun","needed":40,"maxFace":1,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261025_211732_hdt.log#1@2642","turn":3,"decisionInTurn":2,"level":"aucun","needed":40,"maxFace":1,"taunts":0,"played":"Attaquer avec Colporteur de pétales → Brann Barbe-de-Bronze"}
+{"caseId":"sessions/20261025_211732_hdt.log#1@3878","turn":4,"decisionInTurn":1,"level":"aucun","needed":40,"maxFace":3,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Brann Barbe-de-Bronze"}
+{"caseId":"sessions/20261025_211732_hdt.log#1@4027","turn":4,"decisionInTurn":2,"level":"aucun","needed":40,"maxFace":0,"taunts":0,"played":"Jouer Avant-garde du portail"}
+{"caseId":"sessions/20261025_211732_hdt.log#1@5234","turn":5,"decisionInTurn":1,"level":"aucun","needed":40,"maxFace":3,"taunts":0,"played":"Jouer Glissedrake visionnaire"}
+{"caseId":"sessions/20261025_211732_hdt.log#1@5479","turn":5,"decisionInTurn":2,"level":"aucun","needed":40,"maxFace":3,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Kazakus"}
+{"caseId":"sessions/20261025_211732_hdt.log#1@6830","turn":6,"decisionInTurn":1,"level":"aucun","needed":40,"maxFace":10,"taunts":0,"played":"Jouer Sombre chevaucheur"}
+{"caseId":"sessions/20261025_211732_hdt.log#1@7307","turn":6,"decisionInTurn":2,"level":"aucun","needed":40,"maxFace":10,"taunts":0,"played":"Jouer Serpent-nuage"}
+{"caseId":"sessions/20261025_211732_hdt.log#1@7498","turn":6,"decisionInTurn":3,"level":"aucun","needed":40,"maxFace":10,"taunts":0,"played":"Attaquer avec Glissedrake visionnaire → Luisaile"}
+{"caseId":"sessions/20261025_211732_hdt.log#1@9076","turn":7,"decisionInTurn":1,"level":"aucun","needed":44,"maxFace":10,"taunts":0,"played":"Jouer Wyrm du pic venteux → Roi Anduin"}
+{"caseId":"sessions/20261025_211732_hdt.log#1@9210","turn":7,"decisionInTurn":2,"level":"aucun","needed":39,"maxFace":5,"taunts":0,"played":"Attaquer avec Serpent-nuage → Roi Anduin"}
+{"caseId":"sessions/20261025_211732_hdt.log#1@10215","turn":8,"decisionInTurn":1,"level":"aucun","needed":39,"maxFace":14,"taunts":0,"played":"Jouer Le Grand Dracorex"}
+{"caseId":"sessions/20261025_211732_hdt.log#1@10492","turn":8,"decisionInTurn":2,"level":"aucun","needed":39,"maxFace":11,"taunts":0,"played":"Attaquer avec Le Grand Dracorex → Écorcheur d’esprit Kaahrj"}
+{"caseId":"sessions/20261025_211732_hdt.log#1@10760","turn":8,"decisionInTurn":3,"level":"aucun","needed":39,"maxFace":11,"taunts":0,"played":"Attaquer avec Serpent-nuage → Roi Anduin"}
+{"caseId":"sessions/20261025_211732_hdt.log#1@12696","turn":9,"decisionInTurn":1,"level":"aucun","needed":28,"maxFace":3,"taunts":0,"played":"Jouer Avant-garde du portail"}
+{"caseId":"sessions/20261025_211732_hdt.log#1@13149","turn":9,"decisionInTurn":2,"level":"aucun","needed":28,"maxFace":3,"taunts":0,"played":"Jouer Frappe anticipée → Zéphrys le Grand"}
+{"caseId":"sessions/20261025_211732_hdt.log#1@13364","turn":9,"decisionInTurn":3,"level":"aucun","needed":28,"maxFace":0,"taunts":0,"played":"Jouer Glissedrake visionnaire"}
+{"caseId":"sessions/20261025_211732_hdt.log#1@15074","turn":10,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":9,"taunts":0,"played":"Jouer Suffusion d’ombreflamme → Disciple de Galakrond"}
+{"caseId":"sessions/20261025_211732_hdt.log#1@15626","turn":10,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":7,"taunts":0,"played":"Jouer Huissier antrelige"}
+{"caseId":"sessions/20261025_211732_hdt.log#1@15944","turn":10,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":7,"taunts":0,"played":"Jouer Dragonnet du Vol infini"}
+{"caseId":"sessions/20261025_211732_hdt.log#1@17628","turn":11,"decisionInTurn":1,"level":"aucun","needed":23,"maxFace":0,"taunts":0,"played":"Jouer Sombre chevaucheur"}
+{"caseId":"sessions/20261025_211732_hdt.log#1@18086","turn":11,"decisionInTurn":2,"level":"aucun","needed":23,"maxFace":5,"taunts":0,"played":"Jouer Luisaile"}
+{"caseId":"sessions/20261025_211732_hdt.log#1@18233","turn":11,"decisionInTurn":3,"level":"aucun","needed":23,"maxFace":5,"taunts":0,"played":"Jouer Aile de l’effroi tourmentée"}
+{"caseId":"sessions/20261025_211732_hdt.log#1@20262","turn":12,"decisionInTurn":1,"level":"aucun","needed":18,"maxFace":0,"taunts":0,"played":"Jouer Chronoseigneur Époque"}
+{"caseId":"sessions/20261025_211732_hdt.log#1@20382","turn":12,"decisionInTurn":2,"level":"aucun","needed":18,"maxFace":0,"taunts":0,"played":"Jouer Avant-garde du portail"}
+{"caseId":"sessions/20261025_211732_hdt.log#1@25762","turn":12,"decisionInTurn":3,"level":"aucun","needed":18,"maxFace":0,"taunts":0,"played":null}
+{"caseId":"sessions/20261025_211732_hdt.log#1@27241","turn":13,"decisionInTurn":1,"level":"aucun","needed":18,"maxFace":3,"taunts":1,"played":"Jouer Frappe anticipée → Roi Anduin","nodes":8}
+{"caseId":"sessions/20261025_211732_hdt.log#1@27476","turn":13,"decisionInTurn":2,"level":"aucun","needed":15,"maxFace":0,"taunts":1,"played":"Jouer Forgeron dimensionnel","nodes":4}
+{"caseId":"sessions/20261025_211732_hdt.log#1@27789","turn":13,"decisionInTurn":3,"level":"aucun","needed":15,"maxFace":0,"taunts":1,"played":"Attaquer avec Dragonnet du Vol infini → Xyrella, la sanctifiée","nodes":4}
+{"caseId":"sessions/20261025_211732_hdt.log#1@30297","turn":14,"decisionInTurn":1,"level":"certain","needed":3,"maxFace":12,"taunts":0,"played":"Jouer Profondeurs Sanguines"}
+{"caseId":"sessions/20261025_211732_hdt.log#1@30526","turn":14,"decisionInTurn":2,"level":"certain","needed":3,"maxFace":12,"taunts":0,"played":"Activer Profondeurs Sanguines → Forgeron dimensionnel (allié)"}
+{"caseId":"sessions/20261025_211732_hdt.log#1@30683","turn":14,"decisionInTurn":3,"level":"certain","needed":3,"maxFace":12,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Roi Anduin"}
+{"caseId":"sessions/20261025_213529_hdt.log#1@1538","turn":2,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":2,"taunts":0,"played":"Jouer Suffusion d’ombreflamme → Gagnante mystère"}
+{"caseId":"sessions/20261025_213529_hdt.log#1@2493","turn":3,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261025_213529_hdt.log#1@3548","turn":4,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":4,"taunts":0,"played":"Jouer Gardien des couvées"}
+{"caseId":"sessions/20261025_213529_hdt.log#1@3768","turn":4,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":4,"taunts":0,"played":"Attaquer avec Garrosh Hurlenfer → Traqueur phasique"}
+{"caseId":"sessions/20261025_213529_hdt.log#1@4062","turn":4,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":2,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Traqueur phasique"}
+{"caseId":"sessions/20261025_213529_hdt.log#1@5768","turn":5,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":9,"taunts":0,"played":"Jouer Frappe anticipée → Traqueur phasique"}
+{"caseId":"sessions/20261025_213529_hdt.log#1@5969","turn":5,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":6,"taunts":0,"played":"Attaquer avec Garrosh Hurlenfer → Traqueur phasique"}
+{"caseId":"sessions/20261025_213529_hdt.log#1@6223","turn":5,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":4,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Traqueur phasique"}
+{"caseId":"sessions/20261025_213529_hdt.log#1@10597","turn":6,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":11,"taunts":0,"played":"Jouer Wyrm du pic venteux → Traqueur phasique"}
+{"caseId":"sessions/20261025_213529_hdt.log#1@10755","turn":6,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":6,"taunts":0,"played":"Attaquer avec Avant-garde du portail → Guide"}
+{"caseId":"sessions/20261025_213529_hdt.log#1@10981","turn":6,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":2,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261025_213529_hdt.log#1@11472","turn":7,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":21,"taunts":0,"played":"Jouer Wyrm du pic venteux → Rexxar"}
+{"caseId":"sessions/20261025_213529_hdt.log#1@11638","turn":7,"decisionInTurn":2,"level":"aucun","needed":25,"maxFace":16,"taunts":0,"played":"Jouer Profondeurs Sanguines"}
+{"caseId":"sessions/20261025_213529_hdt.log#1@11775","turn":7,"decisionInTurn":3,"level":"aucun","needed":25,"maxFace":16,"taunts":0,"played":"Attaquer avec Avant-garde du portail → Rexxar"}
+{"caseId":"sessions/20261025_213529_hdt.log#1@13278","turn":8,"decisionInTurn":1,"level":"conditionnel","needed":17,"maxFace":18,"taunts":1,"played":"Jouer Grommash Hurlenfer","nodes":3,"tradeLethal":"à risque","tradeSteps":["Wyrm du pic venteux attaque Fichu élémentaire 3/3"],"afterLevel":"certain","afterSequence":"Jouer Grommash Hurlenfer (Charge), puis Activer Profondeurs Sanguines → Grommash Hurlenfer (+2 ATQ), puis Attaquer avec Wyrm du pic venteux → héros adverse (8), puis Attaquer avec Grommash Hurlenfer → héros adverse (14)","afterDamage":22,"afterConditions":""}
+{"caseId":"sessions/20261025_213529_hdt.log#1@13549","turn":8,"decisionInTurn":2,"level":"plausible","needed":17,"maxFace":0,"taunts":1,"played":"Attaquer avec Wyrm du pic venteux → Fichu élémentaire","nodes":4,"tradeLethal":"à risque","tradeSteps":["Wyrm du pic venteux attaque Fichu élémentaire 3/3"],"afterLevel":"certain","afterSequence":"Activer Profondeurs Sanguines → Grommash Hurlenfer (+2 ATQ), puis Attaquer avec Grommash Hurlenfer → héros adverse (14), puis Attaquer avec Wyrm du pic venteux → héros adverse (8)","afterDamage":22,"afterConditions":""}
+{"caseId":"sessions/20261025_213529_hdt.log#1@13819","turn":8,"decisionInTurn":3,"level":"certain","needed":17,"maxFace":22,"taunts":0,"played":null}
+{"caseId":"sessions/20261025_214524_hdt.log#1@1473","turn":1,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer La pièce"}
+{"caseId":"sessions/20261025_214524_hdt.log#1@1682","turn":1,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Colporteur de pétales"}
+{"caseId":"sessions/20261025_214524_hdt.log#1@2439","turn":2,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":3,"taunts":0,"played":"Jouer Colporteur de pétales"}
+{"caseId":"sessions/20261025_214524_hdt.log#1@2694","turn":2,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":1,"taunts":0,"played":"Attaquer avec Colporteur de pétales → Neunœil le pirate"}
+{"caseId":"sessions/20261025_214524_hdt.log#1@4350","turn":3,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":4,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261025_214524_hdt.log#1@4635","turn":3,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":2,"taunts":0,"played":"Attaquer avec Colporteur de pétales → Brigande parachutiste"}
+{"caseId":"sessions/20261025_214524_hdt.log#1@5760","turn":4,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":7,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261025_214524_hdt.log#1@6154","turn":4,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":7,"taunts":0,"played":"Jouer Profondeurs Sanguines"}
+{"caseId":"sessions/20261025_214524_hdt.log#1@6369","turn":4,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":7,"taunts":0,"played":"Activer Profondeurs Sanguines → Bredouilleur"}
+{"caseId":"sessions/20261025_214524_hdt.log#1@7971","turn":5,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":7,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Seigneur de la toile nérub’ar"}
+{"caseId":"sessions/20261025_214524_hdt.log#1@8421","turn":5,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":3,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Bébé marsuul"}
+{"caseId":"sessions/20261025_214524_hdt.log#1@8644","turn":5,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Glissedrake visionnaire"}
+{"caseId":"sessions/20261025_214524_hdt.log#1@9722","turn":6,"decisionInTurn":1,"level":"aucun","needed":31,"maxFace":21,"taunts":0,"played":"Jouer Wyrm du pic venteux → Orweyna"}
+{"caseId":"sessions/20261025_214524_hdt.log#1@10195","turn":6,"decisionInTurn":2,"level":"aucun","needed":26,"maxFace":16,"taunts":0,"played":"Activer Profondeurs Sanguines → Matelot des mers du Sud"}
+{"caseId":"sessions/20261025_214524_hdt.log#1@10423","turn":6,"decisionInTurn":3,"level":"aucun","needed":26,"maxFace":14,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Bébé marsuul"}
+{"caseId":"sessions/20261025_214524_hdt.log#1@11491","turn":7,"decisionInTurn":1,"level":"certain","needed":16,"maxFace":24,"taunts":0,"played":null}
+{"caseId":"sessions/20261025_215103_hdt.log#1@1527","turn":1,"decisionInTurn":1,"level":"aucun","needed":40,"maxFace":0,"taunts":0,"played":"Jouer Voyante distordue par le temps"}
+{"caseId":"sessions/20261025_215103_hdt.log#1@1704","turn":1,"decisionInTurn":2,"level":"aucun","needed":40,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261025_215103_hdt.log#1@2366","turn":2,"decisionInTurn":1,"level":"aucun","needed":40,"maxFace":0,"taunts":0,"played":"Jouer La pièce"}
+{"caseId":"sessions/20261025_215103_hdt.log#1@2576","turn":2,"decisionInTurn":2,"level":"aucun","needed":40,"maxFace":0,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261025_215103_hdt.log#1@3439","turn":3,"decisionInTurn":1,"level":"aucun","needed":40,"maxFace":4,"taunts":0,"played":"Jouer Profondeurs Sanguines"}
+{"caseId":"sessions/20261025_215103_hdt.log#1@3501","turn":3,"decisionInTurn":2,"level":"aucun","needed":40,"maxFace":4,"taunts":0,"played":"Activer Profondeurs Sanguines → Forgeron dimensionnel (allié)"}
+{"caseId":"sessions/20261025_215103_hdt.log#1@3655","turn":3,"decisionInTurn":3,"level":"aucun","needed":40,"maxFace":4,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Artiste aquarelliste"}
+{"caseId":"sessions/20261025_215103_hdt.log#1@4763","turn":4,"decisionInTurn":1,"level":"aucun","needed":40,"maxFace":2,"taunts":0,"played":"Jouer Avant-garde du portail"}
+{"caseId":"sessions/20261025_215103_hdt.log#1@6019","turn":5,"decisionInTurn":1,"level":"aucun","needed":40,"maxFace":8,"taunts":0,"played":"Jouer Glissedrake visionnaire"}
+{"caseId":"sessions/20261025_215103_hdt.log#1@6261","turn":5,"decisionInTurn":2,"level":"aucun","needed":40,"maxFace":6,"taunts":0,"played":"Activer Profondeurs Sanguines → Collecteur d’esprits"}
+{"caseId":"sessions/20261025_215103_hdt.log#1@6416","turn":5,"decisionInTurn":3,"level":"aucun","needed":40,"maxFace":4,"taunts":0,"played":"Attaquer avec Avant-garde du portail → Artiste aquarelliste"}
+{"caseId":"sessions/20261025_215103_hdt.log#1@8071","turn":6,"decisionInTurn":1,"level":"aucun","needed":40,"maxFace":5,"taunts":0,"played":"Jouer Wyrm du pic venteux → Élémentaire d’eau"}
+{"caseId":"sessions/20261025_215103_hdt.log#1@9876","turn":7,"decisionInTurn":1,"level":"aucun","needed":40,"maxFace":2,"taunts":0,"played":"Jouer Suffusion d’ombreflamme → Élémentaire d’eau"}
+{"caseId":"sessions/20261025_215103_hdt.log#1@10426","turn":7,"decisionInTurn":2,"level":"aucun","needed":40,"maxFace":0,"taunts":0,"played":"Jouer Totem de Rochepointe"}
+{"caseId":"sessions/20261025_215103_hdt.log#1@10552","turn":7,"decisionInTurn":3,"level":"aucun","needed":40,"maxFace":0,"taunts":0,"played":"Jouer Luisaile"}
+{"caseId":"sessions/20261025_215103_hdt.log#1@12660","turn":8,"decisionInTurn":1,"level":"aucun","needed":38,"maxFace":15,"taunts":0,"played":"Jouer Le Grand Dracorex"}
+{"caseId":"sessions/20261025_215103_hdt.log#1@12796","turn":8,"decisionInTurn":2,"level":"aucun","needed":38,"maxFace":5,"taunts":0,"played":"Attaquer avec Le Grand Dracorex → Choriste de karaoké"}
+{"caseId":"sessions/20261025_215103_hdt.log#1@13014","turn":8,"decisionInTurn":3,"level":"aucun","needed":38,"maxFace":5,"taunts":0,"played":"Attaquer avec Luisaile → Kel’Thuzad"}
+{"caseId":"sessions/20261025_215103_hdt.log#1@15029","turn":9,"decisionInTurn":1,"level":"aucun","needed":28,"maxFace":22,"taunts":0,"played":"Jouer Wyrm du pic venteux → Kel’Thuzad"}
+{"caseId":"sessions/20261025_215103_hdt.log#1@15183","turn":9,"decisionInTurn":2,"level":"aucun","needed":23,"maxFace":12,"taunts":0,"played":"Attaquer avec Le Grand Dracorex → Fermier de Comté-du-Nord"}
+{"caseId":"sessions/20261025_215103_hdt.log#1@15431","turn":9,"decisionInTurn":3,"level":"aucun","needed":23,"maxFace":5,"taunts":0,"played":"Attaquer avec Luisaile → Kel’Thuzad"}
+{"caseId":"sessions/20261025_215103_hdt.log#1@17262","turn":10,"decisionInTurn":1,"level":"certain","needed":19,"maxFace":31,"taunts":0,"played":"Jouer Grommash Hurlenfer"}
+{"caseId":"sessions/20261025_215103_hdt.log#1@17430","turn":10,"decisionInTurn":2,"level":"certain","needed":19,"maxFace":31,"taunts":0,"played":null}
+{"caseId":"sessions/20261025_222102_hdt.log#1@1390","turn":1,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Sombre chevaucheur"}
+{"caseId":"sessions/20261025_222102_hdt.log#1@2013","turn":1,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261025_222102_hdt.log#1@2454","turn":2,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":3,"taunts":0,"played":"Jouer Luisaile"}
+{"caseId":"sessions/20261025_222102_hdt.log#1@2655","turn":2,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":1,"taunts":0,"played":"Attaquer avec Sombre chevaucheur → Recrue de la Main d’argent"}
+{"caseId":"sessions/20261025_222102_hdt.log#1@2869","turn":2,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261025_222102_hdt.log#1@3586","turn":3,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":9,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261025_222102_hdt.log#1@3902","turn":3,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":7,"taunts":0,"played":"Attaquer avec Luisaile → Uther le Porteur de Lumière"}
+{"caseId":"sessions/20261025_222102_hdt.log#1@4184","turn":3,"decisionInTurn":3,"level":"aucun","needed":23,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261025_222102_hdt.log#1@5006","turn":4,"decisionInTurn":1,"level":"aucun","needed":23,"maxFace":2,"taunts":1,"played":"Jouer Suffusion d’ombreflamme → Garde-Rêve","nodes":8}
+{"caseId":"sessions/20261025_222102_hdt.log#1@5667","turn":4,"decisionInTurn":2,"level":"aucun","needed":23,"maxFace":0,"taunts":1,"played":"Jouer La pièce","nodes":4}
+{"caseId":"sessions/20261025_222102_hdt.log#1@5811","turn":4,"decisionInTurn":3,"level":"aucun","needed":23,"maxFace":0,"taunts":1,"played":"Jouer Chasseur de gloire","nodes":4}
+{"caseId":"sessions/20261025_222102_hdt.log#1@7127","turn":5,"decisionInTurn":1,"level":"aucun","needed":21,"maxFace":0,"taunts":1,"played":"Jouer Profondeurs Sanguines","nodes":4}
+{"caseId":"sessions/20261025_222102_hdt.log#1@7442","turn":5,"decisionInTurn":2,"level":"aucun","needed":21,"maxFace":0,"taunts":1,"played":"Activer Profondeurs Sanguines → Tank zombie titubant","nodes":4}
+{"caseId":"sessions/20261025_222102_hdt.log#1@7608","turn":5,"decisionInTurn":3,"level":"aucun","needed":21,"maxFace":0,"taunts":1,"played":"Jouer Gardien des couvées","nodes":3}
+{"caseId":"sessions/20261025_222102_hdt.log#1@9078","turn":6,"decisionInTurn":1,"level":"plausible","needed":14,"maxFace":0,"taunts":1,"played":"Attaquer avec Garrosh Hurlenfer → Gardienne bruissaile","nodes":34}
+{"caseId":"sessions/20261025_222102_hdt.log#1@9501","turn":6,"decisionInTurn":2,"level":"plausible","needed":14,"maxFace":0,"taunts":1,"played":"Attaquer avec Gardien des couvées → Gardienne bruissaile","nodes":10}
+{"caseId":"sessions/20261025_222102_hdt.log#1@9716","turn":6,"decisionInTurn":3,"level":"aucun","needed":14,"maxFace":13,"taunts":0,"played":"Attaquer avec Luisaile → Uther le Porteur de Lumière"}
+{"caseId":"sessions/20261025_222102_hdt.log#1@11403","turn":7,"decisionInTurn":1,"level":"plausible","needed":11,"maxFace":0,"taunts":1,"played":null,"nodes":3}
+{"caseId":"sessions/20261025_222823_hdt.log#1@909","turn":1,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Profondeurs Sanguines"}
+{"caseId":"sessions/20261025_222823_hdt.log#1@1561","turn":2,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":1,"played":"Jouer Colporteur de pétales","nodes":1}
+{"caseId":"sessions/20261025_222823_hdt.log#1@1897","turn":2,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":0,"taunts":1,"played":"Activer Profondeurs Sanguines → Colporteur de pétales (allié)","nodes":1}
+{"caseId":"sessions/20261025_222823_hdt.log#1@2632","turn":3,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":1,"played":"Jouer Forgeron dimensionnel","nodes":1}
+{"caseId":"sessions/20261025_222823_hdt.log#1@4371","turn":4,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":2,"taunts":2,"played":"Activer Profondeurs Sanguines → Éclat glaciaire","nodes":13}
+{"caseId":"sessions/20261025_222823_hdt.log#1@4543","turn":4,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":2,"taunts":2,"played":"Jouer Glissedrake visionnaire","nodes":13}
+{"caseId":"sessions/20261025_222823_hdt.log#1@4693","turn":4,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":0,"taunts":2,"played":"Attaquer avec Colporteur de pétales → Sentinelle de Mur-Céleste","nodes":7}
+{"caseId":"sessions/20261025_222823_hdt.log#1@6214","turn":5,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":2,"taunts":1,"played":"Jouer Profondeurs Sanguines","nodes":8}
+{"caseId":"sessions/20261025_222823_hdt.log#1@6305","turn":5,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":2,"taunts":1,"played":"Activer Profondeurs Sanguines → Glissedrake visionnaire (allié)","nodes":8}
+{"caseId":"sessions/20261025_222823_hdt.log#1@6482","turn":5,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":2,"taunts":1,"played":"Attaquer avec Glissedrake visionnaire → Élémentaire fondu","nodes":8}
+{"caseId":"sessions/20261025_222823_hdt.log#1@7572","turn":6,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":22,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Brute à cosse"}
+{"caseId":"sessions/20261025_222823_hdt.log#1@7756","turn":6,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":18,"taunts":0,"played":"Activer Profondeurs Sanguines → Glissedrake visionnaire (allié)"}
+{"caseId":"sessions/20261025_222823_hdt.log#1@7928","turn":6,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":20,"taunts":0,"played":"Jouer Gardien des couvées"}
+{"caseId":"sessions/20261025_222823_hdt.log#1@10245","turn":7,"decisionInTurn":1,"level":"certain","needed":10,"maxFace":11,"taunts":0,"played":"Activer Profondeurs Sanguines → Glissedrake visionnaire (allié)"}
+{"caseId":"sessions/20261025_222823_hdt.log#1@10382","turn":7,"decisionInTurn":2,"level":"certain","needed":10,"maxFace":11,"taunts":0,"played":"Attaquer avec Glissedrake visionnaire → Thrall"}
+{"caseId":"sessions/20261025_222823_hdt.log#1@10498","turn":7,"decisionInTurn":3,"level":"certain","needed":1,"maxFace":2,"taunts":0,"played":"Attaquer avec Garrosh Hurlenfer → Thrall"}
+{"caseId":"sessions/20261025_223523_hdt.log#1@1610","turn":1,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Voyante distordue par le temps"}
+{"caseId":"sessions/20261025_223523_hdt.log#1@1663","turn":1,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261025_223523_hdt.log#1@2174","turn":2,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":1,"taunts":0,"played":"Jouer Colporteur de pétales"}
+{"caseId":"sessions/20261025_223523_hdt.log#1@2357","turn":2,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":1,"taunts":0,"played":"Attaquer avec Voyante distordue par le temps → Malfurion Hurlorage"}
+{"caseId":"sessions/20261025_223523_hdt.log#1@2497","turn":2,"decisionInTurn":3,"level":"aucun","needed":29,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261025_223523_hdt.log#1@3682","turn":3,"decisionInTurn":1,"level":"aucun","needed":29,"maxFace":3,"taunts":0,"played":"Jouer Sombre chevaucheur"}
+{"caseId":"sessions/20261025_223523_hdt.log#1@4317","turn":3,"decisionInTurn":2,"level":"aucun","needed":29,"maxFace":3,"taunts":0,"played":"Jouer Colporteur de pétales"}
+{"caseId":"sessions/20261025_223523_hdt.log#1@4444","turn":3,"decisionInTurn":3,"level":"aucun","needed":29,"maxFace":3,"taunts":0,"played":"Attaquer avec Voyante distordue par le temps → Malfurion Hurlorage"}
+{"caseId":"sessions/20261025_223523_hdt.log#1@6704","turn":4,"decisionInTurn":1,"level":"aucun","needed":26,"maxFace":7,"taunts":0,"played":"Jouer La pièce"}
+{"caseId":"sessions/20261025_223523_hdt.log#1@6829","turn":4,"decisionInTurn":2,"level":"aucun","needed":26,"maxFace":7,"taunts":0,"played":"Jouer Plaiedécaille cobalt"}
+{"caseId":"sessions/20261025_223523_hdt.log#1@6970","turn":4,"decisionInTurn":3,"level":"aucun","needed":26,"maxFace":4,"taunts":0,"played":"Attaquer avec Voyante distordue par le temps → Malfurion Hurlorage"}
+{"caseId":"sessions/20261025_223523_hdt.log#1@8100","turn":5,"decisionInTurn":1,"level":"aucun","needed":34,"maxFace":17,"taunts":0,"played":"Jouer Frappe anticipée → Malfurion Hurlorage"}
+{"caseId":"sessions/20261025_223523_hdt.log#1@8486","turn":5,"decisionInTurn":2,"level":"aucun","needed":31,"maxFace":14,"taunts":0,"played":"Jouer Avant-garde du portail"}
+{"caseId":"sessions/20261025_223523_hdt.log#1@8953","turn":5,"decisionInTurn":3,"level":"aucun","needed":31,"maxFace":14,"taunts":0,"played":"Attaquer avec Plaiedécaille cobalt → Malfurion Hurlorage"}
+{"caseId":"sessions/20261025_223523_hdt.log#1@10421","turn":6,"decisionInTurn":1,"level":"plausible","needed":21,"maxFace":5,"taunts":4,"played":"Jouer Forgeron dimensionnel","nodes":579}
+{"caseId":"sessions/20261025_223523_hdt.log#1@11005","turn":6,"decisionInTurn":2,"level":"aucun","needed":21,"maxFace":0,"taunts":4,"played":"Jouer Dragonnet du Vol infini","nodes":293}
+{"caseId":"sessions/20261025_223523_hdt.log#1@11399","turn":6,"decisionInTurn":3,"level":"aucun","needed":21,"maxFace":0,"taunts":4,"played":"Attaquer avec Sombre chevaucheur → Scarabée nuisible","nodes":293}
+{"caseId":"sessions/20261025_223523_hdt.log#1@13806","turn":7,"decisionInTurn":1,"level":"aucun","needed":50,"maxFace":5,"taunts":1,"played":"Jouer Wyrm du pic venteux → Scarabée nuisible","nodes":20}
+{"caseId":"sessions/20261025_223523_hdt.log#1@14007","turn":7,"decisionInTurn":2,"level":"aucun","needed":50,"maxFace":23,"taunts":0,"played":"Attaquer avec Plaiedécaille cobalt → Guff Cœur-Sauvage"}
+{"caseId":"sessions/20261025_223523_hdt.log#1@14227","turn":7,"decisionInTurn":3,"level":"aucun","needed":43,"maxFace":16,"taunts":0,"played":"Attaquer avec Dragonnet du Vol infini → Guff Cœur-Sauvage"}
+{"caseId":"sessions/20261025_223523_hdt.log#1@17018","turn":8,"decisionInTurn":1,"level":"aucun","needed":27,"maxFace":19,"taunts":0,"played":"Attaquer avec Tréant → Tréant"}
+{"caseId":"sessions/20261025_223523_hdt.log#1@17406","turn":8,"decisionInTurn":2,"level":"aucun","needed":27,"maxFace":17,"taunts":0,"played":"Jouer Glissedrake visionnaire"}
+{"caseId":"sessions/20261025_223523_hdt.log#1@17513","turn":8,"decisionInTurn":3,"level":"aucun","needed":27,"maxFace":0,"taunts":0,"played":"Jouer Glissedrake visionnaire"}
+{"caseId":"sessions/20261025_223523_hdt.log#1@21320","turn":9,"decisionInTurn":1,"level":"aucun","needed":28,"maxFace":23,"taunts":0,"played":"Attaquer avec Dragonnet du Vol infini → Kil’jaeden"}
+{"caseId":"sessions/20261025_223523_hdt.log#1@21690","turn":9,"decisionInTurn":2,"level":"certain","needed":28,"maxFace":28,"taunts":0,"played":"Jouer Grommash Hurlenfer"}
+{"caseId":"sessions/20261025_223523_hdt.log#1@21918","turn":9,"decisionInTurn":3,"level":"certain","needed":28,"maxFace":28,"taunts":0,"played":"Attaquer avec Glissedrake visionnaire → Guff Cœur-Sauvage"}
+{"caseId":"sessions/20261025_224728_hdt.log#1@1135","turn":1,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Voyante distordue par le temps"}
+{"caseId":"sessions/20261025_224728_hdt.log#1@1858","turn":2,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":1,"taunts":0,"played":"Jouer Luisaile"}
+{"caseId":"sessions/20261025_224728_hdt.log#1@2070","turn":2,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":1,"taunts":0,"played":"Attaquer avec Voyante distordue par le temps → Tyrande Murmevent"}
+{"caseId":"sessions/20261025_224728_hdt.log#1@3039","turn":3,"decisionInTurn":1,"level":"aucun","needed":29,"maxFace":4,"taunts":0,"played":"Jouer Avant-garde du portail"}
+{"caseId":"sessions/20261025_224728_hdt.log#1@3594","turn":3,"decisionInTurn":2,"level":"aucun","needed":29,"maxFace":4,"taunts":0,"played":"Attaquer avec Voyante distordue par le temps → Tyrande Murmevent"}
+{"caseId":"sessions/20261025_224728_hdt.log#1@3741","turn":3,"decisionInTurn":3,"level":"aucun","needed":28,"maxFace":3,"taunts":0,"played":"Attaquer avec Luisaile → Tyrande Murmevent"}
+{"caseId":"sessions/20261025_224728_hdt.log#1@4599","turn":4,"decisionInTurn":1,"level":"aucun","needed":25,"maxFace":6,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261025_224728_hdt.log#1@4805","turn":4,"decisionInTurn":2,"level":"aucun","needed":25,"maxFace":6,"taunts":0,"played":"Jouer Voyante distordue par le temps"}
+{"caseId":"sessions/20261025_224728_hdt.log#1@5073","turn":4,"decisionInTurn":3,"level":"aucun","needed":25,"maxFace":6,"taunts":0,"played":"Attaquer avec Avant-garde du portail → Tyrande Murmevent"}
+{"caseId":"sessions/20261025_224728_hdt.log#1@7122","turn":5,"decisionInTurn":1,"level":"aucun","needed":19,"maxFace":2,"taunts":0,"played":"Jouer Avant-garde du portail"}
+{"caseId":"sessions/20261025_224728_hdt.log#1@9741","turn":5,"decisionInTurn":2,"level":"aucun","needed":19,"maxFace":2,"taunts":0,"played":null}
+{"caseId":"sessions/20261025_224728_hdt.log#1@9867","turn":5,"decisionInTurn":3,"level":"aucun","needed":19,"maxFace":2,"taunts":0,"played":"Jouer Colporteur de pétales"}
+{"caseId":"sessions/20261025_224728_hdt.log#1@12746","turn":6,"decisionInTurn":1,"level":"aucun","needed":17,"maxFace":0,"taunts":0,"played":"Jouer Animatrice de stade"}
+{"caseId":"sessions/20261025_224728_hdt.log#1@13305","turn":6,"decisionInTurn":2,"level":"aucun","needed":17,"maxFace":4,"taunts":0,"played":"Attaquer avec Garrosh Hurlenfer → Tyrande Murmevent"}
+{"caseId":"sessions/20261025_224728_hdt.log#1@13521","turn":6,"decisionInTurn":3,"level":"aucun","needed":12,"maxFace":0,"taunts":0,"played":"Jouer Profondeurs Sanguines"}
+{"caseId":"sessions/20261025_224728_hdt.log#1@15002","turn":7,"decisionInTurn":1,"level":"aucun","needed":12,"maxFace":0,"taunts":1,"played":"Jouer Nozdormu l’Intemporel","nodes":2}
+{"caseId":"sessions/20261025_224728_hdt.log#1@15278","turn":7,"decisionInTurn":2,"level":"aucun","needed":12,"maxFace":0,"taunts":1,"played":"Pouvoir héroïque Gain d’armure\u00A0!","nodes":2}
+{"caseId":"sessions/20261025_224728_hdt.log#1@15365","turn":7,"decisionInTurn":3,"level":"aucun","needed":12,"maxFace":0,"taunts":1,"played":"Finir le tour","nodes":2}
+{"caseId":"sessions/20261025_225447_hdt.log#1@1185","turn":1,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Voyante distordue par le temps"}
+{"caseId":"sessions/20261025_225447_hdt.log#1@1360","turn":1,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261025_225447_hdt.log#1@2000","turn":2,"decisionInTurn":1,"level":"aucun","needed":33,"maxFace":0,"taunts":1,"played":"Jouer Colporteur de pétales","nodes":2}
+{"caseId":"sessions/20261025_225447_hdt.log#1@2060","turn":2,"decisionInTurn":2,"level":"aucun","needed":33,"maxFace":0,"taunts":1,"played":"Attaquer avec Voyante distordue par le temps → Avant-garde tol’vir","nodes":2}
+{"caseId":"sessions/20261025_225447_hdt.log#1@2255","turn":2,"decisionInTurn":3,"level":"aucun","needed":33,"maxFace":0,"taunts":1,"played":"Finir le tour","nodes":1}
+{"caseId":"sessions/20261025_225447_hdt.log#1@3132","turn":3,"decisionInTurn":1,"level":"aucun","needed":33,"maxFace":0,"taunts":1,"played":"Jouer Sombre chevaucheur","nodes":4}
+{"caseId":"sessions/20261025_225447_hdt.log#1@3623","turn":3,"decisionInTurn":2,"level":"aucun","needed":33,"maxFace":0,"taunts":1,"played":"Jouer Luisaile","nodes":4}
+{"caseId":"sessions/20261025_225447_hdt.log#1@3789","turn":3,"decisionInTurn":3,"level":"aucun","needed":33,"maxFace":0,"taunts":1,"played":"Attaquer avec Voyante distordue par le temps → Avant-garde tol’vir","nodes":4}
+{"caseId":"sessions/20261025_225447_hdt.log#1@5192","turn":4,"decisionInTurn":1,"level":"aucun","needed":35,"maxFace":8,"taunts":0,"played":"Jouer Glissedrake visionnaire"}
+{"caseId":"sessions/20261025_225447_hdt.log#1@5319","turn":4,"decisionInTurn":2,"level":"aucun","needed":35,"maxFace":8,"taunts":0,"played":"Attaquer avec Luisaile → Rochepoing l’ogre de main"}
+{"caseId":"sessions/20261025_225447_hdt.log#1@5475","turn":4,"decisionInTurn":3,"level":"aucun","needed":32,"maxFace":5,"taunts":0,"played":"Attaquer avec Sombre chevaucheur → Rochepoing l’ogre de main"}
+{"caseId":"sessions/20261025_225447_hdt.log#1@6806","turn":5,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":13,"taunts":0,"played":"Jouer La pièce"}
+{"caseId":"sessions/20261025_225447_hdt.log#1@7059","turn":5,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":18,"taunts":0,"played":"Jouer Wyrm du pic venteux → Xavius, seigneur du Cauchemar"}
+{"caseId":"sessions/20261025_225447_hdt.log#1@7250","turn":5,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":13,"taunts":0,"played":"Attaquer avec Glissedrake visionnaire → Rochepoing l’ogre de main"}
+{"caseId":"sessions/20261025_225447_hdt.log#1@8695","turn":6,"decisionInTurn":1,"level":"aucun","needed":20,"maxFace":8,"taunts":0,"played":"Jouer Avant-garde du portail"}
+{"caseId":"sessions/20261025_225447_hdt.log#1@9206","turn":6,"decisionInTurn":2,"level":"aucun","needed":20,"maxFace":8,"taunts":0,"played":"Jouer Gardien des couvées"}
+{"caseId":"sessions/20261025_225447_hdt.log#1@9331","turn":6,"decisionInTurn":3,"level":"aucun","needed":20,"maxFace":8,"taunts":0,"played":"Attaquer avec Glissedrake visionnaire → Rochepoing l’ogre de main"}
+{"caseId":"sessions/20261025_225447_hdt.log#1@11082","turn":7,"decisionInTurn":1,"level":"aucun","needed":12,"maxFace":5,"taunts":0,"played":"Jouer Avant-garde du portail"}
+{"caseId":"sessions/20261025_225447_hdt.log#1@11860","turn":7,"decisionInTurn":2,"level":"aucun","needed":12,"maxFace":5,"taunts":0,"played":"Jouer Sombre chevaucheur"}
+{"caseId":"sessions/20261025_225447_hdt.log#1@12405","turn":7,"decisionInTurn":3,"level":"aucun","needed":12,"maxFace":5,"taunts":0,"played":"Jouer Entourloupeuse faë"}
+{"caseId":"sessions/20261025_225447_hdt.log#1@13870","turn":8,"decisionInTurn":1,"level":"aucun","needed":13,"maxFace":5,"taunts":0,"played":"Jouer Frappe anticipée → Rochepoing l’ogre de main"}
+{"caseId":"sessions/20261025_225447_hdt.log#1@14291","turn":8,"decisionInTurn":2,"level":"aucun","needed":10,"maxFace":2,"taunts":0,"played":"Jouer Suffusion d’ombreflamme → Rochepoing l’ogre de main"}
+{"caseId":"sessions/20261025_225447_hdt.log#1@14923","turn":8,"decisionInTurn":3,"level":"aucun","needed":8,"maxFace":0,"taunts":0,"played":"Jouer Glissedrake visionnaire"}
+{"caseId":"sessions/20261025_225447_hdt.log#1@16683","turn":9,"decisionInTurn":1,"level":"aucun","needed":8,"maxFace":0,"taunts":2,"played":"Jouer Chronoseigneur Époque","nodes":9}
+{"caseId":"sessions/20261025_225447_hdt.log#1@16948","turn":9,"decisionInTurn":2,"level":"aucun","needed":8,"maxFace":0,"taunts":1,"played":"Attaquer avec Glissedrake visionnaire → Golem d’acier","nodes":4}
+{"caseId":"sessions/20261025_225447_hdt.log#1@17137","turn":9,"decisionInTurn":3,"level":"aucun","needed":8,"maxFace":2,"taunts":0,"played":"Jouer Canonnier défias"}
+{"caseId":"sessions/20261025_225447_hdt.log#1@18099","turn":10,"decisionInTurn":1,"level":"plausible","needed":6,"maxFace":0,"taunts":1,"played":"Jouer Animatrice de stade","nodes":16}
+{"caseId":"sessions/20261025_225447_hdt.log#1@18583","turn":10,"decisionInTurn":2,"level":"plausible","needed":6,"maxFace":0,"taunts":1,"played":"Attaquer avec Garrosh Hurlenfer → Tortolla","nodes":31}
+{"caseId":"sessions/20261025_225447_hdt.log#1@19019","turn":10,"decisionInTurn":3,"level":"certain","needed":2,"maxFace":8,"taunts":0,"played":"Attaquer avec Chronoseigneur Époque → Rochepoing l’ogre de main"}
+{"caseId":"sessions/20261025_230748_hdt.log#1@1781","turn":2,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Colporteur de pétales"}
+{"caseId":"sessions/20261025_230748_hdt.log#1@3011","turn":3,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261025_230748_hdt.log#1@4152","turn":4,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":4,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261025_230748_hdt.log#1@4506","turn":4,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":2,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Recrue de la Main d’argent"}
+{"caseId":"sessions/20261025_230748_hdt.log#1@5544","turn":5,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":6,"taunts":0,"played":"Jouer Gardien des couvées"}
+{"caseId":"sessions/20261025_230748_hdt.log#1@5900","turn":5,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":6,"taunts":0,"played":"Jouer Dragonnet du Vol infini"}
+{"caseId":"sessions/20261025_230748_hdt.log#1@6050","turn":5,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":6,"taunts":0,"played":"Attaquer avec Garrosh Hurlenfer → Recrue de la Main d’argent"}
+{"caseId":"sessions/20261025_230748_hdt.log#1@8606","turn":6,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":9,"taunts":0,"played":"Jouer Chronoseigneur Époque"}
+{"caseId":"sessions/20261025_230748_hdt.log#1@8788","turn":6,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":7,"taunts":0,"played":"Attaquer avec Garrosh Hurlenfer → Recrue de la Main d’argent"}
+{"caseId":"sessions/20261025_230748_hdt.log#1@9093","turn":6,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":5,"taunts":0,"played":"Attaquer avec Dragonnet du Vol infini → Recrue de la Main d’argent"}
+{"caseId":"sessions/20261025_230748_hdt.log#1@10354","turn":7,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":3,"taunts":0,"played":"Jouer Avant-garde du portail"}
+{"caseId":"sessions/20261025_230748_hdt.log#1@11023","turn":7,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":5,"taunts":0,"played":"Jouer Gardien des couvées"}
+{"caseId":"sessions/20261025_230748_hdt.log#1@11145","turn":7,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":5,"taunts":0,"played":"Attaquer avec Dragonnet du Vol infini → Recrue de la Main d’argent"}
+{"caseId":"sessions/20261025_230748_hdt.log#1@12570","turn":8,"decisionInTurn":1,"level":"aucun","needed":25,"maxFace":10,"taunts":0,"played":"Jouer Suffusion d’ombreflamme → Recrue de la Main d’argent"}
+{"caseId":"sessions/20261025_230748_hdt.log#1@13607","turn":8,"decisionInTurn":2,"level":"aucun","needed":25,"maxFace":8,"taunts":0,"played":"Jouer Saccageur de chapiteaux"}
+{"caseId":"sessions/20261025_230748_hdt.log#1@13749","turn":8,"decisionInTurn":3,"level":"aucun","needed":25,"maxFace":8,"taunts":0,"played":"Attaquer avec Saccageur de chapiteaux → Recrue de la Main d’argent"}
+{"caseId":"sessions/20261025_230748_hdt.log#1@15984","turn":9,"decisionInTurn":1,"level":"aucun","needed":18,"maxFace":4,"taunts":0,"played":"Jouer Animatrice de stade"}
+{"caseId":"sessions/20261025_230748_hdt.log#1@20214","turn":9,"decisionInTurn":2,"level":"aucun","needed":18,"maxFace":4,"taunts":0,"played":null}
+{"caseId":"sessions/20261025_230748_hdt.log#1@20383","turn":9,"decisionInTurn":3,"level":"aucun","needed":18,"maxFace":9,"taunts":0,"played":"Jouer Profondeurs Sanguines"}
+{"caseId":"sessions/20261025_231754_hdt.log#1@1060","turn":1,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Profondeurs Sanguines"}
+{"caseId":"sessions/20261025_231754_hdt.log#1@1866","turn":2,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":2,"taunts":0,"played":"Jouer Gardien des couvées"}
+{"caseId":"sessions/20261025_231754_hdt.log#1@2147","turn":2,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":2,"taunts":0,"played":"Attaquer avec Garrosh Hurlenfer → Gul’dan"}
+{"caseId":"sessions/20261025_231754_hdt.log#1@2345","turn":2,"decisionInTurn":3,"level":"aucun","needed":28,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261025_231754_hdt.log#1@2803","turn":3,"decisionInTurn":1,"level":"aucun","needed":26,"maxFace":6,"taunts":0,"played":"Activer Profondeurs Sanguines → Gardien des couvées (allié)"}
+{"caseId":"sessions/20261025_231754_hdt.log#1@3074","turn":3,"decisionInTurn":2,"level":"aucun","needed":26,"maxFace":6,"taunts":0,"played":"Jouer Colporteur de pétales"}
+{"caseId":"sessions/20261025_231754_hdt.log#1@3139","turn":3,"decisionInTurn":3,"level":"aucun","needed":26,"maxFace":6,"taunts":0,"played":"Attaquer avec Gardien des couvées → Gul’dan"}
+{"caseId":"sessions/20261025_231754_hdt.log#1@4201","turn":4,"decisionInTurn":1,"level":"aucun","needed":20,"maxFace":0,"taunts":2,"played":"Jouer Glissedrake visionnaire","nodes":9}
+{"caseId":"sessions/20261025_231754_hdt.log#1@4551","turn":4,"decisionInTurn":2,"level":"aucun","needed":20,"maxFace":0,"taunts":2,"played":"Attaquer avec Gardien des couvées → Brute de C’Thrax","nodes":9}
+{"caseId":"sessions/20261025_231754_hdt.log#1@4714","turn":4,"decisionInTurn":3,"level":"aucun","needed":20,"maxFace":0,"taunts":2,"played":"Attaquer avec Colporteur de pétales → Brute de C’Thrax","nodes":3}
+{"caseId":"sessions/20261025_231754_hdt.log#1@5896","turn":5,"decisionInTurn":1,"level":"aucun","needed":20,"maxFace":2,"taunts":1,"played":"Jouer Suffusion d’ombreflamme → Néophyte du Culte","nodes":4}
+{"caseId":"sessions/20261025_231754_hdt.log#1@6430","turn":5,"decisionInTurn":2,"level":"aucun","needed":20,"maxFace":0,"taunts":1,"played":"Jouer Émeutier","nodes":2}
+{"caseId":"sessions/20261025_231754_hdt.log#1@6551","turn":5,"decisionInTurn":3,"level":"aucun","needed":20,"maxFace":0,"taunts":1,"played":"Activer Profondeurs Sanguines → Émeutier (allié)","nodes":2}
+{"caseId":"sessions/20261025_231754_hdt.log#1@7540","turn":6,"decisionInTurn":1,"level":"aucun","needed":23,"maxFace":9,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261025_231754_hdt.log#1@7784","turn":6,"decisionInTurn":2,"level":"aucun","needed":23,"maxFace":9,"taunts":0,"played":"Jouer Profondeurs Sanguines"}
+{"caseId":"sessions/20261025_231754_hdt.log#1@7944","turn":6,"decisionInTurn":3,"level":"aucun","needed":23,"maxFace":9,"taunts":0,"played":"Activer Profondeurs Sanguines → Glissedrake visionnaire (allié)"}
+{"caseId":"sessions/20261025_231754_hdt.log#1@8834","turn":7,"decisionInTurn":1,"level":"aucun","needed":14,"maxFace":4,"taunts":0,"played":"Jouer Chronoseigneur Époque"}
+{"caseId":"sessions/20261025_231754_hdt.log#1@9101","turn":7,"decisionInTurn":2,"level":"aucun","needed":14,"maxFace":2,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Gul’dan"}
+{"caseId":"sessions/20261025_231754_hdt.log#1@9220","turn":7,"decisionInTurn":3,"level":"aucun","needed":12,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261025_231754_hdt.log#1@10136","turn":8,"decisionInTurn":1,"level":"aucun","needed":12,"maxFace":7,"taunts":0,"played":"Jouer Gardien des couvées"}
+{"caseId":"sessions/20261025_231754_hdt.log#1@10241","turn":8,"decisionInTurn":2,"level":"aucun","needed":12,"maxFace":7,"taunts":0,"played":"Jouer Wyrm du pic venteux → Gul’dan"}
+{"caseId":"sessions/20261025_231754_hdt.log#1@10454","turn":8,"decisionInTurn":3,"level":"aucun","needed":7,"maxFace":2,"taunts":0,"played":"Attaquer avec Garrosh Hurlenfer → Gul’dan"}
+{"caseId":"sessions/20261025_231754_hdt.log#1@11514","turn":9,"decisionInTurn":1,"level":"plausible","needed":5,"maxFace":3,"taunts":2,"played":"Jouer Le Grand Dracorex","nodes":34,"tradeLethal":"démontré","tradeSteps":["Frappe anticipée (3) → Marcheur du Vide","Garrosh Hurlenfer attaque Marcheur du Vide 1/3"],"afterLevel":"certain","afterSequence":"Activer Profondeurs Sanguines → Marcheur du Vide (détruit la Provocation), puis Attaquer avec Wyrm du pic venteux → héros adverse (6)","afterDamage":6,"afterConditions":""}
+{"caseId":"sessions/20261025_231754_hdt.log#1@11792","turn":9,"decisionInTurn":2,"level":"plausible","needed":5,"maxFace":0,"taunts":2,"played":"Attaquer avec Le Grand Dracorex → Marcheur du Vide","nodes":17,"tradeLethal":"à risque","tradeSteps":["Garrosh Hurlenfer attaque Marcheur du Vide 1/3","Le Grand Dracorex attaque Marcheur du Vide 1/3"],"afterLevel":"certain","afterSequence":"Activer Profondeurs Sanguines → Marcheur du Vide (détruit la Provocation), puis Attaquer avec Wyrm du pic venteux → héros adverse (6)","afterDamage":6,"afterConditions":""}
+{"caseId":"sessions/20261025_231754_hdt.log#1@12000","turn":9,"decisionInTurn":3,"level":"certain","needed":5,"maxFace":10,"taunts":0,"played":"Activer Profondeurs Sanguines → Wyrm du pic venteux (allié)"}
+{"caseId":"sessions/20261025_232750_hdt.log#1@1385","turn":1,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer La pièce"}
+{"caseId":"sessions/20261025_232750_hdt.log#1@1482","turn":1,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":3,"taunts":0,"played":"Jouer Colporteur de pétales"}
+{"caseId":"sessions/20261025_232750_hdt.log#1@2494","turn":2,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":4,"taunts":0,"played":"Jouer Gardien des couvées"}
+{"caseId":"sessions/20261025_232750_hdt.log#1@2616","turn":2,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":3,"taunts":0,"played":"Attaquer avec Garrosh Hurlenfer → Disciple lige d’ombre"}
+{"caseId":"sessions/20261025_232750_hdt.log#1@2919","turn":2,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":1,"taunts":0,"played":"Attaquer avec Colporteur de pétales → Soldat de Cho’gall"}
+{"caseId":"sessions/20261025_232750_hdt.log#1@3986","turn":3,"decisionInTurn":1,"level":"aucun","needed":27,"maxFace":5,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261025_232750_hdt.log#1@4321","turn":3,"decisionInTurn":2,"level":"aucun","needed":27,"maxFace":2,"taunts":0,"played":"Attaquer avec Garrosh Hurlenfer → Gul’dan"}
+{"caseId":"sessions/20261025_232750_hdt.log#1@5350","turn":4,"decisionInTurn":1,"level":"aucun","needed":22,"maxFace":5,"taunts":0,"played":"Jouer Animatrice de stade"}
+{"caseId":"sessions/20261025_232750_hdt.log#1@7646","turn":4,"decisionInTurn":2,"level":"aucun","needed":22,"maxFace":5,"taunts":0,"played":null}
+{"caseId":"sessions/20261025_232750_hdt.log#1@7808","turn":4,"decisionInTurn":3,"level":"aucun","needed":22,"maxFace":4,"taunts":0,"played":"Attaquer avec Garrosh Hurlenfer → Gul’dan"}
+{"caseId":"sessions/20261025_232750_hdt.log#1@9633","turn":5,"decisionInTurn":1,"level":"aucun","needed":18,"maxFace":7,"taunts":0,"played":"Jouer Frappe anticipée → Gul’dan"}
+{"caseId":"sessions/20261025_232750_hdt.log#1@9832","turn":5,"decisionInTurn":2,"level":"aucun","needed":15,"maxFace":4,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261025_232750_hdt.log#1@10054","turn":5,"decisionInTurn":3,"level":"aucun","needed":15,"maxFace":4,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Gul’dan"}
+{"caseId":"sessions/20261025_232750_hdt.log#1@11385","turn":6,"decisionInTurn":1,"level":"aucun","needed":11,"maxFace":0,"taunts":1,"played":"Attaquer avec Garrosh Hurlenfer → Sbire du gang des diablotins","nodes":4}
+{"caseId":"sessions/20261025_232750_hdt.log#1@11572","turn":6,"decisionInTurn":2,"level":"aucun","needed":11,"maxFace":0,"taunts":1,"played":"Jouer Sombre chevaucheur","nodes":2}
+{"caseId":"sessions/20261025_232750_hdt.log#1@12129","turn":6,"decisionInTurn":3,"level":"aucun","needed":11,"maxFace":0,"taunts":1,"played":"Jouer Dragonnet du Vol infini","nodes":2}
+{"caseId":"sessions/20261025_232750_hdt.log#1@13845","turn":7,"decisionInTurn":1,"level":"aucun","needed":11,"maxFace":6,"taunts":0,"played":"Jouer Fracasseur de confluence"}
+{"caseId":"sessions/20261025_232750_hdt.log#1@14157","turn":7,"decisionInTurn":2,"level":"certain","needed":4,"maxFace":6,"taunts":0,"played":"Attaquer avec Dragonnet du Vol infini → Gul’dan"}
+{"caseId":"sessions/20261025_233545_hdt.log#1@1465","turn":2,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":2,"taunts":0,"played":"Jouer Gardien des couvées"}
+{"caseId":"sessions/20261025_233545_hdt.log#1@1547","turn":2,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":2,"taunts":0,"played":"Attaquer avec Garrosh Hurlenfer → Rexxar"}
+{"caseId":"sessions/20261025_233545_hdt.log#1@2418","turn":3,"decisionInTurn":1,"level":"aucun","needed":28,"maxFace":4,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261025_233545_hdt.log#1@2586","turn":3,"decisionInTurn":2,"level":"aucun","needed":28,"maxFace":4,"taunts":0,"played":"Attaquer avec Gardien des couvées → Rexxar"}
+{"caseId":"sessions/20261025_233545_hdt.log#1@2849","turn":3,"decisionInTurn":3,"level":"aucun","needed":26,"maxFace":2,"taunts":0,"played":"Attaquer avec Garrosh Hurlenfer → Rexxar"}
+{"caseId":"sessions/20261025_233545_hdt.log#1@3791","turn":4,"decisionInTurn":1,"level":"aucun","needed":24,"maxFace":7,"taunts":0,"played":"Jouer Animatrice de stade"}
+{"caseId":"sessions/20261025_233545_hdt.log#1@4412","turn":4,"decisionInTurn":2,"level":"aucun","needed":24,"maxFace":8,"taunts":0,"played":"Attaquer avec Garrosh Hurlenfer → Générale des forestiers Sylvanas"}
+{"caseId":"sessions/20261025_233545_hdt.log#1@4717","turn":4,"decisionInTurn":3,"level":"aucun","needed":24,"maxFace":4,"taunts":0,"played":"Attaquer avec Gardien des couvées → Mobilisateur de renforts"}
+{"caseId":"sessions/20261025_233545_hdt.log#1@6405","turn":5,"decisionInTurn":1,"level":"aucun","needed":22,"maxFace":14,"taunts":0,"played":"Jouer Frappe anticipée → Rexxar"}
+{"caseId":"sessions/20261025_233545_hdt.log#1@6834","turn":5,"decisionInTurn":2,"level":"aucun","needed":19,"maxFace":11,"taunts":0,"played":"Jouer Dragonnet du Vol infini"}
+{"caseId":"sessions/20261025_233545_hdt.log#1@6969","turn":5,"decisionInTurn":3,"level":"aucun","needed":19,"maxFace":11,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Rexxar"}
+{"caseId":"sessions/20261025_233545_hdt.log#1@9703","turn":6,"decisionInTurn":1,"level":"certain","needed":8,"maxFace":11,"taunts":0,"played":"Jouer Wyrm du pic venteux → Rexxar"}
+{"caseId":"sessions/20261025_233545_hdt.log#1@10135","turn":6,"decisionInTurn":2,"level":"certain","needed":3,"maxFace":6,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Rexxar"}
+{"caseId":"sessions/20261025_233545_hdt.log#1@10352","turn":6,"decisionInTurn":3,"level":"certain","needed":1,"maxFace":4,"taunts":0,"played":null}
+{"caseId":"sessions/20261025_234130_hdt.log#1@1377","turn":2,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":2,"taunts":0,"played":"Jouer Gardien des couvées"}
+{"caseId":"sessions/20261025_234130_hdt.log#1@1459","turn":2,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":2,"taunts":0,"played":"Attaquer avec Garrosh Hurlenfer → Uther le Porteur de Lumière"}
+{"caseId":"sessions/20261025_234130_hdt.log#1@2369","turn":3,"decisionInTurn":1,"level":"aucun","needed":28,"maxFace":4,"taunts":0,"played":"Jouer Sombre chevaucheur"}
+{"caseId":"sessions/20261025_234130_hdt.log#1@3037","turn":3,"decisionInTurn":2,"level":"aucun","needed":28,"maxFace":4,"taunts":0,"played":"Jouer Colporteur de pétales"}
+{"caseId":"sessions/20261025_234130_hdt.log#1@3191","turn":3,"decisionInTurn":3,"level":"aucun","needed":28,"maxFace":4,"taunts":0,"played":"Attaquer avec Garrosh Hurlenfer → Recrue de la Main d’argent"}
+{"caseId":"sessions/20261025_234130_hdt.log#1@4341","turn":4,"decisionInTurn":1,"level":"aucun","needed":28,"maxFace":3,"taunts":0,"played":"Jouer Dragonnet du Vol de bronze"}
+{"caseId":"sessions/20261025_234130_hdt.log#1@4547","turn":4,"decisionInTurn":2,"level":"aucun","needed":28,"maxFace":3,"taunts":0,"played":"Attaquer avec Gardien des couvées → Uther le Porteur de Lumière"}
+{"caseId":"sessions/20261025_234130_hdt.log#1@4695","turn":4,"decisionInTurn":3,"level":"aucun","needed":26,"maxFace":1,"taunts":0,"played":"Attaquer avec Colporteur de pétales → Uther le Porteur de Lumière"}
+{"caseId":"sessions/20261025_234130_hdt.log#1@5719","turn":5,"decisionInTurn":1,"level":"aucun","needed":25,"maxFace":15,"taunts":0,"played":"Jouer Avant-garde du portail"}
+{"caseId":"sessions/20261025_234130_hdt.log#1@6346","turn":5,"decisionInTurn":2,"level":"aucun","needed":25,"maxFace":15,"taunts":0,"played":"Attaquer avec Dragonnet du Vol de bronze → Uther le Porteur de Lumière"}
+{"caseId":"sessions/20261025_234130_hdt.log#1@6523","turn":5,"decisionInTurn":3,"level":"aucun","needed":16,"maxFace":6,"taunts":0,"played":"Attaquer avec Gardien des couvées → Amasseur de butin"}
+{"caseId":"sessions/20261025_234130_hdt.log#1@8336","turn":6,"decisionInTurn":1,"level":"plausible","needed":15,"maxFace":3,"taunts":1,"played":"Jouer Gardien des couvées","nodes":11,"tradeLethal":"démontré","tradeSteps":["Colporteur de pétales attaque Protectrice vertueuse 2/1","Avant-garde du portail attaque Protectrice vertueuse 2/1"],"afterLevel":"certain","afterSequence":"Jouer Frappe anticipée → héros adverse (3), puis Jouer Gardien des couvées (épée 2/2), puis Attaquer avec Dragonnet du Vol de bronze → héros adverse (10), puis Attaquer avec ton héros → héros adverse (2)","afterDamage":15,"afterConditions":""}
+{"caseId":"sessions/20261025_234130_hdt.log#1@8475","turn":6,"decisionInTurn":2,"level":"plausible","needed":15,"maxFace":3,"taunts":1,"played":"Attaquer avec Colporteur de pétales → Protectrice vertueuse","nodes":16,"tradeLethal":"démontré","tradeSteps":["Garrosh Hurlenfer attaque Protectrice vertueuse 2/1","Colporteur de pétales attaque Protectrice vertueuse 2/1"],"afterLevel":"certain","afterSequence":"Jouer Frappe anticipée → héros adverse (3), puis Attaquer avec Avant-garde du portail → héros adverse (2), puis Attaquer avec Dragonnet du Vol de bronze → héros adverse (10)","afterDamage":15,"afterConditions":""}
+{"caseId":"sessions/20261025_234130_hdt.log#1@8718","turn":6,"decisionInTurn":3,"level":"plausible","needed":15,"maxFace":3,"taunts":1,"played":"Attaquer avec Garrosh Hurlenfer → Protectrice vertueuse","nodes":5,"tradeLethal":"démontré","tradeSteps":["Garrosh Hurlenfer attaque Protectrice vertueuse 2/1"],"afterLevel":"certain","afterSequence":"Jouer Frappe anticipée → héros adverse (3), puis Attaquer avec Avant-garde du portail → héros adverse (2), puis Attaquer avec Dragonnet du Vol de bronze → héros adverse (10)","afterDamage":15,"afterConditions":""}
+{"caseId":"sessions/20261025_234931_hdt.log#1@1279","turn":1,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Voyante distordue par le temps"}
+{"caseId":"sessions/20261025_234931_hdt.log#1@1330","turn":1,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261025_234931_hdt.log#1@2251","turn":2,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":3,"taunts":0,"played":"Jouer Colporteur de pétales"}
+{"caseId":"sessions/20261025_234931_hdt.log#1@2304","turn":2,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261025_234931_hdt.log#1@3303","turn":3,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":3,"taunts":0,"played":"Jouer La pièce"}
+{"caseId":"sessions/20261025_234931_hdt.log#1@3381","turn":3,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":3,"taunts":0,"played":"Jouer Glissedrake visionnaire"}
+{"caseId":"sessions/20261025_234931_hdt.log#1@4701","turn":4,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":8,"taunts":0,"played":"Jouer Sombre chevaucheur"}
+{"caseId":"sessions/20261025_234931_hdt.log#1@5224","turn":4,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":8,"taunts":0,"played":"Jouer Avant-garde du portail"}
+{"caseId":"sessions/20261025_234931_hdt.log#1@5719","turn":4,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":5,"taunts":0,"played":"Attaquer avec Glissedrake visionnaire → Jaina Portvaillant"}
+{"caseId":"sessions/20261025_234931_hdt.log#1@7579","turn":5,"decisionInTurn":1,"level":"aucun","needed":25,"maxFace":3,"taunts":0,"played":"Jouer Sombre chevaucheur"}
+{"caseId":"sessions/20261025_234931_hdt.log#1@8141","turn":5,"decisionInTurn":2,"level":"aucun","needed":25,"maxFace":3,"taunts":0,"played":"Jouer Glissedrake visionnaire"}
+{"caseId":"sessions/20261025_234931_hdt.log#1@9102","turn":6,"decisionInTurn":1,"level":"aucun","needed":25,"maxFace":5,"taunts":0,"played":"Jouer Wyrm du pic venteux → Jaina Portvaillant"}
+{"caseId":"sessions/20261025_234931_hdt.log#1@10641","turn":7,"decisionInTurn":1,"level":"aucun","needed":15,"maxFace":10,"taunts":0,"played":"Jouer Présage de la fin"}
+{"caseId":"sessions/20261025_234931_hdt.log#1@10769","turn":7,"decisionInTurn":2,"level":"aucun","needed":15,"maxFace":8,"taunts":0,"played":"Jouer Profondeurs Sanguines"}
+{"caseId":"sessions/20261025_234931_hdt.log#1@10853","turn":7,"decisionInTurn":3,"level":"aucun","needed":15,"maxFace":7,"taunts":0,"played":"Attaquer avec Glissedrake visionnaire → Jaina Portvaillant"}
+{"caseId":"sessions/20261025_234931_hdt.log#1@12073","turn":8,"decisionInTurn":1,"level":"certain","needed":10,"maxFace":17,"taunts":0,"played":"Jouer Grommash Hurlenfer"}
+{"caseId":"sessions/20261025_234931_hdt.log#1@12203","turn":8,"decisionInTurn":2,"level":"certain","needed":10,"maxFace":17,"taunts":0,"played":"Activer Profondeurs Sanguines → Grommash Hurlenfer (allié)"}
+{"caseId":"sessions/20261025_234931_hdt.log#1@12394","turn":8,"decisionInTurn":3,"level":"certain","needed":10,"maxFace":17,"taunts":0,"played":"Attaquer avec Grommash Hurlenfer → Jaina Portvaillant"}
+{"caseId":"sessions/20261025_235725_hdt.log#1@832","turn":1,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Voyante distordue par le temps"}
+{"caseId":"sessions/20261025_235725_hdt.log#1@1606","turn":2,"decisionInTurn":1,"level":"aucun","needed":31,"maxFace":3,"taunts":0,"played":"Jouer Colporteur de pétales"}
+{"caseId":"sessions/20261025_235725_hdt.log#1@2519","turn":3,"decisionInTurn":1,"level":"aucun","needed":32,"maxFace":3,"taunts":1,"played":"Jouer Forgeron dimensionnel","nodes":5}
+{"caseId":"sessions/20261025_235725_hdt.log#1@2855","turn":3,"decisionInTurn":2,"level":"aucun","needed":32,"maxFace":0,"taunts":1,"played":"Attaquer avec Colporteur de pétales → Ennuy-o-tron","nodes":2}
+{"caseId":"sessions/20261025_235725_hdt.log#1@4271","turn":4,"decisionInTurn":1,"level":"aucun","needed":33,"maxFace":6,"taunts":1,"played":"Jouer Profondeurs Sanguines","nodes":3}
+{"caseId":"sessions/20261025_235725_hdt.log#1@4603","turn":4,"decisionInTurn":2,"level":"aucun","needed":33,"maxFace":6,"taunts":1,"played":"Activer Profondeurs Sanguines → Ennuy-o-tron","nodes":3}
+{"caseId":"sessions/20261025_235725_hdt.log#1@4809","turn":4,"decisionInTurn":3,"level":"aucun","needed":33,"maxFace":6,"taunts":0,"played":"Jouer Gardien des couvées"}
+{"caseId":"sessions/20261025_235725_hdt.log#1@6444","turn":5,"decisionInTurn":1,"level":"aucun","needed":29,"maxFace":8,"taunts":0,"played":"Jouer Glissedrake visionnaire"}
+{"caseId":"sessions/20261025_235725_hdt.log#1@6822","turn":5,"decisionInTurn":2,"level":"aucun","needed":29,"maxFace":5,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Arthas le fléauvenant"}
+{"caseId":"sessions/20261025_235725_hdt.log#1@6962","turn":5,"decisionInTurn":3,"level":"aucun","needed":26,"maxFace":2,"taunts":0,"played":"Attaquer avec Garrosh Hurlenfer → Arthas le fléauvenant"}
+{"caseId":"sessions/20261025_235725_hdt.log#1@8226","turn":6,"decisionInTurn":1,"level":"aucun","needed":24,"maxFace":8,"taunts":0,"played":"Jouer Chronoseigneur Époque"}
+{"caseId":"sessions/20261025_235725_hdt.log#1@8586","turn":6,"decisionInTurn":2,"level":"aucun","needed":24,"maxFace":5,"taunts":0,"played":"Activer Profondeurs Sanguines → Forgeron dimensionnel (allié)"}
+{"caseId":"sessions/20261025_235725_hdt.log#1@8765","turn":6,"decisionInTurn":3,"level":"aucun","needed":24,"maxFace":5,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Arthas le fléauvenant"}
+{"caseId":"sessions/20261025_235725_hdt.log#1@9732","turn":7,"decisionInTurn":1,"level":"aucun","needed":19,"maxFace":3,"taunts":1,"played":"Jouer Frappe anticipée → Ennuy-o-tron","nodes":4}
+{"caseId":"sessions/20261025_235725_hdt.log#1@10152","turn":7,"decisionInTurn":2,"level":"aucun","needed":19,"maxFace":0,"taunts":1,"played":"Jouer Glissedrake visionnaire","nodes":2}
+{"caseId":"sessions/20261025_235725_hdt.log#1@10294","turn":7,"decisionInTurn":3,"level":"aucun","needed":19,"maxFace":0,"taunts":1,"played":"Jouer Voyante distordue par le temps","nodes":2}
+{"caseId":"sessions/20261025_235725_hdt.log#1@11580","turn":8,"decisionInTurn":1,"level":"aucun","needed":19,"maxFace":18,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261025_235725_hdt.log#1@11824","turn":8,"decisionInTurn":2,"level":"aucun","needed":19,"maxFace":8,"taunts":0,"played":"Attaquer avec Glissedrake visionnaire → Chevalier greffé"}
+{"caseId":"sessions/20261025_235725_hdt.log#1@12063","turn":8,"decisionInTurn":3,"level":"aucun","needed":22,"maxFace":3,"taunts":0,"played":"Attaquer avec Voyante distordue par le temps → Arthas le fléauvenant"}
+{"caseId":"sessions/20261025_235725_hdt.log#1@13424","turn":9,"decisionInTurn":1,"level":"aucun","needed":23,"maxFace":0,"taunts":2,"played":"Jouer Grommash Hurlenfer","nodes":22}
+{"caseId":"sessions/20261025_235725_hdt.log#1@13874","turn":9,"decisionInTurn":2,"level":"aucun","needed":23,"maxFace":0,"taunts":2,"played":"Activer Profondeurs Sanguines → Grommash Hurlenfer (allié)","nodes":43}
+{"caseId":"sessions/20261025_235725_hdt.log#1@14031","turn":9,"decisionInTurn":3,"level":"aucun","needed":23,"maxFace":0,"taunts":2,"played":"Attaquer avec Grommash Hurlenfer → Baron Chute-des-Froids","nodes":43}
+{"caseId":"sessions/20261025_235725_hdt.log#1@16108","turn":10,"decisionInTurn":1,"level":"aucun","needed":24,"maxFace":0,"taunts":3,"played":"Jouer Sombre chevaucheur","nodes":37}
+{"caseId":"sessions/20261025_235725_hdt.log#1@16948","turn":10,"decisionInTurn":2,"level":"aucun","needed":24,"maxFace":0,"taunts":3,"played":"Jouer Le Grand Dracorex","nodes":105}
+{"caseId":"sessions/20261025_235725_hdt.log#1@17178","turn":10,"decisionInTurn":3,"level":"aucun","needed":24,"maxFace":0,"taunts":3,"played":"Attaquer avec Le Grand Dracorex → Garde-essaim nérubien","nodes":69}
+{"caseId":"sessions/20261025_235725_hdt.log#1@19418","turn":11,"decisionInTurn":1,"level":"certain","needed":5,"maxFace":19,"taunts":0,"played":"Jouer Wyrm du pic venteux → Arthas le fléauvenant"}
+{"caseId":"sessions/20261026_000900_hdt.log#1@1588","turn":1,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Sombre chevaucheur"}
+{"caseId":"sessions/20261026_000900_hdt.log#1@2207","turn":1,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261026_000900_hdt.log#1@3040","turn":2,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":3,"taunts":0,"played":"Jouer Frappe anticipée → Ramasse-cadavres"}
+{"caseId":"sessions/20261026_000900_hdt.log#1@3499","turn":2,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261026_000900_hdt.log#1@4067","turn":3,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Dragonnet du Vol infini"}
+{"caseId":"sessions/20261026_000900_hdt.log#1@5532","turn":4,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":2,"taunts":0,"played":"Jouer Glissedrake visionnaire"}
+{"caseId":"sessions/20261026_000900_hdt.log#1@5622","turn":4,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261026_000900_hdt.log#1@7073","turn":5,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":2,"taunts":0,"played":"Jouer Suffusion d’ombreflamme → Goule ressuscitée"}
+{"caseId":"sessions/20261026_000900_hdt.log#1@7758","turn":5,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261026_000900_hdt.log#1@8015","turn":5,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261026_000900_hdt.log#1@9510","turn":6,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":4,"taunts":0,"played":"Jouer Profondeurs Sanguines"}
+{"caseId":"sessions/20261026_000900_hdt.log#1@9579","turn":6,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":4,"taunts":0,"played":"Jouer Guerrière du Vol infini"}
+{"caseId":"sessions/20261026_000900_hdt.log#1@9824","turn":6,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":4,"taunts":0,"played":"Attaquer avec Guerrière du Vol infini → Falric"}
+{"caseId":"sessions/20261026_000900_hdt.log#1@11609","turn":7,"decisionInTurn":1,"level":"aucun","needed":28,"maxFace":5,"taunts":0,"played":"Jouer Ysondre"}
+{"caseId":"sessions/20261026_000900_hdt.log#1@11859","turn":7,"decisionInTurn":2,"level":"aucun","needed":28,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261026_000900_hdt.log#1@13516","turn":8,"decisionInTurn":1,"level":"aucun","needed":28,"maxFace":22,"taunts":0,"played":"Jouer Wyrm du pic venteux → Le roi-liche"}
+{"caseId":"sessions/20261026_000900_hdt.log#1@13800","turn":8,"decisionInTurn":2,"level":"aucun","needed":23,"maxFace":10,"taunts":0,"played":"Jouer Luisaile"}
+{"caseId":"sessions/20261026_000900_hdt.log#1@13963","turn":8,"decisionInTurn":3,"level":"aucun","needed":23,"maxFace":10,"taunts":0,"played":"Attaquer avec Néantiseur → Le roi-liche"}
+{"caseId":"sessions/20261026_000900_hdt.log#1@15932","turn":9,"decisionInTurn":1,"level":"plausible","needed":15,"maxFace":0,"taunts":5,"played":"Jouer Avant-garde du portail","nodes":6}
+{"caseId":"sessions/20261026_000900_hdt.log#1@16534","turn":9,"decisionInTurn":2,"level":"aucun","needed":15,"maxFace":0,"taunts":5,"played":"Jouer Dragonnet du Vol infini","nodes":6}
+{"caseId":"sessions/20261026_000900_hdt.log#1@16648","turn":9,"decisionInTurn":3,"level":"aucun","needed":15,"maxFace":0,"taunts":5,"played":"Jouer Avant-garde du portail","nodes":6}
+{"caseId":"sessions/20261026_000900_hdt.log#1@23506","turn":10,"decisionInTurn":1,"level":"plausible","needed":15,"maxFace":0,"taunts":4,"played":"Jouer Mage de sang Thalnos","nodes":19}
+{"caseId":"sessions/20261026_000900_hdt.log#1@23779","turn":10,"decisionInTurn":2,"level":"plausible","needed":15,"maxFace":0,"taunts":4,"played":"Activer Profondeurs Sanguines → Mage de sang Thalnos (allié)","nodes":19}
+{"caseId":"sessions/20261026_000900_hdt.log#1@24028","turn":10,"decisionInTurn":3,"level":"aucun","needed":15,"maxFace":0,"taunts":4,"played":"Jouer Animatrice de stade","nodes":19}
+{"caseId":"sessions/20261026_002106_hdt.log#1@956","turn":1,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Sombre chevaucheur"}
+{"caseId":"sessions/20261026_002106_hdt.log#1@2075","turn":2,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":1,"taunts":0,"played":"Jouer Dragonnet livreur"}
+{"caseId":"sessions/20261026_002106_hdt.log#1@2165","turn":2,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":1,"taunts":0,"played":"Attaquer avec Sombre chevaucheur → Rexxar"}
+{"caseId":"sessions/20261026_002106_hdt.log#1@2745","turn":3,"decisionInTurn":1,"level":"aucun","needed":29,"maxFace":5,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261026_002106_hdt.log#1@3037","turn":3,"decisionInTurn":2,"level":"aucun","needed":29,"maxFace":2,"taunts":0,"played":"Attaquer avec Sombre chevaucheur → Rexxar"}
+{"caseId":"sessions/20261026_002106_hdt.log#1@3293","turn":3,"decisionInTurn":3,"level":"aucun","needed":28,"maxFace":1,"taunts":0,"played":"Attaquer avec Dragonnet livreur → Rexxar"}
+{"caseId":"sessions/20261026_002106_hdt.log#1@3983","turn":4,"decisionInTurn":1,"level":"aucun","needed":27,"maxFace":6,"taunts":1,"played":"Jouer Glissedrake visionnaire","nodes":27}
+{"caseId":"sessions/20261026_002106_hdt.log#1@4103","turn":4,"decisionInTurn":2,"level":"aucun","needed":27,"maxFace":0,"taunts":1,"played":"Attaquer avec Forgeron dimensionnel → Rampeur du goudron","nodes":8}
+{"caseId":"sessions/20261026_002106_hdt.log#1@4254","turn":4,"decisionInTurn":3,"level":"aucun","needed":27,"maxFace":0,"taunts":1,"played":"Finir le tour","nodes":4}
+{"caseId":"sessions/20261026_002106_hdt.log#1@4854","turn":5,"decisionInTurn":1,"level":"aucun","needed":27,"maxFace":6,"taunts":2,"played":"Jouer Frappe anticipée → Rampeur du goudron","nodes":262}
+{"caseId":"sessions/20261026_002106_hdt.log#1@5078","turn":5,"decisionInTurn":2,"level":"aucun","needed":27,"maxFace":0,"taunts":2,"played":null,"nodes":1}
+{"caseId":"sessions/20261026_002622_hdt.log#1@2157","turn":6,"decisionInTurn":1,"level":"aucun","needed":27,"maxFace":0,"taunts":2,"played":"Jouer Sombre chevaucheur","nodes":23}
+{"caseId":"sessions/20261026_002622_hdt.log#1@2641","turn":6,"decisionInTurn":2,"level":"aucun","needed":27,"maxFace":0,"taunts":2,"played":null,"nodes":23}
+{"caseId":"sessions/20261026_002622_hdt.log#1@4186","turn":7,"decisionInTurn":1,"level":"aucun","needed":27,"maxFace":2,"taunts":2,"played":null,"nodes":35}
+{"caseId":"sessions/20261026_002622_hdt.log#1@4239","turn":7,"decisionInTurn":2,"level":"aucun","needed":27,"maxFace":0,"taunts":2,"played":null,"nodes":1}
+{"caseId":"sessions/20261026_002843_hdt.log#1@2686","turn":7,"decisionInTurn":1,"level":"aucun","needed":27,"maxFace":2,"taunts":1,"played":"Jouer Dragonnet du Vol infini","nodes":7}
+{"caseId":"sessions/20261026_002843_hdt.log#1@2794","turn":7,"decisionInTurn":2,"level":"aucun","needed":27,"maxFace":2,"taunts":1,"played":"Jouer Dragonnet du Vol de bronze","nodes":7}
+{"caseId":"sessions/20261026_002843_hdt.log#1@2903","turn":7,"decisionInTurn":3,"level":"aucun","needed":27,"maxFace":0,"taunts":1,"played":"Finir le tour","nodes":4}
+{"caseId":"sessions/20261026_002843_hdt.log#1@4096","turn":8,"decisionInTurn":1,"level":"aucun","needed":27,"maxFace":2,"taunts":1,"played":"Attaquer avec Dragonnet du Vol infini → Ours runique mythique","nodes":13}
+{"caseId":"sessions/20261026_002843_hdt.log#1@4268","turn":8,"decisionInTurn":2,"level":"aucun","needed":27,"maxFace":14,"taunts":0,"played":"Attaquer avec Dragonnet livreur → Punisseuse du fort Pourpre"}
+{"caseId":"sessions/20261026_002843_hdt.log#1@4451","turn":8,"decisionInTurn":3,"level":"aucun","needed":27,"maxFace":13,"taunts":0,"played":"Attaquer avec Dragonnet du Vol de bronze → Punisseuse du fort Pourpre"}
+{"caseId":"sessions/20261026_003106_hdt.log#1@2457","turn":9,"decisionInTurn":1,"level":"aucun","needed":27,"maxFace":0,"taunts":3,"played":"Jouer Le Grand Dracorex","nodes":349}
+{"caseId":"sessions/20261026_003106_hdt.log#1@2587","turn":9,"decisionInTurn":2,"level":"aucun","needed":27,"maxFace":0,"taunts":3,"played":"Attaquer avec Le Grand Dracorex → Ours runique mythique","nodes":202}
+{"caseId":"sessions/20261026_003106_hdt.log#1@2850","turn":9,"decisionInTurn":3,"level":"aucun","needed":27,"maxFace":0,"taunts":3,"played":"Attaquer avec Dragonnet du Vol infini → Elekk migrateur","nodes":25}
+{"caseId":"sessions/20261026_003106_hdt.log#1@4477","turn":10,"decisionInTurn":1,"level":"aucun","needed":27,"maxFace":5,"taunts":1,"played":"Jouer Champion invaincu","nodes":14}
+{"caseId":"sessions/20261026_003106_hdt.log#1@4889","turn":10,"decisionInTurn":2,"level":"aucun","needed":27,"maxFace":0,"taunts":1,"played":"Attaquer avec Champion invaincu → Ours des montagnes","nodes":7}
+{"caseId":"sessions/20261026_003106_hdt.log#1@5140","turn":10,"decisionInTurn":3,"level":"aucun","needed":27,"maxFace":0,"taunts":1,"played":"Attaquer avec Le Grand Dracorex → Ourson des montagnes","nodes":3}
+{"caseId":"sessions/20261026_003106_hdt.log#1@7221","turn":11,"decisionInTurn":1,"level":"aucun","needed":27,"maxFace":5,"taunts":1,"played":"Jouer Gardien des couvées","nodes":4}
+{"caseId":"sessions/20261026_003106_hdt.log#1@7520","turn":11,"decisionInTurn":2,"level":"aucun","needed":27,"maxFace":5,"taunts":1,"played":"Attaquer avec Garrosh Hurlenfer → Ennuy-o-tron","nodes":10}
+{"caseId":"sessions/20261026_003106_hdt.log#1@7706","turn":11,"decisionInTurn":3,"level":"aucun","needed":27,"maxFace":5,"taunts":1,"played":"Jouer Wyrm du pic venteux → Ennuy-o-tron","nodes":3}
+{"caseId":"sessions/20261026_003106_hdt.log#1@9528","turn":12,"decisionInTurn":1,"level":"aucun","needed":27,"maxFace":0,"taunts":1,"played":"Jouer Avant-garde du portail","nodes":8}
+{"caseId":"sessions/20261026_003106_hdt.log#1@12178","turn":12,"decisionInTurn":2,"level":"aucun","needed":27,"maxFace":0,"taunts":1,"played":null,"nodes":8}
+{"caseId":"sessions/20261026_003106_hdt.log#1@14564","turn":12,"decisionInTurn":3,"level":"aucun","needed":27,"maxFace":5,"taunts":1,"played":"Jouer Wyrm du pic venteux → Grizzly du bois Maudit","nodes":16}
+{"caseId":"sessions/20261026_003106_hdt.log#1@16484","turn":13,"decisionInTurn":1,"level":"aucun","needed":27,"maxFace":2,"taunts":0,"played":"Attaquer avec Avant-garde du portail → Rexxar"}
+{"caseId":"sessions/20261026_003106_hdt.log#1@16784","turn":13,"decisionInTurn":2,"level":"aucun","needed":27,"maxFace":0,"taunts":0,"played":"Jouer Luisaile"}
+{"caseId":"sessions/20261026_003106_hdt.log#1@16930","turn":13,"decisionInTurn":3,"level":"aucun","needed":27,"maxFace":0,"taunts":0,"played":"Jouer Glissedrake visionnaire"}
+{"caseId":"sessions/20261026_003106_hdt.log#1@18871","turn":14,"decisionInTurn":1,"level":"aucun","needed":27,"maxFace":0,"taunts":1,"played":"Jouer Siamat","nodes":8}
+{"caseId":"sessions/20261026_003106_hdt.log#1@19499","turn":14,"decisionInTurn":2,"level":"aucun","needed":27,"maxFace":0,"taunts":1,"played":"Jouer Gardien des couvées","nodes":10}
+{"caseId":"sessions/20261026_003106_hdt.log#1@19710","turn":14,"decisionInTurn":3,"level":"aucun","needed":27,"maxFace":0,"taunts":1,"played":"Attaquer avec Siamat → Elekk migrateur","nodes":16}
+{"caseId":"sessions/20261026_003106_hdt.log#1@22011","turn":15,"decisionInTurn":1,"level":"plausible","needed":21,"maxFace":0,"taunts":2,"played":"Attaquer avec Siamat → Ours des montagnes","nodes":487,"tradeLethal":"à risque","tradeSteps":["Glissedrake visionnaire attaque Techysaurus 3/6","Dragon féerique attaque Ours des montagnes 5/6"],"afterLevel":"certain","afterSequence":"Attaquer avec Luisaile → héros adverse (3), puis Attaquer avec Gardien des couvées → héros adverse (2), puis Attaquer avec Siamat → héros adverse (14), puis Attaquer avec Colporteur de pétales → héros adverse (1), puis Attaquer avec ton héros → héros adverse (2)","afterDamage":22,"afterConditions":""}
+{"caseId":"sessions/20261026_003106_hdt.log#1@22295","turn":15,"decisionInTurn":2,"level":"aucun","needed":21,"maxFace":0,"taunts":3,"played":"Attaquer avec Dragon féerique → Techysaurus","nodes":1264}
+{"caseId":"sessions/20261026_003106_hdt.log#1@22615","turn":15,"decisionInTurn":3,"level":"aucun","needed":21,"maxFace":0,"taunts":2,"played":"Attaquer avec Glissedrake visionnaire → Ourson des montagnes","nodes":125}
+{"caseId":"sessions/20261026_003106_hdt.log#1@32017","turn":16,"decisionInTurn":1,"level":"aucun","needed":17,"maxFace":11,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261026_003106_hdt.log#1@32254","turn":16,"decisionInTurn":2,"level":"aucun","needed":17,"maxFace":11,"taunts":0,"played":"Attaquer avec Gardien des couvées → Parle-esprit"}
+{"caseId":"sessions/20261026_003106_hdt.log#1@32460","turn":16,"decisionInTurn":3,"level":"aucun","needed":17,"maxFace":9,"taunts":0,"played":"Attaquer avec Glissedrake visionnaire → Rexxar"}
+{"caseId":"sessions/20261026_004607_hdt.log#1@1334","turn":2,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":2,"taunts":0,"played":"Jouer Colporteur de pétales"}
+{"caseId":"sessions/20261026_004607_hdt.log#1@1843","turn":3,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":2,"taunts":0,"played":"Jouer Avant-garde du portail"}
+{"caseId":"sessions/20261026_004607_hdt.log#1@2987","turn":4,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":5,"taunts":0,"played":"Jouer Avant-garde du portail"}
+{"caseId":"sessions/20261026_004607_hdt.log#1@3369","turn":4,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":3,"taunts":0,"played":"Jouer Sombre chevaucheur"}
+{"caseId":"sessions/20261026_004607_hdt.log#1@3866","turn":4,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":3,"taunts":0,"played":"Attaquer avec Avant-garde du portail → Jaina Portvaillant"}
+{"caseId":"sessions/20261026_004607_hdt.log#1@4864","turn":5,"decisionInTurn":1,"level":"aucun","needed":27,"maxFace":8,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261026_004607_hdt.log#1@5327","turn":5,"decisionInTurn":2,"level":"aucun","needed":27,"maxFace":8,"taunts":0,"played":"Jouer Gardien des couvées"}
+{"caseId":"sessions/20261026_004607_hdt.log#1@5637","turn":5,"decisionInTurn":3,"level":"aucun","needed":27,"maxFace":8,"taunts":0,"played":"Attaquer avec Avant-garde du portail → Bibliothèque bavarde"}
+{"caseId":"sessions/20261026_004607_hdt.log#1@7085","turn":6,"decisionInTurn":1,"level":"aucun","needed":24,"maxFace":7,"taunts":0,"played":"Jouer Lancier écailleux"}
+{"caseId":"sessions/20261026_004607_hdt.log#1@7333","turn":6,"decisionInTurn":2,"level":"aucun","needed":24,"maxFace":7,"taunts":0,"played":"Jouer Voyante distordue par le temps"}
+{"caseId":"sessions/20261026_004607_hdt.log#1@7445","turn":6,"decisionInTurn":3,"level":"aucun","needed":24,"maxFace":7,"taunts":0,"played":"Attaquer avec Sombre chevaucheur → Jaina Portvaillant"}
+{"caseId":"sessions/20261026_004607_hdt.log#1@9170","turn":7,"decisionInTurn":1,"level":"aucun","needed":22,"maxFace":0,"taunts":1,"played":"Attaquer avec Forgeron dimensionnel → Rejeton de C’Thun","nodes":4}
+{"caseId":"sessions/20261026_004607_hdt.log#1@9325","turn":7,"decisionInTurn":2,"level":"aucun","needed":22,"maxFace":13,"taunts":0,"played":"Attaquer avec Lancier écailleux → Jaina Portvaillant"}
+{"caseId":"sessions/20261026_004607_hdt.log#1@9457","turn":7,"decisionInTurn":3,"level":"aucun","needed":12,"maxFace":3,"taunts":0,"played":"Attaquer avec Sombre chevaucheur → Jaina Portvaillant"}
+{"caseId":"sessions/20261026_004607_hdt.log#1@10746","turn":8,"decisionInTurn":1,"level":"plausible","needed":9,"maxFace":0,"taunts":3,"played":"Attaquer avec Forgeron dimensionnel → Rejeton de C’Thun","nodes":269,"tradeLethal":"à risque","tradeSteps":["Sombre chevaucheur attaque Rejeton de C’Thun 2/2","Lancier écailleux attaque Fanatique sans-visage 2/3","Glissedrake visionnaire attaque Fanatique sans-visage 2/3"],"afterLevel":"conditionnel","afterSequence":"Jouer Grommash Hurlenfer (Charge), puis Attaquer avec Dragonnet du Vol infini → héros adverse (3), puis Attaquer avec Forgeron dimensionnel → héros adverse (2), puis Attaquer avec Grommash Hurlenfer → héros adverse (6)","afterDamage":11,"afterConditions":"un Secret adverse inconnu peut l'empêcher"}
+{"caseId":"sessions/20261026_004607_hdt.log#1@11067","turn":8,"decisionInTurn":2,"level":"plausible","needed":9,"maxFace":0,"taunts":2,"played":"Attaquer avec Sombre chevaucheur → Fanatique sans-visage","nodes":36,"tradeLethal":"à risque","tradeSteps":["Sombre chevaucheur attaque Fanatique sans-visage 2/3","Lancier écailleux attaque Fanatique sans-visage 2/3"],"afterLevel":"conditionnel","afterSequence":"Jouer Grommash Hurlenfer (Charge), puis Attaquer avec Dragonnet du Vol infini → héros adverse (3), puis Attaquer avec Glissedrake visionnaire → héros adverse (5), puis Attaquer avec Grommash Hurlenfer → héros adverse (6)","afterDamage":14,"afterConditions":"un Secret adverse inconnu peut l'empêcher"}
+{"caseId":"sessions/20261026_004607_hdt.log#1@11259","turn":8,"decisionInTurn":3,"level":"plausible","needed":9,"maxFace":0,"taunts":1,"played":"Attaquer avec Dragonnet du Vol infini → Fanatique sans-visage","nodes":9,"tradeLethal":"à risque","tradeSteps":["Lancier écailleux attaque Fanatique sans-visage 2/3"],"afterLevel":"conditionnel","afterSequence":"Jouer Grommash Hurlenfer (Charge), puis Attaquer avec Dragonnet du Vol infini → héros adverse (3), puis Attaquer avec Glissedrake visionnaire → héros adverse (5), puis Attaquer avec Grommash Hurlenfer → héros adverse (6)","afterDamage":14,"afterConditions":"un Secret adverse inconnu peut l'empêcher"}
+{"caseId":"sessions/20261026_005442_hdt.log#1@1641","turn":1,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261026_005442_hdt.log#1@2179","turn":2,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":2,"taunts":0,"played":"Jouer Colporteur de pétales"}
+{"caseId":"sessions/20261026_005442_hdt.log#1@2357","turn":2,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261026_005442_hdt.log#1@3036","turn":3,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":2,"taunts":0,"played":"Jouer La pièce"}
+{"caseId":"sessions/20261026_005442_hdt.log#1@3256","turn":3,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":2,"taunts":0,"played":"Jouer Glissedrake visionnaire"}
+{"caseId":"sessions/20261026_005442_hdt.log#1@4228","turn":4,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":7,"taunts":0,"played":"Jouer Glissedrake visionnaire"}
+{"caseId":"sessions/20261026_005442_hdt.log#1@4318","turn":4,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":5,"taunts":0,"played":"Attaquer avec Glissedrake visionnaire → Jaina Portvaillant"}
+{"caseId":"sessions/20261026_005442_hdt.log#1@4943","turn":5,"decisionInTurn":1,"level":"aucun","needed":25,"maxFace":12,"taunts":0,"played":"Jouer Gardien des couvées"}
+{"caseId":"sessions/20261026_005442_hdt.log#1@5193","turn":5,"decisionInTurn":2,"level":"aucun","needed":25,"maxFace":12,"taunts":0,"played":"Attaquer avec Glissedrake visionnaire → Milhouse Forteresse-de-Mana"}
+{"caseId":"sessions/20261026_005442_hdt.log#1@5425","turn":5,"decisionInTurn":3,"level":"aucun","needed":25,"maxFace":7,"taunts":0,"played":"Jouer Dragonnet du Vol infini"}
+{"caseId":"sessions/20261026_005442_hdt.log#1@8124","turn":6,"decisionInTurn":1,"level":"aucun","needed":18,"maxFace":0,"taunts":1,"played":"Attaquer avec Garrosh Hurlenfer → Apprentie de la sorcière","nodes":6}
+{"caseId":"sessions/20261026_005442_hdt.log#1@8303","turn":6,"decisionInTurn":2,"level":"aucun","needed":18,"maxFace":13,"taunts":0,"played":"Jouer Chronoseigneur Époque"}
+{"caseId":"sessions/20261026_005442_hdt.log#1@8504","turn":6,"decisionInTurn":3,"level":"aucun","needed":18,"maxFace":13,"taunts":0,"played":"Attaquer avec Dragonnet du Vol infini → Gardienne déguisée"}
+{"caseId":"sessions/20261026_005442_hdt.log#1@11588","turn":7,"decisionInTurn":1,"level":"conditionnel","needed":6,"maxFace":20,"taunts":0,"played":"Attaquer avec Gardien des couvées → Jaina Portvaillant"}
+{"caseId":"sessions/20261026_005442_hdt.log#1@11817","turn":7,"decisionInTurn":2,"level":"conditionnel","needed":6,"maxFace":18,"taunts":0,"played":null}
+{"caseId":"sessions/20261026_010156_hdt.log#1@1158","turn":1,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Sombre chevaucheur"}
+{"caseId":"sessions/20261026_010156_hdt.log#1@2605","turn":2,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":3,"taunts":0,"played":"Jouer Suffusion d’ombreflamme → Porte-bobine"}
+{"caseId":"sessions/20261026_010156_hdt.log#1@3185","turn":2,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":1,"taunts":0,"played":"Attaquer avec Sombre chevaucheur → Kael’thas, prince cruel"}
+{"caseId":"sessions/20261026_010156_hdt.log#1@3712","turn":3,"decisionInTurn":1,"level":"aucun","needed":29,"maxFace":3,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261026_010156_hdt.log#1@4699","turn":4,"decisionInTurn":1,"level":"aucun","needed":29,"maxFace":7,"taunts":0,"played":"Jouer Salamandre dimensionnelle"}
+{"caseId":"sessions/20261026_010156_hdt.log#1@4794","turn":4,"decisionInTurn":2,"level":"aucun","needed":29,"maxFace":12,"taunts":0,"played":"Attaquer avec Salamandre dimensionnelle → Sabrerune mystique"}
+{"caseId":"sessions/20261026_010156_hdt.log#1@4947","turn":4,"decisionInTurn":3,"level":"aucun","needed":29,"maxFace":7,"taunts":0,"played":"Attaquer avec Salamandre dimensionnelle → Kael’thas, prince cruel"}
+{"caseId":"sessions/20261026_010156_hdt.log#1@6022","turn":5,"decisionInTurn":1,"level":"aucun","needed":22,"maxFace":7,"taunts":0,"played":"Jouer Profondeurs Sanguines"}
+{"caseId":"sessions/20261026_010156_hdt.log#1@6088","turn":5,"decisionInTurn":2,"level":"aucun","needed":22,"maxFace":7,"taunts":0,"played":"Jouer Verdaile illusoire"}
+{"caseId":"sessions/20261026_010156_hdt.log#1@6222","turn":5,"decisionInTurn":3,"level":"aucun","needed":22,"maxFace":4,"taunts":0,"played":"Activer Profondeurs Sanguines → Forgeron dimensionnel (allié)"}
+{"caseId":"sessions/20261026_010156_hdt.log#1@7313","turn":6,"decisionInTurn":1,"level":"aucun","needed":18,"maxFace":12,"taunts":0,"played":"Jouer Animatrice de stade"}
+{"caseId":"sessions/20261026_010156_hdt.log#1@7899","turn":6,"decisionInTurn":2,"level":"aucun","needed":18,"maxFace":12,"taunts":0,"played":"Jouer Colporteur de pétales"}
+{"caseId":"sessions/20261026_010156_hdt.log#1@7992","turn":6,"decisionInTurn":3,"level":"aucun","needed":18,"maxFace":9,"taunts":0,"played":"Attaquer avec Verdaile illusoire → Kael’thas, prince cruel"}
+{"caseId":"sessions/20261026_010743_hdt.log#1@2035","turn":1,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Sombre chevaucheur"}
+{"caseId":"sessions/20261026_010743_hdt.log#1@2471","turn":1,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261026_010743_hdt.log#1@3096","turn":2,"decisionInTurn":1,"level":"aucun","needed":35,"maxFace":1,"taunts":0,"played":"Jouer La pièce"}
+{"caseId":"sessions/20261026_010743_hdt.log#1@3174","turn":2,"decisionInTurn":2,"level":"aucun","needed":35,"maxFace":1,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261026_010743_hdt.log#1@3369","turn":2,"decisionInTurn":3,"level":"aucun","needed":35,"maxFace":1,"taunts":0,"played":"Attaquer avec Sombre chevaucheur → Garrosh, roi des pirates"}
+{"caseId":"sessions/20261026_010743_hdt.log#1@4478","turn":3,"decisionInTurn":1,"level":"aucun","needed":34,"maxFace":2,"taunts":0,"played":"Jouer Colporteur de pétales"}
+{"caseId":"sessions/20261026_010743_hdt.log#1@4542","turn":3,"decisionInTurn":2,"level":"aucun","needed":34,"maxFace":2,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Garrosh, roi des pirates"}
+{"caseId":"sessions/20261026_010743_hdt.log#1@5711","turn":4,"decisionInTurn":1,"level":"aucun","needed":32,"maxFace":6,"taunts":0,"played":"Jouer Avant-garde du portail"}
+{"caseId":"sessions/20261026_010743_hdt.log#1@8601","turn":4,"decisionInTurn":2,"level":"aucun","needed":32,"maxFace":6,"taunts":0,"played":null}
+{"caseId":"sessions/20261026_010743_hdt.log#1@8732","turn":4,"decisionInTurn":3,"level":"aucun","needed":32,"maxFace":6,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Luisaile"}
+{"caseId":"sessions/20261026_010743_hdt.log#1@9802","turn":5,"decisionInTurn":1,"level":"aucun","needed":29,"maxFace":0,"taunts":1,"played":"Jouer Dragonnet du Vol infini","nodes":16}
+{"caseId":"sessions/20261026_010743_hdt.log#1@10032","turn":5,"decisionInTurn":2,"level":"aucun","needed":29,"maxFace":0,"taunts":1,"played":"Jouer Colporteur de pétales","nodes":16}
+{"caseId":"sessions/20261026_010743_hdt.log#1@10166","turn":5,"decisionInTurn":3,"level":"aucun","needed":29,"maxFace":0,"taunts":1,"played":"Finir le tour","nodes":16}
+{"caseId":"sessions/20261026_010743_hdt.log#1@11363","turn":6,"decisionInTurn":1,"level":"aucun","needed":29,"maxFace":5,"taunts":1,"played":"Attaquer avec Dragonnet du Vol infini → Rescapée de la fin des temps","nodes":89}
+{"caseId":"sessions/20261026_010743_hdt.log#1@11923","turn":6,"decisionInTurn":2,"level":"aucun","needed":29,"maxFace":21,"taunts":0,"played":"Jouer Drake terrestre"}
+{"caseId":"sessions/20261026_010743_hdt.log#1@12207","turn":6,"decisionInTurn":3,"level":"aucun","needed":29,"maxFace":25,"taunts":0,"played":"Attaquer avec Voyante distordue par le temps → Canonnière"}
+{"caseId":"sessions/20261026_010743_hdt.log#1@15037","turn":7,"decisionInTurn":1,"level":"certain","needed":8,"maxFace":25,"taunts":0,"played":"Jouer Wyrm du pic venteux → Garrosh, roi des pirates"}
+{"caseId":"sessions/20261026_010743_hdt.log#1@15534","turn":7,"decisionInTurn":2,"level":"certain","needed":3,"maxFace":20,"taunts":0,"played":"Attaquer avec Drake terrestre → Garrosh, roi des pirates"}
+{"caseId":"sessions/20261026_011533_hdt.log#1@1975","turn":2,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":3,"taunts":0,"played":"Jouer Gardien des couvées"}
+{"caseId":"sessions/20261026_011533_hdt.log#1@2082","turn":2,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":2,"taunts":0,"played":"Attaquer avec Garrosh Hurlenfer → Akama"}
+{"caseId":"sessions/20261026_011533_hdt.log#1@3562","turn":3,"decisionInTurn":1,"level":"aucun","needed":28,"maxFace":7,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261026_011533_hdt.log#1@3706","turn":3,"decisionInTurn":2,"level":"aucun","needed":28,"maxFace":4,"taunts":0,"played":"Attaquer avec Garrosh Hurlenfer → Watsaileron"}
+{"caseId":"sessions/20261026_011533_hdt.log#1@4016","turn":3,"decisionInTurn":3,"level":"aucun","needed":28,"maxFace":2,"taunts":0,"played":"Attaquer avec Gardien des couvées → Akama"}
+{"caseId":"sessions/20261026_011533_hdt.log#1@5430","turn":4,"decisionInTurn":1,"level":"aucun","needed":26,"maxFace":9,"taunts":0,"played":"Jouer Animatrice de stade"}
+{"caseId":"sessions/20261026_011533_hdt.log#1@7850","turn":4,"decisionInTurn":2,"level":"aucun","needed":26,"maxFace":9,"taunts":0,"played":null}
+{"caseId":"sessions/20261026_011533_hdt.log#1@8023","turn":4,"decisionInTurn":3,"level":"aucun","needed":26,"maxFace":7,"taunts":0,"played":"Attaquer avec Garrosh Hurlenfer → Messager raptor"}
+{"caseId":"sessions/20261026_011533_hdt.log#1@9873","turn":5,"decisionInTurn":1,"level":"aucun","needed":22,"maxFace":5,"taunts":1,"played":"Jouer Frappe anticipée → Grizzly du bois Maudit","nodes":57}
+{"caseId":"sessions/20261026_011533_hdt.log#1@10083","turn":5,"decisionInTurn":2,"level":"aucun","needed":22,"maxFace":2,"taunts":1,"played":"Jouer Suffusion d’ombreflamme → Grizzly du bois Maudit","nodes":31}
+{"caseId":"sessions/20261026_011533_hdt.log#1@10661","turn":5,"decisionInTurn":3,"level":"aucun","needed":22,"maxFace":0,"taunts":1,"played":"Attaquer avec Garrosh Hurlenfer → Grizzly du bois Maudit","nodes":16}
+{"caseId":"sessions/20261026_011533_hdt.log#1@12218","turn":6,"decisionInTurn":1,"level":"aucun","needed":18,"maxFace":7,"taunts":1,"played":"Jouer Chronoseigneur Époque","nodes":8}
+{"caseId":"sessions/20261026_011533_hdt.log#1@12542","turn":6,"decisionInTurn":2,"level":"aucun","needed":18,"maxFace":7,"taunts":0,"played":"Attaquer avec Garrosh Hurlenfer → Akama"}
+{"caseId":"sessions/20261026_011533_hdt.log#1@12725","turn":6,"decisionInTurn":3,"level":"aucun","needed":15,"maxFace":4,"taunts":0,"played":"Attaquer avec Gardien des couvées → Akama"}
+{"caseId":"sessions/20261026_011533_hdt.log#1@13919","turn":7,"decisionInTurn":1,"level":"plausible","needed":11,"maxFace":0,"taunts":1,"played":"Jouer Animatrice de stade","nodes":8}
+{"caseId":"sessions/20261026_011533_hdt.log#1@14385","turn":7,"decisionInTurn":2,"level":"plausible","needed":11,"maxFace":0,"taunts":1,"played":"Attaquer avec Garrosh Hurlenfer → Grizzly du bois Maudit","nodes":15}
+{"caseId":"sessions/20261026_011533_hdt.log#1@14621","turn":7,"decisionInTurn":3,"level":"plausible","needed":11,"maxFace":0,"taunts":1,"played":"Attaquer avec Forgeron dimensionnel → Grizzly du bois Maudit","nodes":6,"tradeLethal":"à risque","tradeSteps":["Forgeron dimensionnel attaque Grizzly du bois Maudit 3/4"],"afterLevel":"conditionnel","afterSequence":"Attaquer avec Chronoseigneur Époque → héros adverse (9), puis Attaquer avec Gardien des couvées → héros adverse (2)","afterDamage":11,"afterConditions":"un Secret adverse inconnu peut l'empêcher"}
+{"caseId":"sessions/20261026_012511_hdt.log#1@843","turn":1,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Sombre chevaucheur"}
+{"caseId":"sessions/20261026_012511_hdt.log#1@1971","turn":2,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":1,"taunts":0,"played":"Jouer Profondeurs Sanguines"}
+{"caseId":"sessions/20261026_012511_hdt.log#1@2034","turn":2,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":1,"taunts":0,"played":"Attaquer avec Sombre chevaucheur → Illidan Hurlorage"}
+{"caseId":"sessions/20261026_012511_hdt.log#1@2178","turn":2,"decisionInTurn":3,"level":"aucun","needed":29,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261026_012511_hdt.log#1@3010","turn":3,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":4,"taunts":0,"played":"Jouer Dragonnet du Vol infini"}
+{"caseId":"sessions/20261026_012511_hdt.log#1@3105","turn":3,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":1,"taunts":0,"played":"Attaquer avec Sombre chevaucheur → Illidan Hurlorage"}
+{"caseId":"sessions/20261026_012511_hdt.log#1@3278","turn":3,"decisionInTurn":3,"level":"aucun","needed":29,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261026_012511_hdt.log#1@4661","turn":4,"decisionInTurn":1,"level":"aucun","needed":29,"maxFace":7,"taunts":0,"played":"Jouer Frappe anticipée → T0ut0u"}
+{"caseId":"sessions/20261026_012511_hdt.log#1@4864","turn":4,"decisionInTurn":2,"level":"aucun","needed":29,"maxFace":4,"taunts":0,"played":"Activer Profondeurs Sanguines → T0ut0u"}
+{"caseId":"sessions/20261026_012511_hdt.log#1@5068","turn":4,"decisionInTurn":3,"level":"aucun","needed":29,"maxFace":2,"taunts":0,"played":"Attaquer avec Dragonnet du Vol infini → Wyrm primordial"}
+{"caseId":"sessions/20261026_012511_hdt.log#1@6373","turn":5,"decisionInTurn":1,"level":"aucun","needed":27,"maxFace":3,"taunts":0,"played":"Jouer Héritière de l’au-delà"}
+{"caseId":"sessions/20261026_012511_hdt.log#1@6564","turn":5,"decisionInTurn":2,"level":"aucun","needed":27,"maxFace":3,"taunts":0,"played":"Attaquer avec Dragonnet du Vol infini → Illidan Hurlorage"}
+{"caseId":"sessions/20261026_012511_hdt.log#1@6703","turn":5,"decisionInTurn":3,"level":"aucun","needed":26,"maxFace":2,"taunts":0,"played":"Attaquer avec Sombre chevaucheur → Illidan Hurlorage"}
+{"caseId":"sessions/20261026_012511_hdt.log#1@7835","turn":6,"decisionInTurn":1,"level":"certain","needed":17,"maxFace":17,"taunts":0,"played":"Jouer Wyrm du pic venteux → Illidan Hurlorage"}
+{"caseId":"sessions/20261026_012511_hdt.log#1@8255","turn":6,"decisionInTurn":2,"level":"certain","needed":12,"maxFace":12,"taunts":0,"played":"Activer Profondeurs Sanguines → Héritière de l’au-delà (allié)"}
+{"caseId":"sessions/20261026_012511_hdt.log#1@8487","turn":6,"decisionInTurn":3,"level":"certain","needed":12,"maxFace":12,"taunts":0,"played":"Attaquer avec Dragonnet du Vol infini → Illidan Hurlorage"}
+{"caseId":"sessions/20261026_013105_hdt.log#1@1548","turn":1,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Profondeurs Sanguines"}
+{"caseId":"sessions/20261026_013105_hdt.log#1@1723","turn":1,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261026_013105_hdt.log#1@2192","turn":2,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Activer Profondeurs Sanguines → Gueule-rasoir branchie-rouge"}
+{"caseId":"sessions/20261026_013105_hdt.log#1@2463","turn":2,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer La pièce"}
+{"caseId":"sessions/20261026_013105_hdt.log#1@2560","turn":2,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261026_013105_hdt.log#1@3639","turn":3,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":2,"taunts":0,"played":"Jouer Colporteur de pétales"}
+{"caseId":"sessions/20261026_013105_hdt.log#1@3704","turn":3,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":2,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Végétaileron avide"}
+{"caseId":"sessions/20261026_013105_hdt.log#1@4837","turn":4,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":6,"taunts":0,"played":"Activer Profondeurs Sanguines → Colporteur de pétales (allié)"}
+{"caseId":"sessions/20261026_013105_hdt.log#1@4974","turn":4,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":6,"taunts":0,"played":"Jouer Glissedrake visionnaire"}
+{"caseId":"sessions/20261026_013105_hdt.log#1@5058","turn":4,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":6,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Murmie"}
+{"caseId":"sessions/20261026_013105_hdt.log#1@6209","turn":5,"decisionInTurn":1,"level":"aucun","needed":27,"maxFace":10,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261026_013105_hdt.log#1@6544","turn":5,"decisionInTurn":2,"level":"aucun","needed":27,"maxFace":10,"taunts":0,"played":"Jouer Luisaile"}
+{"caseId":"sessions/20261026_013105_hdt.log#1@6804","turn":5,"decisionInTurn":3,"level":"aucun","needed":27,"maxFace":10,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Voyant froide-lumière"}
+{"caseId":"sessions/20261026_013105_hdt.log#1@8728","turn":6,"decisionInTurn":1,"level":"aucun","needed":20,"maxFace":11,"taunts":0,"played":"Activer Profondeurs Sanguines → Forgeron dimensionnel (allié)"}
+{"caseId":"sessions/20261026_013105_hdt.log#1@8825","turn":6,"decisionInTurn":2,"level":"aucun","needed":20,"maxFace":11,"taunts":0,"played":"Jouer Glissedrake visionnaire"}
+{"caseId":"sessions/20261026_013105_hdt.log#1@8999","turn":6,"decisionInTurn":3,"level":"aucun","needed":20,"maxFace":11,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Dame Liadrin"}
+{"caseId":"sessions/20261026_013105_hdt.log#1@11207","turn":7,"decisionInTurn":1,"level":"certain","needed":9,"maxFace":9,"taunts":0,"played":null}
+{"caseId":"sessions/20261026_013916_hdt.log#1@1546","turn":1,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Sombre chevaucheur"}
+{"caseId":"sessions/20261026_013916_hdt.log#1@2050","turn":1,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261026_013916_hdt.log#1@2714","turn":2,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":4,"taunts":0,"played":"Jouer Colporteur de pétales"}
+{"caseId":"sessions/20261026_013916_hdt.log#1@2796","turn":2,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":1,"taunts":0,"played":"Attaquer avec Sombre chevaucheur → Gul’dan"}
+{"caseId":"sessions/20261026_013916_hdt.log#1@2973","turn":2,"decisionInTurn":3,"level":"aucun","needed":29,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261026_013916_hdt.log#1@3612","turn":3,"decisionInTurn":1,"level":"aucun","needed":29,"maxFace":5,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261026_013916_hdt.log#1@3787","turn":3,"decisionInTurn":2,"level":"aucun","needed":29,"maxFace":2,"taunts":0,"played":"Attaquer avec Colporteur de pétales → Gul’dan"}
+{"caseId":"sessions/20261026_013916_hdt.log#1@4067","turn":3,"decisionInTurn":3,"level":"aucun","needed":28,"maxFace":1,"taunts":0,"played":"Attaquer avec Sombre chevaucheur → Gul’dan"}
+{"caseId":"sessions/20261026_013916_hdt.log#1@5102","turn":4,"decisionInTurn":1,"level":"aucun","needed":27,"maxFace":11,"taunts":0,"played":"Jouer Glissedrake visionnaire"}
+{"caseId":"sessions/20261026_013916_hdt.log#1@5635","turn":4,"decisionInTurn":2,"level":"aucun","needed":27,"maxFace":5,"taunts":0,"played":"Attaquer avec Sombre chevaucheur → Soldat de Cho’gall"}
+{"caseId":"sessions/20261026_013916_hdt.log#1@6021","turn":4,"decisionInTurn":3,"level":"aucun","needed":27,"maxFace":4,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Gul’dan"}
+{"caseId":"sessions/20261026_013916_hdt.log#1@8014","turn":5,"decisionInTurn":1,"level":"aucun","needed":20,"maxFace":19,"taunts":0,"played":"Jouer La pièce"}
+{"caseId":"sessions/20261026_013916_hdt.log#1@8168","turn":5,"decisionInTurn":2,"level":"aucun","needed":20,"maxFace":19,"taunts":0,"played":"Jouer Wyrm du pic venteux → Gul’dan"}
+{"caseId":"sessions/20261026_013916_hdt.log#1@8383","turn":5,"decisionInTurn":3,"level":"aucun","needed":15,"maxFace":11,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Gul’dan"}
+{"caseId":"sessions/20261026_013916_hdt.log#1@10684","turn":6,"decisionInTurn":1,"level":"certain","needed":4,"maxFace":16,"taunts":0,"played":"Jouer Frappe anticipée → Gul’dan"}
+{"caseId":"sessions/20261026_013916_hdt.log#1@10899","turn":6,"decisionInTurn":2,"level":"certain","needed":1,"maxFace":13,"taunts":0,"played":"Jouer Frappe anticipée → Gul’dan"}
+{"caseId":"sessions/20261026_014601_hdt.log#1@1317","turn":2,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Colporteur de pétales"}
+{"caseId":"sessions/20261026_014601_hdt.log#1@1958","turn":3,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":1,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261026_014601_hdt.log#1@2301","turn":3,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":1,"taunts":0,"played":"Attaquer avec Colporteur de pétales → Aile-ensorcelée pourpre"}
+{"caseId":"sessions/20261026_014601_hdt.log#1@3506","turn":4,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":3,"taunts":0,"played":"Jouer Avant-garde du portail"}
+{"caseId":"sessions/20261026_014601_hdt.log#1@3900","turn":4,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":3,"taunts":0,"played":"Jouer Voyante distordue par le temps"}
+{"caseId":"sessions/20261026_014601_hdt.log#1@3984","turn":4,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":3,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Sabrerune mystique"}
+{"caseId":"sessions/20261026_014601_hdt.log#1@4804","turn":5,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":10,"taunts":0,"played":"Jouer Luisaile"}
+{"caseId":"sessions/20261026_014601_hdt.log#1@5047","turn":5,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":10,"taunts":0,"played":"Jouer Avant-garde du portail"}
+{"caseId":"sessions/20261026_014601_hdt.log#1@5540","turn":5,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":10,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Marcheuse tellurique"}
+{"caseId":"sessions/20261026_014601_hdt.log#1@7493","turn":6,"decisionInTurn":1,"level":"aucun","needed":26,"maxFace":4,"taunts":0,"played":"Jouer Sombre chevaucheur"}
+{"caseId":"sessions/20261026_014601_hdt.log#1@8125","turn":6,"decisionInTurn":2,"level":"aucun","needed":26,"maxFace":4,"taunts":0,"played":"Jouer Glissedrake visionnaire"}
+{"caseId":"sessions/20261026_014601_hdt.log#1@8333","turn":6,"decisionInTurn":3,"level":"aucun","needed":26,"maxFace":4,"taunts":0,"played":"Attaquer avec Avant-garde du portail → Jaina Portvaillant"}
+{"caseId":"sessions/20261026_014601_hdt.log#1@9186","turn":7,"decisionInTurn":1,"level":"aucun","needed":22,"maxFace":17,"taunts":0,"played":"Jouer Wyrm du pic venteux → Jaina Portvaillant"}
+{"caseId":"sessions/20261026_014601_hdt.log#1@9333","turn":7,"decisionInTurn":2,"level":"aucun","needed":17,"maxFace":12,"taunts":0,"played":"Attaquer avec Sombre chevaucheur → Jaina Portvaillant"}
+{"caseId":"sessions/20261026_014601_hdt.log#1@9512","turn":7,"decisionInTurn":3,"level":"aucun","needed":16,"maxFace":11,"taunts":0,"played":"Attaquer avec Avant-garde du portail → Jaina Portvaillant"}
+{"caseId":"sessions/20261026_014601_hdt.log#1@10870","turn":8,"decisionInTurn":1,"level":"aucun","needed":5,"maxFace":2,"taunts":0,"played":"Jouer Animatrice de stade"}
+{"caseId":"sessions/20261026_014601_hdt.log#1@14036","turn":8,"decisionInTurn":2,"level":"aucun","needed":5,"maxFace":2,"taunts":0,"played":null}
+{"caseId":"sessions/20261026_014601_hdt.log#1@14184","turn":8,"decisionInTurn":3,"level":"aucun","needed":5,"maxFace":3,"taunts":0,"played":"Attaquer avec Garrosh Hurlenfer → Jaina Portvaillant"}
+{"caseId":"sessions/20261026_014601_hdt.log#1@16835","turn":9,"decisionInTurn":1,"level":"plausible","needed":5,"maxFace":0,"taunts":1,"played":"Attaquer avec Dragonnet du Vol infini → Techysaurus","nodes":22,"tradeLethal":"démontré","tradeSteps":["Dragonnet du Vol infini attaque Techysaurus 3/6"],"afterLevel":"certain","afterSequence":"Attaquer avec Animatrice de stade → héros adverse (3), puis Attaquer avec Sombre chevaucheur → héros adverse (1), puis Attaquer avec Avant-garde du portail → héros adverse (4), puis Attaquer avec ton héros → héros adverse (3)","afterDamage":11,"afterConditions":""}
+{"caseId":"sessions/20261026_014601_hdt.log#1@17237","turn":9,"decisionInTurn":2,"level":"certain","needed":5,"maxFace":11,"taunts":0,"played":"Attaquer avec Avant-garde du portail → Jaina Portvaillant"}
+{"caseId":"sessions/20261026_014601_hdt.log#1@17419","turn":9,"decisionInTurn":3,"level":"certain","needed":1,"maxFace":7,"taunts":0,"played":"Attaquer avec Garrosh Hurlenfer → Jaina Portvaillant"}
+{"caseId":"sessions/20261026_015601_hdt.log#1@1420","turn":1,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261026_015601_hdt.log#1@2211","turn":2,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":3,"taunts":0,"played":"Jouer La pièce"}
+{"caseId":"sessions/20261026_015601_hdt.log#1@2291","turn":2,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":3,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261026_015601_hdt.log#1@3551","turn":3,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":3,"taunts":1,"played":"Jouer Sombre chevaucheur","nodes":4}
+{"caseId":"sessions/20261026_015601_hdt.log#1@4086","turn":3,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":3,"taunts":1,"played":"Jouer Gardien des couvées","nodes":4}
+{"caseId":"sessions/20261026_015601_hdt.log#1@4231","turn":3,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":0,"taunts":1,"played":"Attaquer avec Garrosh Hurlenfer → Causalité intemporelle","nodes":3}
+{"caseId":"sessions/20261026_015601_hdt.log#1@5833","turn":4,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":5,"taunts":1,"played":"Jouer Avant-garde du portail","nodes":22}
+{"caseId":"sessions/20261026_015601_hdt.log#1@6296","turn":4,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":0,"taunts":1,"played":"Attaquer avec Gardien des couvées → Chevaucheuse d’araignée","nodes":11}
+{"caseId":"sessions/20261026_015601_hdt.log#1@6515","turn":4,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":7,"taunts":0,"played":"Jouer Voyante distordue par le temps"}
+{"caseId":"sessions/20261026_015601_hdt.log#1@8014","turn":5,"decisionInTurn":1,"level":"aucun","needed":27,"maxFace":19,"taunts":0,"played":"Jouer Frappe anticipée → Uther le Porteur de Lumière"}
+{"caseId":"sessions/20261026_015601_hdt.log#1@8521","turn":5,"decisionInTurn":2,"level":"aucun","needed":24,"maxFace":16,"taunts":0,"played":"Jouer Colporteur de pétales"}
+{"caseId":"sessions/20261026_015601_hdt.log#1@8672","turn":5,"decisionInTurn":3,"level":"aucun","needed":24,"maxFace":14,"taunts":0,"played":"Attaquer avec Gardien des couvées → Uther le Porteur de Lumière"}
+{"caseId":"sessions/20261026_015601_hdt.log#1@10318","turn":6,"decisionInTurn":1,"level":"certain","needed":10,"maxFace":14,"taunts":0,"played":null}
+{"caseId":"sessions/20261026_020236_hdt.log#1@1565","turn":1,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Sombre chevaucheur"}
+{"caseId":"sessions/20261026_020236_hdt.log#1@2026","turn":1,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261026_020236_hdt.log#1@2697","turn":2,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":1,"taunts":0,"played":"Jouer Colporteur de pétales"}
+{"caseId":"sessions/20261026_020236_hdt.log#1@2757","turn":2,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":1,"taunts":0,"played":"Jouer La pièce"}
+{"caseId":"sessions/20261026_020236_hdt.log#1@2870","turn":2,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":1,"taunts":0,"played":"Jouer Voyante distordue par le temps"}
+{"caseId":"sessions/20261026_020236_hdt.log#1@4118","turn":3,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":4,"taunts":0,"played":"Jouer Avant-garde du portail"}
+{"caseId":"sessions/20261026_020236_hdt.log#1@4530","turn":3,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":4,"taunts":0,"played":"Attaquer avec Colporteur de pétales → Sombreraie"}
+{"caseId":"sessions/20261026_020236_hdt.log#1@4700","turn":3,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":3,"taunts":0,"played":"Attaquer avec Voyante distordue par le temps → Sombreraie"}
+{"caseId":"sessions/20261026_020236_hdt.log#1@6127","turn":4,"decisionInTurn":1,"level":"aucun","needed":29,"maxFace":0,"taunts":2,"played":"Jouer Glissedrake visionnaire","nodes":24}
+{"caseId":"sessions/20261026_020236_hdt.log#1@6253","turn":4,"decisionInTurn":2,"level":"aucun","needed":29,"maxFace":0,"taunts":2,"played":"Attaquer avec Avant-garde du portail → Garde des profondeurs","nodes":24}
+{"caseId":"sessions/20261026_020236_hdt.log#1@6395","turn":4,"decisionInTurn":3,"level":"aucun","needed":29,"maxFace":0,"taunts":1,"played":"Attaquer avec Sombre chevaucheur → Garde des profondeurs","nodes":4}
+{"caseId":"sessions/20261026_020236_hdt.log#1@8057","turn":5,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":1,"played":"Jouer Sombre chevaucheur","nodes":5}
+{"caseId":"sessions/20261026_020236_hdt.log#1@8534","turn":5,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":0,"taunts":1,"played":"Jouer Glissedrake visionnaire","nodes":2}
+{"caseId":"sessions/20261026_020236_hdt.log#1@8660","turn":5,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":0,"taunts":1,"played":"Attaquer avec Glissedrake visionnaire → Garde des profondeurs","nodes":2}
+{"caseId":"sessions/20261026_020236_hdt.log#1@10451","turn":6,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":17,"taunts":0,"played":"Jouer Chronoseigneur Époque"}
+{"caseId":"sessions/20261026_020236_hdt.log#1@10594","turn":6,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":12,"taunts":0,"played":"Attaquer avec Glissedrake visionnaire → Aile du Vide"}
+{"caseId":"sessions/20261026_020236_hdt.log#1@10804","turn":6,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":5,"taunts":0,"played":"Attaquer avec Glissedrake visionnaire → Aile du Vide"}
+{"caseId":"sessions/20261026_020236_hdt.log#1@11815","turn":7,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":1,"played":"Jouer Chronoseigneur Époque","nodes":9}
+{"caseId":"sessions/20261026_020236_hdt.log#1@11960","turn":7,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":19,"taunts":0,"played":"Jouer Profondeurs Sanguines"}
+{"caseId":"sessions/20261026_020236_hdt.log#1@12090","turn":7,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":19,"taunts":0,"played":"Activer Profondeurs Sanguines → Glissedrake visionnaire (allié)"}
+{"caseId":"sessions/20261026_020236_hdt.log#1@15176","turn":8,"decisionInTurn":1,"level":"plausible","needed":11,"maxFace":3,"taunts":1,"played":"Jouer Frappe anticipée → Aile du Vide","nodes":34,"tradeLethal":"à risque","tradeSteps":["Frappe anticipée (3) → Aile du Vide","Glissedrake visionnaire attaque Aile du Vide 9/8"],"afterLevel":"certain","afterSequence":"Jouer Guerrière du Vol infini (Charge), puis Attaquer avec Chronoseigneur Époque → héros adverse (10), puis Attaquer avec Chronoseigneur Époque → héros adverse (7), puis Attaquer avec Guerrière du Vol infini → héros adverse (3)","afterDamage":20,"afterConditions":""}
+{"caseId":"sessions/20261026_020236_hdt.log#1@15400","turn":8,"decisionInTurn":2,"level":"plausible","needed":11,"maxFace":5,"taunts":1,"played":"Attaquer avec Glissedrake visionnaire → Aile du Vide","nodes":20,"tradeLethal":"à risque","tradeSteps":["Glissedrake visionnaire attaque Aile du Vide 9/8"],"afterLevel":"certain","afterSequence":"Jouer Wyrm du pic venteux → héros adverse (5), puis Attaquer avec Chronoseigneur Époque → héros adverse (10), puis Attaquer avec Chronoseigneur Époque → héros adverse (7)","afterDamage":22,"afterConditions":""}
+{"caseId":"sessions/20261026_020236_hdt.log#1@15707","turn":8,"decisionInTurn":3,"level":"certain","needed":20,"maxFace":22,"taunts":0,"played":"Jouer Wyrm du pic venteux → Zek’voz"}
+{"caseId":"sessions/20261026_021216_hdt.log#1@963","turn":1,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Profondeurs Sanguines"}
+{"caseId":"sessions/20261026_021216_hdt.log#1@1754","turn":2,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":3,"taunts":0,"played":"Jouer Frappe anticipée → Chevalier floramer"}
+{"caseId":"sessions/20261026_021216_hdt.log#1@2698","turn":3,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":2,"taunts":0,"played":"Jouer Suffusion d’ombreflamme → Chevalier floramer"}
+{"caseId":"sessions/20261026_021216_hdt.log#1@3405","turn":3,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Activer Profondeurs Sanguines → Chevalier floramer"}
+{"caseId":"sessions/20261026_021216_hdt.log#1@4233","turn":4,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":2,"taunts":0,"played":"Jouer Gardien des couvées"}
+{"caseId":"sessions/20261026_021216_hdt.log#1@4526","turn":4,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":2,"taunts":0,"played":"Jouer Colporteur de pétales"}
+{"caseId":"sessions/20261026_021216_hdt.log#1@4663","turn":4,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":2,"taunts":0,"played":"Attaquer avec Garrosh Hurlenfer → Feu follet"}
+{"caseId":"sessions/20261026_021216_hdt.log#1@5671","turn":5,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":2,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261026_021216_hdt.log#1@6070","turn":5,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":2,"taunts":0,"played":"Jouer Colporteur de pétales"}
+{"caseId":"sessions/20261026_021216_hdt.log#1@6286","turn":5,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":2,"taunts":0,"played":"Attaquer avec Garrosh Hurlenfer → Feu follet"}
+{"caseId":"sessions/20261026_021216_hdt.log#1@7528","turn":6,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":5,"taunts":0,"played":"Jouer Glissedrake visionnaire"}
+{"caseId":"sessions/20261026_021216_hdt.log#1@7617","turn":6,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Pouvoir héroïque Gain d’armure\u00A0!"}
+{"caseId":"sessions/20261026_021216_hdt.log#1@7693","turn":6,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261026_021216_hdt.log#1@8414","turn":7,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":12,"taunts":0,"played":"Jouer Wyrm du pic venteux → Jaina Portvaillant"}
+{"caseId":"sessions/20261026_021216_hdt.log#1@8704","turn":7,"decisionInTurn":2,"level":"aucun","needed":25,"maxFace":7,"taunts":0,"played":"Activer Profondeurs Sanguines → Glissedrake visionnaire (allié)"}
+{"caseId":"sessions/20261026_021216_hdt.log#1@8896","turn":7,"decisionInTurn":3,"level":"aucun","needed":25,"maxFace":7,"taunts":0,"played":"Attaquer avec Glissedrake visionnaire → Jaina Portvaillant"}
+{"caseId":"sessions/20261026_021216_hdt.log#1@10072","turn":8,"decisionInTurn":1,"level":"aucun","needed":22,"maxFace":0,"taunts":0,"played":"Jouer Chronoseigneur Époque"}
+{"caseId":"sessions/20261026_021216_hdt.log#1@10315","turn":8,"decisionInTurn":2,"level":"aucun","needed":22,"maxFace":0,"taunts":0,"played":"Jouer Luisaile"}
+{"caseId":"sessions/20261026_021216_hdt.log#1@11800","turn":9,"decisionInTurn":1,"level":"aucun","needed":26,"maxFace":3,"taunts":0,"played":"Jouer Morchie"}
+{"caseId":"sessions/20261026_021216_hdt.log#1@12150","turn":9,"decisionInTurn":2,"level":"aucun","needed":26,"maxFace":3,"taunts":0,"played":"Jouer Sombre chevaucheur"}
+{"caseId":"sessions/20261026_021216_hdt.log#1@12672","turn":9,"decisionInTurn":3,"level":"aucun","needed":26,"maxFace":3,"taunts":0,"played":"Jouer Dagues temporelles"}
+{"caseId":"sessions/20261026_021216_hdt.log#1@14674","turn":10,"decisionInTurn":1,"level":"aucun","needed":22,"maxFace":0,"taunts":0,"played":"Jouer Avant-garde du portail"}
+{"caseId":"sessions/20261026_021216_hdt.log#1@18670","turn":10,"decisionInTurn":2,"level":"aucun","needed":22,"maxFace":0,"taunts":0,"played":null}
+{"caseId":"sessions/20261026_021216_hdt.log#1@18798","turn":10,"decisionInTurn":3,"level":"aucun","needed":22,"maxFace":2,"taunts":0,"played":"Jouer Glissedrake visionnaire"}
+{"caseId":"sessions/20261026_021216_hdt.log#1@21473","turn":11,"decisionInTurn":1,"level":"aucun","needed":23,"maxFace":5,"taunts":1,"played":"Jouer Wyrm du pic venteux → Chevaucheuse de feu follet","nodes":23}
+{"caseId":"sessions/20261026_021216_hdt.log#1@21844","turn":11,"decisionInTurn":2,"level":"aucun","needed":23,"maxFace":0,"taunts":1,"played":"Attaquer avec Garrosh Hurlenfer → Gardienne bruissaile","nodes":12}
+{"caseId":"sessions/20261026_021216_hdt.log#1@22061","turn":11,"decisionInTurn":3,"level":"aucun","needed":23,"maxFace":0,"taunts":1,"played":"Attaquer avec Glissedrake visionnaire → Gardienne bruissaile","nodes":4}
+{"caseId":"sessions/20261026_021216_hdt.log#1@25212","turn":12,"decisionInTurn":1,"level":"aucun","needed":29,"maxFace":6,"taunts":0,"played":"Attaquer avec Glissedrake visionnaire → Jaina Portvaillant"}
+{"caseId":"sessions/20261026_021216_hdt.log#1@25617","turn":12,"decisionInTurn":2,"level":"aucun","needed":24,"maxFace":1,"taunts":0,"played":"Attaquer avec Dragonnet du Vol infini → Jaina Portvaillant"}
+{"caseId":"sessions/20261026_021216_hdt.log#1@25735","turn":12,"decisionInTurn":3,"level":"aucun","needed":23,"maxFace":0,"taunts":0,"played":"Jouer Voyante distordue par le temps"}
+{"caseId":"sessions/20261026_021216_hdt.log#1@28356","turn":13,"decisionInTurn":1,"level":"aucun","needed":23,"maxFace":0,"taunts":0,"played":"Activer Profondeurs Sanguines → Feu follet"}
+{"caseId":"sessions/20261026_021216_hdt.log#1@28914","turn":13,"decisionInTurn":2,"level":"aucun","needed":23,"maxFace":0,"taunts":0,"played":"Pouvoir héroïque Gain d’armure\u00A0!"}
+{"caseId":"sessions/20261026_021216_hdt.log#1@29011","turn":13,"decisionInTurn":3,"level":"aucun","needed":23,"maxFace":0,"taunts":0,"played":"Jouer Sombre chevaucheur"}
+{"caseId":"sessions/20261026_023027_hdt.log#1@774","turn":1,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Sombre chevaucheur"}
+{"caseId":"sessions/20261026_023027_hdt.log#1@1856","turn":2,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":3,"taunts":0,"played":"Jouer Voyante distordue par le temps"}
+{"caseId":"sessions/20261026_023027_hdt.log#1@2109","turn":2,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":1,"taunts":0,"played":"Attaquer avec Sombre chevaucheur → Amasseur de trouvailles"}
+{"caseId":"sessions/20261026_023027_hdt.log#1@2787","turn":3,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":3,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261026_023027_hdt.log#1@3156","turn":3,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":1,"taunts":0,"played":"Attaquer avec Voyante distordue par le temps → Rexxar"}
+{"caseId":"sessions/20261026_023027_hdt.log#1@4494","turn":4,"decisionInTurn":1,"level":"aucun","needed":29,"maxFace":8,"taunts":0,"played":"Jouer Suffusion d’ombreflamme → Amasseur de trouvailles"}
+{"caseId":"sessions/20261026_023027_hdt.log#1@5487","turn":4,"decisionInTurn":2,"level":"aucun","needed":29,"maxFace":6,"taunts":0,"played":"Jouer Gardien des couvées"}
+{"caseId":"sessions/20261026_023027_hdt.log#1@5631","turn":4,"decisionInTurn":3,"level":"aucun","needed":29,"maxFace":6,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Amasseur de trouvailles"}
+{"caseId":"sessions/20261026_023027_hdt.log#1@6952","turn":5,"decisionInTurn":1,"level":"aucun","needed":23,"maxFace":9,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261026_023027_hdt.log#1@7330","turn":5,"decisionInTurn":2,"level":"aucun","needed":23,"maxFace":9,"taunts":0,"played":"Jouer Poing-crochet\u00A03000"}
+{"caseId":"sessions/20261026_023027_hdt.log#1@7547","turn":5,"decisionInTurn":3,"level":"aucun","needed":23,"maxFace":6,"taunts":0,"played":"Attaquer avec Garrosh Hurlenfer → Rexxar"}
+{"caseId":"sessions/20261026_023027_hdt.log#1@9501","turn":6,"decisionInTurn":1,"level":"aucun","needed":13,"maxFace":6,"taunts":1,"played":"Jouer Wyrm du pic venteux → Ours runique mythique","nodes":20}
+{"caseId":"sessions/20261026_023027_hdt.log#1@9856","turn":6,"decisionInTurn":2,"level":"aucun","needed":13,"maxFace":6,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Rexxar"}
+{"caseId":"sessions/20261026_023027_hdt.log#1@10066","turn":6,"decisionInTurn":3,"level":"aucun","needed":11,"maxFace":4,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Rexxar"}
+{"caseId":"sessions/20261026_023027_hdt.log#1@11798","turn":7,"decisionInTurn":1,"level":"certain","needed":5,"maxFace":8,"taunts":0,"played":"Jouer Frappe anticipée → Rexxar"}
+{"caseId":"sessions/20261026_023027_hdt.log#1@12137","turn":7,"decisionInTurn":2,"level":"certain","needed":2,"maxFace":5,"taunts":0,"played":"Jouer Frappe anticipée → Rexxar"}
+{"caseId":"sessions/20261026_103415_hdt.log#1@890","turn":1,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Profondeurs Sanguines"}
+{"caseId":"sessions/20261026_103415_hdt.log#1@1432","turn":2,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":2,"taunts":0,"played":"Jouer Suffusion d’ombreflamme → Le roi-liche"}
+{"caseId":"sessions/20261026_103415_hdt.log#1@2463","turn":3,"decisionInTurn":1,"level":"aucun","needed":28,"maxFace":0,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261026_103415_hdt.log#1@2808","turn":3,"decisionInTurn":2,"level":"aucun","needed":28,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261026_103415_hdt.log#1@3672","turn":4,"decisionInTurn":1,"level":"aucun","needed":28,"maxFace":0,"taunts":1,"played":"Jouer Sombre chevaucheur","nodes":2}
+{"caseId":"sessions/20261026_103415_hdt.log#1@4187","turn":4,"decisionInTurn":2,"level":"aucun","needed":28,"maxFace":0,"taunts":1,"played":"Jouer Dragonnet du Vol infini","nodes":2}
+{"caseId":"sessions/20261026_103415_hdt.log#1@4267","turn":4,"decisionInTurn":3,"level":"aucun","needed":28,"maxFace":0,"taunts":1,"played":"Activer Profondeurs Sanguines → Gardienne bruissaile","nodes":2}
+{"caseId":"sessions/20261026_103415_hdt.log#1@5068","turn":5,"decisionInTurn":1,"level":"aucun","needed":28,"maxFace":0,"taunts":1,"played":"Jouer Profondeurs Sanguines","nodes":8}
+{"caseId":"sessions/20261026_103415_hdt.log#1@5348","turn":5,"decisionInTurn":2,"level":"aucun","needed":28,"maxFace":0,"taunts":1,"played":"Jouer Verdaile illusoire","nodes":8}
+{"caseId":"sessions/20261026_103415_hdt.log#1@5519","turn":5,"decisionInTurn":3,"level":"aucun","needed":28,"maxFace":0,"taunts":1,"played":"Activer Profondeurs Sanguines → Forgeron dimensionnel (allié)","nodes":8}
+{"caseId":"sessions/20261026_103415_hdt.log#1@6978","turn":6,"decisionInTurn":1,"level":"aucun","needed":28,"maxFace":5,"taunts":1,"played":"Jouer Wyrm du pic venteux → Le roi-liche","nodes":8}
+{"caseId":"sessions/20261026_103415_hdt.log#1@7157","turn":6,"decisionInTurn":2,"level":"aucun","needed":23,"maxFace":0,"taunts":1,"played":"Activer Profondeurs Sanguines → Verdaile illusoire (allié)","nodes":6}
+{"caseId":"sessions/20261026_103415_hdt.log#1@7370","turn":6,"decisionInTurn":3,"level":"aucun","needed":23,"maxFace":0,"taunts":1,"played":"Attaquer avec Verdaile illusoire → Verdaile illusoire","nodes":6}
+{"caseId":"sessions/20261026_103415_hdt.log#1@8712","turn":7,"decisionInTurn":1,"level":"certain","needed":25,"maxFace":32,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261026_103415_hdt.log#1@9146","turn":7,"decisionInTurn":2,"level":"certain","needed":25,"maxFace":32,"taunts":0,"played":"Jouer Salamandre dimensionnelle"}
+{"caseId":"sessions/20261026_103415_hdt.log#1@9375","turn":7,"decisionInTurn":3,"level":"certain","needed":25,"maxFace":32,"taunts":0,"played":"Activer Profondeurs Sanguines → Wyrm du pic venteux (allié)"}
+{"caseId":"sessions/20261026_105144_hdt.log#1@2168","turn":1,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Voyante distordue par le temps"}
+{"caseId":"sessions/20261026_105144_hdt.log#1@2341","turn":1,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261026_105144_hdt.log#1@3217","turn":2,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":3,"taunts":0,"played":"Jouer Colporteur de pétales"}
+{"caseId":"sessions/20261026_105144_hdt.log#1@3428","turn":2,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":1,"taunts":0,"played":"Attaquer avec Voyante distordue par le temps → Illidan, fléau des démons"}
+{"caseId":"sessions/20261026_105144_hdt.log#1@3577","turn":2,"decisionInTurn":3,"level":"aucun","needed":29,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261026_105144_hdt.log#1@5112","turn":3,"decisionInTurn":1,"level":"aucun","needed":29,"maxFace":4,"taunts":0,"played":"Jouer Gardien des couvées"}
+{"caseId":"sessions/20261026_105144_hdt.log#1@5343","turn":3,"decisionInTurn":2,"level":"aucun","needed":29,"maxFace":4,"taunts":0,"played":"Jouer La pièce"}
+{"caseId":"sessions/20261026_105144_hdt.log#1@5512","turn":3,"decisionInTurn":3,"level":"aucun","needed":29,"maxFace":4,"taunts":0,"played":"Jouer Colporteur de pétales"}
+{"caseId":"sessions/20261026_105144_hdt.log#1@7422","turn":4,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":7,"taunts":0,"played":"Jouer Glissedrake visionnaire"}
+{"caseId":"sessions/20261026_105144_hdt.log#1@7523","turn":4,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":4,"taunts":0,"played":"Attaquer avec Gardien des couvées → Illidan, fléau des démons"}
+{"caseId":"sessions/20261026_105144_hdt.log#1@7648","turn":4,"decisionInTurn":3,"level":"aucun","needed":28,"maxFace":2,"taunts":0,"played":"Attaquer avec Garrosh Hurlenfer → Illidan, fléau des démons"}
+{"caseId":"sessions/20261026_105144_hdt.log#1@8843","turn":5,"decisionInTurn":1,"level":"aucun","needed":24,"maxFace":3,"taunts":1,"played":"Jouer Frappe anticipée → Brute furie-perçante","nodes":15}
+{"caseId":"sessions/20261026_105144_hdt.log#1@9040","turn":5,"decisionInTurn":2,"level":"aucun","needed":24,"maxFace":0,"taunts":1,"played":"Attaquer avec Glissedrake visionnaire → Brute furie-perçante","nodes":7}
+{"caseId":"sessions/20261026_105144_hdt.log#1@9361","turn":5,"decisionInTurn":3,"level":"aucun","needed":24,"maxFace":2,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261026_105144_hdt.log#1@10442","turn":6,"decisionInTurn":1,"level":"aucun","needed":22,"maxFace":14,"taunts":0,"played":"Jouer Wyrm du pic venteux → Illidan, fléau des démons"}
+{"caseId":"sessions/20261026_105144_hdt.log#1@10596","turn":6,"decisionInTurn":2,"level":"aucun","needed":17,"maxFace":9,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Illidan, fléau des démons"}
+{"caseId":"sessions/20261026_105144_hdt.log#1@10782","turn":6,"decisionInTurn":3,"level":"aucun","needed":15,"maxFace":7,"taunts":0,"played":"Attaquer avec Glissedrake visionnaire → Illidan, fléau des démons"}
+{"caseId":"sessions/20261026_105144_hdt.log#1@11494","turn":7,"decisionInTurn":1,"level":"certain","needed":8,"maxFace":19,"taunts":0,"played":"Jouer Suffusion d’ombreflamme → Illidan, fléau des démons"}
+{"caseId":"sessions/20261026_110008_hdt.log#1@964","turn":1,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Profondeurs Sanguines"}
+{"caseId":"sessions/20261026_110008_hdt.log#1@1636","turn":2,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":2,"taunts":0,"played":"Jouer Colporteur de pétales"}
+{"caseId":"sessions/20261026_110008_hdt.log#1@1694","turn":2,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261026_110008_hdt.log#1@2288","turn":3,"decisionInTurn":1,"level":"aucun","needed":28,"maxFace":6,"taunts":0,"played":"Jouer Gardien des couvées"}
+{"caseId":"sessions/20261026_110008_hdt.log#1@2409","turn":3,"decisionInTurn":2,"level":"aucun","needed":28,"maxFace":5,"taunts":0,"played":"Activer Profondeurs Sanguines → Colporteur de pétales (allié)"}
+{"caseId":"sessions/20261026_110008_hdt.log#1@2646","turn":3,"decisionInTurn":3,"level":"aucun","needed":28,"maxFace":5,"taunts":0,"played":"Attaquer avec Colporteur de pétales → Nemsie Nécroflop"}
+{"caseId":"sessions/20261026_110008_hdt.log#1@3888","turn":4,"decisionInTurn":1,"level":"aucun","needed":26,"maxFace":7,"taunts":0,"played":"Jouer Glissedrake visionnaire"}
+{"caseId":"sessions/20261026_110008_hdt.log#1@4023","turn":4,"decisionInTurn":2,"level":"aucun","needed":26,"maxFace":4,"taunts":0,"played":"Attaquer avec Gardien des couvées → Nemsie Nécroflop"}
+{"caseId":"sessions/20261026_110008_hdt.log#1@4173","turn":4,"decisionInTurn":3,"level":"aucun","needed":24,"maxFace":2,"taunts":0,"played":"Attaquer avec Garrosh Hurlenfer → Nemsie Nécroflop"}
+{"caseId":"sessions/20261026_110008_hdt.log#1@5174","turn":5,"decisionInTurn":1,"level":"aucun","needed":22,"maxFace":3,"taunts":1,"played":"Jouer Glissedrake visionnaire","nodes":7}
+{"caseId":"sessions/20261026_110008_hdt.log#1@5313","turn":5,"decisionInTurn":2,"level":"aucun","needed":22,"maxFace":0,"taunts":1,"played":"Attaquer avec Glissedrake visionnaire → Sbire du gang des diablotins","nodes":4}
+{"caseId":"sessions/20261026_110008_hdt.log#1@5588","turn":5,"decisionInTurn":3,"level":"aucun","needed":22,"maxFace":4,"taunts":0,"played":"Attaquer avec Gardien des couvées → Nemsie Nécroflop"}
+{"caseId":"sessions/20261026_110008_hdt.log#1@7241","turn":6,"decisionInTurn":1,"level":"aucun","needed":18,"maxFace":5,"taunts":2,"played":"Jouer Frappe anticipée → Fanatique sans-visage","nodes":69}
+{"caseId":"sessions/20261026_110008_hdt.log#1@7475","turn":6,"decisionInTurn":2,"level":"aucun","needed":18,"maxFace":2,"taunts":1,"played":"Jouer Suffusion d’ombreflamme → Fanatique sans-visage","nodes":10}
+{"caseId":"sessions/20261026_110008_hdt.log#1@8084","turn":6,"decisionInTurn":3,"level":"aucun","needed":18,"maxFace":12,"taunts":1,"played":"Activer Profondeurs Sanguines → Fanatique sans-visage","nodes":4}
+{"caseId":"sessions/20261026_110604_hdt.log#1@1151","turn":1,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Sombre chevaucheur"}
+{"caseId":"sessions/20261026_110604_hdt.log#1@1665","turn":1,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261026_110604_hdt.log#1@2325","turn":2,"decisionInTurn":1,"level":"aucun","needed":29,"maxFace":0,"taunts":0,"played":"Jouer La pièce"}
+{"caseId":"sessions/20261026_110604_hdt.log#1@2564","turn":2,"decisionInTurn":2,"level":"aucun","needed":29,"maxFace":0,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261026_110604_hdt.log#1@3904","turn":3,"decisionInTurn":1,"level":"aucun","needed":27,"maxFace":3,"taunts":0,"played":"Jouer Dragonnet du Vol infini"}
+{"caseId":"sessions/20261026_111058_hdt.log#1@1179","turn":1,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Voyante distordue par le temps"}
+{"caseId":"sessions/20261026_111058_hdt.log#1@2078","turn":2,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":3,"taunts":0,"played":"Jouer Colporteur de pétales"}
+{"caseId":"sessions/20261026_111058_hdt.log#1@3012","turn":3,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":3,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261026_111058_hdt.log#1@3945","turn":4,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":8,"taunts":0,"played":"Jouer Frappe anticipée → Maiev, gardienne de Dalaran"}
+{"caseId":"sessions/20261026_111058_hdt.log#1@4307","turn":4,"decisionInTurn":2,"level":"aucun","needed":27,"maxFace":5,"taunts":0,"played":"Jouer Suffusion d’ombreflamme → Maiev, gardienne de Dalaran"}
+{"caseId":"sessions/20261026_111058_hdt.log#1@4945","turn":4,"decisionInTurn":3,"level":"aucun","needed":25,"maxFace":2,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Maiev, gardienne de Dalaran"}
+{"caseId":"sessions/20261026_111058_hdt.log#1@6251","turn":5,"decisionInTurn":1,"level":"aucun","needed":21,"maxFace":3,"taunts":0,"played":"Jouer Avant-garde du portail"}
+{"caseId":"sessions/20261026_111058_hdt.log#1@6856","turn":5,"decisionInTurn":2,"level":"aucun","needed":21,"maxFace":3,"taunts":0,"played":"Jouer Frappe anticipée → Maiev, gardienne de Dalaran"}
+{"caseId":"sessions/20261026_111058_hdt.log#1@8065","turn":6,"decisionInTurn":1,"level":"aucun","needed":18,"maxFace":5,"taunts":1,"played":"Jouer Wyrm du pic venteux → Émissaire de la Fin","nodes":6}
+{"caseId":"sessions/20261026_111058_hdt.log#1@8212","turn":6,"decisionInTurn":2,"level":"aucun","needed":18,"maxFace":2,"taunts":0,"played":"Attaquer avec Avant-garde du portail → Maiev, gardienne de Dalaran"}
+{"caseId":"sessions/20261026_111058_hdt.log#1@12320","turn":7,"decisionInTurn":1,"level":"aucun","needed":16,"maxFace":8,"taunts":1,"played":"Jouer Chronoseigneur Époque","nodes":4}
+{"caseId":"sessions/20261026_111058_hdt.log#1@12570","turn":7,"decisionInTurn":2,"level":"aucun","needed":16,"maxFace":8,"taunts":0,"played":"Attaquer avec Wyrm du pic venteux → Maiev, gardienne de Dalaran"}
+{"caseId":"sessions/20261026_111058_hdt.log#1@14407","turn":8,"decisionInTurn":1,"level":"aucun","needed":8,"maxFace":5,"taunts":0,"played":"Jouer Wyrm du pic venteux → Maiev, gardienne de Dalaran"}
+{"caseId":"sessions/20261026_111058_hdt.log#1@14538","turn":8,"decisionInTurn":2,"level":"aucun","needed":3,"maxFace":0,"taunts":0,"played":"Jouer Profondeurs Sanguines"}
+{"caseId":"sessions/20261026_111058_hdt.log#1@14650","turn":8,"decisionInTurn":3,"level":"aucun","needed":3,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261026_111058_hdt.log#1@19022","turn":9,"decisionInTurn":1,"level":"conditionnel","needed":3,"maxFace":2,"taunts":0,"played":"Jouer Animatrice de stade"}
+{"caseId":"sessions/20261026_111058_hdt.log#1@19660","turn":9,"decisionInTurn":2,"level":"certain","needed":3,"maxFace":4,"taunts":0,"played":"Attaquer avec Garrosh Hurlenfer → Maiev, gardienne de Dalaran"}
+{"caseId":"sessions/20261026_111843_hdt.log#1@1370","turn":1,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Voyante distordue par le temps"}
+{"caseId":"sessions/20261026_111843_hdt.log#1@1423","turn":1,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Finir le tour"}
+{"caseId":"sessions/20261026_111843_hdt.log#1@1938","turn":2,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":3,"taunts":0,"played":"Jouer Gardien des couvées"}
+{"caseId":"sessions/20261026_111843_hdt.log#1@2033","turn":2,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":3,"taunts":0,"played":"Attaquer avec Voyante distordue par le temps → Hyène agile"}
+{"caseId":"sessions/20261026_111843_hdt.log#1@2280","turn":2,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":2,"taunts":0,"played":"Attaquer avec Garrosh Hurlenfer → Rexxar"}
+{"caseId":"sessions/20261026_111843_hdt.log#1@2925","turn":3,"decisionInTurn":1,"level":"aucun","needed":28,"maxFace":5,"taunts":0,"played":"Jouer Avant-garde du portail"}
+{"caseId":"sessions/20261026_111843_hdt.log#1@3327","turn":3,"decisionInTurn":2,"level":"aucun","needed":28,"maxFace":5,"taunts":0,"played":"Attaquer avec Gardien des couvées → Rexxar"}
+{"caseId":"sessions/20261026_111843_hdt.log#1@3472","turn":3,"decisionInTurn":3,"level":"aucun","needed":26,"maxFace":3,"taunts":0,"played":"Attaquer avec Voyante distordue par le temps → Rexxar"}
+{"caseId":"sessions/20261026_111843_hdt.log#1@4265","turn":4,"decisionInTurn":1,"level":"aucun","needed":26,"maxFace":9,"taunts":0,"played":"Jouer Suffusion d’ombreflamme → Buveuse de vie"}
+{"caseId":"sessions/20261026_111843_hdt.log#1@5024","turn":4,"decisionInTurn":2,"level":"aucun","needed":26,"maxFace":5,"taunts":0,"played":"Jouer Colporteur de pétales"}
+{"caseId":"sessions/20261026_111843_hdt.log#1@5204","turn":4,"decisionInTurn":3,"level":"aucun","needed":26,"maxFace":5,"taunts":0,"played":"Attaquer avec Avant-garde du portail → Rexxar"}
+{"caseId":"sessions/20261026_111843_hdt.log#1@6262","turn":5,"decisionInTurn":1,"level":"aucun","needed":21,"maxFace":0,"taunts":1,"played":"Jouer La pièce","nodes":11}
+{"caseId":"sessions/20261026_111843_hdt.log#1@6492","turn":5,"decisionInTurn":2,"level":"aucun","needed":21,"maxFace":5,"taunts":1,"played":"Jouer Wyrm du pic venteux → Misha","nodes":16}
+{"caseId":"sessions/20261026_111843_hdt.log#1@6671","turn":5,"decisionInTurn":3,"level":"aucun","needed":21,"maxFace":9,"taunts":0,"played":"Attaquer avec Colporteur de pétales → Rexxar"}
+{"caseId":"sessions/20261026_111843_hdt.log#1@7872","turn":6,"decisionInTurn":1,"level":"conditionnel","needed":12,"maxFace":18,"taunts":0,"played":"Jouer Profondeurs Sanguines"}
+{"caseId":"sessions/20261026_111843_hdt.log#1@8118","turn":6,"decisionInTurn":2,"level":"conditionnel","needed":12,"maxFace":18,"taunts":0,"played":"Activer Profondeurs Sanguines → Wyrm du pic venteux (allié)"}
+{"caseId":"sessions/20261026_111843_hdt.log#1@8312","turn":6,"decisionInTurn":3,"level":"conditionnel","needed":12,"maxFace":18,"taunts":0,"played":"Attaquer avec Gardien des couvées → Rexxar"}
+{"caseId":"sessions/20261026_112707_hdt.log#1@1699","turn":2,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":3,"taunts":0,"played":"Jouer Gardien des couvées"}
+{"caseId":"sessions/20261026_112707_hdt.log#1@1804","turn":2,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":2,"taunts":0,"played":"Attaquer avec Garrosh Hurlenfer → Tyrande Murmevent"}
+{"caseId":"sessions/20261026_112707_hdt.log#1@2682","turn":3,"decisionInTurn":1,"level":"aucun","needed":28,"maxFace":7,"taunts":0,"played":"Jouer Forgeron dimensionnel"}
+{"caseId":"sessions/20261026_112707_hdt.log#1@3036","turn":3,"decisionInTurn":2,"level":"aucun","needed":28,"maxFace":4,"taunts":0,"played":"Attaquer avec Garrosh Hurlenfer → Chevalier floramer"}
+{"caseId":"sessions/20261026_112707_hdt.log#1@3361","turn":3,"decisionInTurn":3,"level":"aucun","needed":28,"maxFace":2,"taunts":0,"played":"Attaquer avec Gardien des couvées → Chevalier floramer"}
+{"caseId":"sessions/20261026_112707_hdt.log#1@4169","turn":4,"decisionInTurn":1,"level":"aucun","needed":28,"maxFace":7,"taunts":0,"played":"Jouer Frappe anticipée → Soigneur du Crépuscule"}
+{"caseId":"sessions/20261026_112707_hdt.log#1@4519","turn":4,"decisionInTurn":2,"level":"aucun","needed":28,"maxFace":4,"taunts":0,"played":"Jouer Sombre chevaucheur"}
+{"caseId":"sessions/20261026_112707_hdt.log#1@5041","turn":4,"decisionInTurn":3,"level":"aucun","needed":28,"maxFace":4,"taunts":0,"played":"Jouer Voyante distordue par le temps"}
+{"caseId":"sessions/20261026_112707_hdt.log#1@6196","turn":5,"decisionInTurn":1,"level":"aucun","needed":26,"maxFace":8,"taunts":0,"played":"Jouer Glissedrake visionnaire"}
+{"caseId":"sessions/20261026_112707_hdt.log#1@6597","turn":5,"decisionInTurn":2,"level":"aucun","needed":26,"maxFace":6,"taunts":0,"played":"Jouer Voyante distordue par le temps"}
+{"caseId":"sessions/20261026_112707_hdt.log#1@6678","turn":5,"decisionInTurn":3,"level":"aucun","needed":26,"maxFace":6,"taunts":0,"played":"Attaquer avec Voyante distordue par le temps → Tyrande Murmevent"}
+{"caseId":"sessions/20261026_112707_hdt.log#1@8274","turn":6,"decisionInTurn":1,"level":"aucun","needed":20,"maxFace":2,"taunts":2,"played":"Attaquer avec Voyante distordue par le temps → Magma mécanique","nodes":188}
+{"caseId":"sessions/20261026_112707_hdt.log#1@8636","turn":6,"decisionInTurn":2,"level":"aucun","needed":20,"maxFace":4,"taunts":2,"played":"Jouer Suffusion d’ombreflamme → Magma mécanique","nodes":60}
+{"caseId":"sessions/20261026_112707_hdt.log#1@9232","turn":6,"decisionInTurn":3,"level":"aucun","needed":20,"maxFace":0,"taunts":1,"played":"Jouer Cogneur d’œufs → Glissedrake visionnaire (allié)","nodes":16}
+{"caseId":"sessions/20261026_113340_hdt.log#1@898","turn":1,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":0,"played":"Jouer Sombre chevaucheur"}
+{"caseId":"sessions/20261026_113340_hdt.log#1@2050","turn":2,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":1,"taunts":0,"played":"Jouer Sombre chevaucheur"}
+{"caseId":"sessions/20261026_113340_hdt.log#1@2789","turn":2,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":1,"taunts":0,"played":"Attaquer avec Sombre chevaucheur → Méca-Jaraxxus"}
+{"caseId":"sessions/20261026_113340_hdt.log#1@3462","turn":3,"decisionInTurn":1,"level":"aucun","needed":29,"maxFace":2,"taunts":0,"played":"Jouer Mère des couvées sombrécaille"}
+{"caseId":"sessions/20261026_113340_hdt.log#1@3660","turn":3,"decisionInTurn":2,"level":"aucun","needed":29,"maxFace":2,"taunts":0,"played":"Jouer Informateur anonyme"}
+{"caseId":"sessions/20261026_113340_hdt.log#1@3997","turn":3,"decisionInTurn":3,"level":"aucun","needed":29,"maxFace":2,"taunts":0,"played":"Attaquer avec Sombre chevaucheur → Méca-Jaraxxus"}
+{"caseId":"sessions/20261026_113340_hdt.log#1@4999","turn":4,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":2,"played":"Jouer Dragonnet du Vol infini","nodes":24}
+{"caseId":"sessions/20261026_113340_hdt.log#1@5280","turn":4,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":0,"taunts":2,"played":"Attaquer avec Informateur anonyme → Brute de C’Thrax","nodes":24}
+{"caseId":"sessions/20261026_113340_hdt.log#1@5480","turn":4,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":0,"taunts":1,"played":"Finir le tour","nodes":4}
+{"caseId":"sessions/20261026_113340_hdt.log#1@6732","turn":5,"decisionInTurn":1,"level":"aucun","needed":30,"maxFace":0,"taunts":1,"played":"Jouer Libération des Bêtes","nodes":2}
+{"caseId":"sessions/20261026_113340_hdt.log#1@7336","turn":5,"decisionInTurn":2,"level":"aucun","needed":30,"maxFace":0,"taunts":1,"played":"Jouer Forgeron dimensionnel","nodes":2}
+{"caseId":"sessions/20261026_113340_hdt.log#1@7556","turn":5,"decisionInTurn":3,"level":"aucun","needed":30,"maxFace":0,"taunts":1,"played":"Attaquer avec Dragonnet du Vol infini → Brute de C’Thrax","nodes":2}
+{"caseId":"sessions/20261026_113340_hdt.log#1@9012","turn":6,"decisionInTurn":1,"level":"aucun","needed":28,"maxFace":4,"taunts":0,"played":"Jouer Chronoseigneur Époque"}
+{"caseId":"sessions/20261026_113340_hdt.log#1@9275","turn":6,"decisionInTurn":2,"level":"aucun","needed":28,"maxFace":4,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Méca-Jaraxxus"}
+{"caseId":"sessions/20261026_113340_hdt.log#1@9418","turn":6,"decisionInTurn":3,"level":"aucun","needed":25,"maxFace":1,"taunts":0,"played":"Attaquer avec Dragonnet du Vol infini → Méca-Jaraxxus"}
+{"caseId":"sessions/20261026_113340_hdt.log#1@10513","turn":7,"decisionInTurn":1,"level":"aucun","needed":24,"maxFace":5,"taunts":2,"played":"Jouer Wyrm du pic venteux → Brute de C’Thrax","nodes":27}
+{"caseId":"sessions/20261026_113340_hdt.log#1@10673","turn":7,"decisionInTurn":2,"level":"aucun","needed":24,"maxFace":0,"taunts":1,"played":"Attaquer avec Dragonnet du Vol infini → Brute de C’Thrax","nodes":6}
+{"caseId":"sessions/20261026_113340_hdt.log#1@10923","turn":7,"decisionInTurn":3,"level":"aucun","needed":24,"maxFace":15,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Méca-Jaraxxus"}
+{"caseId":"sessions/20261026_113340_hdt.log#1@13388","turn":8,"decisionInTurn":1,"level":"plausible","needed":14,"maxFace":0,"taunts":1,"played":"Attaquer avec Wyrm du pic venteux → Sbire du gang des diablotins","nodes":6,"tradeLethal":"à risque","tradeSteps":["Chronoseigneur Époque attaque Sbire du gang des diablotins 2/5"],"afterLevel":"certain","afterSequence":"Jouer Grommash Hurlenfer (Charge), puis Attaquer avec Forgeron dimensionnel → héros adverse (3), puis Attaquer avec Wyrm du pic venteux → héros adverse (6), puis Attaquer avec Grommash Hurlenfer → héros adverse (9)","afterDamage":18,"afterConditions":""}
+{"caseId":"sessions/20261026_113340_hdt.log#1@13852","turn":8,"decisionInTurn":2,"level":"certain","needed":14,"maxFace":24,"taunts":0,"played":"Jouer Grommash Hurlenfer"}
+{"caseId":"sessions/20261026_113340_hdt.log#1@14028","turn":8,"decisionInTurn":3,"level":"certain","needed":14,"maxFace":24,"taunts":0,"played":"Attaquer avec Forgeron dimensionnel → Méca-Jaraxxus"}

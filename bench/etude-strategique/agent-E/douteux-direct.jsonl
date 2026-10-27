@@ -1,0 +1,802 @@
+{"caseId":"sessions/20261025_192643_hdt.log#1@871","origin":"modèle","action":"Jouer Voyante distordue par le temps","flags":[]}
+{"caseId":"sessions/20261025_192643_hdt.log#1@1789","origin":"modèle","action":"Attaquer avec Voyante distordue par le temps → Émissaire des Très anciens","flags":[]}
+{"caseId":"sessions/20261025_192643_hdt.log#1@1963","origin":"modèle","action":"Jouer Suffusion d’ombreflamme → Illidan, ravageur de fiel","flags":[]}
+{"caseId":"sessions/20261025_192643_hdt.log#1@3118","origin":"modèle","action":"Jouer Avant-garde du portail","flags":[]}
+{"caseId":"sessions/20261025_192643_hdt.log#1@4680","origin":"modèle","action":"Jouer Glissedrake visionnaire","flags":[]}
+{"caseId":"sessions/20261025_192643_hdt.log#1@6922","origin":"modèle","action":"Jouer Avant-garde du portail","flags":[]}
+{"caseId":"sessions/20261025_192643_hdt.log#1@7298","origin":"modèle","action":"Jouer Colporteur de pétales","flags":[]}
+{"caseId":"sessions/20261025_192643_hdt.log#1@8408","origin":"modèle","action":"Jouer Suffusion d’ombreflamme → Brute écaille-du-Vide","flags":[]}
+{"caseId":"sessions/20261025_192643_hdt.log#1@9165","origin":"modèle","action":"Jouer Calamar pas cuit → Artificier mo’arg","flags":[]}
+{"caseId":"sessions/20261025_192643_hdt.log#1@9331","origin":"plan","action":"Attaquer avec Colporteur de pétales → Illidan, ravageur de fiel","flags":[]}
+{"caseId":"sessions/20261025_192643_hdt.log#1@10726","origin":"modèle","action":"Jouer Cogneur d’œufs → Colporteur de pétales (allié)","flags":[]}
+{"caseId":"sessions/20261025_192643_hdt.log#1@10980","origin":"modèle","action":"Jouer Gardien des couvées","flags":[]}
+{"caseId":"sessions/20261025_192643_hdt.log#1@11278","origin":"modèle","action":"Attaquer avec Garrosh Hurlenfer → Surveillant satyre","flags":[]}
+{"caseId":"sessions/20261025_193512_hdt.log#1@1206","origin":"modèle","action":"Jouer Sombre chevaucheur","flags":[]}
+{"caseId":"sessions/20261025_193512_hdt.log#1@1788","origin":"modèle","action":"Finir le tour","flags":["FIN_DE_TOUR_PREMATUREE (à vérifier) : Fin de tour avec 0 mana disponible, 1 carte(s) ou pouvoir jouable(s) et 0 attaquant(s) disponible(s)."]}
+{"caseId":"sessions/20261025_193512_hdt.log#1@2560","origin":"modèle","action":"Jouer La pièce","flags":[]}
+{"caseId":"sessions/20261025_193512_hdt.log#1@2640","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261025_193512_hdt.log#1@2836","origin":"modèle","action":"Attaquer avec Sombre chevaucheur → Thrall","flags":[]}
+{"caseId":"sessions/20261025_193512_hdt.log#1@4343","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261025_193512_hdt.log#1@5506","origin":"modèle","action":"Jouer Glissedrake visionnaire","flags":[]}
+{"caseId":"sessions/20261025_193512_hdt.log#1@5610","origin":"modèle","action":"Attaquer avec Forgeron dimensionnel → Soldat d’Al’Akir","flags":[]}
+{"caseId":"sessions/20261025_193512_hdt.log#1@7532","origin":"modèle","action":"Attaquer avec Glissedrake visionnaire → Prédateur en chasse","flags":[]}
+{"caseId":"sessions/20261025_193512_hdt.log#1@7702","origin":"modèle","action":"Jouer Guerrière du Vol infini","flags":[]}
+{"caseId":"sessions/20261025_193512_hdt.log#1@7964","origin":"modèle","action":"Attaquer avec Guerrière du Vol infini → Élémentaire radieux","flags":[]}
+{"caseId":"sessions/20261025_193512_hdt.log#1@9507","origin":"modèle","action":"Jouer Glissedrake visionnaire","flags":[]}
+{"caseId":"sessions/20261025_193512_hdt.log#1@9606","origin":"modèle","action":"Jouer Luisaile","flags":[]}
+{"caseId":"sessions/20261025_193512_hdt.log#1@11142","origin":"modèle","action":"Jouer Wyrm du pic venteux → Élémentaire d’or en fusion","flags":[]}
+{"caseId":"sessions/20261025_193512_hdt.log#1@12898","origin":"modèle","action":"Jouer Avant-garde du portail","flags":[]}
+{"caseId":"sessions/20261025_193512_hdt.log#1@13299","origin":"modèle","action":"Jouer Gardien des couvées","flags":[]}
+{"caseId":"sessions/20261025_193512_hdt.log#1@13426","origin":"modèle","action":"Attaquer avec Wyrm du pic venteux → Élémentaire furie-des-tempêtes","flags":["ECHANGE_PERDANT (douteux) : Wyrm du pic venteux (6/2) meurt contre Élémentaire furie-des-tempêtes (7/7) sans le tuer."]}
+{"caseId":"sessions/20261025_193512_hdt.log#1@14856","origin":"modèle","action":"Attaquer avec Garrosh Hurlenfer → Thrall","flags":[]}
+{"caseId":"sessions/20261025_193512_hdt.log#1@15202","origin":"modèle","action":"Jouer Colporteur de pétales","flags":[]}
+{"caseId":"sessions/20261025_193512_hdt.log#1@15287","origin":"modèle","action":"Jouer Dragonnet du Vol infini","flags":[]}
+{"caseId":"sessions/20261025_193512_hdt.log#1@16683","origin":"modèle","action":"Jouer Suffusion d’ombreflamme → Thrall","flags":[]}
+{"caseId":"sessions/20261025_194727_hdt.log#1@1547","origin":"modèle","action":"Jouer Sombre chevaucheur","flags":[]}
+{"caseId":"sessions/20261025_194727_hdt.log#1@2005","origin":"modèle","action":"Finir le tour","flags":["FIN_DE_TOUR_PREMATUREE (à vérifier) : Fin de tour avec 0 mana disponible, 1 carte(s) ou pouvoir jouable(s) et 0 attaquant(s) disponible(s)."]}
+{"caseId":"sessions/20261025_194727_hdt.log#1@2668","origin":"modèle","action":"Jouer La pièce","flags":[]}
+{"caseId":"sessions/20261025_194727_hdt.log#1@2784","origin":"modèle","action":"Jouer Gorgonzormu","flags":[]}
+{"caseId":"sessions/20261025_194727_hdt.log#1@3005","origin":"modèle","action":"Attaquer avec Sombre chevaucheur → Chasse-marée murloc","flags":[]}
+{"caseId":"sessions/20261025_194727_hdt.log#1@4618","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261025_194727_hdt.log#1@4787","origin":"modèle","action":"Attaquer avec Gorgonzormu → Totem de griffes de pierre","flags":[]}
+{"caseId":"sessions/20261025_194727_hdt.log#1@6420","origin":"modèle","action":"Jouer Suffusion d’ombreflamme → Fouisseur merrant","flags":[]}
+{"caseId":"sessions/20261025_194727_hdt.log#1@7026","origin":"modèle","action":"Attaquer avec Gorgonzormu → Oracle sinistrécaille","flags":[]}
+{"caseId":"sessions/20261025_194727_hdt.log#1@7249","origin":"plan","action":"Attaquer avec Forgeron dimensionnel → Éclaireur de l’oasis","flags":[]}
+{"caseId":"sessions/20261025_194727_hdt.log#1@8736","origin":"modèle","action":"Jouer Berserker hacheuse","flags":[]}
+{"caseId":"sessions/20261025_194727_hdt.log#1@8850","origin":"modèle","action":"Attaquer avec Berserker hacheuse → Amalgame des profondeurs","flags":[]}
+{"caseId":"sessions/20261025_194727_hdt.log#1@9024","origin":"modèle","action":"Attaquer avec Berserker hacheuse → Éclaireur de l’oasis","flags":[]}
+{"caseId":"sessions/20261025_194727_hdt.log#1@10877","origin":"modèle","action":"Jouer Fromage savoureux","flags":[]}
+{"caseId":"sessions/20261025_194727_hdt.log#1@11145","origin":"modèle","action":"Attaquer avec Forgeron dimensionnel → Chef de la côte sud","flags":[]}
+{"caseId":"sessions/20261025_194727_hdt.log#1@11322","origin":"plan","action":"Jouer Luisaile","flags":[]}
+{"caseId":"sessions/20261025_194727_hdt.log#1@12804","origin":"modèle","action":"Jouer Animatrice de stade","flags":[]}
+{"caseId":"sessions/20261025_210804_hdt.log#1@1638","origin":"modèle","action":"Jouer Voyante distordue par le temps","flags":[]}
+{"caseId":"sessions/20261025_210804_hdt.log#1@1843","origin":"modèle","action":"Finir le tour","flags":["FIN_DE_TOUR_PREMATUREE (à vérifier) : Fin de tour avec 0 mana disponible, 1 carte(s) ou pouvoir jouable(s) et 0 attaquant(s) disponible(s)."]}
+{"caseId":"sessions/20261025_210804_hdt.log#1@2434","origin":"modèle","action":"Jouer Luisaile","flags":[]}
+{"caseId":"sessions/20261025_210804_hdt.log#1@2719","origin":"modèle","action":"Attaquer avec Voyante distordue par le temps → Recrue de la Main d’argent","flags":[]}
+{"caseId":"sessions/20261025_210804_hdt.log#1@2980","origin":"modèle","action":"Finir le tour","flags":["FIN_DE_TOUR_PREMATUREE (à vérifier) : Fin de tour avec 0 mana disponible, 1 carte(s) ou pouvoir jouable(s) et 0 attaquant(s) disponible(s)."]}
+{"caseId":"sessions/20261025_210804_hdt.log#1@3784","origin":"modèle","action":"Jouer Avant-garde du portail","flags":[]}
+{"caseId":"sessions/20261025_210804_hdt.log#1@4228","origin":"modèle","action":"Attaquer avec Voyante distordue par le temps → Recrue de la Main d’argent","flags":[]}
+{"caseId":"sessions/20261025_210804_hdt.log#1@4428","origin":"plan","action":"Attaquer avec Luisaile → Dame Liadrin","flags":[]}
+{"caseId":"sessions/20261025_210804_hdt.log#1@5439","origin":"modèle","action":"Jouer Glissedrake visionnaire","flags":[]}
+{"caseId":"sessions/20261025_210804_hdt.log#1@5729","origin":"modèle","action":"Finir le tour","flags":["FIN_DE_TOUR_PREMATUREE (à vérifier) : Fin de tour avec 0 mana disponible, 1 carte(s) ou pouvoir jouable(s) et 0 attaquant(s) disponible(s)."]}
+{"caseId":"sessions/20261025_210804_hdt.log#1@6498","origin":"modèle","action":"Jouer Avant-garde du portail","flags":[]}
+{"caseId":"sessions/20261025_210804_hdt.log#1@9067","origin":"modèle","action":"Jouer Profondeurs Sanguines","flags":[]}
+{"caseId":"sessions/20261025_210804_hdt.log#1@10639","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261025_210804_hdt.log#1@10985","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261025_210804_hdt.log#1@11327","origin":"modèle","action":"Attaquer avec Glissedrake visionnaire → Dame Liadrin","flags":[]}
+{"caseId":"sessions/20261025_210804_hdt.log#1@12518","origin":"modèle","action":"Activer Profondeurs Sanguines → Glissedrake visionnaire (allié)","flags":[]}
+{"caseId":"sessions/20261025_210804_hdt.log#1@12705","origin":"plan","action":"Jouer Wyrm du pic venteux → Dame Liadrin","flags":[]}
+{"caseId":"sessions/20261025_210804_hdt.log#1@12892","origin":"plan","action":"Attaquer avec Glissedrake visionnaire → Statue immaculée","flags":[]}
+{"caseId":"sessions/20261025_210804_hdt.log#1@14291","origin":"modèle","action":"Jouer Suffusion d’ombreflamme → Tirion Fordring","flags":[]}
+{"caseId":"sessions/20261025_210804_hdt.log#1@14855","origin":"modèle","action":"Attaquer avec Glissedrake visionnaire → Tirion Fordring","flags":[]}
+{"caseId":"sessions/20261025_210804_hdt.log#1@15134","origin":"solveur","action":"Jouer Wyrm du pic venteux → Dame Liadrin","flags":[]}
+{"caseId":"sessions/20261025_211732_hdt.log#1@1591","origin":"modèle","action":"Jouer Colporteur de pétales","flags":[]}
+{"caseId":"sessions/20261025_211732_hdt.log#1@2257","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261025_211732_hdt.log#1@2642","origin":"modèle","action":"Attaquer avec Colporteur de pétales → Brann Barbe-de-Bronze","flags":[]}
+{"caseId":"sessions/20261025_211732_hdt.log#1@3878","origin":"modèle","action":"Attaquer avec Forgeron dimensionnel → Brann Barbe-de-Bronze","flags":[]}
+{"caseId":"sessions/20261025_211732_hdt.log#1@4027","origin":"plan","action":"Jouer Avant-garde du portail","flags":[]}
+{"caseId":"sessions/20261025_211732_hdt.log#1@5234","origin":"modèle","action":"Jouer Glissedrake visionnaire","flags":[]}
+{"caseId":"sessions/20261025_211732_hdt.log#1@5479","origin":"plan","action":"Attaquer avec Forgeron dimensionnel → Kazakus","flags":[]}
+{"caseId":"sessions/20261025_211732_hdt.log#1@6830","origin":"modèle","action":"Jouer Sombre chevaucheur","flags":[]}
+{"caseId":"sessions/20261025_211732_hdt.log#1@7307","origin":"modèle","action":"Jouer Serpent-nuage","flags":[]}
+{"caseId":"sessions/20261025_211732_hdt.log#1@7498","origin":"modèle","action":"Attaquer avec Forgeron dimensionnel → Luisaile","flags":[]}
+{"caseId":"sessions/20261025_211732_hdt.log#1@9076","origin":"modèle","action":"Jouer Wyrm du pic venteux → Roi Anduin","flags":[]}
+{"caseId":"sessions/20261025_211732_hdt.log#1@9210","origin":"plan","action":"Attaquer avec Serpent-nuage → Roi Anduin","flags":[]}
+{"caseId":"sessions/20261025_211732_hdt.log#1@10215","origin":"modèle","action":"Jouer Le Grand Dracorex","flags":[]}
+{"caseId":"sessions/20261025_211732_hdt.log#1@10492","origin":"plan","action":"Attaquer avec Le Grand Dracorex → Écorcheur d’esprit Kaahrj","flags":[]}
+{"caseId":"sessions/20261025_211732_hdt.log#1@10760","origin":"plan","action":"Attaquer avec Serpent-nuage → Roi Anduin","flags":[]}
+{"caseId":"sessions/20261025_211732_hdt.log#1@12696","origin":"modèle","action":"Jouer Avant-garde du portail","flags":[]}
+{"caseId":"sessions/20261025_211732_hdt.log#1@13149","origin":"modèle","action":"Jouer Frappe anticipée → Zéphrys le Grand","flags":[]}
+{"caseId":"sessions/20261025_211732_hdt.log#1@13364","origin":"modèle","action":"Jouer Glissedrake visionnaire","flags":[]}
+{"caseId":"sessions/20261025_211732_hdt.log#1@15074","origin":"modèle","action":"Jouer Suffusion d’ombreflamme → Disciple de Galakrond","flags":[]}
+{"caseId":"sessions/20261025_211732_hdt.log#1@15626","origin":"modèle","action":"Jouer Huissier antrelige","flags":[]}
+{"caseId":"sessions/20261025_211732_hdt.log#1@15944","origin":"modèle","action":"Jouer Dragonnet du Vol infini","flags":[]}
+{"caseId":"sessions/20261025_211732_hdt.log#1@17628","origin":"modèle","action":"Jouer Sombre chevaucheur","flags":[]}
+{"caseId":"sessions/20261025_211732_hdt.log#1@18086","origin":"modèle","action":"Jouer Luisaile","flags":[]}
+{"caseId":"sessions/20261025_211732_hdt.log#1@18233","origin":"modèle","action":"Jouer Aile de l’effroi tourmentée","flags":[]}
+{"caseId":"sessions/20261025_211732_hdt.log#1@20262","origin":"modèle","action":"Jouer Chronoseigneur Époque","flags":[]}
+{"caseId":"sessions/20261025_211732_hdt.log#1@20382","origin":"modèle","action":"Jouer Avant-garde du portail","flags":[]}
+{"caseId":"sessions/20261025_211732_hdt.log#1@27241","origin":"modèle","action":"Jouer Frappe anticipée → Roi Anduin","flags":[]}
+{"caseId":"sessions/20261025_211732_hdt.log#1@27476","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261025_211732_hdt.log#1@27789","origin":"plan","action":"Attaquer avec Dragonnet du Vol infini → Xyrella, la sanctifiée","flags":[]}
+{"caseId":"sessions/20261025_211732_hdt.log#1@30297","origin":"solveur","action":"Jouer Profondeurs Sanguines","flags":["LETAL_IGNORE (à vérifier) : Létal possible par les attaques autorisées sur le héros (10 dégâts contre 3 PV + 0 armure) mais le coup choisi est « Jouer Profondeurs Sanguines ». Secrets adverses éventuels non pris en compte."]}
+{"caseId":"sessions/20261025_211732_hdt.log#1@30526","origin":"solveur","action":"Activer Profondeurs Sanguines → Forgeron dimensionnel (allié)","flags":["LETAL_IGNORE (à vérifier) : Létal possible par les attaques autorisées sur le héros (10 dégâts contre 3 PV + 0 armure) mais le coup choisi est « Activer Profondeurs Sanguines → Forgeron dimensionnel (allié) ». Secrets adverses éventuels non pris en compte."]}
+{"caseId":"sessions/20261025_211732_hdt.log#1@30683","origin":"solveur","action":"Attaquer avec Forgeron dimensionnel → Roi Anduin","flags":[]}
+{"caseId":"sessions/20261025_213529_hdt.log#1@1538","origin":"modèle","action":"Jouer Suffusion d’ombreflamme → Gagnante mystère","flags":[]}
+{"caseId":"sessions/20261025_213529_hdt.log#1@2493","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261025_213529_hdt.log#1@3548","origin":"modèle","action":"Jouer Gardien des couvées","flags":[]}
+{"caseId":"sessions/20261025_213529_hdt.log#1@3768","origin":"modèle","action":"Attaquer avec Garrosh Hurlenfer → Traqueur phasique","flags":["HEROS_ATTAQUE_SANS_TUER (à vérifier) : Le héros (2 ATQ) attaque Traqueur phasique (3 PV) sans le tuer et subit 2 dégâts."]}
+{"caseId":"sessions/20261025_213529_hdt.log#1@4062","origin":"modèle","action":"Attaquer avec Forgeron dimensionnel → Traqueur phasique","flags":[]}
+{"caseId":"sessions/20261025_213529_hdt.log#1@5768","origin":"modèle","action":"Jouer Frappe anticipée → Traqueur phasique","flags":[]}
+{"caseId":"sessions/20261025_213529_hdt.log#1@5969","origin":"modèle","action":"Attaquer avec Garrosh Hurlenfer → Traqueur phasique","flags":[]}
+{"caseId":"sessions/20261025_213529_hdt.log#1@6223","origin":"modèle","action":"Attaquer avec Forgeron dimensionnel → Traqueur phasique","flags":[]}
+{"caseId":"sessions/20261025_213529_hdt.log#1@10597","origin":"modèle","action":"Jouer Wyrm du pic venteux → Traqueur phasique","flags":[]}
+{"caseId":"sessions/20261025_213529_hdt.log#1@10755","origin":"modèle","action":"Attaquer avec Gardien des couvées → Guide","flags":[]}
+{"caseId":"sessions/20261025_213529_hdt.log#1@10981","origin":"modèle","action":"Finir le tour","flags":["FIN_DE_TOUR_PREMATUREE (à vérifier) : Fin de tour avec 0 mana disponible, 0 carte(s) ou pouvoir jouable(s) et 1 attaquant(s) disponible(s)."]}
+{"caseId":"sessions/20261025_213529_hdt.log#1@11472","origin":"modèle","action":"Jouer Wyrm du pic venteux → Rexxar","flags":[]}
+{"caseId":"sessions/20261025_213529_hdt.log#1@11638","origin":"plan","action":"Jouer Profondeurs Sanguines","flags":[]}
+{"caseId":"sessions/20261025_213529_hdt.log#1@11775","origin":"plan","action":"Attaquer avec Avant-garde du portail → Rexxar","flags":[]}
+{"caseId":"sessions/20261025_213529_hdt.log#1@13278","origin":"modèle","action":"Jouer Grommash Hurlenfer","flags":[]}
+{"caseId":"sessions/20261025_213529_hdt.log#1@13549","origin":"plan","action":"Attaquer avec Wyrm du pic venteux → Fichu élémentaire","flags":[]}
+{"caseId":"sessions/20261025_213529_hdt.log#1@13819","origin":"solveur","action":"Activer Profondeurs Sanguines → Grommash Hurlenfer (allié)","flags":["LETAL_IGNORE (à vérifier) : Létal possible par les attaques autorisées sur le héros (20 dégâts contre 17 PV + 0 armure) mais le coup choisi est « Activer Profondeurs Sanguines → Grommash Hurlenfer (allié) ». Secrets adverses éventuels non pris en compte."]}
+{"caseId":"sessions/20261025_214524_hdt.log#1@1473","origin":"modèle","action":"Jouer La pièce","flags":[]}
+{"caseId":"sessions/20261025_214524_hdt.log#1@1682","origin":"plan","action":"Jouer Colporteur de pétales","flags":[]}
+{"caseId":"sessions/20261025_214524_hdt.log#1@2439","origin":"modèle","action":"Jouer Colporteur de pétales","flags":[]}
+{"caseId":"sessions/20261025_214524_hdt.log#1@2694","origin":"modèle","action":"Attaquer avec Colporteur de pétales → Neunœil le pirate","flags":[]}
+{"caseId":"sessions/20261025_214524_hdt.log#1@4350","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261025_214524_hdt.log#1@4635","origin":"plan","action":"Attaquer avec Colporteur de pétales → Brigande parachutiste","flags":[]}
+{"caseId":"sessions/20261025_214524_hdt.log#1@5760","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261025_214524_hdt.log#1@6154","origin":"plan","action":"Jouer Profondeurs Sanguines","flags":[]}
+{"caseId":"sessions/20261025_214524_hdt.log#1@6369","origin":"plan","action":"Activer Profondeurs Sanguines → Bredouilleur","flags":[]}
+{"caseId":"sessions/20261025_214524_hdt.log#1@7971","origin":"modèle","action":"Attaquer avec Forgeron dimensionnel → Seigneur de la toile nérub’ar","flags":[]}
+{"caseId":"sessions/20261025_214524_hdt.log#1@8421","origin":"plan","action":"Attaquer avec Forgeron dimensionnel → Bébé marsuul","flags":[]}
+{"caseId":"sessions/20261025_214524_hdt.log#1@8644","origin":"plan","action":"Jouer Glissedrake visionnaire","flags":[]}
+{"caseId":"sessions/20261025_214524_hdt.log#1@9722","origin":"modèle","action":"Jouer Wyrm du pic venteux → Orweyna","flags":[]}
+{"caseId":"sessions/20261025_214524_hdt.log#1@10195","origin":"plan","action":"Activer Profondeurs Sanguines → Matelot des mers du Sud","flags":[]}
+{"caseId":"sessions/20261025_214524_hdt.log#1@10423","origin":"plan","action":"Attaquer avec Forgeron dimensionnel → Bébé marsuul","flags":[]}
+{"caseId":"sessions/20261025_214524_hdt.log#1@11491","origin":"solveur","action":"Attaquer avec Wyrm du pic venteux → Orweyna","flags":[]}
+{"caseId":"sessions/20261025_215103_hdt.log#1@1527","origin":"modèle","action":"Jouer Voyante distordue par le temps","flags":[]}
+{"caseId":"sessions/20261025_215103_hdt.log#1@1704","origin":"modèle","action":"Finir le tour","flags":["FIN_DE_TOUR_PREMATUREE (à vérifier) : Fin de tour avec 0 mana disponible, 1 carte(s) ou pouvoir jouable(s) et 0 attaquant(s) disponible(s)."]}
+{"caseId":"sessions/20261025_215103_hdt.log#1@2366","origin":"modèle","action":"Jouer La pièce","flags":[]}
+{"caseId":"sessions/20261025_215103_hdt.log#1@2576","origin":"plan","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261025_215103_hdt.log#1@3439","origin":"modèle","action":"Jouer Profondeurs Sanguines","flags":[]}
+{"caseId":"sessions/20261025_215103_hdt.log#1@3501","origin":"plan","action":"Activer Profondeurs Sanguines → Forgeron dimensionnel (allié)","flags":[]}
+{"caseId":"sessions/20261025_215103_hdt.log#1@3655","origin":"plan","action":"Attaquer avec Forgeron dimensionnel → Artiste aquarelliste","flags":[]}
+{"caseId":"sessions/20261025_215103_hdt.log#1@4763","origin":"modèle","action":"Jouer Avant-garde du portail","flags":[]}
+{"caseId":"sessions/20261025_215103_hdt.log#1@6019","origin":"modèle","action":"Jouer Glissedrake visionnaire","flags":[]}
+{"caseId":"sessions/20261025_215103_hdt.log#1@6261","origin":"plan","action":"Activer Profondeurs Sanguines → Collecteur d’esprits","flags":[]}
+{"caseId":"sessions/20261025_215103_hdt.log#1@6416","origin":"plan","action":"Attaquer avec Avant-garde du portail → Artiste aquarelliste","flags":[]}
+{"caseId":"sessions/20261025_215103_hdt.log#1@8071","origin":"modèle","action":"Jouer Wyrm du pic venteux → Élémentaire d’eau","flags":[]}
+{"caseId":"sessions/20261025_215103_hdt.log#1@9876","origin":"modèle","action":"Jouer Suffusion d’ombreflamme → Élémentaire d’eau","flags":[]}
+{"caseId":"sessions/20261025_215103_hdt.log#1@10426","origin":"modèle","action":"Jouer Totem de Rochepointe","flags":[]}
+{"caseId":"sessions/20261025_215103_hdt.log#1@10552","origin":"modèle","action":"Jouer Luisaile","flags":[]}
+{"caseId":"sessions/20261025_215103_hdt.log#1@12660","origin":"modèle","action":"Jouer Le Grand Dracorex","flags":[]}
+{"caseId":"sessions/20261025_215103_hdt.log#1@12796","origin":"plan","action":"Attaquer avec Le Grand Dracorex → Choriste de karaoké","flags":[]}
+{"caseId":"sessions/20261025_215103_hdt.log#1@13014","origin":"modèle","action":"Attaquer avec Luisaile → Kel’Thuzad","flags":[]}
+{"caseId":"sessions/20261025_215103_hdt.log#1@15029","origin":"modèle","action":"Jouer Wyrm du pic venteux → Kel’Thuzad","flags":[]}
+{"caseId":"sessions/20261025_215103_hdt.log#1@15183","origin":"plan","action":"Attaquer avec Le Grand Dracorex → Fermier de Comté-du-Nord","flags":[]}
+{"caseId":"sessions/20261025_215103_hdt.log#1@15431","origin":"modèle","action":"Attaquer avec Luisaile → Kel’Thuzad","flags":[]}
+{"caseId":"sessions/20261025_215103_hdt.log#1@17262","origin":"solveur","action":"Jouer Grommash Hurlenfer","flags":[]}
+{"caseId":"sessions/20261025_215103_hdt.log#1@17430","origin":"solveur","action":"Jouer Gardien des couvées","flags":["LETAL_IGNORE (à vérifier) : Létal possible par les attaques autorisées sur le héros (21 dégâts contre 19 PV + 0 armure) mais le coup choisi est « Jouer Gardien des couvées ». Secrets adverses éventuels non pris en compte."]}
+{"caseId":"sessions/20261025_222102_hdt.log#1@1390","origin":"modèle","action":"Jouer Sombre chevaucheur","flags":[]}
+{"caseId":"sessions/20261025_222102_hdt.log#1@2013","origin":"modèle","action":"Finir le tour","flags":["FIN_DE_TOUR_PREMATUREE (à vérifier) : Fin de tour avec 0 mana disponible, 1 carte(s) ou pouvoir jouable(s) et 0 attaquant(s) disponible(s)."]}
+{"caseId":"sessions/20261025_222102_hdt.log#1@2454","origin":"modèle","action":"Jouer Luisaile","flags":[]}
+{"caseId":"sessions/20261025_222102_hdt.log#1@2655","origin":"modèle","action":"Attaquer avec Sombre chevaucheur → Recrue de la Main d’argent","flags":[]}
+{"caseId":"sessions/20261025_222102_hdt.log#1@2869","origin":"modèle","action":"Finir le tour","flags":["FIN_DE_TOUR_PREMATUREE (à vérifier) : Fin de tour avec 0 mana disponible, 1 carte(s) ou pouvoir jouable(s) et 0 attaquant(s) disponible(s)."]}
+{"caseId":"sessions/20261025_222102_hdt.log#1@3586","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261025_222102_hdt.log#1@3902","origin":"modèle","action":"Attaquer avec Luisaile → Uther le Porteur de Lumière","flags":[]}
+{"caseId":"sessions/20261025_222102_hdt.log#1@4184","origin":"modèle","action":"Finir le tour","flags":["FIN_DE_TOUR_PREMATUREE (à vérifier) : Fin de tour avec 0 mana disponible, 1 carte(s) ou pouvoir jouable(s) et 0 attaquant(s) disponible(s)."]}
+{"caseId":"sessions/20261025_222102_hdt.log#1@5006","origin":"modèle","action":"Jouer Suffusion d’ombreflamme → Garde-Rêve","flags":[]}
+{"caseId":"sessions/20261025_222102_hdt.log#1@5667","origin":"modèle","action":"Jouer La pièce","flags":[]}
+{"caseId":"sessions/20261025_222102_hdt.log#1@5811","origin":"plan","action":"Jouer Chasseur de gloire","flags":[]}
+{"caseId":"sessions/20261025_222102_hdt.log#1@7127","origin":"modèle","action":"Jouer Profondeurs Sanguines","flags":[]}
+{"caseId":"sessions/20261025_222102_hdt.log#1@7442","origin":"plan","action":"Activer Profondeurs Sanguines → Tank zombie titubant","flags":["PROFONDEURS_SUR_ADVERSAIRE (douteux) : Profondeurs Sanguines sur Tank zombie titubant (3/2) : il survit à 1 dégât et gagne +2 ATQ."]}
+{"caseId":"sessions/20261025_222102_hdt.log#1@7608","origin":"plan","action":"Jouer Gardien des couvées","flags":[]}
+{"caseId":"sessions/20261025_222102_hdt.log#1@9078","origin":"modèle","action":"Attaquer avec Garrosh Hurlenfer → Gardienne bruissaile","flags":["HEROS_ATTAQUE_SANS_TUER (à vérifier) : Le héros (2 ATQ) attaque Gardienne bruissaile (4 PV) sans le tuer et subit 4 dégâts."]}
+{"caseId":"sessions/20261025_222102_hdt.log#1@9501","origin":"modèle","action":"Attaquer avec Gardien des couvées → Gardienne bruissaile","flags":[]}
+{"caseId":"sessions/20261025_222102_hdt.log#1@9716","origin":"plan","action":"Attaquer avec Luisaile → Uther le Porteur de Lumière","flags":[]}
+{"caseId":"sessions/20261025_222823_hdt.log#1@909","origin":"modèle","action":"Jouer Profondeurs Sanguines","flags":[]}
+{"caseId":"sessions/20261025_222823_hdt.log#1@1561","origin":"modèle","action":"Jouer Colporteur de pétales","flags":[]}
+{"caseId":"sessions/20261025_222823_hdt.log#1@1897","origin":"modèle","action":"Activer Profondeurs Sanguines → Colporteur de pétales (allié)","flags":[]}
+{"caseId":"sessions/20261025_222823_hdt.log#1@2632","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261025_222823_hdt.log#1@4371","origin":"modèle","action":"Activer Profondeurs Sanguines → Éclat glaciaire","flags":[]}
+{"caseId":"sessions/20261025_222823_hdt.log#1@4543","origin":"plan","action":"Jouer Glissedrake visionnaire","flags":[]}
+{"caseId":"sessions/20261025_222823_hdt.log#1@4693","origin":"plan","action":"Attaquer avec Colporteur de pétales → Sentinelle de Mur-Céleste","flags":[]}
+{"caseId":"sessions/20261025_222823_hdt.log#1@6214","origin":"modèle","action":"Jouer Profondeurs Sanguines","flags":[]}
+{"caseId":"sessions/20261025_222823_hdt.log#1@6305","origin":"plan","action":"Activer Profondeurs Sanguines → Glissedrake visionnaire (allié)","flags":[]}
+{"caseId":"sessions/20261025_222823_hdt.log#1@6482","origin":"plan","action":"Attaquer avec Glissedrake visionnaire → Élémentaire fondu","flags":[]}
+{"caseId":"sessions/20261025_222823_hdt.log#1@7572","origin":"modèle","action":"Jouer Suffusion d’ombreflamme → Brute à cosse","flags":[]}
+{"caseId":"sessions/20261025_222823_hdt.log#1@7756","origin":"modèle","action":"Activer Profondeurs Sanguines → Glissedrake visionnaire (allié)","flags":[]}
+{"caseId":"sessions/20261025_222823_hdt.log#1@7928","origin":"plan","action":"Jouer Gardien des couvées","flags":[]}
+{"caseId":"sessions/20261025_222823_hdt.log#1@10245","origin":"solveur","action":"Activer Profondeurs Sanguines → Glissedrake visionnaire (allié)","flags":[]}
+{"caseId":"sessions/20261025_222823_hdt.log#1@10382","origin":"solveur","action":"Attaquer avec Glissedrake visionnaire → Thrall","flags":[]}
+{"caseId":"sessions/20261025_222823_hdt.log#1@10498","origin":"solveur","action":"Attaquer avec Garrosh Hurlenfer → Thrall","flags":[]}
+{"caseId":"sessions/20261025_223523_hdt.log#1@1610","origin":"modèle","action":"Jouer Voyante distordue par le temps","flags":[]}
+{"caseId":"sessions/20261025_223523_hdt.log#1@1663","origin":"modèle","action":"Finir le tour","flags":["FIN_DE_TOUR_PREMATUREE (à vérifier) : Fin de tour avec 0 mana disponible, 1 carte(s) ou pouvoir jouable(s) et 0 attaquant(s) disponible(s)."]}
+{"caseId":"sessions/20261025_223523_hdt.log#1@2174","origin":"modèle","action":"Jouer Colporteur de pétales","flags":[]}
+{"caseId":"sessions/20261025_223523_hdt.log#1@2357","origin":"modèle","action":"Attaquer avec Voyante distordue par le temps → Malfurion Hurlorage","flags":[]}
+{"caseId":"sessions/20261025_223523_hdt.log#1@2497","origin":"modèle","action":"Finir le tour","flags":["FIN_DE_TOUR_PREMATUREE (à vérifier) : Fin de tour avec 0 mana disponible, 1 carte(s) ou pouvoir jouable(s) et 0 attaquant(s) disponible(s)."]}
+{"caseId":"sessions/20261025_223523_hdt.log#1@3682","origin":"modèle","action":"Jouer Sombre chevaucheur","flags":[]}
+{"caseId":"sessions/20261025_223523_hdt.log#1@4317","origin":"modèle","action":"Jouer Colporteur de pétales","flags":[]}
+{"caseId":"sessions/20261025_223523_hdt.log#1@4444","origin":"modèle","action":"Attaquer avec Voyante distordue par le temps → Malfurion Hurlorage","flags":[]}
+{"caseId":"sessions/20261025_223523_hdt.log#1@6704","origin":"modèle","action":"Jouer La pièce","flags":[]}
+{"caseId":"sessions/20261025_223523_hdt.log#1@6829","origin":"plan","action":"Jouer Plaiedécaille cobalt","flags":[]}
+{"caseId":"sessions/20261025_223523_hdt.log#1@6970","origin":"plan","action":"Attaquer avec Voyante distordue par le temps → Malfurion Hurlorage","flags":[]}
+{"caseId":"sessions/20261025_223523_hdt.log#1@8100","origin":"modèle","action":"Jouer Frappe anticipée → Malfurion Hurlorage","flags":[]}
+{"caseId":"sessions/20261025_223523_hdt.log#1@8486","origin":"modèle","action":"Jouer Avant-garde du portail","flags":[]}
+{"caseId":"sessions/20261025_223523_hdt.log#1@8953","origin":"modèle","action":"Attaquer avec Plaiedécaille cobalt → Malfurion Hurlorage","flags":[]}
+{"caseId":"sessions/20261025_223523_hdt.log#1@10421","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261025_223523_hdt.log#1@11005","origin":"plan","action":"Jouer Dragonnet du Vol infini","flags":[]}
+{"caseId":"sessions/20261025_223523_hdt.log#1@11399","origin":"plan","action":"Attaquer avec Voyante distordue par le temps → Scarabée nuisible","flags":[]}
+{"caseId":"sessions/20261025_223523_hdt.log#1@13806","origin":"modèle","action":"Jouer Wyrm du pic venteux → Scarabée nuisible","flags":[]}
+{"caseId":"sessions/20261025_223523_hdt.log#1@14007","origin":"plan","action":"Attaquer avec Plaiedécaille cobalt → Guff Cœur-Sauvage","flags":[]}
+{"caseId":"sessions/20261025_223523_hdt.log#1@14227","origin":"plan","action":"Attaquer avec Dragonnet du Vol infini → Guff Cœur-Sauvage","flags":[]}
+{"caseId":"sessions/20261025_223523_hdt.log#1@17018","origin":"modèle","action":"Attaquer avec Tréant → Tréant","flags":[]}
+{"caseId":"sessions/20261025_223523_hdt.log#1@17406","origin":"plan","action":"Jouer Glissedrake visionnaire","flags":[]}
+{"caseId":"sessions/20261025_223523_hdt.log#1@17513","origin":"modèle","action":"Jouer Glissedrake visionnaire","flags":[]}
+{"caseId":"sessions/20261025_223523_hdt.log#1@21320","origin":"modèle","action":"Attaquer avec Dragonnet du Vol infini → Kil’jaeden","flags":[]}
+{"caseId":"sessions/20261025_223523_hdt.log#1@21690","origin":"solveur","action":"Jouer Grommash Hurlenfer","flags":[]}
+{"caseId":"sessions/20261025_223523_hdt.log#1@21918","origin":"solveur","action":"Attaquer avec Glissedrake visionnaire → Guff Cœur-Sauvage","flags":[]}
+{"caseId":"sessions/20261025_224728_hdt.log#1@1135","origin":"modèle","action":"Jouer Voyante distordue par le temps","flags":[]}
+{"caseId":"sessions/20261025_224728_hdt.log#1@1858","origin":"modèle","action":"Jouer Luisaile","flags":[]}
+{"caseId":"sessions/20261025_224728_hdt.log#1@2070","origin":"modèle","action":"Attaquer avec Voyante distordue par le temps → Tyrande Murmevent","flags":[]}
+{"caseId":"sessions/20261025_224728_hdt.log#1@3039","origin":"modèle","action":"Jouer Avant-garde du portail","flags":[]}
+{"caseId":"sessions/20261025_224728_hdt.log#1@3594","origin":"modèle","action":"Attaquer avec Voyante distordue par le temps → Tyrande Murmevent","flags":[]}
+{"caseId":"sessions/20261025_224728_hdt.log#1@3741","origin":"plan","action":"Attaquer avec Luisaile → Tyrande Murmevent","flags":[]}
+{"caseId":"sessions/20261025_224728_hdt.log#1@4599","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261025_224728_hdt.log#1@4805","origin":"modèle","action":"Jouer Voyante distordue par le temps","flags":[]}
+{"caseId":"sessions/20261025_224728_hdt.log#1@5073","origin":"modèle","action":"Attaquer avec Avant-garde du portail → Tyrande Murmevent","flags":[]}
+{"caseId":"sessions/20261025_224728_hdt.log#1@7122","origin":"modèle","action":"Jouer Avant-garde du portail","flags":[]}
+{"caseId":"sessions/20261025_224728_hdt.log#1@9867","origin":"modèle","action":"Jouer Colporteur de pétales","flags":[]}
+{"caseId":"sessions/20261025_224728_hdt.log#1@12746","origin":"modèle","action":"Jouer Animatrice de stade","flags":[]}
+{"caseId":"sessions/20261025_224728_hdt.log#1@13305","origin":"modèle","action":"Attaquer avec Garrosh Hurlenfer → Tyrande Murmevent","flags":[]}
+{"caseId":"sessions/20261025_224728_hdt.log#1@13521","origin":"modèle","action":"Jouer Profondeurs Sanguines","flags":[]}
+{"caseId":"sessions/20261025_224728_hdt.log#1@15002","origin":"modèle","action":"Jouer Nozdormu l’Intemporel","flags":[]}
+{"caseId":"sessions/20261025_224728_hdt.log#1@15278","origin":"plan","action":"Pouvoir héroïque Gain d’armure\u00A0!","flags":[]}
+{"caseId":"sessions/20261025_224728_hdt.log#1@15365","origin":"modèle","action":"Finir le tour","flags":["FIN_DE_TOUR_PREMATUREE (à vérifier) : Fin de tour avec 1 mana disponible, 0 carte(s) ou pouvoir jouable(s) et 1 attaquant(s) disponible(s)."]}
+{"caseId":"sessions/20261025_225447_hdt.log#1@1185","origin":"modèle","action":"Jouer Voyante distordue par le temps","flags":[]}
+{"caseId":"sessions/20261025_225447_hdt.log#1@1360","origin":"modèle","action":"Finir le tour","flags":["FIN_DE_TOUR_PREMATUREE (à vérifier) : Fin de tour avec 0 mana disponible, 1 carte(s) ou pouvoir jouable(s) et 0 attaquant(s) disponible(s)."]}
+{"caseId":"sessions/20261025_225447_hdt.log#1@2000","origin":"modèle","action":"Jouer Colporteur de pétales","flags":[]}
+{"caseId":"sessions/20261025_225447_hdt.log#1@2060","origin":"modèle","action":"Attaquer avec Voyante distordue par le temps → Avant-garde tol’vir","flags":[]}
+{"caseId":"sessions/20261025_225447_hdt.log#1@2255","origin":"modèle","action":"Finir le tour","flags":["FIN_DE_TOUR_PREMATUREE (à vérifier) : Fin de tour avec 0 mana disponible, 1 carte(s) ou pouvoir jouable(s) et 0 attaquant(s) disponible(s)."]}
+{"caseId":"sessions/20261025_225447_hdt.log#1@3132","origin":"modèle","action":"Jouer Sombre chevaucheur","flags":[]}
+{"caseId":"sessions/20261025_225447_hdt.log#1@3623","origin":"modèle","action":"Jouer Luisaile","flags":[]}
+{"caseId":"sessions/20261025_225447_hdt.log#1@3789","origin":"modèle","action":"Attaquer avec Voyante distordue par le temps → Avant-garde tol’vir","flags":[]}
+{"caseId":"sessions/20261025_225447_hdt.log#1@5192","origin":"modèle","action":"Jouer Glissedrake visionnaire","flags":[]}
+{"caseId":"sessions/20261025_225447_hdt.log#1@5319","origin":"plan","action":"Attaquer avec Luisaile → Rochepoing l’ogre de main","flags":[]}
+{"caseId":"sessions/20261025_225447_hdt.log#1@5475","origin":"plan","action":"Attaquer avec Sombre chevaucheur → Rochepoing l’ogre de main","flags":[]}
+{"caseId":"sessions/20261025_225447_hdt.log#1@6806","origin":"modèle","action":"Jouer La pièce","flags":[]}
+{"caseId":"sessions/20261025_225447_hdt.log#1@7059","origin":"plan","action":"Jouer Wyrm du pic venteux → Xavius, seigneur du Cauchemar","flags":[]}
+{"caseId":"sessions/20261025_225447_hdt.log#1@7250","origin":"plan","action":"Attaquer avec Glissedrake visionnaire → Rochepoing l’ogre de main","flags":[]}
+{"caseId":"sessions/20261025_225447_hdt.log#1@8695","origin":"modèle","action":"Jouer Avant-garde du portail","flags":[]}
+{"caseId":"sessions/20261025_225447_hdt.log#1@9206","origin":"modèle","action":"Jouer Gardien des couvées","flags":[]}
+{"caseId":"sessions/20261025_225447_hdt.log#1@9331","origin":"modèle","action":"Attaquer avec Glissedrake visionnaire → Rochepoing l’ogre de main","flags":[]}
+{"caseId":"sessions/20261025_225447_hdt.log#1@11082","origin":"modèle","action":"Jouer Avant-garde du portail","flags":[]}
+{"caseId":"sessions/20261025_225447_hdt.log#1@11860","origin":"modèle","action":"Jouer Sombre chevaucheur","flags":[]}
+{"caseId":"sessions/20261025_225447_hdt.log#1@12405","origin":"modèle","action":"Jouer Entourloupeuse faë","flags":[]}
+{"caseId":"sessions/20261025_225447_hdt.log#1@13870","origin":"modèle","action":"Jouer Frappe anticipée → Rochepoing l’ogre de main","flags":[]}
+{"caseId":"sessions/20261025_225447_hdt.log#1@14291","origin":"modèle","action":"Jouer Suffusion d’ombreflamme → Rochepoing l’ogre de main","flags":[]}
+{"caseId":"sessions/20261025_225447_hdt.log#1@14923","origin":"modèle","action":"Jouer Glissedrake visionnaire","flags":[]}
+{"caseId":"sessions/20261025_225447_hdt.log#1@16683","origin":"modèle","action":"Jouer Chronoseigneur Époque","flags":[]}
+{"caseId":"sessions/20261025_225447_hdt.log#1@16948","origin":"modèle","action":"Attaquer avec Glissedrake visionnaire → Golem d’acier","flags":[]}
+{"caseId":"sessions/20261025_225447_hdt.log#1@17137","origin":"plan","action":"Jouer Canonnier défias","flags":[]}
+{"caseId":"sessions/20261025_225447_hdt.log#1@18099","origin":"modèle","action":"Jouer Animatrice de stade","flags":[]}
+{"caseId":"sessions/20261025_225447_hdt.log#1@18583","origin":"modèle","action":"Attaquer avec Garrosh Hurlenfer → Tortolla","flags":["HEROS_ATTAQUE_SANS_TUER (à vérifier) : Le héros (4 ATQ) attaque Tortolla (33 PV) sans le tuer et subit 3 dégâts."]}
+{"caseId":"sessions/20261025_225447_hdt.log#1@19019","origin":"solveur","action":"Attaquer avec Chronoseigneur Époque → Rochepoing l’ogre de main","flags":[]}
+{"caseId":"sessions/20261025_230748_hdt.log#1@1781","origin":"modèle","action":"Jouer Colporteur de pétales","flags":[]}
+{"caseId":"sessions/20261025_230748_hdt.log#1@3011","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261025_230748_hdt.log#1@4152","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261025_230748_hdt.log#1@4506","origin":"modèle","action":"Attaquer avec Forgeron dimensionnel → Recrue de la Main d’argent","flags":[]}
+{"caseId":"sessions/20261025_230748_hdt.log#1@5544","origin":"modèle","action":"Jouer Gardien des couvées","flags":[]}
+{"caseId":"sessions/20261025_230748_hdt.log#1@5900","origin":"modèle","action":"Jouer Dragonnet du Vol infini","flags":[]}
+{"caseId":"sessions/20261025_230748_hdt.log#1@6050","origin":"modèle","action":"Attaquer avec Garrosh Hurlenfer → Recrue de la Main d’argent","flags":["HEROS_ATTAQUE_SANS_TUER (à vérifier) : Le héros (2 ATQ) attaque Recrue de la Main d’argent (1 PV) sans le tuer et subit 2 dégâts."]}
+{"caseId":"sessions/20261025_230748_hdt.log#1@8606","origin":"modèle","action":"Jouer Chronoseigneur Époque","flags":[]}
+{"caseId":"sessions/20261025_230748_hdt.log#1@8788","origin":"modèle","action":"Attaquer avec Garrosh Hurlenfer → Recrue de la Main d’argent","flags":[]}
+{"caseId":"sessions/20261025_230748_hdt.log#1@9093","origin":"modèle","action":"Attaquer avec Dragonnet du Vol infini → Recrue de la Main d’argent","flags":[]}
+{"caseId":"sessions/20261025_230748_hdt.log#1@10354","origin":"modèle","action":"Jouer Avant-garde du portail","flags":[]}
+{"caseId":"sessions/20261025_230748_hdt.log#1@11023","origin":"modèle","action":"Jouer Gardien des couvées","flags":[]}
+{"caseId":"sessions/20261025_230748_hdt.log#1@11145","origin":"modèle","action":"Attaquer avec Dragonnet du Vol infini → Recrue de la Main d’argent","flags":[]}
+{"caseId":"sessions/20261025_230748_hdt.log#1@12570","origin":"modèle","action":"Jouer Suffusion d’ombreflamme → Recrue de la Main d’argent","flags":[]}
+{"caseId":"sessions/20261025_230748_hdt.log#1@13607","origin":"modèle","action":"Jouer Saccageur de chapiteaux","flags":[]}
+{"caseId":"sessions/20261025_230748_hdt.log#1@13749","origin":"plan","action":"Attaquer avec Saccageur de chapiteaux → Recrue de la Main d’argent","flags":[]}
+{"caseId":"sessions/20261025_230748_hdt.log#1@15984","origin":"modèle","action":"Jouer Animatrice de stade","flags":[]}
+{"caseId":"sessions/20261025_230748_hdt.log#1@20383","origin":"modèle","action":"Jouer Profondeurs Sanguines","flags":[]}
+{"caseId":"sessions/20261025_231754_hdt.log#1@1060","origin":"modèle","action":"Jouer Profondeurs Sanguines","flags":[]}
+{"caseId":"sessions/20261025_231754_hdt.log#1@1866","origin":"modèle","action":"Jouer Gardien des couvées","flags":[]}
+{"caseId":"sessions/20261025_231754_hdt.log#1@2147","origin":"modèle","action":"Attaquer avec Garrosh Hurlenfer → Gul’dan","flags":[]}
+{"caseId":"sessions/20261025_231754_hdt.log#1@2345","origin":"modèle","action":"Finir le tour","flags":[]}
+{"caseId":"sessions/20261025_231754_hdt.log#1@2803","origin":"modèle","action":"Activer Profondeurs Sanguines → Gardien des couvées (allié)","flags":[]}
+{"caseId":"sessions/20261025_231754_hdt.log#1@3074","origin":"plan","action":"Jouer Colporteur de pétales","flags":[]}
+{"caseId":"sessions/20261025_231754_hdt.log#1@3139","origin":"plan","action":"Attaquer avec Gardien des couvées → Gul’dan","flags":[]}
+{"caseId":"sessions/20261025_231754_hdt.log#1@4201","origin":"modèle","action":"Jouer Glissedrake visionnaire","flags":[]}
+{"caseId":"sessions/20261025_231754_hdt.log#1@4551","origin":"plan","action":"Attaquer avec Gardien des couvées → Brute de C’Thrax","flags":["ECHANGE_PERDANT (douteux) : Gardien des couvées (4/2) meurt contre Brute de C’Thrax (3/5) sans le tuer."]}
+{"caseId":"sessions/20261025_231754_hdt.log#1@4714","origin":"plan","action":"Attaquer avec Colporteur de pétales → Brute de C’Thrax","flags":[]}
+{"caseId":"sessions/20261025_231754_hdt.log#1@5896","origin":"modèle","action":"Jouer Suffusion d’ombreflamme → Néophyte du Culte","flags":[]}
+{"caseId":"sessions/20261025_231754_hdt.log#1@6430","origin":"modèle","action":"Jouer Émeutier","flags":[]}
+{"caseId":"sessions/20261025_231754_hdt.log#1@6551","origin":"modèle","action":"Activer Profondeurs Sanguines → Émeutier (allié)","flags":[]}
+{"caseId":"sessions/20261025_231754_hdt.log#1@7540","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261025_231754_hdt.log#1@7784","origin":"modèle","action":"Jouer Profondeurs Sanguines","flags":[]}
+{"caseId":"sessions/20261025_231754_hdt.log#1@7944","origin":"plan","action":"Activer Profondeurs Sanguines → Glissedrake visionnaire (allié)","flags":[]}
+{"caseId":"sessions/20261025_231754_hdt.log#1@8834","origin":"modèle","action":"Jouer Chronoseigneur Époque","flags":["CHRONOSEIGNEUR_SANS_CIBLE (à vérifier) : Chronoseigneur Époque joué alors qu'aucun serviteur joué par l'adversaire au dernier tour n'est en jeu : cri de guerre sans effet."]}
+{"caseId":"sessions/20261025_231754_hdt.log#1@9101","origin":"modèle","action":"Attaquer avec Forgeron dimensionnel → Gul’dan","flags":[]}
+{"caseId":"sessions/20261025_231754_hdt.log#1@9220","origin":"modèle","action":"Finir le tour","flags":[]}
+{"caseId":"sessions/20261025_231754_hdt.log#1@10136","origin":"modèle","action":"Jouer Gardien des couvées","flags":[]}
+{"caseId":"sessions/20261025_231754_hdt.log#1@10241","origin":"modèle","action":"Jouer Wyrm du pic venteux → Gul’dan","flags":[]}
+{"caseId":"sessions/20261025_231754_hdt.log#1@10454","origin":"plan","action":"Attaquer avec Garrosh Hurlenfer → Gul’dan","flags":[]}
+{"caseId":"sessions/20261025_231754_hdt.log#1@11514","origin":"modèle","action":"Jouer Le Grand Dracorex","flags":[]}
+{"caseId":"sessions/20261025_231754_hdt.log#1@11792","origin":"plan","action":"Attaquer avec Le Grand Dracorex → Marcheur du Vide","flags":[]}
+{"caseId":"sessions/20261025_231754_hdt.log#1@12000","origin":"solveur","action":"Activer Profondeurs Sanguines → Wyrm du pic venteux (allié)","flags":["LETAL_IGNORE (à vérifier) : Létal possible par les attaques autorisées sur le héros (8 dégâts contre 5 PV + 0 armure) mais le coup choisi est « Activer Profondeurs Sanguines → Wyrm du pic venteux (allié) ». Secrets adverses éventuels non pris en compte."]}
+{"caseId":"sessions/20261025_232750_hdt.log#1@1385","origin":"modèle","action":"Jouer La pièce","flags":[]}
+{"caseId":"sessions/20261025_232750_hdt.log#1@1482","origin":"plan","action":"Jouer Gardien des couvées","flags":[]}
+{"caseId":"sessions/20261025_232750_hdt.log#1@2494","origin":"modèle","action":"Jouer Gardien des couvées","flags":[]}
+{"caseId":"sessions/20261025_232750_hdt.log#1@2616","origin":"modèle","action":"Attaquer avec Garrosh Hurlenfer → Disciple lige d’ombre","flags":[]}
+{"caseId":"sessions/20261025_232750_hdt.log#1@2919","origin":"plan","action":"Attaquer avec Colporteur de pétales → Soldat de Cho’gall","flags":[]}
+{"caseId":"sessions/20261025_232750_hdt.log#1@3986","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261025_232750_hdt.log#1@4321","origin":"modèle","action":"Attaquer avec Garrosh Hurlenfer → Gul’dan","flags":[]}
+{"caseId":"sessions/20261025_232750_hdt.log#1@5350","origin":"modèle","action":"Jouer Animatrice de stade","flags":[]}
+{"caseId":"sessions/20261025_232750_hdt.log#1@7808","origin":"modèle","action":"Attaquer avec Forgeron dimensionnel → Gul’dan","flags":[]}
+{"caseId":"sessions/20261025_232750_hdt.log#1@9633","origin":"modèle","action":"Jouer Frappe anticipée → Gul’dan","flags":[]}
+{"caseId":"sessions/20261025_232750_hdt.log#1@9832","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261025_232750_hdt.log#1@10054","origin":"modèle","action":"Attaquer avec Forgeron dimensionnel → Gul’dan","flags":[]}
+{"caseId":"sessions/20261025_232750_hdt.log#1@11385","origin":"modèle","action":"Attaquer avec Garrosh Hurlenfer → Sbire du gang des diablotins","flags":["HEROS_ATTAQUE_SANS_TUER (à vérifier) : Le héros (2 ATQ) attaque Sbire du gang des diablotins (4 PV) sans le tuer et subit 2 dégâts."]}
+{"caseId":"sessions/20261025_232750_hdt.log#1@11572","origin":"modèle","action":"Jouer Sombre chevaucheur","flags":[]}
+{"caseId":"sessions/20261025_232750_hdt.log#1@12129","origin":"modèle","action":"Jouer Dragonnet du Vol infini","flags":[]}
+{"caseId":"sessions/20261025_232750_hdt.log#1@13845","origin":"modèle","action":"Jouer Fracasseur de confluence","flags":[]}
+{"caseId":"sessions/20261025_232750_hdt.log#1@14157","origin":"solveur","action":"Attaquer avec Dragonnet du Vol infini → Gul’dan","flags":[]}
+{"caseId":"sessions/20261025_233545_hdt.log#1@1465","origin":"modèle","action":"Jouer Gardien des couvées","flags":[]}
+{"caseId":"sessions/20261025_233545_hdt.log#1@1547","origin":"modèle","action":"Attaquer avec Garrosh Hurlenfer → Rexxar","flags":[]}
+{"caseId":"sessions/20261025_233545_hdt.log#1@2418","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261025_233545_hdt.log#1@2586","origin":"modèle","action":"Attaquer avec Gardien des couvées → Rexxar","flags":[]}
+{"caseId":"sessions/20261025_233545_hdt.log#1@2849","origin":"plan","action":"Attaquer avec Garrosh Hurlenfer → Rexxar","flags":[]}
+{"caseId":"sessions/20261025_233545_hdt.log#1@3791","origin":"modèle","action":"Jouer Animatrice de stade","flags":[]}
+{"caseId":"sessions/20261025_233545_hdt.log#1@4412","origin":"modèle","action":"Attaquer avec Garrosh Hurlenfer → Générale des forestiers Sylvanas","flags":[]}
+{"caseId":"sessions/20261025_233545_hdt.log#1@4717","origin":"modèle","action":"Attaquer avec Gardien des couvées → Mobilisateur de renforts","flags":[]}
+{"caseId":"sessions/20261025_233545_hdt.log#1@6405","origin":"modèle","action":"Jouer Frappe anticipée → Rexxar","flags":[]}
+{"caseId":"sessions/20261025_233545_hdt.log#1@6834","origin":"modèle","action":"Jouer Dragonnet du Vol infini","flags":[]}
+{"caseId":"sessions/20261025_233545_hdt.log#1@6969","origin":"modèle","action":"Attaquer avec Forgeron dimensionnel → Rexxar","flags":[]}
+{"caseId":"sessions/20261025_233545_hdt.log#1@9703","origin":"solveur","action":"Jouer Wyrm du pic venteux → Rexxar","flags":[]}
+{"caseId":"sessions/20261025_233545_hdt.log#1@10135","origin":"solveur","action":"Attaquer avec Forgeron dimensionnel → Rexxar","flags":[]}
+{"caseId":"sessions/20261025_233545_hdt.log#1@10352","origin":"solveur","action":"Attaquer avec Garrosh Hurlenfer → Rexxar","flags":[]}
+{"caseId":"sessions/20261025_234130_hdt.log#1@1377","origin":"modèle","action":"Jouer Gardien des couvées","flags":[]}
+{"caseId":"sessions/20261025_234130_hdt.log#1@1459","origin":"modèle","action":"Attaquer avec Garrosh Hurlenfer → Uther le Porteur de Lumière","flags":[]}
+{"caseId":"sessions/20261025_234130_hdt.log#1@2369","origin":"modèle","action":"Jouer Sombre chevaucheur","flags":[]}
+{"caseId":"sessions/20261025_234130_hdt.log#1@3037","origin":"modèle","action":"Jouer Colporteur de pétales","flags":[]}
+{"caseId":"sessions/20261025_234130_hdt.log#1@3191","origin":"modèle","action":"Attaquer avec Garrosh Hurlenfer → Recrue de la Main d’argent","flags":[]}
+{"caseId":"sessions/20261025_234130_hdt.log#1@4341","origin":"modèle","action":"Jouer Dragonnet du Vol de bronze","flags":[]}
+{"caseId":"sessions/20261025_234130_hdt.log#1@4547","origin":"plan","action":"Attaquer avec Gardien des couvées → Uther le Porteur de Lumière","flags":[]}
+{"caseId":"sessions/20261025_234130_hdt.log#1@4695","origin":"plan","action":"Attaquer avec Colporteur de pétales → Uther le Porteur de Lumière","flags":[]}
+{"caseId":"sessions/20261025_234130_hdt.log#1@5719","origin":"modèle","action":"Jouer Avant-garde du portail","flags":[]}
+{"caseId":"sessions/20261025_234130_hdt.log#1@6346","origin":"modèle","action":"Attaquer avec Dragonnet du Vol de bronze → Uther le Porteur de Lumière","flags":[]}
+{"caseId":"sessions/20261025_234130_hdt.log#1@6523","origin":"plan","action":"Attaquer avec Gardien des couvées → Amasseur de butin","flags":[]}
+{"caseId":"sessions/20261025_234130_hdt.log#1@8336","origin":"modèle","action":"Jouer Gardien des couvées","flags":[]}
+{"caseId":"sessions/20261025_234130_hdt.log#1@8475","origin":"modèle","action":"Attaquer avec Colporteur de pétales → Protectrice vertueuse","flags":[]}
+{"caseId":"sessions/20261025_234130_hdt.log#1@8718","origin":"plan","action":"Attaquer avec Garrosh Hurlenfer → Protectrice vertueuse","flags":[]}
+{"caseId":"sessions/20261025_234931_hdt.log#1@1279","origin":"modèle","action":"Jouer Voyante distordue par le temps","flags":[]}
+{"caseId":"sessions/20261025_234931_hdt.log#1@1330","origin":"modèle","action":"Finir le tour","flags":["FIN_DE_TOUR_PREMATUREE (à vérifier) : Fin de tour avec 0 mana disponible, 1 carte(s) ou pouvoir jouable(s) et 0 attaquant(s) disponible(s)."]}
+{"caseId":"sessions/20261025_234931_hdt.log#1@2251","origin":"modèle","action":"Jouer Colporteur de pétales","flags":[]}
+{"caseId":"sessions/20261025_234931_hdt.log#1@2304","origin":"modèle","action":"Finir le tour","flags":["FIN_DE_TOUR_PREMATUREE (à vérifier) : Fin de tour avec 0 mana disponible, 1 carte(s) ou pouvoir jouable(s) et 0 attaquant(s) disponible(s)."]}
+{"caseId":"sessions/20261025_234931_hdt.log#1@3303","origin":"modèle","action":"Jouer La pièce","flags":[]}
+{"caseId":"sessions/20261025_234931_hdt.log#1@3381","origin":"plan","action":"Jouer Glissedrake visionnaire","flags":[]}
+{"caseId":"sessions/20261025_234931_hdt.log#1@4701","origin":"modèle","action":"Jouer Sombre chevaucheur","flags":[]}
+{"caseId":"sessions/20261025_234931_hdt.log#1@5224","origin":"modèle","action":"Jouer Avant-garde du portail","flags":[]}
+{"caseId":"sessions/20261025_234931_hdt.log#1@5719","origin":"modèle","action":"Attaquer avec Glissedrake visionnaire → Jaina Portvaillant","flags":[]}
+{"caseId":"sessions/20261025_234931_hdt.log#1@7579","origin":"modèle","action":"Jouer Sombre chevaucheur","flags":[]}
+{"caseId":"sessions/20261025_234931_hdt.log#1@8141","origin":"modèle","action":"Jouer Glissedrake visionnaire","flags":[]}
+{"caseId":"sessions/20261025_234931_hdt.log#1@9102","origin":"modèle","action":"Jouer Wyrm du pic venteux → Jaina Portvaillant","flags":[]}
+{"caseId":"sessions/20261025_234931_hdt.log#1@10641","origin":"modèle","action":"Jouer Présage de la fin","flags":[]}
+{"caseId":"sessions/20261025_234931_hdt.log#1@10769","origin":"plan","action":"Jouer Profondeurs Sanguines","flags":[]}
+{"caseId":"sessions/20261025_234931_hdt.log#1@10853","origin":"plan","action":"Attaquer avec Glissedrake visionnaire → Jaina Portvaillant","flags":[]}
+{"caseId":"sessions/20261025_234931_hdt.log#1@12073","origin":"solveur","action":"Jouer Grommash Hurlenfer","flags":[]}
+{"caseId":"sessions/20261025_234931_hdt.log#1@12203","origin":"solveur","action":"Activer Profondeurs Sanguines → Grommash Hurlenfer (allié)","flags":[]}
+{"caseId":"sessions/20261025_234931_hdt.log#1@12394","origin":"solveur","action":"Attaquer avec Grommash Hurlenfer → Jaina Portvaillant","flags":[]}
+{"caseId":"sessions/20261025_235725_hdt.log#1@832","origin":"modèle","action":"Jouer Voyante distordue par le temps","flags":[]}
+{"caseId":"sessions/20261025_235725_hdt.log#1@1606","origin":"modèle","action":"Jouer Gardien des couvées","flags":[]}
+{"caseId":"sessions/20261025_235725_hdt.log#1@2519","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261025_235725_hdt.log#1@2855","origin":"plan","action":"Attaquer avec Colporteur de pétales → Ennuy-o-tron","flags":[]}
+{"caseId":"sessions/20261025_235725_hdt.log#1@4271","origin":"modèle","action":"Jouer Profondeurs Sanguines","flags":[]}
+{"caseId":"sessions/20261025_235725_hdt.log#1@4603","origin":"plan","action":"Activer Profondeurs Sanguines → Ennuy-o-tron","flags":[]}
+{"caseId":"sessions/20261025_235725_hdt.log#1@4809","origin":"plan","action":"Jouer Gardien des couvées","flags":[]}
+{"caseId":"sessions/20261025_235725_hdt.log#1@6444","origin":"modèle","action":"Jouer Glissedrake visionnaire","flags":[]}
+{"caseId":"sessions/20261025_235725_hdt.log#1@6822","origin":"plan","action":"Attaquer avec Forgeron dimensionnel → Arthas le fléauvenant","flags":[]}
+{"caseId":"sessions/20261025_235725_hdt.log#1@6962","origin":"plan","action":"Attaquer avec Garrosh Hurlenfer → Arthas le fléauvenant","flags":[]}
+{"caseId":"sessions/20261025_235725_hdt.log#1@8226","origin":"modèle","action":"Jouer Chronoseigneur Époque","flags":[]}
+{"caseId":"sessions/20261025_235725_hdt.log#1@8586","origin":"modèle","action":"Activer Profondeurs Sanguines → Forgeron dimensionnel (allié)","flags":[]}
+{"caseId":"sessions/20261025_235725_hdt.log#1@8765","origin":"plan","action":"Attaquer avec Forgeron dimensionnel → Arthas le fléauvenant","flags":[]}
+{"caseId":"sessions/20261025_235725_hdt.log#1@9732","origin":"modèle","action":"Jouer Frappe anticipée → Ennuy-o-tron","flags":[]}
+{"caseId":"sessions/20261025_235725_hdt.log#1@10152","origin":"modèle","action":"Jouer Glissedrake visionnaire","flags":[]}
+{"caseId":"sessions/20261025_235725_hdt.log#1@10294","origin":"plan","action":"Jouer Voyante distordue par le temps","flags":[]}
+{"caseId":"sessions/20261025_235725_hdt.log#1@11580","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261025_235725_hdt.log#1@11824","origin":"plan","action":"Attaquer avec Glissedrake visionnaire → Chevalier greffé","flags":[]}
+{"caseId":"sessions/20261025_235725_hdt.log#1@12063","origin":"modèle","action":"Attaquer avec Voyante distordue par le temps → Arthas le fléauvenant","flags":[]}
+{"caseId":"sessions/20261025_235725_hdt.log#1@13424","origin":"modèle","action":"Jouer Grommash Hurlenfer","flags":[]}
+{"caseId":"sessions/20261025_235725_hdt.log#1@13874","origin":"plan","action":"Activer Profondeurs Sanguines → Grommash Hurlenfer (allié)","flags":[]}
+{"caseId":"sessions/20261025_235725_hdt.log#1@14031","origin":"plan","action":"Attaquer avec Forgeron dimensionnel → Baron Chute-des-Froids","flags":[]}
+{"caseId":"sessions/20261025_235725_hdt.log#1@16108","origin":"modèle","action":"Jouer Sombre chevaucheur","flags":[]}
+{"caseId":"sessions/20261025_235725_hdt.log#1@16948","origin":"modèle","action":"Jouer Le Grand Dracorex","flags":[]}
+{"caseId":"sessions/20261025_235725_hdt.log#1@17178","origin":"plan","action":"Attaquer avec Le Grand Dracorex → Garde-essaim nérubien","flags":[]}
+{"caseId":"sessions/20261025_235725_hdt.log#1@19418","origin":"solveur","action":"Jouer Wyrm du pic venteux → Arthas le fléauvenant","flags":[]}
+{"caseId":"sessions/20261026_000900_hdt.log#1@1588","origin":"modèle","action":"Jouer Sombre chevaucheur","flags":[]}
+{"caseId":"sessions/20261026_000900_hdt.log#1@2207","origin":"modèle","action":"Finir le tour","flags":["FIN_DE_TOUR_PREMATUREE (à vérifier) : Fin de tour avec 0 mana disponible, 1 carte(s) ou pouvoir jouable(s) et 0 attaquant(s) disponible(s)."]}
+{"caseId":"sessions/20261026_000900_hdt.log#1@3040","origin":"modèle","action":"Jouer Frappe anticipée → Ramasse-cadavres","flags":[]}
+{"caseId":"sessions/20261026_000900_hdt.log#1@3499","origin":"modèle","action":"Finir le tour","flags":["FIN_DE_TOUR_PREMATUREE (à vérifier) : Fin de tour avec 0 mana disponible, 1 carte(s) ou pouvoir jouable(s) et 0 attaquant(s) disponible(s)."]}
+{"caseId":"sessions/20261026_000900_hdt.log#1@4067","origin":"modèle","action":"Jouer Dragonnet du Vol infini","flags":[]}
+{"caseId":"sessions/20261026_000900_hdt.log#1@5532","origin":"modèle","action":"Jouer Glissedrake visionnaire","flags":[]}
+{"caseId":"sessions/20261026_000900_hdt.log#1@5622","origin":"modèle","action":"Finir le tour","flags":["FIN_DE_TOUR_PREMATUREE (à vérifier) : Fin de tour avec 0 mana disponible, 1 carte(s) ou pouvoir jouable(s) (la moins chère coûte 0) et 0 attaquant(s) disponible(s)."]}
+{"caseId":"sessions/20261026_000900_hdt.log#1@7073","origin":"modèle","action":"Jouer Suffusion d’ombreflamme → Goule ressuscitée","flags":[]}
+{"caseId":"sessions/20261026_000900_hdt.log#1@7758","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261026_000900_hdt.log#1@8015","origin":"modèle","action":"Finir le tour","flags":["FIN_DE_TOUR_PREMATUREE (à vérifier) : Fin de tour avec 0 mana disponible, 1 carte(s) ou pouvoir jouable(s) (la moins chère coûte 0) et 0 attaquant(s) disponible(s)."]}
+{"caseId":"sessions/20261026_000900_hdt.log#1@9510","origin":"modèle","action":"Jouer Profondeurs Sanguines","flags":[]}
+{"caseId":"sessions/20261026_000900_hdt.log#1@9579","origin":"modèle","action":"Jouer Guerrière du Vol infini","flags":[]}
+{"caseId":"sessions/20261026_000900_hdt.log#1@9824","origin":"plan","action":"Attaquer avec Guerrière du Vol infini → Falric","flags":[]}
+{"caseId":"sessions/20261026_000900_hdt.log#1@11609","origin":"modèle","action":"Jouer Ysondre","flags":[]}
+{"caseId":"sessions/20261026_000900_hdt.log#1@11859","origin":"modèle","action":"Finir le tour","flags":["FIN_DE_TOUR_PREMATUREE (à vérifier) : Fin de tour avec 0 mana disponible, 1 carte(s) ou pouvoir jouable(s) (la moins chère coûte 0) et 0 attaquant(s) disponible(s)."]}
+{"caseId":"sessions/20261026_000900_hdt.log#1@13516","origin":"modèle","action":"Jouer Wyrm du pic venteux → Le roi-liche","flags":[]}
+{"caseId":"sessions/20261026_000900_hdt.log#1@13800","origin":"plan","action":"Jouer Luisaile","flags":[]}
+{"caseId":"sessions/20261026_000900_hdt.log#1@13963","origin":"modèle","action":"Attaquer avec Néantiseur → Le roi-liche","flags":[]}
+{"caseId":"sessions/20261026_000900_hdt.log#1@15932","origin":"modèle","action":"Jouer Avant-garde du portail","flags":[]}
+{"caseId":"sessions/20261026_000900_hdt.log#1@16534","origin":"modèle","action":"Jouer Dragonnet du Vol infini","flags":[]}
+{"caseId":"sessions/20261026_000900_hdt.log#1@16648","origin":"modèle","action":"Jouer Avant-garde du portail","flags":[]}
+{"caseId":"sessions/20261026_000900_hdt.log#1@23506","origin":"modèle","action":"Jouer Mage de sang Thalnos","flags":[]}
+{"caseId":"sessions/20261026_000900_hdt.log#1@23779","origin":"plan","action":"Activer Profondeurs Sanguines → Mage de sang Thalnos (allié)","flags":[]}
+{"caseId":"sessions/20261026_000900_hdt.log#1@24028","origin":"modèle","action":"Jouer Animatrice de stade","flags":[]}
+{"caseId":"sessions/20261026_002106_hdt.log#1@956","origin":"modèle","action":"Jouer Sombre chevaucheur","flags":[]}
+{"caseId":"sessions/20261026_002106_hdt.log#1@2075","origin":"modèle","action":"Jouer Dragonnet livreur","flags":[]}
+{"caseId":"sessions/20261026_002106_hdt.log#1@2165","origin":"modèle","action":"Attaquer avec Sombre chevaucheur → Rexxar","flags":[]}
+{"caseId":"sessions/20261026_002106_hdt.log#1@2745","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261026_002106_hdt.log#1@3037","origin":"plan","action":"Attaquer avec Sombre chevaucheur → Rexxar","flags":[]}
+{"caseId":"sessions/20261026_002106_hdt.log#1@3293","origin":"plan","action":"Attaquer avec Dragonnet livreur → Rexxar","flags":[]}
+{"caseId":"sessions/20261026_002106_hdt.log#1@3983","origin":"modèle","action":"Jouer Glissedrake visionnaire","flags":[]}
+{"caseId":"sessions/20261026_002106_hdt.log#1@4103","origin":"modèle","action":"Attaquer avec Forgeron dimensionnel → Rampeur du goudron","flags":[]}
+{"caseId":"sessions/20261026_002106_hdt.log#1@4254","origin":"modèle","action":"Finir le tour","flags":["FIN_DE_TOUR_PREMATUREE (à vérifier) : Fin de tour avec 0 mana disponible, 0 carte(s) ou pouvoir jouable(s) et 2 attaquant(s) disponible(s)."]}
+{"caseId":"sessions/20261026_002106_hdt.log#1@4854","origin":"modèle","action":"Jouer Frappe anticipée → Rampeur du goudron","flags":["FRAPPE_SANS_PIOCHE (info) : Frappe anticipée jouée sans serviteur coûtant 5 ou plus en main : pas de pioche."]}
+{"caseId":"sessions/20261026_002622_hdt.log#1@2157","origin":"modèle","action":"Jouer Sombre chevaucheur","flags":[]}
+{"caseId":"sessions/20261026_002622_hdt.log#1@4186","origin":"modèle","action":"Attaquer avec Sombre chevaucheur → Grizzly du bois Maudit","flags":[]}
+{"caseId":"sessions/20261026_002843_hdt.log#1@4096","origin":"modèle","action":"Attaquer avec Dragonnet du Vol infini → Ours runique mythique","flags":[]}
+{"caseId":"sessions/20261026_002843_hdt.log#1@4268","origin":"plan","action":"Attaquer avec Dragonnet du Vol de bronze → Punisseuse du fort Pourpre","flags":[]}
+{"caseId":"sessions/20261026_002843_hdt.log#1@4451","origin":"modèle","action":"Attaquer avec Dragonnet du Vol de bronze → Punisseuse du fort Pourpre","flags":[]}
+{"caseId":"sessions/20261026_003106_hdt.log#1@2457","origin":"modèle","action":"Jouer Le Grand Dracorex","flags":[]}
+{"caseId":"sessions/20261026_003106_hdt.log#1@2587","origin":"plan","action":"Attaquer avec Glissedrake visionnaire → Ours runique mythique","flags":[]}
+{"caseId":"sessions/20261026_003106_hdt.log#1@2850","origin":"modèle","action":"Attaquer avec Dragonnet du Vol infini → Elekk migrateur","flags":[]}
+{"caseId":"sessions/20261026_003106_hdt.log#1@4477","origin":"modèle","action":"Jouer Champion invaincu","flags":[]}
+{"caseId":"sessions/20261026_003106_hdt.log#1@4889","origin":"modèle","action":"Attaquer avec Champion invaincu → Ours des montagnes","flags":[]}
+{"caseId":"sessions/20261026_003106_hdt.log#1@5140","origin":"modèle","action":"Attaquer avec Le Grand Dracorex → Ourson des montagnes","flags":[]}
+{"caseId":"sessions/20261026_003106_hdt.log#1@7221","origin":"modèle","action":"Jouer Gardien des couvées","flags":[]}
+{"caseId":"sessions/20261026_003106_hdt.log#1@7520","origin":"modèle","action":"Attaquer avec Garrosh Hurlenfer → Ennuy-o-tron","flags":["HEROS_ATTAQUE_SANS_TUER (à vérifier) : Le héros (2 ATQ) attaque Ennuy-o-tron (3 PV) sans le tuer et subit 2 dégâts."]}
+{"caseId":"sessions/20261026_003106_hdt.log#1@7706","origin":"plan","action":"Jouer Wyrm du pic venteux → Ennuy-o-tron","flags":[]}
+{"caseId":"sessions/20261026_003106_hdt.log#1@9528","origin":"modèle","action":"Jouer Avant-garde du portail","flags":[]}
+{"caseId":"sessions/20261026_003106_hdt.log#1@14564","origin":"modèle","action":"Jouer Wyrm du pic venteux → Grizzly du bois Maudit","flags":[]}
+{"caseId":"sessions/20261026_003106_hdt.log#1@16484","origin":"modèle","action":"Attaquer avec Avant-garde du portail → Rexxar","flags":[]}
+{"caseId":"sessions/20261026_003106_hdt.log#1@16784","origin":"modèle","action":"Jouer Luisaile","flags":[]}
+{"caseId":"sessions/20261026_003106_hdt.log#1@16930","origin":"modèle","action":"Jouer Glissedrake visionnaire","flags":[]}
+{"caseId":"sessions/20261026_003106_hdt.log#1@18871","origin":"modèle","action":"Jouer Siamat","flags":[]}
+{"caseId":"sessions/20261026_003106_hdt.log#1@19499","origin":"modèle","action":"Jouer Gardien des couvées","flags":[]}
+{"caseId":"sessions/20261026_003106_hdt.log#1@19710","origin":"modèle","action":"Attaquer avec Siamat → Elekk migrateur","flags":[]}
+{"caseId":"sessions/20261026_004607_hdt.log#1@1334","origin":"modèle","action":"Jouer Gardien des couvées","flags":[]}
+{"caseId":"sessions/20261026_004607_hdt.log#1@1843","origin":"modèle","action":"Jouer Avant-garde du portail","flags":[]}
+{"caseId":"sessions/20261026_004607_hdt.log#1@2987","origin":"modèle","action":"Jouer Avant-garde du portail","flags":[]}
+{"caseId":"sessions/20261026_004607_hdt.log#1@3369","origin":"modèle","action":"Jouer Sombre chevaucheur","flags":[]}
+{"caseId":"sessions/20261026_004607_hdt.log#1@3866","origin":"modèle","action":"Attaquer avec Avant-garde du portail → Jaina Portvaillant","flags":[]}
+{"caseId":"sessions/20261026_004607_hdt.log#1@4864","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261026_004607_hdt.log#1@5327","origin":"modèle","action":"Jouer Gardien des couvées","flags":[]}
+{"caseId":"sessions/20261026_004607_hdt.log#1@5637","origin":"modèle","action":"Attaquer avec Avant-garde du portail → Bibliothèque bavarde","flags":[]}
+{"caseId":"sessions/20261026_004607_hdt.log#1@7085","origin":"modèle","action":"Jouer Lancier écailleux","flags":[]}
+{"caseId":"sessions/20261026_004607_hdt.log#1@7333","origin":"plan","action":"Jouer Voyante distordue par le temps","flags":[]}
+{"caseId":"sessions/20261026_004607_hdt.log#1@7445","origin":"plan","action":"Attaquer avec Sombre chevaucheur → Jaina Portvaillant","flags":[]}
+{"caseId":"sessions/20261026_004607_hdt.log#1@9170","origin":"modèle","action":"Attaquer avec Forgeron dimensionnel → Rejeton de C’Thun","flags":[]}
+{"caseId":"sessions/20261026_004607_hdt.log#1@9325","origin":"plan","action":"Attaquer avec Lancier écailleux → Jaina Portvaillant","flags":[]}
+{"caseId":"sessions/20261026_004607_hdt.log#1@9457","origin":"plan","action":"Attaquer avec Sombre chevaucheur → Jaina Portvaillant","flags":[]}
+{"caseId":"sessions/20261026_004607_hdt.log#1@10746","origin":"modèle","action":"Attaquer avec Forgeron dimensionnel → Rejeton de C’Thun","flags":[]}
+{"caseId":"sessions/20261026_004607_hdt.log#1@11067","origin":"plan","action":"Attaquer avec Sombre chevaucheur → Fanatique sans-visage","flags":[]}
+{"caseId":"sessions/20261026_004607_hdt.log#1@11259","origin":"plan","action":"Attaquer avec Dragonnet du Vol infini → Fanatique sans-visage","flags":[]}
+{"caseId":"sessions/20261026_005442_hdt.log#1@1641","origin":"modèle","action":"Finir le tour","flags":["FIN_DE_TOUR_PREMATUREE (à vérifier) : Fin de tour avec 1 mana disponible, 1 carte(s) ou pouvoir jouable(s) et 0 attaquant(s) disponible(s)."]}
+{"caseId":"sessions/20261026_005442_hdt.log#1@2179","origin":"modèle","action":"Jouer Gardien des couvées","flags":[]}
+{"caseId":"sessions/20261026_005442_hdt.log#1@2357","origin":"modèle","action":"Finir le tour","flags":["FIN_DE_TOUR_PREMATUREE (à vérifier) : Fin de tour avec 0 mana disponible, 1 carte(s) ou pouvoir jouable(s) et 0 attaquant(s) disponible(s)."]}
+{"caseId":"sessions/20261026_005442_hdt.log#1@3036","origin":"modèle","action":"Jouer La pièce","flags":[]}
+{"caseId":"sessions/20261026_005442_hdt.log#1@3256","origin":"plan","action":"Jouer Glissedrake visionnaire","flags":[]}
+{"caseId":"sessions/20261026_005442_hdt.log#1@4228","origin":"modèle","action":"Jouer Glissedrake visionnaire","flags":[]}
+{"caseId":"sessions/20261026_005442_hdt.log#1@4318","origin":"plan","action":"Attaquer avec Glissedrake visionnaire → Jaina Portvaillant","flags":[]}
+{"caseId":"sessions/20261026_005442_hdt.log#1@4943","origin":"modèle","action":"Jouer Gardien des couvées","flags":[]}
+{"caseId":"sessions/20261026_005442_hdt.log#1@5193","origin":"modèle","action":"Attaquer avec Glissedrake visionnaire → Milhouse Forteresse-de-Mana","flags":[]}
+{"caseId":"sessions/20261026_005442_hdt.log#1@5425","origin":"modèle","action":"Jouer Dragonnet du Vol infini","flags":[]}
+{"caseId":"sessions/20261026_005442_hdt.log#1@8124","origin":"modèle","action":"Attaquer avec Garrosh Hurlenfer → Apprentie de la sorcière","flags":[]}
+{"caseId":"sessions/20261026_005442_hdt.log#1@8303","origin":"modèle","action":"Jouer Chronoseigneur Époque","flags":[]}
+{"caseId":"sessions/20261026_005442_hdt.log#1@8504","origin":"modèle","action":"Attaquer avec Dragonnet du Vol infini → Gardienne déguisée","flags":[]}
+{"caseId":"sessions/20261026_005442_hdt.log#1@11588","origin":"modèle","action":"Attaquer avec Gardien des couvées → Jaina Portvaillant","flags":[]}
+{"caseId":"sessions/20261026_005442_hdt.log#1@11817","origin":"modèle","action":"Attaquer avec Chronoseigneur Époque → Jaina Portvaillant","flags":[]}
+{"caseId":"sessions/20261026_010156_hdt.log#1@1158","origin":"modèle","action":"Jouer Sombre chevaucheur","flags":[]}
+{"caseId":"sessions/20261026_010156_hdt.log#1@2605","origin":"modèle","action":"Jouer Suffusion d’ombreflamme → Porte-bobine","flags":[]}
+{"caseId":"sessions/20261026_010156_hdt.log#1@3185","origin":"modèle","action":"Attaquer avec Sombre chevaucheur → Kael’thas, prince cruel","flags":[]}
+{"caseId":"sessions/20261026_010156_hdt.log#1@3712","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261026_010156_hdt.log#1@4699","origin":"modèle","action":"Jouer Salamandre dimensionnelle","flags":[]}
+{"caseId":"sessions/20261026_010156_hdt.log#1@4794","origin":"plan","action":"Attaquer avec Salamandre dimensionnelle → Sabrerune mystique","flags":[]}
+{"caseId":"sessions/20261026_010156_hdt.log#1@4947","origin":"plan","action":"Attaquer avec Salamandre dimensionnelle → Kael’thas, prince cruel","flags":[]}
+{"caseId":"sessions/20261026_010156_hdt.log#1@6022","origin":"modèle","action":"Jouer Profondeurs Sanguines","flags":[]}
+{"caseId":"sessions/20261026_010156_hdt.log#1@6088","origin":"plan","action":"Jouer Verdaile illusoire","flags":[]}
+{"caseId":"sessions/20261026_010156_hdt.log#1@6222","origin":"plan","action":"Activer Profondeurs Sanguines → Forgeron dimensionnel (allié)","flags":[]}
+{"caseId":"sessions/20261026_010156_hdt.log#1@7313","origin":"modèle","action":"Jouer Animatrice de stade","flags":[]}
+{"caseId":"sessions/20261026_010156_hdt.log#1@7899","origin":"modèle","action":"Jouer Colporteur de pétales","flags":[]}
+{"caseId":"sessions/20261026_010156_hdt.log#1@7992","origin":"modèle","action":"Attaquer avec Verdaile illusoire → Kael’thas, prince cruel","flags":[]}
+{"caseId":"sessions/20261026_010743_hdt.log#1@2035","origin":"modèle","action":"Jouer Sombre chevaucheur","flags":[]}
+{"caseId":"sessions/20261026_010743_hdt.log#1@2471","origin":"modèle","action":"Finir le tour","flags":["FIN_DE_TOUR_PREMATUREE (à vérifier) : Fin de tour avec 0 mana disponible, 1 carte(s) ou pouvoir jouable(s) et 0 attaquant(s) disponible(s)."]}
+{"caseId":"sessions/20261026_010743_hdt.log#1@3096","origin":"modèle","action":"Jouer La pièce","flags":[]}
+{"caseId":"sessions/20261026_010743_hdt.log#1@3174","origin":"plan","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261026_010743_hdt.log#1@3369","origin":"plan","action":"Attaquer avec Sombre chevaucheur → Garrosh, roi des pirates","flags":[]}
+{"caseId":"sessions/20261026_010743_hdt.log#1@4478","origin":"modèle","action":"Jouer Colporteur de pétales","flags":[]}
+{"caseId":"sessions/20261026_010743_hdt.log#1@4542","origin":"modèle","action":"Attaquer avec Forgeron dimensionnel → Garrosh, roi des pirates","flags":[]}
+{"caseId":"sessions/20261026_010743_hdt.log#1@5711","origin":"modèle","action":"Jouer Avant-garde du portail","flags":[]}
+{"caseId":"sessions/20261026_010743_hdt.log#1@8732","origin":"modèle","action":"Attaquer avec Forgeron dimensionnel → Luisaile","flags":[]}
+{"caseId":"sessions/20261026_010743_hdt.log#1@9802","origin":"modèle","action":"Jouer Dragonnet du Vol infini","flags":[]}
+{"caseId":"sessions/20261026_010743_hdt.log#1@10032","origin":"plan","action":"Jouer Colporteur de pétales","flags":[]}
+{"caseId":"sessions/20261026_010743_hdt.log#1@10166","origin":"modèle","action":"Finir le tour","flags":["FIN_DE_TOUR_PREMATUREE (à vérifier) : Fin de tour avec 0 mana disponible, 0 carte(s) ou pouvoir jouable(s) et 4 attaquant(s) disponible(s)."]}
+{"caseId":"sessions/20261026_010743_hdt.log#1@11363","origin":"modèle","action":"Attaquer avec Dragonnet du Vol infini → Rescapée de la fin des temps","flags":[]}
+{"caseId":"sessions/20261026_010743_hdt.log#1@11923","origin":"modèle","action":"Jouer Drake terrestre","flags":[]}
+{"caseId":"sessions/20261026_010743_hdt.log#1@12207","origin":"plan","action":"Attaquer avec Voyante distordue par le temps → Canonnière","flags":[]}
+{"caseId":"sessions/20261026_010743_hdt.log#1@15037","origin":"solveur","action":"Jouer Wyrm du pic venteux → Garrosh, roi des pirates","flags":[]}
+{"caseId":"sessions/20261026_010743_hdt.log#1@15534","origin":"solveur","action":"Attaquer avec Drake terrestre → Garrosh, roi des pirates","flags":[]}
+{"caseId":"sessions/20261026_011533_hdt.log#1@1975","origin":"modèle","action":"Jouer Gardien des couvées","flags":[]}
+{"caseId":"sessions/20261026_011533_hdt.log#1@2082","origin":"modèle","action":"Attaquer avec Garrosh Hurlenfer → Akama","flags":[]}
+{"caseId":"sessions/20261026_011533_hdt.log#1@3562","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261026_011533_hdt.log#1@3706","origin":"plan","action":"Attaquer avec Garrosh Hurlenfer → Watsaileron","flags":[]}
+{"caseId":"sessions/20261026_011533_hdt.log#1@4016","origin":"modèle","action":"Attaquer avec Gardien des couvées → Akama","flags":[]}
+{"caseId":"sessions/20261026_011533_hdt.log#1@5430","origin":"modèle","action":"Jouer Animatrice de stade","flags":[]}
+{"caseId":"sessions/20261026_011533_hdt.log#1@8023","origin":"modèle","action":"Attaquer avec Garrosh Hurlenfer → Messager raptor","flags":[]}
+{"caseId":"sessions/20261026_011533_hdt.log#1@9873","origin":"modèle","action":"Jouer Frappe anticipée → Grizzly du bois Maudit","flags":[]}
+{"caseId":"sessions/20261026_011533_hdt.log#1@10083","origin":"modèle","action":"Jouer Suffusion d’ombreflamme → Grizzly du bois Maudit","flags":[]}
+{"caseId":"sessions/20261026_011533_hdt.log#1@10661","origin":"modèle","action":"Attaquer avec Garrosh Hurlenfer → Grizzly du bois Maudit","flags":["HEROS_ATTAQUE_SANS_TUER (à vérifier) : Le héros (3 ATQ) attaque Grizzly du bois Maudit (8 PV) sans le tuer et subit 7 dégâts."]}
+{"caseId":"sessions/20261026_011533_hdt.log#1@12218","origin":"modèle","action":"Jouer Chronoseigneur Époque","flags":[]}
+{"caseId":"sessions/20261026_011533_hdt.log#1@12542","origin":"modèle","action":"Attaquer avec Garrosh Hurlenfer → Akama","flags":[]}
+{"caseId":"sessions/20261026_011533_hdt.log#1@12725","origin":"modèle","action":"Attaquer avec Gardien des couvées → Akama","flags":[]}
+{"caseId":"sessions/20261026_011533_hdt.log#1@13919","origin":"modèle","action":"Jouer Animatrice de stade","flags":[]}
+{"caseId":"sessions/20261026_011533_hdt.log#1@14385","origin":"modèle","action":"Attaquer avec Garrosh Hurlenfer → Grizzly du bois Maudit","flags":["HEROS_ATTAQUE_SANS_TUER (à vérifier) : Le héros (3 ATQ) attaque Grizzly du bois Maudit (7 PV) sans le tuer et subit 3 dégâts."]}
+{"caseId":"sessions/20261026_011533_hdt.log#1@14621","origin":"modèle","action":"Attaquer avec Forgeron dimensionnel → Grizzly du bois Maudit","flags":[]}
+{"caseId":"sessions/20261026_012511_hdt.log#1@843","origin":"modèle","action":"Jouer Sombre chevaucheur","flags":[]}
+{"caseId":"sessions/20261026_012511_hdt.log#1@1971","origin":"modèle","action":"Jouer Profondeurs Sanguines","flags":[]}
+{"caseId":"sessions/20261026_012511_hdt.log#1@2034","origin":"plan","action":"Attaquer avec Sombre chevaucheur → Illidan Hurlorage","flags":[]}
+{"caseId":"sessions/20261026_012511_hdt.log#1@2178","origin":"modèle","action":"Finir le tour","flags":[]}
+{"caseId":"sessions/20261026_012511_hdt.log#1@3010","origin":"modèle","action":"Jouer Dragonnet du Vol infini","flags":[]}
+{"caseId":"sessions/20261026_012511_hdt.log#1@3105","origin":"modèle","action":"Attaquer avec Sombre chevaucheur → Illidan Hurlorage","flags":[]}
+{"caseId":"sessions/20261026_012511_hdt.log#1@3278","origin":"modèle","action":"Finir le tour","flags":[]}
+{"caseId":"sessions/20261026_012511_hdt.log#1@4661","origin":"modèle","action":"Jouer Frappe anticipée → Wyrm primordial","flags":[]}
+{"caseId":"sessions/20261026_012511_hdt.log#1@4864","origin":"modèle","action":"Activer Profondeurs Sanguines → T0ut0u","flags":[]}
+{"caseId":"sessions/20261026_012511_hdt.log#1@5068","origin":"plan","action":"Attaquer avec Dragonnet du Vol infini → Wyrm primordial","flags":[]}
+{"caseId":"sessions/20261026_012511_hdt.log#1@6373","origin":"modèle","action":"Jouer Héritière de l’au-delà","flags":[]}
+{"caseId":"sessions/20261026_012511_hdt.log#1@6564","origin":"plan","action":"Attaquer avec Dragonnet du Vol infini → Illidan Hurlorage","flags":[]}
+{"caseId":"sessions/20261026_012511_hdt.log#1@6703","origin":"plan","action":"Attaquer avec Sombre chevaucheur → Illidan Hurlorage","flags":[]}
+{"caseId":"sessions/20261026_012511_hdt.log#1@7835","origin":"solveur","action":"Jouer Wyrm du pic venteux → Illidan Hurlorage","flags":[]}
+{"caseId":"sessions/20261026_012511_hdt.log#1@8255","origin":"solveur","action":"Activer Profondeurs Sanguines → Héritière de l’au-delà (allié)","flags":[]}
+{"caseId":"sessions/20261026_012511_hdt.log#1@8487","origin":"solveur","action":"Attaquer avec Dragonnet du Vol infini → Illidan Hurlorage","flags":[]}
+{"caseId":"sessions/20261026_013105_hdt.log#1@1548","origin":"modèle","action":"Jouer Profondeurs Sanguines","flags":[]}
+{"caseId":"sessions/20261026_013105_hdt.log#1@2192","origin":"modèle","action":"Activer Profondeurs Sanguines → Gueule-rasoir branchie-rouge","flags":[]}
+{"caseId":"sessions/20261026_013105_hdt.log#1@2463","origin":"plan","action":"Jouer La pièce","flags":[]}
+{"caseId":"sessions/20261026_013105_hdt.log#1@2560","origin":"plan","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261026_013105_hdt.log#1@3639","origin":"modèle","action":"Jouer Colporteur de pétales","flags":[]}
+{"caseId":"sessions/20261026_013105_hdt.log#1@3704","origin":"modèle","action":"Attaquer avec Forgeron dimensionnel → Végétaileron avide","flags":[]}
+{"caseId":"sessions/20261026_013105_hdt.log#1@4837","origin":"modèle","action":"Activer Profondeurs Sanguines → Colporteur de pétales (allié)","flags":[]}
+{"caseId":"sessions/20261026_013105_hdt.log#1@4974","origin":"plan","action":"Jouer Glissedrake visionnaire","flags":[]}
+{"caseId":"sessions/20261026_013105_hdt.log#1@5058","origin":"plan","action":"Attaquer avec Forgeron dimensionnel → Murmie","flags":[]}
+{"caseId":"sessions/20261026_013105_hdt.log#1@6209","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261026_013105_hdt.log#1@6544","origin":"modèle","action":"Jouer Luisaile","flags":[]}
+{"caseId":"sessions/20261026_013105_hdt.log#1@6804","origin":"modèle","action":"Attaquer avec Forgeron dimensionnel → Voyant froide-lumière","flags":[]}
+{"caseId":"sessions/20261026_013105_hdt.log#1@8728","origin":"modèle","action":"Activer Profondeurs Sanguines → Forgeron dimensionnel (allié)","flags":[]}
+{"caseId":"sessions/20261026_013105_hdt.log#1@8825","origin":"plan","action":"Jouer Glissedrake visionnaire","flags":[]}
+{"caseId":"sessions/20261026_013105_hdt.log#1@8999","origin":"plan","action":"Attaquer avec Forgeron dimensionnel → Dame Liadrin","flags":[]}
+{"caseId":"sessions/20261026_013105_hdt.log#1@11207","origin":"solveur","action":"Attaquer avec Forgeron dimensionnel → Dame Liadrin","flags":[]}
+{"caseId":"sessions/20261026_013916_hdt.log#1@1546","origin":"modèle","action":"Jouer Sombre chevaucheur","flags":[]}
+{"caseId":"sessions/20261026_013916_hdt.log#1@2050","origin":"modèle","action":"Finir le tour","flags":["FIN_DE_TOUR_PREMATUREE (à vérifier) : Fin de tour avec 0 mana disponible, 1 carte(s) ou pouvoir jouable(s) et 0 attaquant(s) disponible(s)."]}
+{"caseId":"sessions/20261026_013916_hdt.log#1@2714","origin":"modèle","action":"Jouer Colporteur de pétales","flags":[]}
+{"caseId":"sessions/20261026_013916_hdt.log#1@2796","origin":"plan","action":"Attaquer avec Sombre chevaucheur → Gul’dan","flags":[]}
+{"caseId":"sessions/20261026_013916_hdt.log#1@2973","origin":"modèle","action":"Finir le tour","flags":["FIN_DE_TOUR_PREMATUREE (à vérifier) : Fin de tour avec 0 mana disponible, 1 carte(s) ou pouvoir jouable(s) et 0 attaquant(s) disponible(s)."]}
+{"caseId":"sessions/20261026_013916_hdt.log#1@3612","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261026_013916_hdt.log#1@3787","origin":"modèle","action":"Attaquer avec Colporteur de pétales → Gul’dan","flags":[]}
+{"caseId":"sessions/20261026_013916_hdt.log#1@4067","origin":"plan","action":"Attaquer avec Sombre chevaucheur → Gul’dan","flags":[]}
+{"caseId":"sessions/20261026_013916_hdt.log#1@5102","origin":"modèle","action":"Jouer Glissedrake visionnaire","flags":[]}
+{"caseId":"sessions/20261026_013916_hdt.log#1@5635","origin":"modèle","action":"Attaquer avec Colporteur de pétales → Soldat de Cho’gall","flags":[]}
+{"caseId":"sessions/20261026_013916_hdt.log#1@6021","origin":"modèle","action":"Attaquer avec Forgeron dimensionnel → Gul’dan","flags":[]}
+{"caseId":"sessions/20261026_013916_hdt.log#1@8014","origin":"modèle","action":"Jouer La pièce","flags":[]}
+{"caseId":"sessions/20261026_013916_hdt.log#1@8168","origin":"plan","action":"Jouer Wyrm du pic venteux → Gul’dan","flags":[]}
+{"caseId":"sessions/20261026_013916_hdt.log#1@8383","origin":"plan","action":"Attaquer avec Forgeron dimensionnel → Gul’dan","flags":[]}
+{"caseId":"sessions/20261026_013916_hdt.log#1@10684","origin":"solveur","action":"Jouer Frappe anticipée → Gul’dan","flags":[]}
+{"caseId":"sessions/20261026_013916_hdt.log#1@10899","origin":"solveur","action":"Jouer Frappe anticipée → Gul’dan","flags":[]}
+{"caseId":"sessions/20261026_014601_hdt.log#1@1317","origin":"modèle","action":"Jouer Colporteur de pétales","flags":[]}
+{"caseId":"sessions/20261026_014601_hdt.log#1@1958","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261026_014601_hdt.log#1@2301","origin":"modèle","action":"Attaquer avec Colporteur de pétales → Aile-ensorcelée pourpre","flags":[]}
+{"caseId":"sessions/20261026_014601_hdt.log#1@3506","origin":"modèle","action":"Jouer Avant-garde du portail","flags":[]}
+{"caseId":"sessions/20261026_014601_hdt.log#1@3900","origin":"modèle","action":"Jouer Voyante distordue par le temps","flags":[]}
+{"caseId":"sessions/20261026_014601_hdt.log#1@3984","origin":"plan","action":"Attaquer avec Forgeron dimensionnel → Sabrerune mystique","flags":[]}
+{"caseId":"sessions/20261026_014601_hdt.log#1@4804","origin":"modèle","action":"Jouer Luisaile","flags":[]}
+{"caseId":"sessions/20261026_014601_hdt.log#1@5047","origin":"modèle","action":"Jouer Avant-garde du portail","flags":[]}
+{"caseId":"sessions/20261026_014601_hdt.log#1@5540","origin":"modèle","action":"Attaquer avec Forgeron dimensionnel → Marcheuse tellurique","flags":[]}
+{"caseId":"sessions/20261026_014601_hdt.log#1@7493","origin":"modèle","action":"Jouer Sombre chevaucheur","flags":[]}
+{"caseId":"sessions/20261026_014601_hdt.log#1@8125","origin":"modèle","action":"Jouer Glissedrake visionnaire","flags":[]}
+{"caseId":"sessions/20261026_014601_hdt.log#1@8333","origin":"plan","action":"Attaquer avec Avant-garde du portail → Jaina Portvaillant","flags":[]}
+{"caseId":"sessions/20261026_014601_hdt.log#1@9186","origin":"modèle","action":"Jouer Wyrm du pic venteux → Jaina Portvaillant","flags":[]}
+{"caseId":"sessions/20261026_014601_hdt.log#1@9333","origin":"plan","action":"Attaquer avec Sombre chevaucheur → Jaina Portvaillant","flags":[]}
+{"caseId":"sessions/20261026_014601_hdt.log#1@9512","origin":"plan","action":"Attaquer avec Avant-garde du portail → Jaina Portvaillant","flags":[]}
+{"caseId":"sessions/20261026_014601_hdt.log#1@10870","origin":"modèle","action":"Jouer Animatrice de stade","flags":[]}
+{"caseId":"sessions/20261026_014601_hdt.log#1@14184","origin":"modèle","action":"Attaquer avec Garrosh Hurlenfer → Jaina Portvaillant","flags":[]}
+{"caseId":"sessions/20261026_014601_hdt.log#1@16835","origin":"modèle","action":"Attaquer avec Dragonnet du Vol infini → Techysaurus","flags":[]}
+{"caseId":"sessions/20261026_014601_hdt.log#1@17237","origin":"solveur","action":"Attaquer avec Animatrice de stade → Jaina Portvaillant","flags":[]}
+{"caseId":"sessions/20261026_014601_hdt.log#1@17419","origin":"solveur","action":"Attaquer avec Animatrice de stade → Jaina Portvaillant","flags":[]}
+{"caseId":"sessions/20261026_015601_hdt.log#1@1420","origin":"modèle","action":"Finir le tour","flags":["FIN_DE_TOUR_PREMATUREE (à vérifier) : Fin de tour avec 1 mana disponible, 1 carte(s) ou pouvoir jouable(s) et 0 attaquant(s) disponible(s)."]}
+{"caseId":"sessions/20261026_015601_hdt.log#1@2211","origin":"modèle","action":"Jouer La pièce","flags":[]}
+{"caseId":"sessions/20261026_015601_hdt.log#1@2291","origin":"plan","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261026_015601_hdt.log#1@3551","origin":"modèle","action":"Jouer Sombre chevaucheur","flags":[]}
+{"caseId":"sessions/20261026_015601_hdt.log#1@4086","origin":"modèle","action":"Jouer Gardien des couvées","flags":[]}
+{"caseId":"sessions/20261026_015601_hdt.log#1@4231","origin":"modèle","action":"Attaquer avec Garrosh Hurlenfer → Causalité intemporelle","flags":[]}
+{"caseId":"sessions/20261026_015601_hdt.log#1@5833","origin":"modèle","action":"Jouer Avant-garde du portail","flags":[]}
+{"caseId":"sessions/20261026_015601_hdt.log#1@6296","origin":"modèle","action":"Attaquer avec Gardien des couvées → Chevaucheuse d’araignée","flags":[]}
+{"caseId":"sessions/20261026_015601_hdt.log#1@6515","origin":"plan","action":"Jouer Voyante distordue par le temps","flags":[]}
+{"caseId":"sessions/20261026_015601_hdt.log#1@8014","origin":"modèle","action":"Jouer Frappe anticipée → Uther le Porteur de Lumière","flags":[]}
+{"caseId":"sessions/20261026_015601_hdt.log#1@8521","origin":"modèle","action":"Jouer Colporteur de pétales","flags":[]}
+{"caseId":"sessions/20261026_015601_hdt.log#1@8672","origin":"modèle","action":"Attaquer avec Gardien des couvées → Uther le Porteur de Lumière","flags":[]}
+{"caseId":"sessions/20261026_015601_hdt.log#1@10318","origin":"solveur","action":"Jouer Suffusion d’ombreflamme → Uther le Porteur de Lumière","flags":[]}
+{"caseId":"sessions/20261026_020236_hdt.log#1@1565","origin":"modèle","action":"Jouer Sombre chevaucheur","flags":[]}
+{"caseId":"sessions/20261026_020236_hdt.log#1@2026","origin":"modèle","action":"Finir le tour","flags":["FIN_DE_TOUR_PREMATUREE (à vérifier) : Fin de tour avec 0 mana disponible, 1 carte(s) ou pouvoir jouable(s) et 0 attaquant(s) disponible(s)."]}
+{"caseId":"sessions/20261026_020236_hdt.log#1@2697","origin":"modèle","action":"Jouer Colporteur de pétales","flags":[]}
+{"caseId":"sessions/20261026_020236_hdt.log#1@2757","origin":"modèle","action":"Jouer La pièce","flags":[]}
+{"caseId":"sessions/20261026_020236_hdt.log#1@2870","origin":"plan","action":"Jouer Voyante distordue par le temps","flags":[]}
+{"caseId":"sessions/20261026_020236_hdt.log#1@4118","origin":"modèle","action":"Jouer Avant-garde du portail","flags":[]}
+{"caseId":"sessions/20261026_020236_hdt.log#1@4530","origin":"modèle","action":"Attaquer avec Colporteur de pétales → Sombreraie","flags":[]}
+{"caseId":"sessions/20261026_020236_hdt.log#1@4700","origin":"plan","action":"Attaquer avec Sombre chevaucheur → Sombreraie","flags":[]}
+{"caseId":"sessions/20261026_020236_hdt.log#1@6127","origin":"modèle","action":"Jouer Glissedrake visionnaire","flags":[]}
+{"caseId":"sessions/20261026_020236_hdt.log#1@6253","origin":"modèle","action":"Attaquer avec Avant-garde du portail → Garde des profondeurs","flags":[]}
+{"caseId":"sessions/20261026_020236_hdt.log#1@6395","origin":"plan","action":"Attaquer avec Sombre chevaucheur → Garde des profondeurs","flags":[]}
+{"caseId":"sessions/20261026_020236_hdt.log#1@8057","origin":"modèle","action":"Jouer Sombre chevaucheur","flags":[]}
+{"caseId":"sessions/20261026_020236_hdt.log#1@8534","origin":"modèle","action":"Jouer Glissedrake visionnaire","flags":[]}
+{"caseId":"sessions/20261026_020236_hdt.log#1@8660","origin":"plan","action":"Attaquer avec Glissedrake visionnaire → Garde des profondeurs","flags":[]}
+{"caseId":"sessions/20261026_020236_hdt.log#1@10451","origin":"modèle","action":"Jouer Chronoseigneur Époque","flags":[]}
+{"caseId":"sessions/20261026_020236_hdt.log#1@10594","origin":"modèle","action":"Attaquer avec Glissedrake visionnaire → Aile du Vide","flags":[]}
+{"caseId":"sessions/20261026_020236_hdt.log#1@10804","origin":"plan","action":"Attaquer avec Glissedrake visionnaire → Aile du Vide","flags":[]}
+{"caseId":"sessions/20261026_020236_hdt.log#1@11815","origin":"modèle","action":"Jouer Chronoseigneur Époque","flags":[]}
+{"caseId":"sessions/20261026_020236_hdt.log#1@11960","origin":"modèle","action":"Jouer Profondeurs Sanguines","flags":[]}
+{"caseId":"sessions/20261026_020236_hdt.log#1@12090","origin":"plan","action":"Activer Profondeurs Sanguines → Glissedrake visionnaire (allié)","flags":[]}
+{"caseId":"sessions/20261026_020236_hdt.log#1@15176","origin":"modèle","action":"Jouer Frappe anticipée → Aile du Vide","flags":[]}
+{"caseId":"sessions/20261026_020236_hdt.log#1@15400","origin":"modèle","action":"Attaquer avec Glissedrake visionnaire → Aile du Vide","flags":[]}
+{"caseId":"sessions/20261026_020236_hdt.log#1@15707","origin":"solveur","action":"Jouer Wyrm du pic venteux → Zek’voz","flags":[]}
+{"caseId":"sessions/20261026_021216_hdt.log#1@963","origin":"modèle","action":"Jouer Profondeurs Sanguines","flags":[]}
+{"caseId":"sessions/20261026_021216_hdt.log#1@1754","origin":"modèle","action":"Jouer Frappe anticipée → Chevalier floramer","flags":[]}
+{"caseId":"sessions/20261026_021216_hdt.log#1@2698","origin":"modèle","action":"Jouer Suffusion d’ombreflamme → Chevalier floramer","flags":[]}
+{"caseId":"sessions/20261026_021216_hdt.log#1@3405","origin":"modèle","action":"Activer Profondeurs Sanguines → Chevalier floramer","flags":[]}
+{"caseId":"sessions/20261026_021216_hdt.log#1@4233","origin":"modèle","action":"Jouer Gardien des couvées","flags":[]}
+{"caseId":"sessions/20261026_021216_hdt.log#1@4526","origin":"modèle","action":"Jouer Colporteur de pétales","flags":[]}
+{"caseId":"sessions/20261026_021216_hdt.log#1@4663","origin":"modèle","action":"Attaquer avec Garrosh Hurlenfer → Feu follet","flags":[]}
+{"caseId":"sessions/20261026_021216_hdt.log#1@5671","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261026_021216_hdt.log#1@6070","origin":"modèle","action":"Jouer Colporteur de pétales","flags":[]}
+{"caseId":"sessions/20261026_021216_hdt.log#1@6286","origin":"modèle","action":"Attaquer avec Garrosh Hurlenfer → Feu follet","flags":[]}
+{"caseId":"sessions/20261026_021216_hdt.log#1@7528","origin":"modèle","action":"Jouer Glissedrake visionnaire","flags":[]}
+{"caseId":"sessions/20261026_021216_hdt.log#1@7617","origin":"plan","action":"Pouvoir héroïque Gain d’armure\u00A0!","flags":[]}
+{"caseId":"sessions/20261026_021216_hdt.log#1@7693","origin":"modèle","action":"Finir le tour","flags":[]}
+{"caseId":"sessions/20261026_021216_hdt.log#1@8414","origin":"modèle","action":"Jouer Wyrm du pic venteux → Jaina Portvaillant","flags":[]}
+{"caseId":"sessions/20261026_021216_hdt.log#1@8704","origin":"plan","action":"Activer Profondeurs Sanguines → Glissedrake visionnaire (allié)","flags":[]}
+{"caseId":"sessions/20261026_021216_hdt.log#1@8896","origin":"plan","action":"Attaquer avec Glissedrake visionnaire → Jaina Portvaillant","flags":[]}
+{"caseId":"sessions/20261026_021216_hdt.log#1@10072","origin":"modèle","action":"Jouer Chronoseigneur Époque","flags":[]}
+{"caseId":"sessions/20261026_021216_hdt.log#1@10315","origin":"modèle","action":"Jouer Luisaile","flags":[]}
+{"caseId":"sessions/20261026_021216_hdt.log#1@11800","origin":"modèle","action":"Jouer Morchie","flags":[]}
+{"caseId":"sessions/20261026_021216_hdt.log#1@12150","origin":"modèle","action":"Jouer Sombre chevaucheur","flags":[]}
+{"caseId":"sessions/20261026_021216_hdt.log#1@14674","origin":"modèle","action":"Jouer Avant-garde du portail","flags":[]}
+{"caseId":"sessions/20261026_021216_hdt.log#1@18798","origin":"modèle","action":"Jouer Glissedrake visionnaire","flags":[]}
+{"caseId":"sessions/20261026_021216_hdt.log#1@21473","origin":"modèle","action":"Jouer Wyrm du pic venteux → Chevaucheuse de feu follet","flags":[]}
+{"caseId":"sessions/20261026_021216_hdt.log#1@21844","origin":"plan","action":"Attaquer avec Garrosh Hurlenfer → Gardienne bruissaile","flags":["HEROS_ATTAQUE_SANS_TUER (à vérifier) : Le héros (2 ATQ) attaque Gardienne bruissaile (4 PV) sans le tuer et subit 4 dégâts."]}
+{"caseId":"sessions/20261026_021216_hdt.log#1@22061","origin":"modèle","action":"Attaquer avec Glissedrake visionnaire → Gardienne bruissaile","flags":[]}
+{"caseId":"sessions/20261026_021216_hdt.log#1@25212","origin":"modèle","action":"Attaquer avec Glissedrake visionnaire → Jaina Portvaillant","flags":[]}
+{"caseId":"sessions/20261026_021216_hdt.log#1@25617","origin":"plan","action":"Attaquer avec Dragonnet du Vol infini → Jaina Portvaillant","flags":[]}
+{"caseId":"sessions/20261026_021216_hdt.log#1@25735","origin":"plan","action":"Jouer Voyante distordue par le temps","flags":[]}
+{"caseId":"sessions/20261026_021216_hdt.log#1@28356","origin":"modèle","action":"Activer Profondeurs Sanguines → Feu follet","flags":[]}
+{"caseId":"sessions/20261026_021216_hdt.log#1@28914","origin":"modèle","action":"Pouvoir héroïque Gain d’armure\u00A0!","flags":[]}
+{"caseId":"sessions/20261026_021216_hdt.log#1@29011","origin":"plan","action":"Jouer Sombre chevaucheur","flags":[]}
+{"caseId":"sessions/20261026_023027_hdt.log#1@774","origin":"modèle","action":"Jouer Sombre chevaucheur","flags":[]}
+{"caseId":"sessions/20261026_023027_hdt.log#1@1856","origin":"modèle","action":"Jouer Voyante distordue par le temps","flags":[]}
+{"caseId":"sessions/20261026_023027_hdt.log#1@2109","origin":"plan","action":"Attaquer avec Sombre chevaucheur → Amasseur de trouvailles","flags":[]}
+{"caseId":"sessions/20261026_023027_hdt.log#1@2787","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261026_023027_hdt.log#1@3156","origin":"modèle","action":"Attaquer avec Voyante distordue par le temps → Rexxar","flags":[]}
+{"caseId":"sessions/20261026_023027_hdt.log#1@4494","origin":"modèle","action":"Jouer Suffusion d’ombreflamme → Amasseur de trouvailles","flags":[]}
+{"caseId":"sessions/20261026_023027_hdt.log#1@5487","origin":"modèle","action":"Jouer Gardien des couvées","flags":[]}
+{"caseId":"sessions/20261026_023027_hdt.log#1@5631","origin":"modèle","action":"Attaquer avec Forgeron dimensionnel → Dispositif de dissimulation","flags":[]}
+{"caseId":"sessions/20261026_023027_hdt.log#1@6952","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261026_023027_hdt.log#1@7330","origin":"modèle","action":"Jouer Poing-crochet\u00A03000","flags":[]}
+{"caseId":"sessions/20261026_023027_hdt.log#1@7547","origin":"plan","action":"Attaquer avec Garrosh Hurlenfer → Rexxar","flags":[]}
+{"caseId":"sessions/20261026_023027_hdt.log#1@9501","origin":"modèle","action":"Jouer Wyrm du pic venteux → Ours runique mythique","flags":[]}
+{"caseId":"sessions/20261026_023027_hdt.log#1@9856","origin":"plan","action":"Attaquer avec Forgeron dimensionnel → Rexxar","flags":[]}
+{"caseId":"sessions/20261026_023027_hdt.log#1@11798","origin":"solveur","action":"Jouer Frappe anticipée → Rexxar","flags":["FRAPPE_SANS_PIOCHE (info) : Frappe anticipée jouée sans serviteur coûtant 5 ou plus en main : pas de pioche."]}
+{"caseId":"sessions/20261026_023027_hdt.log#1@12137","origin":"solveur","action":"Jouer Frappe anticipée → Rexxar","flags":["FRAPPE_SANS_PIOCHE (info) : Frappe anticipée jouée sans serviteur coûtant 5 ou plus en main : pas de pioche."]}
+{"caseId":"sessions/20261026_103415_hdt.log#1@890","origin":"modèle","action":"Jouer Profondeurs Sanguines","flags":[]}
+{"caseId":"sessions/20261026_103415_hdt.log#1@1432","origin":"modèle","action":"Jouer Suffusion d’ombreflamme → Le roi-liche","flags":[]}
+{"caseId":"sessions/20261026_103415_hdt.log#1@2463","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261026_103415_hdt.log#1@2808","origin":"modèle","action":"Finir le tour","flags":[]}
+{"caseId":"sessions/20261026_103415_hdt.log#1@3672","origin":"modèle","action":"Jouer Sombre chevaucheur","flags":[]}
+{"caseId":"sessions/20261026_103415_hdt.log#1@4187","origin":"modèle","action":"Jouer Dragonnet du Vol infini","flags":[]}
+{"caseId":"sessions/20261026_103415_hdt.log#1@5068","origin":"modèle","action":"Jouer Profondeurs Sanguines","flags":[]}
+{"caseId":"sessions/20261026_103415_hdt.log#1@5348","origin":"plan","action":"Jouer Verdaile illusoire","flags":[]}
+{"caseId":"sessions/20261026_103415_hdt.log#1@5519","origin":"plan","action":"Activer Profondeurs Sanguines → Forgeron dimensionnel (allié)","flags":[]}
+{"caseId":"sessions/20261026_103415_hdt.log#1@6978","origin":"modèle","action":"Jouer Wyrm du pic venteux → Le roi-liche","flags":[]}
+{"caseId":"sessions/20261026_103415_hdt.log#1@7157","origin":"plan","action":"Activer Profondeurs Sanguines → Verdaile illusoire (allié)","flags":[]}
+{"caseId":"sessions/20261026_103415_hdt.log#1@7370","origin":"plan","action":"Attaquer avec Dragonnet du Vol infini → Verdaile illusoire","flags":[]}
+{"caseId":"sessions/20261026_103415_hdt.log#1@8712","origin":"solveur","action":"Jouer Forgeron dimensionnel","flags":["LETAL_AVEC_MAIN_IGNORE (à vérifier) : Létal apparent avec « Jouer Salamandre dimensionnelle » (8) et les attaques autorisées (20) contre 25 PV + 0 armure, mais le coup choisi est « Jouer Forgeron dimensionnel »."]}
+{"caseId":"sessions/20261026_103415_hdt.log#1@9146","origin":"solveur","action":"Jouer Salamandre dimensionnelle","flags":[]}
+{"caseId":"sessions/20261026_103415_hdt.log#1@9375","origin":"solveur","action":"Activer Profondeurs Sanguines → Wyrm du pic venteux (allié)","flags":["LETAL_IGNORE (à vérifier) : Létal possible par les attaques autorisées sur le héros (30 dégâts contre 25 PV + 0 armure) mais le coup choisi est « Activer Profondeurs Sanguines → Wyrm du pic venteux (allié) ». Secrets adverses éventuels non pris en compte."]}
+{"caseId":"sessions/20261026_105144_hdt.log#1@2168","origin":"modèle","action":"Jouer Voyante distordue par le temps","flags":[]}
+{"caseId":"sessions/20261026_105144_hdt.log#1@2341","origin":"modèle","action":"Finir le tour","flags":["FIN_DE_TOUR_PREMATUREE (à vérifier) : Fin de tour avec 0 mana disponible, 1 carte(s) ou pouvoir jouable(s) et 0 attaquant(s) disponible(s)."]}
+{"caseId":"sessions/20261026_105144_hdt.log#1@3217","origin":"modèle","action":"Jouer Colporteur de pétales","flags":[]}
+{"caseId":"sessions/20261026_105144_hdt.log#1@3428","origin":"modèle","action":"Attaquer avec Voyante distordue par le temps → Illidan, fléau des démons","flags":[]}
+{"caseId":"sessions/20261026_105144_hdt.log#1@3577","origin":"modèle","action":"Finir le tour","flags":["FIN_DE_TOUR_PREMATUREE (à vérifier) : Fin de tour avec 0 mana disponible, 1 carte(s) ou pouvoir jouable(s) et 0 attaquant(s) disponible(s)."]}
+{"caseId":"sessions/20261026_105144_hdt.log#1@5112","origin":"modèle","action":"Jouer Gardien des couvées","flags":[]}
+{"caseId":"sessions/20261026_105144_hdt.log#1@5343","origin":"modèle","action":"Jouer La pièce","flags":[]}
+{"caseId":"sessions/20261026_105144_hdt.log#1@5512","origin":"plan","action":"Jouer Colporteur de pétales","flags":[]}
+{"caseId":"sessions/20261026_105144_hdt.log#1@7422","origin":"modèle","action":"Jouer Glissedrake visionnaire","flags":[]}
+{"caseId":"sessions/20261026_105144_hdt.log#1@7523","origin":"plan","action":"Attaquer avec Gardien des couvées → Illidan, fléau des démons","flags":[]}
+{"caseId":"sessions/20261026_105144_hdt.log#1@7648","origin":"plan","action":"Attaquer avec Garrosh Hurlenfer → Illidan, fléau des démons","flags":[]}
+{"caseId":"sessions/20261026_105144_hdt.log#1@8843","origin":"modèle","action":"Jouer Frappe anticipée → Brute furie-perçante","flags":[]}
+{"caseId":"sessions/20261026_105144_hdt.log#1@9040","origin":"modèle","action":"Attaquer avec Glissedrake visionnaire → Brute furie-perçante","flags":[]}
+{"caseId":"sessions/20261026_105144_hdt.log#1@9361","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261026_105144_hdt.log#1@10442","origin":"modèle","action":"Jouer Wyrm du pic venteux → Illidan, fléau des démons","flags":[]}
+{"caseId":"sessions/20261026_105144_hdt.log#1@10596","origin":"plan","action":"Attaquer avec Glissedrake visionnaire → Illidan, fléau des démons","flags":[]}
+{"caseId":"sessions/20261026_105144_hdt.log#1@11494","origin":"solveur","action":"Jouer Suffusion d’ombreflamme → Illidan, fléau des démons","flags":[]}
+{"caseId":"sessions/20261026_110008_hdt.log#1@964","origin":"modèle","action":"Jouer Profondeurs Sanguines","flags":[]}
+{"caseId":"sessions/20261026_110008_hdt.log#1@1636","origin":"modèle","action":"Jouer Gardien des couvées","flags":[]}
+{"caseId":"sessions/20261026_110008_hdt.log#1@1694","origin":"modèle","action":"Finir le tour","flags":[]}
+{"caseId":"sessions/20261026_110008_hdt.log#1@2288","origin":"modèle","action":"Jouer Gardien des couvées","flags":[]}
+{"caseId":"sessions/20261026_110008_hdt.log#1@2409","origin":"modèle","action":"Activer Profondeurs Sanguines → Colporteur de pétales (allié)","flags":[]}
+{"caseId":"sessions/20261026_110008_hdt.log#1@2646","origin":"plan","action":"Attaquer avec Colporteur de pétales → Nemsie Nécroflop","flags":[]}
+{"caseId":"sessions/20261026_110008_hdt.log#1@3888","origin":"modèle","action":"Jouer Glissedrake visionnaire","flags":[]}
+{"caseId":"sessions/20261026_110008_hdt.log#1@4023","origin":"plan","action":"Attaquer avec Gardien des couvées → Nemsie Nécroflop","flags":[]}
+{"caseId":"sessions/20261026_110008_hdt.log#1@4173","origin":"plan","action":"Attaquer avec Garrosh Hurlenfer → Nemsie Nécroflop","flags":[]}
+{"caseId":"sessions/20261026_110008_hdt.log#1@5174","origin":"modèle","action":"Jouer Glissedrake visionnaire","flags":[]}
+{"caseId":"sessions/20261026_110008_hdt.log#1@5313","origin":"plan","action":"Attaquer avec Glissedrake visionnaire → Sbire du gang des diablotins","flags":[]}
+{"caseId":"sessions/20261026_110008_hdt.log#1@5588","origin":"plan","action":"Attaquer avec Gardien des couvées → Nemsie Nécroflop","flags":[]}
+{"caseId":"sessions/20261026_110008_hdt.log#1@7241","origin":"modèle","action":"Jouer Frappe anticipée → Fanatique sans-visage","flags":[]}
+{"caseId":"sessions/20261026_110008_hdt.log#1@7475","origin":"modèle","action":"Jouer Suffusion d’ombreflamme → Fanatique sans-visage","flags":[]}
+{"caseId":"sessions/20261026_110008_hdt.log#1@8084","origin":"modèle","action":"Activer Profondeurs Sanguines → Fanatique sans-visage","flags":[]}
+{"caseId":"sessions/20261026_110604_hdt.log#1@1151","origin":"modèle","action":"Jouer Sombre chevaucheur","flags":[]}
+{"caseId":"sessions/20261026_110604_hdt.log#1@1665","origin":"modèle","action":"Finir le tour","flags":["FIN_DE_TOUR_PREMATUREE (à vérifier) : Fin de tour avec 0 mana disponible, 1 carte(s) ou pouvoir jouable(s) et 0 attaquant(s) disponible(s)."]}
+{"caseId":"sessions/20261026_110604_hdt.log#1@2325","origin":"modèle","action":"Jouer La pièce","flags":[]}
+{"caseId":"sessions/20261026_110604_hdt.log#1@2564","origin":"plan","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261026_110604_hdt.log#1@3904","origin":"modèle","action":"Jouer Dragonnet du Vol infini","flags":[]}
+{"caseId":"sessions/20261026_111058_hdt.log#1@1179","origin":"modèle","action":"Jouer Voyante distordue par le temps","flags":[]}
+{"caseId":"sessions/20261026_111058_hdt.log#1@2078","origin":"modèle","action":"Jouer Colporteur de pétales","flags":[]}
+{"caseId":"sessions/20261026_111058_hdt.log#1@3012","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261026_111058_hdt.log#1@3945","origin":"modèle","action":"Jouer Frappe anticipée → Maiev, gardienne de Dalaran","flags":[]}
+{"caseId":"sessions/20261026_111058_hdt.log#1@4307","origin":"modèle","action":"Jouer Suffusion d’ombreflamme → Maiev, gardienne de Dalaran","flags":[]}
+{"caseId":"sessions/20261026_111058_hdt.log#1@4945","origin":"modèle","action":"Attaquer avec Forgeron dimensionnel → Maiev, gardienne de Dalaran","flags":[]}
+{"caseId":"sessions/20261026_111058_hdt.log#1@6251","origin":"modèle","action":"Jouer Avant-garde du portail","flags":[]}
+{"caseId":"sessions/20261026_111058_hdt.log#1@6856","origin":"modèle","action":"Jouer Frappe anticipée → Maiev, gardienne de Dalaran","flags":[]}
+{"caseId":"sessions/20261026_111058_hdt.log#1@8065","origin":"modèle","action":"Jouer Wyrm du pic venteux → Émissaire de la Fin","flags":[]}
+{"caseId":"sessions/20261026_111058_hdt.log#1@8212","origin":"plan","action":"Attaquer avec Avant-garde du portail → Maiev, gardienne de Dalaran","flags":[]}
+{"caseId":"sessions/20261026_111058_hdt.log#1@12320","origin":"modèle","action":"Jouer Chronoseigneur Époque","flags":[]}
+{"caseId":"sessions/20261026_111058_hdt.log#1@12570","origin":"modèle","action":"Attaquer avec Wyrm du pic venteux → Maiev, gardienne de Dalaran","flags":[]}
+{"caseId":"sessions/20261026_111058_hdt.log#1@14407","origin":"modèle","action":"Jouer Wyrm du pic venteux → Maiev, gardienne de Dalaran","flags":[]}
+{"caseId":"sessions/20261026_111058_hdt.log#1@14538","origin":"plan","action":"Jouer Profondeurs Sanguines","flags":[]}
+{"caseId":"sessions/20261026_111058_hdt.log#1@14650","origin":"modèle","action":"Finir le tour","flags":[]}
+{"caseId":"sessions/20261026_111058_hdt.log#1@19022","origin":"modèle","action":"Jouer Animatrice de stade","flags":[]}
+{"caseId":"sessions/20261026_111058_hdt.log#1@19660","origin":"solveur","action":"Attaquer avec Garrosh Hurlenfer → Maiev, gardienne de Dalaran","flags":[]}
+{"caseId":"sessions/20261026_111843_hdt.log#1@1370","origin":"modèle","action":"Jouer Voyante distordue par le temps","flags":[]}
+{"caseId":"sessions/20261026_111843_hdt.log#1@1423","origin":"modèle","action":"Finir le tour","flags":["FIN_DE_TOUR_PREMATUREE (à vérifier) : Fin de tour avec 0 mana disponible, 1 carte(s) ou pouvoir jouable(s) et 0 attaquant(s) disponible(s)."]}
+{"caseId":"sessions/20261026_111843_hdt.log#1@1938","origin":"modèle","action":"Jouer Gardien des couvées","flags":[]}
+{"caseId":"sessions/20261026_111843_hdt.log#1@2033","origin":"modèle","action":"Attaquer avec Voyante distordue par le temps → Hyène agile","flags":[]}
+{"caseId":"sessions/20261026_111843_hdt.log#1@2280","origin":"plan","action":"Attaquer avec Garrosh Hurlenfer → Rexxar","flags":[]}
+{"caseId":"sessions/20261026_111843_hdt.log#1@2925","origin":"modèle","action":"Jouer Avant-garde du portail","flags":[]}
+{"caseId":"sessions/20261026_111843_hdt.log#1@3327","origin":"modèle","action":"Attaquer avec Gardien des couvées → Rexxar","flags":[]}
+{"caseId":"sessions/20261026_111843_hdt.log#1@3472","origin":"plan","action":"Attaquer avec Voyante distordue par le temps → Rexxar","flags":[]}
+{"caseId":"sessions/20261026_111843_hdt.log#1@4265","origin":"modèle","action":"Jouer Suffusion d’ombreflamme → Buveuse de vie","flags":[]}
+{"caseId":"sessions/20261026_111843_hdt.log#1@5024","origin":"modèle","action":"Jouer Colporteur de pétales","flags":[]}
+{"caseId":"sessions/20261026_111843_hdt.log#1@5204","origin":"plan","action":"Attaquer avec Avant-garde du portail → Rexxar","flags":[]}
+{"caseId":"sessions/20261026_111843_hdt.log#1@6262","origin":"modèle","action":"Jouer La pièce","flags":[]}
+{"caseId":"sessions/20261026_111843_hdt.log#1@6492","origin":"plan","action":"Jouer Wyrm du pic venteux → Misha","flags":[]}
+{"caseId":"sessions/20261026_111843_hdt.log#1@6671","origin":"plan","action":"Attaquer avec Colporteur de pétales → Rexxar","flags":[]}
+{"caseId":"sessions/20261026_111843_hdt.log#1@7872","origin":"modèle","action":"Jouer Profondeurs Sanguines","flags":["LETAL_IGNORE (à vérifier) : Létal possible par les attaques autorisées sur le héros (16 dégâts contre 12 PV + 0 armure) mais le coup choisi est « Jouer Profondeurs Sanguines ». Secrets adverses éventuels non pris en compte."]}
+{"caseId":"sessions/20261026_111843_hdt.log#1@8118","origin":"plan","action":"Activer Profondeurs Sanguines → Wyrm du pic venteux (allié)","flags":["LETAL_IGNORE (à vérifier) : Létal possible par les attaques autorisées sur le héros (16 dégâts contre 12 PV + 0 armure) mais le coup choisi est « Activer Profondeurs Sanguines → Wyrm du pic venteux (allié) ». Secrets adverses éventuels non pris en compte."]}
+{"caseId":"sessions/20261026_111843_hdt.log#1@8312","origin":"plan","action":"Attaquer avec Gardien des couvées → Rexxar","flags":[]}
+{"caseId":"sessions/20261026_112707_hdt.log#1@1699","origin":"modèle","action":"Jouer Gardien des couvées","flags":[]}
+{"caseId":"sessions/20261026_112707_hdt.log#1@1804","origin":"modèle","action":"Attaquer avec Garrosh Hurlenfer → Tyrande Murmevent","flags":[]}
+{"caseId":"sessions/20261026_112707_hdt.log#1@2682","origin":"modèle","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261026_112707_hdt.log#1@3036","origin":"modèle","action":"Attaquer avec Garrosh Hurlenfer → Chevalier floramer","flags":["HEROS_ATTAQUE_SANS_TUER (à vérifier) : Le héros (2 ATQ) attaque Chevalier floramer (3 PV) sans le tuer et subit 2 dégâts."]}
+{"caseId":"sessions/20261026_112707_hdt.log#1@3361","origin":"modèle","action":"Attaquer avec Gardien des couvées → Chevalier floramer","flags":[]}
+{"caseId":"sessions/20261026_112707_hdt.log#1@4169","origin":"modèle","action":"Jouer Frappe anticipée → Soigneur du Crépuscule","flags":[]}
+{"caseId":"sessions/20261026_112707_hdt.log#1@4519","origin":"modèle","action":"Jouer Sombre chevaucheur","flags":[]}
+{"caseId":"sessions/20261026_112707_hdt.log#1@5041","origin":"modèle","action":"Jouer Voyante distordue par le temps","flags":[]}
+{"caseId":"sessions/20261026_112707_hdt.log#1@6196","origin":"modèle","action":"Jouer Glissedrake visionnaire","flags":[]}
+{"caseId":"sessions/20261026_112707_hdt.log#1@6597","origin":"plan","action":"Jouer Voyante distordue par le temps","flags":[]}
+{"caseId":"sessions/20261026_112707_hdt.log#1@6678","origin":"plan","action":"Attaquer avec Voyante distordue par le temps → Tyrande Murmevent","flags":[]}
+{"caseId":"sessions/20261026_112707_hdt.log#1@8274","origin":"modèle","action":"Attaquer avec Voyante distordue par le temps → Magma mécanique","flags":[]}
+{"caseId":"sessions/20261026_112707_hdt.log#1@8636","origin":"plan","action":"Jouer Suffusion d’ombreflamme → Magma mécanique","flags":[]}
+{"caseId":"sessions/20261026_112707_hdt.log#1@9232","origin":"modèle","action":"Jouer Cogneur d’œufs → Glissedrake visionnaire (allié)","flags":[]}
+{"caseId":"sessions/20261026_113340_hdt.log#1@898","origin":"modèle","action":"Jouer Sombre chevaucheur","flags":[]}
+{"caseId":"sessions/20261026_113340_hdt.log#1@2050","origin":"modèle","action":"Jouer Sombre chevaucheur","flags":[]}
+{"caseId":"sessions/20261026_113340_hdt.log#1@2789","origin":"plan","action":"Attaquer avec Sombre chevaucheur → Méca-Jaraxxus","flags":[]}
+{"caseId":"sessions/20261026_113340_hdt.log#1@3462","origin":"modèle","action":"Jouer Mère des couvées sombrécaille","flags":[]}
+{"caseId":"sessions/20261026_113340_hdt.log#1@3660","origin":"modèle","action":"Jouer Informateur anonyme","flags":[]}
+{"caseId":"sessions/20261026_113340_hdt.log#1@3997","origin":"modèle","action":"Attaquer avec Sombre chevaucheur → Méca-Jaraxxus","flags":[]}
+{"caseId":"sessions/20261026_113340_hdt.log#1@4999","origin":"modèle","action":"Jouer Dragonnet du Vol infini","flags":[]}
+{"caseId":"sessions/20261026_113340_hdt.log#1@5280","origin":"modèle","action":"Attaquer avec Informateur anonyme → Brute de C’Thrax","flags":[]}
+{"caseId":"sessions/20261026_113340_hdt.log#1@5480","origin":"modèle","action":"Finir le tour","flags":["FIN_DE_TOUR_PREMATUREE (à vérifier) : Fin de tour avec 1 mana disponible, 0 carte(s) ou pouvoir jouable(s) et 2 attaquant(s) disponible(s)."]}
+{"caseId":"sessions/20261026_113340_hdt.log#1@6732","origin":"modèle","action":"Jouer Libération des Bêtes","flags":[]}
+{"caseId":"sessions/20261026_113340_hdt.log#1@7336","origin":"plan","action":"Jouer Forgeron dimensionnel","flags":[]}
+{"caseId":"sessions/20261026_113340_hdt.log#1@7556","origin":"plan","action":"Attaquer avec Dragonnet du Vol infini → Brute de C’Thrax","flags":[]}
+{"caseId":"sessions/20261026_113340_hdt.log#1@9012","origin":"modèle","action":"Jouer Chronoseigneur Époque","flags":[]}
+{"caseId":"sessions/20261026_113340_hdt.log#1@9275","origin":"modèle","action":"Attaquer avec Forgeron dimensionnel → Méca-Jaraxxus","flags":[]}
+{"caseId":"sessions/20261026_113340_hdt.log#1@9418","origin":"plan","action":"Attaquer avec Dragonnet du Vol infini → Méca-Jaraxxus","flags":[]}
+{"caseId":"sessions/20261026_113340_hdt.log#1@10513","origin":"modèle","action":"Jouer Wyrm du pic venteux → Brute de C’Thrax","flags":[]}
+{"caseId":"sessions/20261026_113340_hdt.log#1@10673","origin":"modèle","action":"Attaquer avec Dragonnet du Vol infini → Brute de C’Thrax","flags":[]}
+{"caseId":"sessions/20261026_113340_hdt.log#1@10923","origin":"plan","action":"Attaquer avec Forgeron dimensionnel → Méca-Jaraxxus","flags":[]}
+{"caseId":"sessions/20261026_113340_hdt.log#1@13388","origin":"modèle","action":"Attaquer avec Wyrm du pic venteux → Sbire du gang des diablotins","flags":[]}
+{"caseId":"sessions/20261026_113340_hdt.log#1@13852","origin":"solveur","action":"Jouer Grommash Hurlenfer","flags":["LETAL_IGNORE (à vérifier) : Létal possible par les attaques autorisées sur le héros (15 dégâts contre 14 PV + 0 armure) mais le coup choisi est « Jouer Grommash Hurlenfer ». Secrets adverses éventuels non pris en compte."]}
+{"caseId":"sessions/20261026_113340_hdt.log#1@14028","origin":"solveur","action":"Attaquer avec Forgeron dimensionnel → Méca-Jaraxxus","flags":[]}

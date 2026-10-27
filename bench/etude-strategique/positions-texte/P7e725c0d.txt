@@ -1,0 +1,64 @@
+Position P7e725c0d — tour 5
+
+Mode GT_RANKED / FT_WILD — Tour 5 (TURN=10, vous) — étape MAIN_ACTION — premier joueur : adversaire
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+
+== ADVERSAIRE (DRUID) — Orweyna 30/30 PV — mana 0/5
+   Pouvoir : Changeforme (2)
+   Plateau (3) :
+     1. Bébé marsuul 2/2 {Chef de la meute} (épuisé)
+     2. Bébé marsuul 1/1 (épuisé)
+     3. Seigneur de la toile nérub’ar 1/4 [AURA] (épuisé)
+   Main (1) :
+     1. carte cachée — en main depuis TURN=1
+   Deck : 21 carte(s)
+   Dernier tour (TURN=9) : Seigneur de la toile nérub’ar (encore en jeu), Rugissement sauvage
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 9/30 PV — mana 5/5
+   Pouvoir : Gain d’armure ! (2)
+   Plateau (3) :
+     1. Profondeurs Sanguines 2 charge(s) (non activable)
+     2. Forgeron dimensionnel 4/5 {À la pointe} (peut attaquer)
+     3. Forgeron dimensionnel 3/4 (max 6) {Floraison} (peut attaquer)
+   Main (4) :
+     1. (8) Wyrm du pic venteux 10/6 [base 6/6] ✦condition remplie
+     2. (8) Grommash Hurlenfer 8/9 [base 4/9]
+     3. (4, base 7) Glissedrake visionnaire 7/8 [base 5/8] ✦condition remplie
+     4. (8) Le Grand Dracorex 5/12
+   Deck : 21 carte(s)
+   Dernier tour (TURN=8) : Forgeron dimensionnel (encore en jeu), Profondeurs Sanguines
+
+Actions légales (serveur, options #40, révision 64, à jour) : 4 jouable(s) + fin de tour
+  - Jouer Glissedrake visionnaire
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Forgeron dimensionnel → Orweyna, Bébé marsuul, Bébé marsuul, Seigneur de la toile nérub’ar
+  - Attaquer avec Forgeron dimensionnel → Orweyna, Bébé marsuul, Bébé marsuul, Seigneur de la toile nérub’ar
+
+Historique récent :
+  T4 morts : Arbrisseau, Colporteur de pétales
+  — Tour 5 (TURN=9, adversaire) —
+  T5 adversaire joue Seigneur de la toile nérub’ar
+  T5 adversaire joue Rugissement sauvage
+  T5 adversaire attaque : Bébé marsuul → Garrosh Hurlenfer
+  T5 adversaire attaque : Bébé marsuul → Garrosh Hurlenfer
+  T5 adversaire attaque : Orweyna → Garrosh Hurlenfer
+  T5 déclenchement Rugissement sauvage (adversaire)
+  T5 déclenchement Rugissement sauvage (adversaire)
+  T5 déclenchement Rugissement sauvage (adversaire)
+  T5 déclenchement Rugissement sauvage (adversaire)
+  — Tour 5 (TURN=10, vous) —
+
+
+Actions légales :
+  - Jouer Glissedrake visionnaire
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Forgeron dimensionnel → Orweyna (30 PV)
+  - Attaquer avec Forgeron dimensionnel → Bébé marsuul 2/2
+  - Attaquer avec Forgeron dimensionnel → Bébé marsuul 1/1
+  - Attaquer avec Forgeron dimensionnel → Seigneur de la toile nérub’ar 1/4
+  - Attaquer avec Forgeron dimensionnel → Orweyna (30 PV)
+  - Attaquer avec Forgeron dimensionnel → Bébé marsuul 2/2
+  - Attaquer avec Forgeron dimensionnel → Bébé marsuul 1/1
+  - Attaquer avec Forgeron dimensionnel → Seigneur de la toile nérub’ar 1/4
+  - Finir le tour

@@ -1,0 +1,809 @@
+{
+  "schema": "hscopilot.gamestate/1",
+  "gameId": "111018-695039071",
+  "revision": 22,
+  "linesProcessed": 1512,
+  "lastLogTime": "11:11:45.162",
+  "openBlocks": 0,
+  "source": {
+    "transport": "replay-file",
+    "detail": "ranked-warrior-vs-priest.log",
+    "clientBuild": 254477,
+    "cardDbBuild": "255130",
+    "cardDbCount": 36390
+  },
+  "game": {
+    "gameType": "GT_RANKED",
+    "formatType": "FT_WILD",
+    "scenarioId": 2,
+    "gameTurn": 5,
+    "turnNumber": 3,
+    "step": "MAIN_ACTION",
+    "activePlayer": "local",
+    "firstPlayer": "local",
+    "mulliganDone": true,
+    "gameOver": false,
+    "resetCount": 0
+  },
+  "local": {
+    "side": "local",
+    "playerId": 2,
+    "heroClass": "WARRIOR",
+    "hero": {
+      "entityId": 56,
+      "cardId": "HERO_01",
+      "name": "Garrosh Hurlenfer",
+      "health": 30,
+      "maxHealth": 30,
+      "damage": 0,
+      "armor": 2,
+      "attack": 0,
+      "exhausted": false,
+      "attacksThisTurn": 0,
+      "frozen": false,
+      "immune": false,
+      "updatedAtRevision": 21
+    },
+    "heroPower": {
+      "entityId": 57,
+      "cardId": "HERO_01bp",
+      "name": "Gain d’armure\u00A0!",
+      "cost": 2,
+      "exhausted": false,
+      "text": "Pouvoir héroïque Gagne $d2 points d’armure."
+    },
+    "mana": {
+      "available": 3,
+      "max": 3,
+      "used": 0,
+      "temporary": 0,
+      "overloadLocked": 0,
+      "overloadOwed": 0
+    },
+    "board": [
+      {
+        "entityId": 42,
+        "cardId": "CORE_REV_990",
+        "name": "Profondeurs Sanguines",
+        "type": "LOCATION",
+        "position": 1,
+        "attack": 0,
+        "health": 3,
+        "maxHealth": 3,
+        "damage": 0,
+        "baseHealth": 3,
+        "baseCost": 1,
+        "races": [],
+        "keywords": [],
+        "enchantments": [],
+        "state": {
+          "exhausted": false,
+          "attacksThisTurn": 0,
+          "justPlayed": false,
+          "frozen": false,
+          "dormant": false,
+          "cantAttack": false,
+          "locationCooldown": 0,
+          "serverAllowsAction": true
+        },
+        "text": "Inflige 1 point de dégâts à un serviteur et lui donne +2 ATQ.",
+        "enteredTurn": 1,
+        "updatedAtRevision": 21
+      }
+    ],
+    "hand": {
+      "count": 5,
+      "cards": [
+        {
+          "entityId": 38,
+          "position": 1,
+          "cardId": "END_033",
+          "name": "Glissedrake visionnaire",
+          "type": "MINION",
+          "cost": 4,
+          "baseCost": 7,
+          "costModified": true,
+          "attack": 5,
+          "health": 8,
+          "baseAttack": 5,
+          "baseHealth": 8,
+          "poweredUp": true,
+          "enteredTurn": 1,
+          "created": false,
+          "enchantments": [],
+          "knowledge": "own",
+          "text": "Insaisissable Coûte (3) cristaux de moins si vous avez un autre Dragon en main.",
+          "updatedAtRevision": 21
+        },
+        {
+          "entityId": 46,
+          "position": 2,
+          "cardId": "TIME_045",
+          "name": "Dragonnet du Vol infini",
+          "type": "MINION",
+          "cost": 3,
+          "baseCost": 3,
+          "costModified": false,
+          "attack": 1,
+          "health": 4,
+          "baseAttack": 1,
+          "baseHealth": 4,
+          "poweredUp": false,
+          "enteredTurn": 1,
+          "created": false,
+          "enchantments": [],
+          "knowledge": "own",
+          "text": "Toxicité Réincarnation",
+          "updatedAtRevision": 21
+        },
+        {
+          "entityId": 33,
+          "position": 3,
+          "cardId": "TIME_714",
+          "name": "Chronoseigneur Époque",
+          "type": "MINION",
+          "cost": 6,
+          "baseCost": 6,
+          "costModified": false,
+          "attack": 7,
+          "health": 5,
+          "baseAttack": 7,
+          "baseHealth": 5,
+          "poweredUp": false,
+          "enteredTurn": 1,
+          "created": false,
+          "enchantments": [],
+          "knowledge": "own",
+          "text": "Cri de guerre : détruit chaque serviteur que votre adversaire a joué au tour précédent.",
+          "updatedAtRevision": 21
+        },
+        {
+          "entityId": 24,
+          "position": 4,
+          "cardId": "END_021",
+          "name": "Forgeron dimensionnel",
+          "type": "MINION",
+          "cost": 3,
+          "baseCost": 3,
+          "costModified": false,
+          "attack": 2,
+          "health": 5,
+          "baseAttack": 2,
+          "baseHealth": 5,
+          "poweredUp": false,
+          "enteredTurn": 3,
+          "created": false,
+          "enchantments": [],
+          "knowledge": "own",
+          "text": "Cri de guerre : donne +2 ATQ aux serviteurs et aux armes dans votre main.",
+          "updatedAtRevision": 21
+        },
+        {
+          "entityId": 40,
+          "position": 5,
+          "cardId": "FIR_939",
+          "name": "Suffusion d’ombreflamme",
+          "type": "SPELL",
+          "cost": 2,
+          "baseCost": 2,
+          "costModified": false,
+          "poweredUp": false,
+          "enteredTurn": 5,
+          "created": false,
+          "enchantments": [],
+          "knowledge": "own",
+          "text": "Inflige 2 points de dégâts. Découvre un serviteur de guerrier avec un Sombre don.",
+          "updatedAtRevision": 21
+        }
+      ]
+    },
+    "deck": {
+      "count": 24,
+      "decklistKnown": true,
+      "decklistSource": "configuration",
+      "knownRemaining": [
+        {
+          "cardId": "CORE_REV_990",
+          "name": "Profondeurs Sanguines",
+          "count": 1,
+          "cost": 1
+        },
+        {
+          "cardId": "EDR_456",
+          "name": "Sombre chevaucheur",
+          "count": 2,
+          "cost": 1
+        },
+        {
+          "cardId": "END_022",
+          "name": "Voyante distordue par le temps",
+          "count": 2,
+          "cost": 1
+        },
+        {
+          "cardId": "EDR_889",
+          "name": "Colporteur de pétales",
+          "count": 2,
+          "cost": 2
+        },
+        {
+          "cardId": "TIME_750",
+          "name": "Frappe anticipée",
+          "count": 2,
+          "cost": 2
+        },
+        {
+          "cardId": "EDR_457",
+          "name": "Gardien des couvées",
+          "count": 2,
+          "cost": 2
+        },
+        {
+          "cardId": "CORE_EX1_189",
+          "name": "Luisaile",
+          "count": 1,
+          "cost": 2
+        },
+        {
+          "cardId": "FIR_939",
+          "name": "Suffusion d’ombreflamme",
+          "count": 1,
+          "cost": 2
+        },
+        {
+          "cardId": "TIME_003",
+          "name": "Avant-garde du portail",
+          "count": 2,
+          "cost": 3
+        },
+        {
+          "cardId": "TIME_045",
+          "name": "Dragonnet du Vol infini",
+          "count": 1,
+          "cost": 3
+        },
+        {
+          "cardId": "END_021",
+          "name": "Forgeron dimensionnel",
+          "count": 1,
+          "cost": 3
+        },
+        {
+          "cardId": "TIME_034",
+          "name": "Animatrice de stade",
+          "count": 2,
+          "cost": 4
+        },
+        {
+          "cardId": "END_033",
+          "name": "Glissedrake visionnaire",
+          "count": 1,
+          "cost": 7
+        },
+        {
+          "cardId": "CORE_EX1_414",
+          "name": "Grommash Hurlenfer",
+          "count": 1,
+          "cost": 8
+        },
+        {
+          "cardId": "DINO_401",
+          "name": "Le Grand Dracorex",
+          "count": 1,
+          "cost": 8
+        },
+        {
+          "cardId": "TLC_600",
+          "name": "Wyrm du pic venteux",
+          "count": 2,
+          "cost": 8
+        }
+      ],
+      "knownAdded": [],
+      "unknownCount": 0
+    },
+    "secrets": [],
+    "publicSecretZone": [],
+    "graveyard": [],
+    "revealedCards": [],
+    "fatigue": 0,
+    "corpses": 0,
+    "thisTurn": {
+      "gameTurn": 5,
+      "cardsPlayed": [],
+      "minionsPlayed": [],
+      "typesPlayed": []
+    },
+    "lastTurn": {
+      "gameTurn": 3,
+      "cardsPlayed": [],
+      "minionsPlayed": [],
+      "typesPlayed": []
+    }
+  },
+  "opponent": {
+    "side": "opponent",
+    "playerId": 1,
+    "heroClass": "PRIEST",
+    "hero": {
+      "entityId": 54,
+      "cardId": "HERO_09bg",
+      "name": "Gardienne Tyrande",
+      "health": 40,
+      "maxHealth": 40,
+      "damage": 0,
+      "armor": 0,
+      "attack": 0,
+      "exhausted": false,
+      "attacksThisTurn": 0,
+      "frozen": false,
+      "immune": false,
+      "updatedAtRevision": 21
+    },
+    "heroPower": {
+      "entityId": 94,
+      "cardId": "EDR_449p",
+      "name": "Bénédiction de la lune",
+      "cost": 2,
+      "exhausted": false,
+      "text": "Choisissez un serviteur ou un sort de prêtre jouable à ajouter dans votre main. Il coûte (@) cristaux de moins, mais est temporaire."
+    },
+    "mana": {
+      "available": 0,
+      "max": 2,
+      "used": 2,
+      "temporary": 0,
+      "overloadLocked": 0,
+      "overloadOwed": 0
+    },
+    "board": [
+      {
+        "entityId": 21,
+        "cardId": "EDR_852",
+        "name": "Chevalier floramer",
+        "type": "MINION",
+        "position": 1,
+        "attack": 2,
+        "health": 3,
+        "maxHealth": 3,
+        "damage": 0,
+        "baseAttack": 2,
+        "baseHealth": 3,
+        "baseCost": 2,
+        "races": [],
+        "keywords": [],
+        "enchantments": [],
+        "state": {
+          "exhausted": true,
+          "attacksThisTurn": 0,
+          "justPlayed": false,
+          "frozen": false,
+          "dormant": false,
+          "cantAttack": false
+        },
+        "text": "Cri de guerre : empreint votre pouvoir héroïque.",
+        "enteredTurn": 4,
+        "updatedAtRevision": 21
+      }
+    ],
+    "hand": {
+      "count": 5,
+      "cards": [
+        {
+          "entityId": 23,
+          "position": 1,
+          "costModified": false,
+          "enteredTurn": 1,
+          "enchantments": [],
+          "knowledge": "hidden",
+          "updatedAtRevision": 0
+        },
+        {
+          "entityId": 69,
+          "position": 2,
+          "costModified": false,
+          "enteredTurn": 1,
+          "enchantments": [],
+          "knowledge": "hidden",
+          "updatedAtRevision": 0
+        },
+        {
+          "entityId": 79,
+          "position": 3,
+          "costModified": false,
+          "enteredTurn": 1,
+          "enchantments": [],
+          "knowledge": "hidden",
+          "hypothesis": "probablement La pièce (règle : le second joueur la reçoit en début de partie)",
+          "updatedAtRevision": 0
+        },
+        {
+          "entityId": 64,
+          "position": 4,
+          "costModified": false,
+          "enteredTurn": 2,
+          "enchantments": [],
+          "knowledge": "hidden",
+          "updatedAtRevision": 0
+        },
+        {
+          "entityId": 15,
+          "position": 5,
+          "costModified": false,
+          "enteredTurn": 4,
+          "enchantments": [],
+          "knowledge": "hidden",
+          "updatedAtRevision": 0
+        }
+      ]
+    },
+    "deck": {
+      "count": 34,
+      "decklistKnown": false,
+      "knownRemaining": [],
+      "knownAdded": [
+        {
+          "entityId": 11,
+          "cardId": "JAIL_430",
+          "name": "Briseuse d’âme Azalina",
+          "type": "MINION",
+          "zone": "DECK",
+          "note": "vue publiquement"
+        }
+      ],
+      "unknownCount": 33
+    },
+    "secrets": [],
+    "publicSecretZone": [
+      {
+        "entityId": 91,
+        "cardId": "TLC_817t",
+        "name": "Dissipation des ténèbres",
+        "type": "SPELL",
+        "turn": 2,
+        "zone": "SECRET"
+      },
+      {
+        "entityId": 92,
+        "cardId": "TLC_817t2",
+        "name": "Corruption de la lumière",
+        "type": "SPELL",
+        "turn": 2,
+        "zone": "SECRET"
+      }
+    ],
+    "graveyard": [],
+    "revealedCards": [
+      {
+        "entityId": 11,
+        "cardId": "JAIL_430",
+        "name": "Briseuse d’âme Azalina",
+        "type": "MINION",
+        "turn": 0,
+        "zone": "DECK"
+      },
+      {
+        "entityId": 12,
+        "cardId": "TLC_817",
+        "name": "En quête d’équilibre",
+        "type": "SPELL",
+        "turn": 2,
+        "zone": "SETASIDE"
+      },
+      {
+        "entityId": 91,
+        "cardId": "TLC_817t",
+        "name": "Dissipation des ténèbres",
+        "type": "SPELL",
+        "turn": 2,
+        "zone": "SECRET",
+        "note": "créée par un effet"
+      },
+      {
+        "entityId": 92,
+        "cardId": "TLC_817t2",
+        "name": "Corruption de la lumière",
+        "type": "SPELL",
+        "turn": 2,
+        "zone": "SECRET",
+        "note": "créée par un effet"
+      },
+      {
+        "entityId": 21,
+        "cardId": "EDR_852",
+        "name": "Chevalier floramer",
+        "type": "MINION",
+        "turn": 4,
+        "zone": "PLAY"
+      }
+    ],
+    "fatigue": 0,
+    "corpses": 0,
+    "lastTurn": {
+      "gameTurn": 4,
+      "cardsPlayed": [
+        {
+          "entityId": 21,
+          "cardId": "EDR_852",
+          "name": "Chevalier floramer",
+          "type": "MINION",
+          "turn": 4,
+          "zone": "PLAY",
+          "note": "encore en jeu"
+        }
+      ],
+      "minionsPlayed": [
+        {
+          "entityId": 21,
+          "cardId": "EDR_852",
+          "name": "Chevalier floramer",
+          "type": "MINION",
+          "turn": 4,
+          "zone": "PLAY",
+          "note": "encore en jeu"
+        }
+      ],
+      "typesPlayed": []
+    }
+  },
+  "legalOptions": {
+    "optionsId": 9,
+    "revision": 22,
+    "fresh": true,
+    "canEndTurn": true,
+    "totalOptions": 12,
+    "playable": [
+      {
+        "index": 1,
+        "kind": "play",
+        "entityId": 46,
+        "cardId": "TIME_045",
+        "name": "Dragonnet du Vol infini",
+        "targets": [],
+        "subOptions": []
+      },
+      {
+        "index": 2,
+        "kind": "play",
+        "entityId": 24,
+        "cardId": "END_021",
+        "name": "Forgeron dimensionnel",
+        "targets": [],
+        "subOptions": []
+      },
+      {
+        "index": 3,
+        "kind": "play",
+        "entityId": 40,
+        "cardId": "FIR_939",
+        "name": "Suffusion d’ombreflamme",
+        "targets": [
+          {
+            "entityId": 54,
+            "cardId": "HERO_09bg",
+            "name": "Gardienne Tyrande",
+            "side": "opponent"
+          },
+          {
+            "entityId": 56,
+            "cardId": "HERO_01",
+            "name": "Garrosh Hurlenfer",
+            "side": "local"
+          },
+          {
+            "entityId": 21,
+            "cardId": "EDR_852",
+            "name": "Chevalier floramer",
+            "side": "opponent"
+          }
+        ],
+        "subOptions": []
+      },
+      {
+        "index": 4,
+        "kind": "hero-power",
+        "entityId": 57,
+        "cardId": "HERO_01bp",
+        "name": "Gain d’armure\u00A0!",
+        "targets": [],
+        "subOptions": []
+      },
+      {
+        "index": 5,
+        "kind": "location",
+        "entityId": 42,
+        "cardId": "CORE_REV_990",
+        "name": "Profondeurs Sanguines",
+        "targets": [
+          {
+            "entityId": 21,
+            "cardId": "EDR_852",
+            "name": "Chevalier floramer",
+            "side": "opponent"
+          }
+        ],
+        "subOptions": []
+      }
+    ]
+  },
+  "history": [
+    {
+      "seq": 1,
+      "gameTurn": 0,
+      "turnNumber": 0,
+      "player": "opponent",
+      "kind": "trigger",
+      "sourceEntityId": 11,
+      "sourceCardId": "JAIL_430",
+      "sourceName": "Briseuse d’âme Azalina",
+      "related": [],
+      "rewound": false,
+      "time": "11:10:18"
+    },
+    {
+      "seq": 2,
+      "gameTurn": 1,
+      "turnNumber": 1,
+      "player": "local",
+      "kind": "turn-start",
+      "related": [],
+      "rewound": false,
+      "time": "11:10:18"
+    },
+    {
+      "seq": 3,
+      "gameTurn": 1,
+      "turnNumber": 1,
+      "player": "local",
+      "kind": "mulligan",
+      "sourceEntityId": 1,
+      "sourceName": "carte cachée",
+      "related": [
+        {
+          "entityId": 38,
+          "cardId": "END_033",
+          "name": "Glissedrake visionnaire",
+          "note": "gardée"
+        },
+        {
+          "entityId": 36,
+          "cardId": "END_021",
+          "name": "Forgeron dimensionnel",
+          "note": "remplacée"
+        },
+        {
+          "entityId": 44,
+          "cardId": "TIME_045",
+          "name": "Dragonnet du Vol infini",
+          "note": "remplacée"
+        }
+      ],
+      "detail": "1 gardée(s), 2 remplacée(s)",
+      "rewound": false,
+      "time": "11:10:48"
+    },
+    {
+      "seq": 4,
+      "gameTurn": 1,
+      "turnNumber": 1,
+      "player": "opponent",
+      "kind": "mulligan",
+      "sourceEntityId": 1,
+      "sourceName": "carte cachée",
+      "related": [],
+      "detail": "4 gardée(s), 1 remplacée(s)",
+      "rewound": false,
+      "time": "11:10:51"
+    },
+    {
+      "seq": 5,
+      "gameTurn": 1,
+      "turnNumber": 1,
+      "player": "opponent",
+      "kind": "trigger",
+      "sourceEntityId": 11,
+      "sourceCardId": "JAIL_430",
+      "sourceName": "Briseuse d’âme Azalina",
+      "related": [],
+      "rewound": false,
+      "time": "11:10:52"
+    },
+    {
+      "seq": 6,
+      "gameTurn": 1,
+      "turnNumber": 1,
+      "player": "local",
+      "kind": "play",
+      "sourceEntityId": 42,
+      "sourceCardId": "CORE_REV_990",
+      "sourceName": "Profondeurs Sanguines",
+      "related": [],
+      "rewound": false,
+      "time": "11:11:03"
+    },
+    {
+      "seq": 7,
+      "gameTurn": 2,
+      "turnNumber": 1,
+      "player": "opponent",
+      "kind": "turn-start",
+      "related": [],
+      "rewound": false,
+      "time": "11:11:08"
+    },
+    {
+      "seq": 8,
+      "gameTurn": 2,
+      "turnNumber": 1,
+      "player": "opponent",
+      "kind": "play",
+      "sourceEntityId": 12,
+      "sourceCardId": "TLC_817",
+      "sourceName": "En quête d’équilibre",
+      "related": [],
+      "rewound": false,
+      "time": "11:11:16"
+    },
+    {
+      "seq": 9,
+      "gameTurn": 3,
+      "turnNumber": 2,
+      "player": "local",
+      "kind": "turn-start",
+      "related": [],
+      "rewound": false,
+      "time": "11:11:20"
+    },
+    {
+      "seq": 10,
+      "gameTurn": 3,
+      "turnNumber": 2,
+      "player": "local",
+      "kind": "hero-power",
+      "sourceEntityId": 57,
+      "sourceCardId": "HERO_01bp",
+      "sourceName": "Gain d’armure\u00A0!",
+      "related": [],
+      "rewound": false,
+      "time": "11:11:27"
+    },
+    {
+      "seq": 11,
+      "gameTurn": 4,
+      "turnNumber": 2,
+      "player": "opponent",
+      "kind": "turn-start",
+      "related": [],
+      "rewound": false,
+      "time": "11:11:30"
+    },
+    {
+      "seq": 12,
+      "gameTurn": 4,
+      "turnNumber": 2,
+      "player": "opponent",
+      "kind": "play",
+      "sourceEntityId": 21,
+      "sourceCardId": "EDR_852",
+      "sourceName": "Chevalier floramer",
+      "related": [],
+      "rewound": false,
+      "time": "11:11:38"
+    },
+    {
+      "seq": 13,
+      "gameTurn": 5,
+      "turnNumber": 3,
+      "player": "local",
+      "kind": "turn-start",
+      "related": [],
+      "rewound": false,
+      "time": "11:11:45"
+    }
+  ],
+  "uncertainty": {
+    "incomplete": false,
+    "localPlayerEvidence": "SentByClient",
+    "flags": []
+  }
+}

@@ -1,0 +1,39 @@
+rapports classés non doublons : 48
+parties distinctes : 45 {'LOST': 6, 'WON': 39}
+     338  affichage : conseils retenus jusqu'à l'affichage du tour
+   95148  flux : lignes renvoyées ignorées
+     217  stratégie : actions proposées légales
+      44  stratégie : appels annulés (changement imprévu)
+     319  stratégie : appels annulés (décision passée)
+       2  stratégie : appels annulés (létal démontré)
+     102  stratégie : appels annulés (état modifié)
+     212  stratégie : appels conservés (début de réponse joué)
+     837  stratégie : appels envoyés
+     140  stratégie : décisions en attente de la suite du plan
+       1  stratégie : erreurs
+      69  stratégie : létaux démontrés affichés sans appel
+     866  stratégie : points de décision
+     269  stratégie : points sans conseil
+     144  stratégie : premier conseil dans le budget du tour
+       8  stratégie : réponses périmées écartées
+      35  stratégie : réponses sans suite après le coup joué
+     323  stratégie : suites de plan affichées sans appel
+     131  stratégie : suites de plan reçues après le coup joué
+       6.512  stratégie : coût API (USD)
+       6.552  stratégie : coût estimé des appels annulés (USD)
+  3274353.000  stratégie : jetons envoyés
+  186473.000  stratégie : jetons reçus
+  Rembobinage → état stable: médiane des p50 = 2.20 s sur 13 rapports ; total n = 16
+  action → nouvelles options: médiane des p50 = 0.44 s sur 46 rapports ; total n = 1010
+  appel stratégie (LLM): médiane des p50 = 8.84 s sur 46 rapports ; total n = 391
+  appel stratégie → premier fragment: médiane des p50 = 3.61 s sur 46 rapports ; total n = 391
+  début de tour serveur → écran: médiane des p50 = 0.74 s sur 46 rapports ; total n = 339
+  début de tour → premier conseil: médiane des p50 = 13.69 s sur 44 rapports ; total n = 144
+  début de tour → première action affichée: médiane des p50 = 6.19 s sur 46 rapports ; total n = 315
+  décision → action affichée: médiane des p50 = 6.11 s sur 46 rapports ; total n = 811
+  décision → conseil: médiane des p50 = 9.94 s sur 46 rapports ; total n = 217
+  log → affichage: médiane des p50 = 0.16 s sur 48 rapports ; total n = 4405
+  log → réception: médiane des p50 = 0.11 s sur 48 rapports ; total n = 6240
+  plugin → réception: médiane des p50 = 0.00 s sur 48 rapports ; total n = 7426
+  réception → état publié: médiane des p50 = 0.00 s sur 48 rapports ; total n = 4449
+  état publié → affichage: médiane des p50 = 0.02 s sur 48 rapports ; total n = 6741

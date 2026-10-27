@@ -1,0 +1,133 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "hscopilot.strategy-output/1",
+  "title": "Réponse d'un fournisseur de stratégie (LLM)",
+  "description": "Le fournisseur choisit UNE action parmi legalActions du contexte. La partie, la révision et les options ne figurent pas ici : le coordinateur les impose. Les étapes de followUp sont toujours traitées comme non vérifiées. Mode strict de la Responses API d'OpenAI : toutes les propriétés sont requises ; les facultatives valent null. Source de vérité : OpenAiResponsesProvider.OutputSchema().",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "actionId",
+    "summary",
+    "why",
+    "lethal",
+    "planNextTurn",
+    "followUp",
+    "confidence",
+    "uncertaintyReasons",
+    "rationale",
+    "rejectedAlternativeId",
+    "rejectedAlternativeReason",
+    "risk",
+    "replaceIds"
+  ],
+  "properties": {
+    "actionId": {
+      "type": "string",
+      "description": "Identifiant exact d'une action de legalActions, par exemple o9.5.t21."
+    },
+    "summary": {
+      "type": "string",
+      "description": "Conseil principal en français, 20 mots au plus (tronqué sinon)."
+    },
+    "why": {
+      "type": "string",
+      "description": "Raison principale affichée sous l'action dans l'overlay, 15 mots au plus."
+    },
+    "lethal": {
+      "type": "string",
+      "enum": [
+        "aucun",
+        "certain",
+        "conditionnel",
+        "plausible"
+      ],
+      "description": "certain : localAnalysis.lethal vaut « certain » (létal démontré par le solveur local, aucun Secret adverse) ; conditionnel : un Secret, une carte cachée ou le hasard peut l'empêcher ; plausible : étapes que le calcul ne démontre pas. Le validateur ne laisse jamais ce niveau dépasser ce que le solveur démontre, et affiche le létal du solveur si le modèle ne l'annonce pas. Ancienne valeur « visible » lue comme « certain »."
+    },
+    "planNextTurn": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Plan du prochain tour, une ligne."
+    },
+    "followUp": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "text",
+          "sourceEntityId",
+          "targetEntityId"
+        ],
+        "properties": {
+          "text": {
+            "type": "string"
+          },
+          "sourceEntityId": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "description": "entityId de la carte, du serviteur, du héros ou du lieu qui agit"
+          },
+          "targetEntityId": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "description": "entityId de la cible, null sans cible"
+          }
+        }
+      },
+      "description": "Étapes envisagées après l'action immédiate, avec les entités source et cible. Jamais présentées comme vérifiées. Si le conseil est suivi et que rien de nouveau n'apparaît (pioche, carte générée, serviteur adverse), l'étape suivante est affichée sans nouvel appel quand elle existe dans les options du serveur ; sinon un nouvel appel a lieu. L'ancien format (chaînes seules) reste accepté à la lecture."
+    },
+    "confidence": {
+      "type": "string",
+      "enum": [
+        "élevée",
+        "moyenne",
+        "faible"
+      ],
+      "description": "Confiance du fournisseur. Ramenée au plus à « moyenne » si une information adverse est cachée."
+    },
+    "uncertaintyReasons": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Ce qui rend la décision incertaine (cartes adverses inconnues, effets aléatoires, Rembobinage…)."
+    },
+    "rationale": {
+      "type": "string",
+      "description": "Explication du coup (mode Coach)."
+    },
+    "rejectedAlternativeId": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Action légale principale écartée, si elle existe dans legalActions."
+    },
+    "rejectedAlternativeReason": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "risk": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Risque anticipé (réponse adverse plausible), sans certitude sur les cartes cachées."
+    },
+    "replaceIds": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Mulligan seulement : id des cartes à remplacer ; liste vide sinon."
+    }
+  }
+}

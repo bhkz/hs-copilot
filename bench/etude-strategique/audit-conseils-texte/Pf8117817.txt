@@ -1,0 +1,70 @@
+Position Pf8117817 — tour 7
+
+Mode GT_RANKED / FT_STANDARD — Tour 7 (TURN=14, vous) — étape MAIN_ACTION — premier joueur : adversaire
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+
+== ADVERSAIRE (MAGE) — Jaina Portvaillant 15/30 PV — mana 1/7
+   Pouvoir : Explosion de feu (2)
+   Plateau (1) :
+     1. Amasseur de butin 2/1 [DEATHRATTLE] (épuisé)
+   Main (0) :
+   Deck : 19 carte(s)
+   Dernier tour (TURN=13) : Éclair de givre, Gueule-rasoir branchie-rouge (n'est plus en jeu), Amasseur de butin (encore en jeu)
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 15/30 PV +10 armure — mana 7/7
+   Pouvoir : Gain d’armure ! (2)
+   Plateau (1) :
+     1. Glissedrake visionnaire 5/6 (max 8) [CANT_BE_TARGETED_BY_SPELLS, CANT_BE_TARGETED_BY_HERO_POWERS, ELUSIVE] (peut attaquer)
+   Main (6) :
+     1. (2) Frappe anticipée ✦condition remplie
+     2. (8) Le Grand Dracorex 5/12
+     3. (2) Colporteur de pétales 3/6 [base 1/4]
+     4. (5) Présage de la fin 5/5 (créée)
+     5. (8) Grommash Hurlenfer 4/9
+     6. (1) Profondeurs Sanguines
+   Deck : 18 carte(s)
+   Dernier tour (TURN=12) : Wyrm du pic venteux (n'est plus en jeu)
+
+Actions légales (serveur, options #47, révision 81, à jour) : 6 jouable(s) + fin de tour
+  - Jouer Frappe anticipée → Garrosh Hurlenfer (allié), Jaina Portvaillant, Amasseur de butin
+  - Jouer Colporteur de pétales
+  - Jouer Présage de la fin
+  - Jouer Profondeurs Sanguines
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Glissedrake visionnaire → Jaina Portvaillant, Amasseur de butin
+
+Historique récent :
+  T5 vous joue Glissedrake visionnaire
+  — Tour 6 (TURN=11, adversaire) —
+  T6 adversaire joue Blizzard : Sombre chevaucheur (détruit pendant l'action)
+  — Tour 6 (TURN=12, vous) —
+  T6 vous joue Wyrm du pic venteux → Jaina Portvaillant
+  — Tour 7 (TURN=13, adversaire) —
+  T7 adversaire joue Éclair de givre → Wyrm du pic venteux
+  T7 adversaire joue Gueule-rasoir branchie-rouge
+  T7 adversaire attaque : Gueule-rasoir branchie-rouge → Wyrm du pic venteux
+  T7 morts : Wyrm du pic venteux, Gueule-rasoir branchie-rouge
+  T7 adversaire joue Amasseur de butin
+  — Tour 7 (TURN=14, vous) —
+
+
+Actions légales :
+  - Jouer Frappe anticipée → Garrosh Hurlenfer (allié) (15 PV + 10 armure)
+  - Jouer Frappe anticipée → Jaina Portvaillant (15 PV)
+  - Jouer Frappe anticipée → Amasseur de butin 2/1
+  - Jouer Colporteur de pétales
+  - Jouer Présage de la fin
+  - Jouer Profondeurs Sanguines
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Glissedrake visionnaire → Jaina Portvaillant (15 PV)
+  - Attaquer avec Glissedrake visionnaire → Amasseur de butin 2/1
+  - Finir le tour
+
+
+Conseil donné en partie par HS Copilot :
+  action : Jouer Présage de la fin
+  résumé : Joue Présage de la fin sur ton plateau pour installer une menace avec Bouclier divin et Furie des vents.
+  raison : Développe une forte menace tout en préparant Profondeurs Sanguines pour Grommash au prochain tour.
+  suite prévue : ['Jouer Profondeurs Sanguines et conserver son activation pour Grommash.', 'Attaquer Jaina avec Glissedrake visionnaire pour 5 dégâts.']
+  plan : Viser Grommash blessé par les Profondeurs pour 12 dégâts, selon la réponse adverse.

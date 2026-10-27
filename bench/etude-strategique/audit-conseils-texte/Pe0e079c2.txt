@@ -1,0 +1,79 @@
+Position Pe0e079c2 — tour 10
+
+Mode GT_RANKED / FT_STANDARD — Tour 10 (TURN=19, vous) — étape MAIN_ACTION — premier joueur : vous
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+
+== ADVERSAIRE (DEATHKNIGHT) — Arthas le fléauvenant 24/37 PV — mana 0/9
+   Pouvoir : Goule assaillante (2)
+   Plateau (6) :
+     1. Sangsue boursouflée 0/2 [TRIGGER_VISUAL]
+     2. Sangsue boursouflée 0/2 [TRIGGER_VISUAL] (épuisé)
+     3. Garde-essaim nérubien 1/3 [TAUNT] (épuisé)
+     4. Garde-essaim nérubien 1/3 [TAUNT] (épuisé)
+     5. Garde-essaim nérubien 1/3 [TAUNT] (épuisé)
+     6. Acolyte de la mort 2/4 [TRIGGER_VISUAL] (épuisé)
+   Main (3) :
+     1. carte cachée — en main depuis TURN=1
+     2. carte cachée — en main depuis TURN=14
+     3. carte cachée — en main depuis TURN=17
+   Deck : 11 carte(s)
+   Dernier tour (TURN=18) : Souffle contaminé, Garde-essaim nérubien (encore en jeu), Acolyte de la mort (encore en jeu)
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 23/30 PV — mana 10/10
+   Pouvoir : Gain d’armure ! (2)
+   Plateau (3) :
+     1. Grommash Hurlenfer 14/1 (max 8) [CHARGE, ENRAGED] {À la pointe, Faveur de Tombe-Vice, Enragé, Hématophage} (peut attaquer)
+     2. Forgeron dimensionnel 2/5 (peut attaquer)
+     3. Glissedrake visionnaire 5/4 (max 8) [CANT_BE_TARGETED_BY_SPELLS, CANT_BE_TARGETED_BY_HERO_POWERS, ELUSIVE] (peut attaquer)
+   Main (2) :
+     1. (1) Sombre chevaucheur 1/1 ✦condition remplie
+     2. (2) Luisaile 3/2
+   Deck : 16 carte(s)
+   Dernier tour (TURN=17) : Grommash Hurlenfer (encore en jeu)
+
+Actions légales (serveur, options #76, révision 126, à jour) : 6 jouable(s) + fin de tour
+  - Jouer Sombre chevaucheur
+  - Jouer Luisaile
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Glissedrake visionnaire → Garde-essaim nérubien, Garde-essaim nérubien, Garde-essaim nérubien
+  - Attaquer avec Forgeron dimensionnel → Garde-essaim nérubien, Garde-essaim nérubien, Garde-essaim nérubien
+  - Attaquer avec Grommash Hurlenfer → Garde-essaim nérubien, Garde-essaim nérubien, Garde-essaim nérubien
+
+Historique récent :
+  T9 vous attaque : Forgeron dimensionnel → Sangsue boursouflée
+  T9 morts : Sangsue boursouflée
+  T9 vous attaque : Voyante distordue par le temps → Arthas le fléauvenant
+  — Tour 9 (TURN=18, adversaire) —
+  T9 adversaire joue Souffle contaminé → Grommash Hurlenfer
+  T9 adversaire attaque : Protectrice solfurie → Grommash Hurlenfer
+  T9 morts : Protectrice solfurie
+  T9 adversaire joue Garde-essaim nérubien
+  T9 adversaire joue Acolyte de la mort
+  T9 déclenchement Sangsue boursouflée (adversaire) : Voyante distordue par le temps (détruit pendant l'action)
+  T9 déclenchement Sangsue boursouflée (adversaire)
+  — Tour 10 (TURN=19, vous) —
+
+
+Actions légales :
+  - Jouer Sombre chevaucheur
+  - Jouer Luisaile
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Glissedrake visionnaire → Garde-essaim nérubien 1/3
+  - Attaquer avec Glissedrake visionnaire → Garde-essaim nérubien 1/3
+  - Attaquer avec Glissedrake visionnaire → Garde-essaim nérubien 1/3
+  - Attaquer avec Forgeron dimensionnel → Garde-essaim nérubien 1/3
+  - Attaquer avec Forgeron dimensionnel → Garde-essaim nérubien 1/3
+  - Attaquer avec Forgeron dimensionnel → Garde-essaim nérubien 1/3
+  - Attaquer avec Grommash Hurlenfer → Garde-essaim nérubien 1/3
+  - Attaquer avec Grommash Hurlenfer → Garde-essaim nérubien 1/3
+  - Attaquer avec Grommash Hurlenfer → Garde-essaim nérubien 1/3
+  - Finir le tour
+
+
+Conseil donné en partie par HS Copilot :
+  action : Jouer Sombre chevaucheur
+  résumé : Joue Sombre chevaucheur sans cible pour découvrir un Dragon avant de gérer les Provocations.
+  raison : Luisaile active sa découverte ; le résultat peut améliorer les échanges et préserver Grommash.
+  suite prévue : []
+  plan : Chercher à reprendre le plateau et préparer Parenté en jouant un Dragon ce tour-ci.

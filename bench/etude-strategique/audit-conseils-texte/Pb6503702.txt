@@ -1,0 +1,88 @@
+Position Pb6503702 — tour 8
+
+Mode GT_RANKED / FT_WILD — Tour 8 (TURN=16, vous) — étape MAIN_ACTION — premier joueur : adversaire
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+  [info] Rembobinage : l'état a été reconstruit à partir de l'instantané envoyé par le serveur.
+
+== ADVERSAIRE (PALADIN) — Dame Liadrin 18/40 PV — mana 0/8
+   Pouvoir : Renfort (2)
+   Plateau (1) :
+     1. Tirion Fordring 8/8 [TAUNT, DEATHRATTLE] (épuisé)
+   Main (5) :
+     1. carte cachée — en main depuis TURN=10
+     2. carte cachée — en main depuis TURN=10
+     3. carte cachée — en main depuis TURN=11
+     4. carte cachée — en main depuis TURN=11
+     5. carte cachée — en main depuis TURN=13
+   Deck : 28 carte(s)
+   Dernier tour (TURN=15) : Tirion Fordring (encore en jeu)
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 24/30 PV +5 armure — mana 6/8
+   Pouvoir : Gain d’armure ! (2)
+   Plateau (5) :
+     1. Wyrm du pic venteux 10/6 {À la pointe, À la pointe} (peut attaquer)
+     2. Profondeurs Sanguines 1 charge(s) (non activable)
+     3. Forgeron dimensionnel 4/5 (max 7) {Garde du temps} (peut attaquer)
+     4. Forgeron dimensionnel 4/4 (max 5) {À la pointe} (peut attaquer)
+     5. Glissedrake visionnaire 9/2 (max 10) [CANT_BE_TARGETED_BY_SPELLS, CANT_BE_TARGETED_BY_HERO_POWERS, ELUSIVE] {Garde du temps, Faveur de Tombe-Vice} (peut attaquer)
+   Main (6) :
+     1. (9) Mande-dragon Alanna 7/3 [base 3/3] (créée)
+     2. (6, base 8) Wyrm du pic venteux 10/6 [base 6/6] ✦condition remplie
+     3. (2) Gardien des couvées 6/3 [base 2/3] ✦condition remplie
+     4. (2) Colporteur de pétales 1/4
+     5. (8) Le Grand Dracorex 5/12
+     6. (8) Bagarreur coup-d’poing 9/6 [base 6/6] (créée)
+   Deck : 15 carte(s)
+   Dernier tour (TURN=14) : Wyrm du pic venteux (encore en jeu)
+   Ce tour : Suffusion d’ombreflamme
+
+Actions légales (serveur, options #50, révision 99, à jour) : 8 jouable(s) + fin de tour
+  - Jouer Wyrm du pic venteux → Dame Liadrin, Garrosh Hurlenfer (allié), Glissedrake visionnaire (allié), Forgeron dimensionnel (allié), Forgeron dimensionnel (allié), Wyrm du pic venteux (allié), Tirion Fordring
+  - Jouer Gardien des couvées
+  - Jouer Colporteur de pétales
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Glissedrake visionnaire → Tirion Fordring
+  - Attaquer avec Forgeron dimensionnel → Tirion Fordring
+  - Attaquer avec Forgeron dimensionnel → Tirion Fordring
+  - Attaquer avec Wyrm du pic venteux → Tirion Fordring
+
+Historique récent :
+  T7 morts : Statue immaculée
+  T7 vous attaque : Forgeron dimensionnel → Statue vivante
+  T7 morts : Statue vivante
+  T7 vous attaque : Forgeron dimensionnel → Statue abîmée
+  T7 morts : Statue abîmée
+  — Tour 8 (TURN=15, adversaire) —
+  T8 adversaire joue Tirion Fordring
+  T8 adversaire attaque : Prince Rénathal → Glissedrake visionnaire
+  T8 morts : Prince Rénathal
+  — Tour 8 (TURN=16, vous) —
+  T8 vous joue Suffusion d’ombreflamme → Tirion Fordring
+  T8 choix vous (GENERAL) : Bagarreur coup-d’poing (choisie), Tortolla (proposée), Larbin effrayé (proposée)
+
+
+Actions légales :
+  - Jouer Wyrm du pic venteux → Dame Liadrin (18 PV)
+  - Jouer Wyrm du pic venteux → Garrosh Hurlenfer (allié) (24 PV + 5 armure)
+  - Jouer Wyrm du pic venteux → Glissedrake visionnaire (allié) 9/2
+  - Jouer Wyrm du pic venteux → Forgeron dimensionnel (allié) 4/5
+  - Jouer Wyrm du pic venteux → Forgeron dimensionnel (allié) 4/4
+  - Jouer Wyrm du pic venteux → Wyrm du pic venteux (allié) 10/6
+  - Jouer Wyrm du pic venteux → Tirion Fordring 8/8
+  - Jouer Gardien des couvées
+  - Jouer Colporteur de pétales
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Glissedrake visionnaire → Tirion Fordring 8/8
+  - Attaquer avec Forgeron dimensionnel → Tirion Fordring 8/8
+  - Attaquer avec Forgeron dimensionnel → Tirion Fordring 8/8
+  - Attaquer avec Wyrm du pic venteux → Tirion Fordring 8/8
+  - Finir le tour
+
+
+Conseil donné en partie par HS Copilot :
+  action : Attaquer avec Glissedrake visionnaire → Tirion Fordring 8/8
+  résumé : Attaque Tirion Fordring avec Glissedrake visionnaire pour libérer les attaques vers Dame Liadrin.
+  raison : Le Bouclier divin retiré, poursuis le plan : sacrifier le Glissedrake ouvre 18 dégâts.
+  suite prévue : ['Attaquer Dame Liadrin avec Wyrm du pic venteux : 10 dégâts.', 'Attaquer Dame Liadrin avec le premier Forgeron dimensionnel : 4 dégâts.', 'Attaquer Dame Liadrin avec le second Forgeron dimensionnel : 4 dégâts.']
+  plan : Si la partie continue, envisager Bagarreur coup-d’poing pour terminer avec Charge.

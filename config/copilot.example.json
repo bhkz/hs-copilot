@@ -1,0 +1,51 @@
+{
+  // Copier ce fichier vers %LocalAppData%\HsCopilot\copilot.json (ou passer --config <chemin>).
+  // Les commentaires et virgules finales sont acceptés.
+
+  // BattleTag du joueur local. Facultatif : le joueur local est déduit du log
+  // (options légales reçues, choix envoyés). Le renseigner ajoute une confirmation.
+  "localPlayerName": null,
+
+  // Dossier Logs de Hearthstone (un sous-dossier Hearthstone_AAAA_MM_JJ_... par session).
+  "hearthstoneLogsDir": "C:\\Program Files (x86)\\Hearthstone\\Logs",
+
+  // Base de cartes. Vide : CardDefs téléchargés par HDT (%AppData%\HearthstoneDeckTracker\CardDefs),
+  // mis en cache par build dans %LocalAppData%\HsCopilot\carddb. Sinon : chemin d'un cards.json HearthstoneJSON.
+  "cardDbPath": null,
+
+  // Source des événements : "auto" (plugin HDT, sinon lecture directe du Power.log), "hdt", "log", "none".
+  "source": "auto",
+  "autoFallbackSeconds": 5,
+
+  // Journal brut des lignes reçues (une copie par partie), utile pour rejouer un problème.
+  "journalEnabled": true,
+  "journalDir": null,
+
+  // Deck utilisé quand HDT ne fournit pas le deck actif (lecture directe du log ou rejeu).
+  "activeDeck": "Guerrier dragons",
+  "decks": [
+    {
+      "name": "Guerrier dragons",
+      "class": "WARRIOR",
+      "cards": {
+        "CORE_REV_990": 2,   // Profondeurs Sanguines (lieu)
+        "EDR_456": 2,        // Sombre chevaucheur
+        "END_022": 2,        // Voyante distordue par le temps
+        "EDR_889": 2,        // Colporteur de pétales
+        "TIME_750": 2,       // Frappe anticipée
+        "EDR_457": 2,        // Gardien des couvées
+        "CORE_EX1_189": 1,   // Luisaile
+        "FIR_939": 2,        // Suffusion d'ombreflamme
+        "TIME_003": 2,       // Avant-garde du portail (Rembobinage)
+        "TIME_045": 2,       // Dragonnet du Vol infini
+        "END_021": 2,        // Forgeron dimensionnel
+        "TIME_034": 2,       // Animatrice de stade (Rembobinage)
+        "TIME_714": 1,       // Chronoseigneur Époque
+        "END_033": 2,        // Glissedrake visionnaire
+        "CORE_EX1_414": 1,   // Grommash Hurlenfer
+        "DINO_401": 1,       // Le Grand Dracorex
+        "TLC_600": 2         // Wyrm du pic venteux (Parenté)
+      }
+    }
+  ]
+}

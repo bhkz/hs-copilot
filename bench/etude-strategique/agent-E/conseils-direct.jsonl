@@ -1,0 +1,802 @@
+{"caseId": "sessions/20261025_192643_hdt.log#1@871", "label": "Jouer Voyante distordue par le temps", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_192643_hdt.log#1@1789", "label": "Attaquer avec Voyante distordue par le temps → Émissaire des Très anciens 2/1", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_192643_hdt.log#1@1963", "label": "Jouer Suffusion d’ombreflamme → Illidan, ravageur de fiel (30 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_192643_hdt.log#1@3118", "label": "Jouer Avant-garde du portail", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_192643_hdt.log#1@4680", "label": "Jouer Glissedrake visionnaire", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_192643_hdt.log#1@6922", "label": "Jouer Avant-garde du portail", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_192643_hdt.log#1@7298", "label": "Jouer Colporteur de pétales", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_192643_hdt.log#1@8408", "label": "Jouer Suffusion d’ombreflamme → Brute écaille-du-Vide 3/4", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_192643_hdt.log#1@9165", "label": "Jouer Calamar pas cuit → Artificier mo’arg 2/4", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_192643_hdt.log#1@9331", "label": "Attaquer avec Colporteur de pétales → Illidan, ravageur de fiel (24 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_192643_hdt.log#1@10726", "label": "Jouer Cogneur d’œufs → Colporteur de pétales (allié) 3/6", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_192643_hdt.log#1@10980", "label": "Jouer Gardien des couvées", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_192643_hdt.log#1@11278", "label": "Attaquer avec Garrosh Hurlenfer → Surveillant satyre 4/2", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_193512_hdt.log#1@1206", "label": "Jouer Sombre chevaucheur", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_193512_hdt.log#1@1788", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_193512_hdt.log#1@2560", "label": "Jouer La pièce", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_193512_hdt.log#1@2640", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_193512_hdt.log#1@2836", "label": "Attaquer avec Sombre chevaucheur → Thrall (30 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_193512_hdt.log#1@4343", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_193512_hdt.log#1@5506", "label": "Jouer Glissedrake visionnaire", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_193512_hdt.log#1@5610", "label": "Attaquer avec Forgeron dimensionnel → Soldat d’Al’Akir 2/1", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_193512_hdt.log#1@7532", "label": "Attaquer avec Glissedrake visionnaire → Prédateur en chasse 4/8", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_193512_hdt.log#1@7702", "label": "Jouer Guerrière du Vol infini", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_193512_hdt.log#1@7964", "label": "Attaquer avec Guerrière du Vol infini → Élémentaire radieux 2/3", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_193512_hdt.log#1@9507", "label": "Jouer Glissedrake visionnaire", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_193512_hdt.log#1@9606", "label": "Jouer Luisaile", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_193512_hdt.log#1@11142", "label": "Jouer Wyrm du pic venteux → Élémentaire d’or en fusion 3/3", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_193512_hdt.log#1@12898", "label": "Jouer Avant-garde du portail", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_193512_hdt.log#1@13299", "label": "Jouer Gardien des couvées", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_193512_hdt.log#1@13426", "label": "Attaquer avec Wyrm du pic venteux → Élémentaire furie-des-tempêtes 7/7", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_193512_hdt.log#1@14856", "label": "Attaquer avec Garrosh Hurlenfer → Thrall (30 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_193512_hdt.log#1@15202", "label": "Jouer Colporteur de pétales", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_193512_hdt.log#1@15287", "label": "Jouer Dragonnet du Vol infini", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_193512_hdt.log#1@16683", "label": "Jouer Suffusion d’ombreflamme → Thrall (26 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_194727_hdt.log#1@1547", "label": "Jouer Sombre chevaucheur", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_194727_hdt.log#1@2005", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_194727_hdt.log#1@2668", "label": "Jouer La pièce", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_194727_hdt.log#1@2784", "label": "Jouer Gorgonzormu", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_194727_hdt.log#1@3005", "label": "Attaquer avec Sombre chevaucheur → Chasse-marée murloc 2/1", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_194727_hdt.log#1@4618", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_194727_hdt.log#1@4787", "label": "Attaquer avec Gorgonzormu → Totem de griffes de pierre 0/2", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_194727_hdt.log#1@6420", "label": "Jouer Suffusion d’ombreflamme → Fouisseur merrant 5/4", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_194727_hdt.log#1@7026", "label": "Attaquer avec Gorgonzormu → Oracle sinistrécaille 1/1", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_194727_hdt.log#1@7249", "label": "Attaquer avec Forgeron dimensionnel → Éclaireur de l’oasis 2/2", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_194727_hdt.log#1@8736", "label": "Jouer Berserker hacheuse", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_194727_hdt.log#1@8850", "label": "Attaquer avec Berserker hacheuse → Amalgame des profondeurs 2/3", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_194727_hdt.log#1@9024", "label": "Attaquer avec Berserker hacheuse → Éclaireur de l’oasis 1/3", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_194727_hdt.log#1@10877", "label": "Jouer Fromage savoureux", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_194727_hdt.log#1@11145", "label": "Attaquer avec Forgeron dimensionnel → Chef de la côte sud 3/2", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_194727_hdt.log#1@11322", "label": "Jouer Luisaile", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_194727_hdt.log#1@12804", "label": "Jouer Animatrice de stade", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_210804_hdt.log#1@1638", "label": "Jouer Voyante distordue par le temps", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_210804_hdt.log#1@1843", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_210804_hdt.log#1@2434", "label": "Jouer Luisaile", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_210804_hdt.log#1@2719", "label": "Attaquer avec Voyante distordue par le temps → Recrue de la Main d’argent 1/1", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_210804_hdt.log#1@2980", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_210804_hdt.log#1@3784", "label": "Jouer Avant-garde du portail", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_210804_hdt.log#1@4228", "label": "Attaquer avec Voyante distordue par le temps → Recrue de la Main d’argent 1/1", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_210804_hdt.log#1@4428", "label": "Attaquer avec Luisaile → Dame Liadrin (40 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_210804_hdt.log#1@5439", "label": "Jouer Glissedrake visionnaire", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_210804_hdt.log#1@5729", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_210804_hdt.log#1@6498", "label": "Jouer Avant-garde du portail", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_210804_hdt.log#1@9067", "label": "Jouer Profondeurs Sanguines", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_210804_hdt.log#1@10639", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_210804_hdt.log#1@10985", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_210804_hdt.log#1@11327", "label": "Attaquer avec Glissedrake visionnaire → Dame Liadrin (30 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_210804_hdt.log#1@12518", "label": "Activer Profondeurs Sanguines → Glissedrake visionnaire (allié) 7/10", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_210804_hdt.log#1@12705", "label": "Jouer Wyrm du pic venteux → Dame Liadrin (23 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_210804_hdt.log#1@12892", "label": "Attaquer avec Glissedrake visionnaire → Statue immaculée 4/8", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_210804_hdt.log#1@14291", "label": "Jouer Suffusion d’ombreflamme → Tirion Fordring 8/8", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_210804_hdt.log#1@14855", "label": "Attaquer avec Glissedrake visionnaire → Tirion Fordring 8/8", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_210804_hdt.log#1@15134", "label": "Jouer Wyrm du pic venteux → Dame Liadrin (18 PV)", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261025_211732_hdt.log#1@1591", "label": "Jouer Colporteur de pétales", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_211732_hdt.log#1@2257", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_211732_hdt.log#1@2642", "label": "Attaquer avec Colporteur de pétales → Brann Barbe-de-Bronze 2/4", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_211732_hdt.log#1@3878", "label": "Attaquer avec Forgeron dimensionnel → Brann Barbe-de-Bronze 2/2", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_211732_hdt.log#1@4027", "label": "Jouer Avant-garde du portail", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_211732_hdt.log#1@5234", "label": "Jouer Glissedrake visionnaire", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_211732_hdt.log#1@5479", "label": "Attaquer avec Forgeron dimensionnel → Kazakus 3/3", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_211732_hdt.log#1@6830", "label": "Jouer Sombre chevaucheur", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_211732_hdt.log#1@7307", "label": "Jouer Serpent-nuage", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_211732_hdt.log#1@7498", "label": "Attaquer avec Forgeron dimensionnel → Luisaile 7/3", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_211732_hdt.log#1@9076", "label": "Jouer Wyrm du pic venteux → Roi Anduin (37 PV + 7 armure)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_211732_hdt.log#1@9210", "label": "Attaquer avec Serpent-nuage → Roi Anduin (37 PV + 2 armure)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_211732_hdt.log#1@10215", "label": "Jouer Le Grand Dracorex", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_211732_hdt.log#1@10492", "label": "Attaquer avec Le Grand Dracorex → Écorcheur d’esprit Kaahrj 3/3", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_211732_hdt.log#1@10760", "label": "Attaquer avec Serpent-nuage → Roi Anduin (39 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_211732_hdt.log#1@12696", "label": "Jouer Avant-garde du portail", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_211732_hdt.log#1@13149", "label": "Jouer Frappe anticipée → Zéphrys le Grand 3/2", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_211732_hdt.log#1@13364", "label": "Jouer Glissedrake visionnaire", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_211732_hdt.log#1@15074", "label": "Jouer Suffusion d’ombreflamme → Disciple de Galakrond 1/2", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_211732_hdt.log#1@15626", "label": "Jouer Huissier antrelige", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_211732_hdt.log#1@15944", "label": "Jouer Dragonnet du Vol infini", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_211732_hdt.log#1@17628", "label": "Jouer Sombre chevaucheur", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_211732_hdt.log#1@18086", "label": "Jouer Luisaile", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_211732_hdt.log#1@18233", "label": "Jouer Aile de l’effroi tourmentée", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_211732_hdt.log#1@20262", "label": "Jouer Chronoseigneur Époque", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_211732_hdt.log#1@20382", "label": "Jouer Avant-garde du portail", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_211732_hdt.log#1@27241", "label": "Jouer Frappe anticipée → Roi Anduin (18 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_211732_hdt.log#1@27476", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_211732_hdt.log#1@27789", "label": "Attaquer avec Dragonnet du Vol infini → Xyrella, la sanctifiée 7/7", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_211732_hdt.log#1@30297", "label": "Jouer Profondeurs Sanguines", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261025_211732_hdt.log#1@30526", "label": "Activer Profondeurs Sanguines → Forgeron dimensionnel (allié) 4/5", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261025_211732_hdt.log#1@30683", "label": "Attaquer avec Forgeron dimensionnel → Roi Anduin (3 PV)", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261025_213529_hdt.log#1@1538", "label": "Jouer Suffusion d’ombreflamme → Gagnante mystère 1/1", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_213529_hdt.log#1@2493", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_213529_hdt.log#1@3548", "label": "Jouer Gardien des couvées", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_213529_hdt.log#1@3768", "label": "Attaquer avec Garrosh Hurlenfer → Traqueur phasique 2/3", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_213529_hdt.log#1@4062", "label": "Attaquer avec Forgeron dimensionnel → Traqueur phasique 2/1", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_213529_hdt.log#1@5768", "label": "Jouer Frappe anticipée → Traqueur phasique 2/3", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_213529_hdt.log#1@5969", "label": "Attaquer avec Garrosh Hurlenfer → Traqueur phasique 3/2", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_213529_hdt.log#1@6223", "label": "Attaquer avec Forgeron dimensionnel → Traqueur phasique 2/3", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_213529_hdt.log#1@10597", "label": "Jouer Wyrm du pic venteux → Traqueur phasique 2/3", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_213529_hdt.log#1@10755", "label": "Attaquer avec Gardien des couvées → Guide 1/1", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_213529_hdt.log#1@10981", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_213529_hdt.log#1@11472", "label": "Jouer Wyrm du pic venteux → Rexxar (30 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_213529_hdt.log#1@11638", "label": "Jouer Profondeurs Sanguines", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_213529_hdt.log#1@11775", "label": "Attaquer avec Avant-garde du portail → Rexxar (25 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_213529_hdt.log#1@13278", "label": "Jouer Grommash Hurlenfer", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_213529_hdt.log#1@13549", "label": "Attaquer avec Wyrm du pic venteux → Fichu élémentaire 3/3", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_213529_hdt.log#1@13819", "label": "Activer Profondeurs Sanguines → Grommash Hurlenfer (allié) 12/7", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261025_214524_hdt.log#1@1473", "label": "Jouer La pièce", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_214524_hdt.log#1@1682", "label": "Jouer Colporteur de pétales", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_214524_hdt.log#1@2439", "label": "Jouer Colporteur de pétales", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_214524_hdt.log#1@2694", "label": "Attaquer avec Colporteur de pétales → Neunœil le pirate 1/1", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_214524_hdt.log#1@4350", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_214524_hdt.log#1@4635", "label": "Attaquer avec Colporteur de pétales → Brigande parachutiste 4/2", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_214524_hdt.log#1@5760", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_214524_hdt.log#1@6154", "label": "Jouer Profondeurs Sanguines", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_214524_hdt.log#1@6369", "label": "Activer Profondeurs Sanguines → Bredouilleur 1/1", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_214524_hdt.log#1@7971", "label": "Attaquer avec Forgeron dimensionnel → Seigneur de la toile nérub’ar 1/4", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_214524_hdt.log#1@8421", "label": "Attaquer avec Forgeron dimensionnel → Bébé marsuul 2/2", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_214524_hdt.log#1@8644", "label": "Jouer Glissedrake visionnaire", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_214524_hdt.log#1@9722", "label": "Jouer Wyrm du pic venteux → Orweyna (30 PV + 1 armure)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_214524_hdt.log#1@10195", "label": "Activer Profondeurs Sanguines → Matelot des mers du Sud 2/1", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_214524_hdt.log#1@10423", "label": "Attaquer avec Forgeron dimensionnel → Bébé marsuul 1/1", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_214524_hdt.log#1@11491", "label": "Attaquer avec Wyrm du pic venteux → Orweyna (15 PV + 1 armure)", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261025_215103_hdt.log#1@1527", "label": "Jouer Voyante distordue par le temps", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_215103_hdt.log#1@1704", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_215103_hdt.log#1@2366", "label": "Jouer La pièce", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_215103_hdt.log#1@2576", "label": "Jouer Forgeron dimensionnel", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_215103_hdt.log#1@3439", "label": "Jouer Profondeurs Sanguines", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_215103_hdt.log#1@3501", "label": "Activer Profondeurs Sanguines → Forgeron dimensionnel (allié) 2/5", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_215103_hdt.log#1@3655", "label": "Attaquer avec Forgeron dimensionnel → Artiste aquarelliste 3/3", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_215103_hdt.log#1@4763", "label": "Jouer Avant-garde du portail", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_215103_hdt.log#1@6019", "label": "Jouer Glissedrake visionnaire", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_215103_hdt.log#1@6261", "label": "Activer Profondeurs Sanguines → Collecteur d’esprits 2/1", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_215103_hdt.log#1@6416", "label": "Attaquer avec Avant-garde du portail → Artiste aquarelliste 3/3", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_215103_hdt.log#1@8071", "label": "Jouer Wyrm du pic venteux → Élémentaire d’eau 3/6", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_215103_hdt.log#1@9876", "label": "Jouer Suffusion d’ombreflamme → Élémentaire d’eau 3/1", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_215103_hdt.log#1@10426", "label": "Jouer Totem de Rochepointe", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_215103_hdt.log#1@10552", "label": "Jouer Luisaile", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_215103_hdt.log#1@12660", "label": "Jouer Le Grand Dracorex", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_215103_hdt.log#1@12796", "label": "Attaquer avec Le Grand Dracorex → Choriste de karaoké 2/4", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_215103_hdt.log#1@13014", "label": "Attaquer avec Luisaile → Kel’Thuzad (38 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_215103_hdt.log#1@15029", "label": "Jouer Wyrm du pic venteux → Kel’Thuzad (28 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_215103_hdt.log#1@15183", "label": "Attaquer avec Le Grand Dracorex → Fermier de Comté-du-Nord 3/3", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_215103_hdt.log#1@15431", "label": "Attaquer avec Luisaile → Kel’Thuzad (23 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_215103_hdt.log#1@17262", "label": "Jouer Grommash Hurlenfer", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261025_215103_hdt.log#1@17430", "label": "Jouer Gardien des couvées", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261025_222102_hdt.log#1@1390", "label": "Jouer Sombre chevaucheur", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_222102_hdt.log#1@2013", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_222102_hdt.log#1@2454", "label": "Jouer Luisaile", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_222102_hdt.log#1@2655", "label": "Attaquer avec Sombre chevaucheur → Recrue de la Main d’argent 1/1", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_222102_hdt.log#1@2869", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_222102_hdt.log#1@3586", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_222102_hdt.log#1@3902", "label": "Attaquer avec Luisaile → Uther le Porteur de Lumière (30 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_222102_hdt.log#1@4184", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_222102_hdt.log#1@5006", "label": "Jouer Suffusion d’ombreflamme → Garde-Rêve 5/6", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_222102_hdt.log#1@5667", "label": "Jouer La pièce", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_222102_hdt.log#1@5811", "label": "Jouer Chasseur de gloire", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_222102_hdt.log#1@7127", "label": "Jouer Profondeurs Sanguines", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_222102_hdt.log#1@7442", "label": "Activer Profondeurs Sanguines → Tank zombie titubant 3/2", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_222102_hdt.log#1@7608", "label": "Jouer Gardien des couvées", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_222102_hdt.log#1@9078", "label": "Attaquer avec Garrosh Hurlenfer → Gardienne bruissaile 4/4", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_222102_hdt.log#1@9501", "label": "Attaquer avec Gardien des couvées → Gardienne bruissaile 4/4", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_222102_hdt.log#1@9716", "label": "Attaquer avec Luisaile → Uther le Porteur de Lumière (14 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_222823_hdt.log#1@909", "label": "Jouer Profondeurs Sanguines", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_222823_hdt.log#1@1561", "label": "Jouer Colporteur de pétales", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_222823_hdt.log#1@1897", "label": "Activer Profondeurs Sanguines → Colporteur de pétales (allié) 1/4", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_222823_hdt.log#1@2632", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_222823_hdt.log#1@4371", "label": "Activer Profondeurs Sanguines → Éclat glaciaire 2/1", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_222823_hdt.log#1@4543", "label": "Jouer Glissedrake visionnaire", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_222823_hdt.log#1@4693", "label": "Attaquer avec Colporteur de pétales → Sentinelle de Mur-Céleste 1/2", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_222823_hdt.log#1@6214", "label": "Jouer Profondeurs Sanguines", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_222823_hdt.log#1@6305", "label": "Activer Profondeurs Sanguines → Glissedrake visionnaire (allié) 7/8", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_222823_hdt.log#1@6482", "label": "Attaquer avec Glissedrake visionnaire → Élémentaire fondu 4/8", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_222823_hdt.log#1@7572", "label": "Jouer Suffusion d’ombreflamme → Brute à cosse 4/4", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_222823_hdt.log#1@7756", "label": "Activer Profondeurs Sanguines → Glissedrake visionnaire (allié) 5/8", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_222823_hdt.log#1@7928", "label": "Jouer Gardien des couvées", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_222823_hdt.log#1@10245", "label": "Activer Profondeurs Sanguines → Glissedrake visionnaire (allié) 7/7", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261025_222823_hdt.log#1@10382", "label": "Attaquer avec Glissedrake visionnaire → Thrall (10 PV)", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261025_222823_hdt.log#1@10498", "label": "Attaquer avec Garrosh Hurlenfer → Thrall (1 PV)", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261025_223523_hdt.log#1@1610", "label": "Jouer Voyante distordue par le temps", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_223523_hdt.log#1@1663", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_223523_hdt.log#1@2174", "label": "Jouer Colporteur de pétales", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_223523_hdt.log#1@2357", "label": "Attaquer avec Voyante distordue par le temps → Malfurion Hurlorage (30 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_223523_hdt.log#1@2497", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_223523_hdt.log#1@3682", "label": "Jouer Sombre chevaucheur", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_223523_hdt.log#1@4317", "label": "Jouer Colporteur de pétales", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_223523_hdt.log#1@4444", "label": "Attaquer avec Voyante distordue par le temps → Malfurion Hurlorage (29 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_223523_hdt.log#1@6704", "label": "Jouer La pièce", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_223523_hdt.log#1@6829", "label": "Jouer Plaiedécaille cobalt", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_223523_hdt.log#1@6970", "label": "Attaquer avec Voyante distordue par le temps → Malfurion Hurlorage (26 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_223523_hdt.log#1@8100", "label": "Jouer Frappe anticipée → Malfurion Hurlorage (22 PV + 12 armure)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_223523_hdt.log#1@8486", "label": "Jouer Avant-garde du portail", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_223523_hdt.log#1@8953", "label": "Attaquer avec Plaiedécaille cobalt → Malfurion Hurlorage (22 PV + 9 armure)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_223523_hdt.log#1@10421", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_223523_hdt.log#1@11005", "label": "Jouer Dragonnet du Vol infini", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_223523_hdt.log#1@11399", "label": "Attaquer avec Voyante distordue par le temps → Scarabée nuisible 1/5", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_223523_hdt.log#1@13806", "label": "Jouer Wyrm du pic venteux → Scarabée nuisible 1/5", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_223523_hdt.log#1@14007", "label": "Attaquer avec Plaiedécaille cobalt → Guff Cœur-Sauvage (17 PV + 33 armure)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_223523_hdt.log#1@14227", "label": "Attaquer avec Dragonnet du Vol infini → Guff Cœur-Sauvage (17 PV + 26 armure)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_223523_hdt.log#1@17018", "label": "Attaquer avec Tréant → Tréant 2/2", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_223523_hdt.log#1@17406", "label": "Jouer Glissedrake visionnaire", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_223523_hdt.log#1@17513", "label": "Jouer Glissedrake visionnaire", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_223523_hdt.log#1@21320", "label": "Attaquer avec Dragonnet du Vol infini → Kil’jaeden 8/8", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_223523_hdt.log#1@21690", "label": "Jouer Grommash Hurlenfer", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261025_223523_hdt.log#1@21918", "label": "Attaquer avec Glissedrake visionnaire → Guff Cœur-Sauvage (16 PV + 12 armure)", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261025_224728_hdt.log#1@1135", "label": "Jouer Voyante distordue par le temps", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_224728_hdt.log#1@1858", "label": "Jouer Luisaile", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_224728_hdt.log#1@2070", "label": "Attaquer avec Voyante distordue par le temps → Tyrande Murmevent (30 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_224728_hdt.log#1@3039", "label": "Jouer Avant-garde du portail", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_224728_hdt.log#1@3594", "label": "Attaquer avec Voyante distordue par le temps → Tyrande Murmevent (29 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_224728_hdt.log#1@3741", "label": "Attaquer avec Luisaile → Tyrande Murmevent (28 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_224728_hdt.log#1@4599", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_224728_hdt.log#1@4805", "label": "Jouer Voyante distordue par le temps", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_224728_hdt.log#1@5073", "label": "Attaquer avec Avant-garde du portail → Tyrande Murmevent (25 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_224728_hdt.log#1@7122", "label": "Jouer Avant-garde du portail", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_224728_hdt.log#1@9867", "label": "Jouer Colporteur de pétales", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_224728_hdt.log#1@12746", "label": "Jouer Animatrice de stade", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_224728_hdt.log#1@13305", "label": "Attaquer avec Garrosh Hurlenfer → Tyrande Murmevent (17 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_224728_hdt.log#1@13521", "label": "Jouer Profondeurs Sanguines", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_224728_hdt.log#1@15002", "label": "Jouer Nozdormu l’Intemporel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_224728_hdt.log#1@15278", "label": "Pouvoir héroïque Gain d’armure !", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_224728_hdt.log#1@15365", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_225447_hdt.log#1@1185", "label": "Jouer Voyante distordue par le temps", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_225447_hdt.log#1@1360", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_225447_hdt.log#1@2000", "label": "Jouer Colporteur de pétales", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_225447_hdt.log#1@2060", "label": "Attaquer avec Voyante distordue par le temps → Avant-garde tol’vir 1/4", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_225447_hdt.log#1@2255", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_225447_hdt.log#1@3132", "label": "Jouer Sombre chevaucheur", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_225447_hdt.log#1@3623", "label": "Jouer Luisaile", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_225447_hdt.log#1@3789", "label": "Attaquer avec Voyante distordue par le temps → Avant-garde tol’vir 1/2", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_225447_hdt.log#1@5192", "label": "Jouer Glissedrake visionnaire", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_225447_hdt.log#1@5319", "label": "Attaquer avec Luisaile → Rochepoing l’ogre de main (30 PV + 5 armure)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_225447_hdt.log#1@5475", "label": "Attaquer avec Sombre chevaucheur → Rochepoing l’ogre de main (30 PV + 2 armure)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_225447_hdt.log#1@6806", "label": "Jouer La pièce", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_225447_hdt.log#1@7059", "label": "Jouer Wyrm du pic venteux → Xavius, seigneur du Cauchemar 4/3", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_225447_hdt.log#1@7250", "label": "Attaquer avec Glissedrake visionnaire → Rochepoing l’ogre de main (27 PV + 3 armure)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_225447_hdt.log#1@8695", "label": "Jouer Avant-garde du portail", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_225447_hdt.log#1@9206", "label": "Jouer Gardien des couvées", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_225447_hdt.log#1@9331", "label": "Attaquer avec Glissedrake visionnaire → Rochepoing l’ogre de main (17 PV + 3 armure)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_225447_hdt.log#1@11082", "label": "Jouer Avant-garde du portail", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_225447_hdt.log#1@11860", "label": "Jouer Sombre chevaucheur", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_225447_hdt.log#1@12405", "label": "Jouer Entourloupeuse faë", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_225447_hdt.log#1@13870", "label": "Jouer Frappe anticipée → Rochepoing l’ogre de main (10 PV + 3 armure)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_225447_hdt.log#1@14291", "label": "Jouer Suffusion d’ombreflamme → Rochepoing l’ogre de main (10 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_225447_hdt.log#1@14923", "label": "Jouer Glissedrake visionnaire", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_225447_hdt.log#1@16683", "label": "Jouer Chronoseigneur Époque", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_225447_hdt.log#1@16948", "label": "Attaquer avec Glissedrake visionnaire → Golem d’acier 3/3", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_225447_hdt.log#1@17137", "label": "Jouer Canonnier défias", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_225447_hdt.log#1@18099", "label": "Jouer Animatrice de stade", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_225447_hdt.log#1@18583", "label": "Attaquer avec Garrosh Hurlenfer → Tortolla 3/33", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_225447_hdt.log#1@19019", "label": "Attaquer avec Chronoseigneur Époque → Rochepoing l’ogre de main (2 PV)", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261025_230748_hdt.log#1@1781", "label": "Jouer Colporteur de pétales", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_230748_hdt.log#1@3011", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_230748_hdt.log#1@4152", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_230748_hdt.log#1@4506", "label": "Attaquer avec Forgeron dimensionnel → Recrue de la Main d’argent 2/1", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_230748_hdt.log#1@5544", "label": "Jouer Gardien des couvées", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_230748_hdt.log#1@5900", "label": "Jouer Dragonnet du Vol infini", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_230748_hdt.log#1@6050", "label": "Attaquer avec Garrosh Hurlenfer → Recrue de la Main d’argent 2/1", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_230748_hdt.log#1@8606", "label": "Jouer Chronoseigneur Époque", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_230748_hdt.log#1@8788", "label": "Attaquer avec Garrosh Hurlenfer → Recrue de la Main d’argent 3/2", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_230748_hdt.log#1@9093", "label": "Attaquer avec Dragonnet du Vol infini → Recrue de la Main d’argent 3/2", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_230748_hdt.log#1@10354", "label": "Jouer Avant-garde du portail", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_230748_hdt.log#1@11023", "label": "Jouer Gardien des couvées", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_230748_hdt.log#1@11145", "label": "Attaquer avec Dragonnet du Vol infini → Recrue de la Main d’argent 5/4", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_230748_hdt.log#1@12570", "label": "Jouer Suffusion d’ombreflamme → Recrue de la Main d’argent 5/4", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_230748_hdt.log#1@13607", "label": "Jouer Saccageur de chapiteaux", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_230748_hdt.log#1@13749", "label": "Attaquer avec Saccageur de chapiteaux → Recrue de la Main d’argent 2/1", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_230748_hdt.log#1@15984", "label": "Jouer Animatrice de stade", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_230748_hdt.log#1@20383", "label": "Jouer Profondeurs Sanguines", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_231754_hdt.log#1@1060", "label": "Jouer Profondeurs Sanguines", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_231754_hdt.log#1@1866", "label": "Jouer Gardien des couvées", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_231754_hdt.log#1@2147", "label": "Attaquer avec Garrosh Hurlenfer → Gul’dan (30 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_231754_hdt.log#1@2345", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_231754_hdt.log#1@2803", "label": "Activer Profondeurs Sanguines → Gardien des couvées (allié) 2/3", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_231754_hdt.log#1@3074", "label": "Jouer Colporteur de pétales", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_231754_hdt.log#1@3139", "label": "Attaquer avec Gardien des couvées → Gul’dan (26 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_231754_hdt.log#1@4201", "label": "Jouer Glissedrake visionnaire", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_231754_hdt.log#1@4551", "label": "Attaquer avec Gardien des couvées → Brute de C’Thrax 3/5", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_231754_hdt.log#1@4714", "label": "Attaquer avec Colporteur de pétales → Brute de C’Thrax 3/1", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_231754_hdt.log#1@5896", "label": "Jouer Suffusion d’ombreflamme → Néophyte du Culte 3/2", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_231754_hdt.log#1@6430", "label": "Jouer Émeutier", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_231754_hdt.log#1@6551", "label": "Activer Profondeurs Sanguines → Émeutier (allié) 4/6", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_231754_hdt.log#1@7540", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_231754_hdt.log#1@7784", "label": "Jouer Profondeurs Sanguines", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_231754_hdt.log#1@7944", "label": "Activer Profondeurs Sanguines → Glissedrake visionnaire (allié) 7/4", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_231754_hdt.log#1@8834", "label": "Jouer Chronoseigneur Époque", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_231754_hdt.log#1@9101", "label": "Attaquer avec Forgeron dimensionnel → Gul’dan (14 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_231754_hdt.log#1@9220", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_231754_hdt.log#1@10136", "label": "Jouer Gardien des couvées", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_231754_hdt.log#1@10241", "label": "Jouer Wyrm du pic venteux → Gul’dan (12 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_231754_hdt.log#1@10454", "label": "Attaquer avec Garrosh Hurlenfer → Gul’dan (7 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_231754_hdt.log#1@11514", "label": "Jouer Le Grand Dracorex", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_231754_hdt.log#1@11792", "label": "Attaquer avec Le Grand Dracorex → Marcheur du Vide 1/3", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_231754_hdt.log#1@12000", "label": "Activer Profondeurs Sanguines → Wyrm du pic venteux (allié) 6/6", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261025_232750_hdt.log#1@1385", "label": "Jouer La pièce", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_232750_hdt.log#1@1482", "label": "Jouer Gardien des couvées", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_232750_hdt.log#1@2494", "label": "Jouer Gardien des couvées", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_232750_hdt.log#1@2616", "label": "Attaquer avec Garrosh Hurlenfer → Disciple lige d’ombre 2/1", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_232750_hdt.log#1@2919", "label": "Attaquer avec Colporteur de pétales → Soldat de Cho’gall 1/1", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_232750_hdt.log#1@3986", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_232750_hdt.log#1@4321", "label": "Attaquer avec Garrosh Hurlenfer → Gul’dan (27 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_232750_hdt.log#1@5350", "label": "Jouer Animatrice de stade", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_232750_hdt.log#1@7808", "label": "Attaquer avec Forgeron dimensionnel → Gul’dan (22 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_232750_hdt.log#1@9633", "label": "Jouer Frappe anticipée → Gul’dan (18 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_232750_hdt.log#1@9832", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_232750_hdt.log#1@10054", "label": "Attaquer avec Forgeron dimensionnel → Gul’dan (15 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_232750_hdt.log#1@11385", "label": "Attaquer avec Garrosh Hurlenfer → Sbire du gang des diablotins 2/4", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_232750_hdt.log#1@11572", "label": "Jouer Sombre chevaucheur", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_232750_hdt.log#1@12129", "label": "Jouer Dragonnet du Vol infini", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_232750_hdt.log#1@13845", "label": "Jouer Fracasseur de confluence", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_232750_hdt.log#1@14157", "label": "Attaquer avec Dragonnet du Vol infini → Gul’dan (4 PV)", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261025_233545_hdt.log#1@1465", "label": "Jouer Gardien des couvées", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_233545_hdt.log#1@1547", "label": "Attaquer avec Garrosh Hurlenfer → Rexxar (30 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_233545_hdt.log#1@2418", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_233545_hdt.log#1@2586", "label": "Attaquer avec Gardien des couvées → Rexxar (28 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_233545_hdt.log#1@2849", "label": "Attaquer avec Garrosh Hurlenfer → Rexxar (26 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_233545_hdt.log#1@3791", "label": "Jouer Animatrice de stade", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_233545_hdt.log#1@4412", "label": "Attaquer avec Garrosh Hurlenfer → Générale des forestiers Sylvanas 2/4", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_233545_hdt.log#1@4717", "label": "Attaquer avec Gardien des couvées → Mobilisateur de renforts 2/2", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_233545_hdt.log#1@6405", "label": "Jouer Frappe anticipée → Rexxar (22 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_233545_hdt.log#1@6834", "label": "Jouer Dragonnet du Vol infini", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_233545_hdt.log#1@6969", "label": "Attaquer avec Forgeron dimensionnel → Rexxar (19 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_233545_hdt.log#1@9703", "label": "Jouer Wyrm du pic venteux → Rexxar (8 PV)", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261025_233545_hdt.log#1@10135", "label": "Attaquer avec Forgeron dimensionnel → Rexxar (3 PV)", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261025_233545_hdt.log#1@10352", "label": "Attaquer avec Garrosh Hurlenfer → Rexxar (1 PV)", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261025_234130_hdt.log#1@1377", "label": "Jouer Gardien des couvées", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_234130_hdt.log#1@1459", "label": "Attaquer avec Garrosh Hurlenfer → Uther le Porteur de Lumière (30 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_234130_hdt.log#1@2369", "label": "Jouer Sombre chevaucheur", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_234130_hdt.log#1@3037", "label": "Jouer Colporteur de pétales", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_234130_hdt.log#1@3191", "label": "Attaquer avec Garrosh Hurlenfer → Recrue de la Main d’argent 1/1", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_234130_hdt.log#1@4341", "label": "Jouer Dragonnet du Vol de bronze", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_234130_hdt.log#1@4547", "label": "Attaquer avec Gardien des couvées → Uther le Porteur de Lumière (28 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_234130_hdt.log#1@4695", "label": "Attaquer avec Colporteur de pétales → Uther le Porteur de Lumière (26 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_234130_hdt.log#1@5719", "label": "Jouer Avant-garde du portail", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_234130_hdt.log#1@6346", "label": "Attaquer avec Dragonnet du Vol de bronze → Uther le Porteur de Lumière (25 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_234130_hdt.log#1@6523", "label": "Attaquer avec Gardien des couvées → Amasseur de butin 3/2", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_234130_hdt.log#1@8336", "label": "Jouer Gardien des couvées", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_234130_hdt.log#1@8475", "label": "Attaquer avec Colporteur de pétales → Protectrice vertueuse 2/1", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_234130_hdt.log#1@8718", "label": "Attaquer avec Garrosh Hurlenfer → Protectrice vertueuse 2/1", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_234931_hdt.log#1@1279", "label": "Jouer Voyante distordue par le temps", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_234931_hdt.log#1@1330", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_234931_hdt.log#1@2251", "label": "Jouer Colporteur de pétales", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_234931_hdt.log#1@2304", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_234931_hdt.log#1@3303", "label": "Jouer La pièce", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_234931_hdt.log#1@3381", "label": "Jouer Glissedrake visionnaire", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_234931_hdt.log#1@4701", "label": "Jouer Sombre chevaucheur", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_234931_hdt.log#1@5224", "label": "Jouer Avant-garde du portail", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_234931_hdt.log#1@5719", "label": "Attaquer avec Glissedrake visionnaire → Jaina Portvaillant (30 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_234931_hdt.log#1@7579", "label": "Jouer Sombre chevaucheur", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_234931_hdt.log#1@8141", "label": "Jouer Glissedrake visionnaire", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_234931_hdt.log#1@9102", "label": "Jouer Wyrm du pic venteux → Jaina Portvaillant (25 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_234931_hdt.log#1@10641", "label": "Jouer Présage de la fin", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_234931_hdt.log#1@10769", "label": "Jouer Profondeurs Sanguines", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_234931_hdt.log#1@10853", "label": "Attaquer avec Glissedrake visionnaire → Jaina Portvaillant (15 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_234931_hdt.log#1@12073", "label": "Jouer Grommash Hurlenfer", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261025_234931_hdt.log#1@12203", "label": "Activer Profondeurs Sanguines → Grommash Hurlenfer (allié) 4/9", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261025_234931_hdt.log#1@12394", "label": "Attaquer avec Grommash Hurlenfer → Jaina Portvaillant (10 PV)", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261025_235725_hdt.log#1@832", "label": "Jouer Voyante distordue par le temps", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_235725_hdt.log#1@1606", "label": "Jouer Gardien des couvées", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_235725_hdt.log#1@2519", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_235725_hdt.log#1@2855", "label": "Attaquer avec Colporteur de pétales → Ennuy-o-tron 1/2", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_235725_hdt.log#1@4271", "label": "Jouer Profondeurs Sanguines", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_235725_hdt.log#1@4603", "label": "Activer Profondeurs Sanguines → Ennuy-o-tron 1/1", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_235725_hdt.log#1@4809", "label": "Jouer Gardien des couvées", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_235725_hdt.log#1@6444", "label": "Jouer Glissedrake visionnaire", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_235725_hdt.log#1@6822", "label": "Attaquer avec Forgeron dimensionnel → Arthas le fléauvenant (29 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_235725_hdt.log#1@6962", "label": "Attaquer avec Garrosh Hurlenfer → Arthas le fléauvenant (26 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_235725_hdt.log#1@8226", "label": "Jouer Chronoseigneur Époque", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_235725_hdt.log#1@8586", "label": "Activer Profondeurs Sanguines → Forgeron dimensionnel (allié) 3/4", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_235725_hdt.log#1@8765", "label": "Attaquer avec Forgeron dimensionnel → Arthas le fléauvenant (24 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_235725_hdt.log#1@9732", "label": "Jouer Frappe anticipée → Ennuy-o-tron 1/2", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_235725_hdt.log#1@10152", "label": "Jouer Glissedrake visionnaire", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_235725_hdt.log#1@10294", "label": "Jouer Voyante distordue par le temps", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_235725_hdt.log#1@11580", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_235725_hdt.log#1@11824", "label": "Attaquer avec Glissedrake visionnaire → Chevalier greffé 3/3", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_235725_hdt.log#1@12063", "label": "Attaquer avec Voyante distordue par le temps → Arthas le fléauvenant (22 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_235725_hdt.log#1@13424", "label": "Jouer Grommash Hurlenfer", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_235725_hdt.log#1@13874", "label": "Activer Profondeurs Sanguines → Grommash Hurlenfer (allié) 6/9", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_235725_hdt.log#1@14031", "label": "Attaquer avec Forgeron dimensionnel → Baron Chute-des-Froids 2/2", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_235725_hdt.log#1@16108", "label": "Jouer Sombre chevaucheur", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_235725_hdt.log#1@16948", "label": "Jouer Le Grand Dracorex", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261025_235725_hdt.log#1@17178", "label": "Attaquer avec Le Grand Dracorex → Garde-essaim nérubien 1/3", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261025_235725_hdt.log#1@19418", "label": "Jouer Wyrm du pic venteux → Arthas le fléauvenant (5 PV)", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261026_000900_hdt.log#1@1588", "label": "Jouer Sombre chevaucheur", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_000900_hdt.log#1@2207", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_000900_hdt.log#1@3040", "label": "Jouer Frappe anticipée → Ramasse-cadavres 1/3", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_000900_hdt.log#1@3499", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_000900_hdt.log#1@4067", "label": "Jouer Dragonnet du Vol infini", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_000900_hdt.log#1@5532", "label": "Jouer Glissedrake visionnaire", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_000900_hdt.log#1@5622", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_000900_hdt.log#1@7073", "label": "Jouer Suffusion d’ombreflamme → Goule ressuscitée 2/2", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_000900_hdt.log#1@7758", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_000900_hdt.log#1@8015", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_000900_hdt.log#1@9510", "label": "Jouer Profondeurs Sanguines", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_000900_hdt.log#1@9579", "label": "Jouer Guerrière du Vol infini", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_000900_hdt.log#1@9824", "label": "Attaquer avec Guerrière du Vol infini → Falric 2/4", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_000900_hdt.log#1@11609", "label": "Jouer Ysondre", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_000900_hdt.log#1@11859", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_000900_hdt.log#1@13516", "label": "Jouer Wyrm du pic venteux → Le roi-liche (28 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_000900_hdt.log#1@13800", "label": "Jouer Luisaile", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_000900_hdt.log#1@13963", "label": "Attaquer avec Néantiseur → Le roi-liche (23 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_000900_hdt.log#1@15932", "label": "Jouer Avant-garde du portail", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_000900_hdt.log#1@16534", "label": "Jouer Dragonnet du Vol infini", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_000900_hdt.log#1@16648", "label": "Jouer Avant-garde du portail", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_000900_hdt.log#1@23506", "label": "Jouer Mage de sang Thalnos", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_000900_hdt.log#1@23779", "label": "Activer Profondeurs Sanguines → Mage de sang Thalnos (allié) 1/1", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_000900_hdt.log#1@24028", "label": "Jouer Animatrice de stade", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_002106_hdt.log#1@956", "label": "Jouer Sombre chevaucheur", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_002106_hdt.log#1@2075", "label": "Jouer Dragonnet livreur", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_002106_hdt.log#1@2165", "label": "Attaquer avec Sombre chevaucheur → Rexxar (30 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_002106_hdt.log#1@2745", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_002106_hdt.log#1@3037", "label": "Attaquer avec Sombre chevaucheur → Rexxar (29 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_002106_hdt.log#1@3293", "label": "Attaquer avec Dragonnet livreur → Rexxar (28 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_002106_hdt.log#1@3983", "label": "Jouer Glissedrake visionnaire", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_002106_hdt.log#1@4103", "label": "Attaquer avec Forgeron dimensionnel → Rampeur du goudron 3/5", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_002106_hdt.log#1@4254", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_002106_hdt.log#1@4854", "label": "Jouer Frappe anticipée → Rampeur du goudron 3/3", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_002622_hdt.log#1@2157", "label": "Jouer Sombre chevaucheur", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_002622_hdt.log#1@4186", "label": "Attaquer avec Sombre chevaucheur → Grizzly du bois Maudit 3/1", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_002843_hdt.log#1@4096", "label": "Attaquer avec Dragonnet du Vol infini → Ours runique mythique 3/3", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_002843_hdt.log#1@4268", "label": "Attaquer avec Dragonnet du Vol de bronze → Punisseuse du fort Pourpre 8/7", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_002843_hdt.log#1@4451", "label": "Attaquer avec Dragonnet du Vol de bronze → Punisseuse du fort Pourpre 8/6", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_003106_hdt.log#1@2457", "label": "Jouer Le Grand Dracorex", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_003106_hdt.log#1@2587", "label": "Attaquer avec Glissedrake visionnaire → Ours runique mythique 5/6", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_003106_hdt.log#1@2850", "label": "Attaquer avec Dragonnet du Vol infini → Elekk migrateur 6/2", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_003106_hdt.log#1@4477", "label": "Jouer Champion invaincu", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_003106_hdt.log#1@4889", "label": "Attaquer avec Champion invaincu → Ours des montagnes 9/10", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_003106_hdt.log#1@5140", "label": "Attaquer avec Le Grand Dracorex → Ourson des montagnes 2/4", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_003106_hdt.log#1@7221", "label": "Jouer Gardien des couvées", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_003106_hdt.log#1@7520", "label": "Attaquer avec Garrosh Hurlenfer → Ennuy-o-tron 2/3", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_003106_hdt.log#1@7706", "label": "Jouer Wyrm du pic venteux → Ennuy-o-tron 2/3", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_003106_hdt.log#1@9528", "label": "Jouer Avant-garde du portail", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_003106_hdt.log#1@14564", "label": "Jouer Wyrm du pic venteux → Grizzly du bois Maudit 6/11", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_003106_hdt.log#1@16484", "label": "Attaquer avec Avant-garde du portail → Rexxar (27 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_003106_hdt.log#1@16784", "label": "Jouer Luisaile", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_003106_hdt.log#1@16930", "label": "Jouer Glissedrake visionnaire", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_003106_hdt.log#1@18871", "label": "Jouer Siamat", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_003106_hdt.log#1@19499", "label": "Jouer Gardien des couvées", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_003106_hdt.log#1@19710", "label": "Attaquer avec Siamat → Elekk migrateur 2/3", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_004607_hdt.log#1@1334", "label": "Jouer Gardien des couvées", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_004607_hdt.log#1@1843", "label": "Jouer Avant-garde du portail", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_004607_hdt.log#1@2987", "label": "Jouer Avant-garde du portail", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_004607_hdt.log#1@3369", "label": "Jouer Sombre chevaucheur", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_004607_hdt.log#1@3866", "label": "Attaquer avec Avant-garde du portail → Jaina Portvaillant (30 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_004607_hdt.log#1@4864", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_004607_hdt.log#1@5327", "label": "Jouer Gardien des couvées", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_004607_hdt.log#1@5637", "label": "Attaquer avec Avant-garde du portail → Bibliothèque bavarde 2/4", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_004607_hdt.log#1@7085", "label": "Jouer Lancier écailleux", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_004607_hdt.log#1@7333", "label": "Jouer Voyante distordue par le temps", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_004607_hdt.log#1@7445", "label": "Attaquer avec Sombre chevaucheur → Jaina Portvaillant (24 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_004607_hdt.log#1@9170", "label": "Attaquer avec Forgeron dimensionnel → Rejeton de C’Thun 2/2", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_004607_hdt.log#1@9325", "label": "Attaquer avec Lancier écailleux → Jaina Portvaillant (22 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_004607_hdt.log#1@9457", "label": "Attaquer avec Sombre chevaucheur → Jaina Portvaillant (12 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_004607_hdt.log#1@10746", "label": "Attaquer avec Forgeron dimensionnel → Rejeton de C’Thun 2/2", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_004607_hdt.log#1@11067", "label": "Attaquer avec Sombre chevaucheur → Fanatique sans-visage 2/3", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_004607_hdt.log#1@11259", "label": "Attaquer avec Dragonnet du Vol infini → Fanatique sans-visage 2/3", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_005442_hdt.log#1@1641", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_005442_hdt.log#1@2179", "label": "Jouer Gardien des couvées", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_005442_hdt.log#1@2357", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_005442_hdt.log#1@3036", "label": "Jouer La pièce", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_005442_hdt.log#1@3256", "label": "Jouer Glissedrake visionnaire", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_005442_hdt.log#1@4228", "label": "Jouer Glissedrake visionnaire", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_005442_hdt.log#1@4318", "label": "Attaquer avec Glissedrake visionnaire → Jaina Portvaillant (30 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_005442_hdt.log#1@4943", "label": "Jouer Gardien des couvées", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_005442_hdt.log#1@5193", "label": "Attaquer avec Glissedrake visionnaire → Milhouse Forteresse-de-Mana 5/5", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_005442_hdt.log#1@5425", "label": "Jouer Dragonnet du Vol infini", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_005442_hdt.log#1@8124", "label": "Attaquer avec Garrosh Hurlenfer → Apprentie de la sorcière 0/1", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_005442_hdt.log#1@8303", "label": "Jouer Chronoseigneur Époque", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_005442_hdt.log#1@8504", "label": "Attaquer avec Dragonnet du Vol infini → Gardienne déguisée 2/4", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_005442_hdt.log#1@11588", "label": "Attaquer avec Gardien des couvées → Jaina Portvaillant (6 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_005442_hdt.log#1@11817", "label": "Attaquer avec Chronoseigneur Époque → Jaina Portvaillant (6 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_010156_hdt.log#1@1158", "label": "Jouer Sombre chevaucheur", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_010156_hdt.log#1@2605", "label": "Jouer Suffusion d’ombreflamme → Porte-bobine 3/2", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_010156_hdt.log#1@3185", "label": "Attaquer avec Sombre chevaucheur → Kael’thas, prince cruel (30 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_010156_hdt.log#1@3712", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_010156_hdt.log#1@4699", "label": "Jouer Salamandre dimensionnelle", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_010156_hdt.log#1@4794", "label": "Attaquer avec Salamandre dimensionnelle → Sabrerune mystique 2/3", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_010156_hdt.log#1@4947", "label": "Attaquer avec Salamandre dimensionnelle → Kael’thas, prince cruel (29 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_010156_hdt.log#1@6022", "label": "Jouer Profondeurs Sanguines", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_010156_hdt.log#1@6088", "label": "Jouer Verdaile illusoire", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_010156_hdt.log#1@6222", "label": "Activer Profondeurs Sanguines → Forgeron dimensionnel (allié) 2/5", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_010156_hdt.log#1@7313", "label": "Jouer Animatrice de stade", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_010156_hdt.log#1@7899", "label": "Jouer Colporteur de pétales", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_010156_hdt.log#1@7992", "label": "Attaquer avec Verdaile illusoire → Kael’thas, prince cruel (18 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_010743_hdt.log#1@2035", "label": "Jouer Sombre chevaucheur", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_010743_hdt.log#1@2471", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_010743_hdt.log#1@3096", "label": "Jouer La pièce", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_010743_hdt.log#1@3174", "label": "Jouer Forgeron dimensionnel", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_010743_hdt.log#1@3369", "label": "Attaquer avec Sombre chevaucheur → Garrosh, roi des pirates (30 PV + 5 armure)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_010743_hdt.log#1@4478", "label": "Jouer Colporteur de pétales", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_010743_hdt.log#1@4542", "label": "Attaquer avec Forgeron dimensionnel → Garrosh, roi des pirates (30 PV + 4 armure)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_010743_hdt.log#1@5711", "label": "Jouer Avant-garde du portail", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_010743_hdt.log#1@8732", "label": "Attaquer avec Forgeron dimensionnel → Luisaile 3/2", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_010743_hdt.log#1@9802", "label": "Jouer Dragonnet du Vol infini", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_010743_hdt.log#1@10032", "label": "Jouer Colporteur de pétales", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_010743_hdt.log#1@10166", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_010743_hdt.log#1@11363", "label": "Attaquer avec Dragonnet du Vol infini → Rescapée de la fin des temps 9/11", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_010743_hdt.log#1@11923", "label": "Jouer Drake terrestre", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_010743_hdt.log#1@12207", "label": "Attaquer avec Voyante distordue par le temps → Canonnière 1/1", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_010743_hdt.log#1@15037", "label": "Jouer Wyrm du pic venteux → Garrosh, roi des pirates (8 PV)", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261026_010743_hdt.log#1@15534", "label": "Attaquer avec Drake terrestre → Garrosh, roi des pirates (3 PV)", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261026_011533_hdt.log#1@1975", "label": "Jouer Gardien des couvées", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_011533_hdt.log#1@2082", "label": "Attaquer avec Garrosh Hurlenfer → Akama (30 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_011533_hdt.log#1@3562", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_011533_hdt.log#1@3706", "label": "Attaquer avec Garrosh Hurlenfer → Watsaileron 3/2", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_011533_hdt.log#1@4016", "label": "Attaquer avec Gardien des couvées → Akama (28 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_011533_hdt.log#1@5430", "label": "Jouer Animatrice de stade", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_011533_hdt.log#1@8023", "label": "Attaquer avec Garrosh Hurlenfer → Messager raptor 4/2", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_011533_hdt.log#1@9873", "label": "Jouer Frappe anticipée → Grizzly du bois Maudit 7/13", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_011533_hdt.log#1@10083", "label": "Jouer Suffusion d’ombreflamme → Grizzly du bois Maudit 7/10", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_011533_hdt.log#1@10661", "label": "Attaquer avec Garrosh Hurlenfer → Grizzly du bois Maudit 7/8", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_011533_hdt.log#1@12218", "label": "Jouer Chronoseigneur Époque", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_011533_hdt.log#1@12542", "label": "Attaquer avec Garrosh Hurlenfer → Akama (18 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_011533_hdt.log#1@12725", "label": "Attaquer avec Gardien des couvées → Akama (15 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_011533_hdt.log#1@13919", "label": "Jouer Animatrice de stade", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_011533_hdt.log#1@14385", "label": "Attaquer avec Garrosh Hurlenfer → Grizzly du bois Maudit 3/7", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_011533_hdt.log#1@14621", "label": "Attaquer avec Forgeron dimensionnel → Grizzly du bois Maudit 3/4", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_012511_hdt.log#1@843", "label": "Jouer Sombre chevaucheur", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_012511_hdt.log#1@1971", "label": "Jouer Profondeurs Sanguines", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_012511_hdt.log#1@2034", "label": "Attaquer avec Sombre chevaucheur → Illidan Hurlorage (30 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_012511_hdt.log#1@2178", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_012511_hdt.log#1@3010", "label": "Jouer Dragonnet du Vol infini", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_012511_hdt.log#1@3105", "label": "Attaquer avec Sombre chevaucheur → Illidan Hurlorage (30 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_012511_hdt.log#1@3278", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_012511_hdt.log#1@4661", "label": "Jouer Frappe anticipée → Wyrm primordial 3/3", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_012511_hdt.log#1@4864", "label": "Activer Profondeurs Sanguines → T0ut0u 4/1", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_012511_hdt.log#1@5068", "label": "Attaquer avec Dragonnet du Vol infini → Wyrm primordial 3/3", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_012511_hdt.log#1@6373", "label": "Jouer Héritière de l’au-delà", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_012511_hdt.log#1@6564", "label": "Attaquer avec Dragonnet du Vol infini → Illidan Hurlorage (27 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_012511_hdt.log#1@6703", "label": "Attaquer avec Sombre chevaucheur → Illidan Hurlorage (26 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_012511_hdt.log#1@7835", "label": "Jouer Wyrm du pic venteux → Illidan Hurlorage (17 PV)", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261026_012511_hdt.log#1@8255", "label": "Activer Profondeurs Sanguines → Héritière de l’au-delà (allié) 7/7", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261026_012511_hdt.log#1@8487", "label": "Attaquer avec Dragonnet du Vol infini → Illidan Hurlorage (12 PV)", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261026_013105_hdt.log#1@1548", "label": "Jouer Profondeurs Sanguines", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_013105_hdt.log#1@2192", "label": "Activer Profondeurs Sanguines → Gueule-rasoir branchie-rouge 3/1", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_013105_hdt.log#1@2463", "label": "Jouer La pièce", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_013105_hdt.log#1@2560", "label": "Jouer Forgeron dimensionnel", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_013105_hdt.log#1@3639", "label": "Jouer Colporteur de pétales", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_013105_hdt.log#1@3704", "label": "Attaquer avec Forgeron dimensionnel → Végétaileron avide 1/1", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_013105_hdt.log#1@4837", "label": "Activer Profondeurs Sanguines → Colporteur de pétales (allié) 1/4", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_013105_hdt.log#1@4974", "label": "Jouer Glissedrake visionnaire", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_013105_hdt.log#1@5058", "label": "Attaquer avec Forgeron dimensionnel → Murmie 1/1", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_013105_hdt.log#1@6209", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_013105_hdt.log#1@6544", "label": "Jouer Luisaile", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_013105_hdt.log#1@6804", "label": "Attaquer avec Forgeron dimensionnel → Voyant froide-lumière 2/3", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_013105_hdt.log#1@8728", "label": "Activer Profondeurs Sanguines → Forgeron dimensionnel (allié) 2/5", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_013105_hdt.log#1@8825", "label": "Jouer Glissedrake visionnaire", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_013105_hdt.log#1@8999", "label": "Attaquer avec Forgeron dimensionnel → Dame Liadrin (20 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_013105_hdt.log#1@11207", "label": "Attaquer avec Forgeron dimensionnel → Dame Liadrin (9 PV)", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261026_013916_hdt.log#1@1546", "label": "Jouer Sombre chevaucheur", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_013916_hdt.log#1@2050", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_013916_hdt.log#1@2714", "label": "Jouer Colporteur de pétales", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_013916_hdt.log#1@2796", "label": "Attaquer avec Sombre chevaucheur → Gul’dan (30 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_013916_hdt.log#1@2973", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_013916_hdt.log#1@3612", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_013916_hdt.log#1@3787", "label": "Attaquer avec Colporteur de pétales → Gul’dan (29 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_013916_hdt.log#1@4067", "label": "Attaquer avec Sombre chevaucheur → Gul’dan (28 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_013916_hdt.log#1@5102", "label": "Jouer Glissedrake visionnaire", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_013916_hdt.log#1@5635", "label": "Attaquer avec Colporteur de pétales → Soldat de Cho’gall 1/1", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_013916_hdt.log#1@6021", "label": "Attaquer avec Forgeron dimensionnel → Gul’dan (27 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_013916_hdt.log#1@8014", "label": "Jouer La pièce", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_013916_hdt.log#1@8168", "label": "Jouer Wyrm du pic venteux → Gul’dan (20 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_013916_hdt.log#1@8383", "label": "Attaquer avec Forgeron dimensionnel → Gul’dan (15 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_013916_hdt.log#1@10684", "label": "Jouer Frappe anticipée → Gul’dan (4 PV)", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261026_013916_hdt.log#1@10899", "label": "Jouer Frappe anticipée → Gul’dan (1 PV)", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261026_014601_hdt.log#1@1317", "label": "Jouer Colporteur de pétales", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_014601_hdt.log#1@1958", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_014601_hdt.log#1@2301", "label": "Attaquer avec Colporteur de pétales → Aile-ensorcelée pourpre 2/1", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_014601_hdt.log#1@3506", "label": "Jouer Avant-garde du portail", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_014601_hdt.log#1@3900", "label": "Jouer Voyante distordue par le temps", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_014601_hdt.log#1@3984", "label": "Attaquer avec Forgeron dimensionnel → Sabrerune mystique 2/3", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_014601_hdt.log#1@4804", "label": "Jouer Luisaile", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_014601_hdt.log#1@5047", "label": "Jouer Avant-garde du portail", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_014601_hdt.log#1@5540", "label": "Attaquer avec Forgeron dimensionnel → Marcheuse tellurique 4/2", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_014601_hdt.log#1@7493", "label": "Jouer Sombre chevaucheur", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_014601_hdt.log#1@8125", "label": "Jouer Glissedrake visionnaire", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_014601_hdt.log#1@8333", "label": "Attaquer avec Avant-garde du portail → Jaina Portvaillant (26 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_014601_hdt.log#1@9186", "label": "Jouer Wyrm du pic venteux → Jaina Portvaillant (22 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_014601_hdt.log#1@9333", "label": "Attaquer avec Sombre chevaucheur → Jaina Portvaillant (17 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_014601_hdt.log#1@9512", "label": "Attaquer avec Avant-garde du portail → Jaina Portvaillant (16 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_014601_hdt.log#1@10870", "label": "Jouer Animatrice de stade", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_014601_hdt.log#1@14184", "label": "Attaquer avec Garrosh Hurlenfer → Jaina Portvaillant (5 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_014601_hdt.log#1@16835", "label": "Attaquer avec Dragonnet du Vol infini → Techysaurus 3/6", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_014601_hdt.log#1@17237", "label": "Attaquer avec Animatrice de stade → Jaina Portvaillant (5 PV)", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261026_014601_hdt.log#1@17419", "label": "Attaquer avec Animatrice de stade → Jaina Portvaillant (1 PV)", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261026_015601_hdt.log#1@1420", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_015601_hdt.log#1@2211", "label": "Jouer La pièce", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_015601_hdt.log#1@2291", "label": "Jouer Forgeron dimensionnel", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_015601_hdt.log#1@3551", "label": "Jouer Sombre chevaucheur", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_015601_hdt.log#1@4086", "label": "Jouer Gardien des couvées", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_015601_hdt.log#1@4231", "label": "Attaquer avec Garrosh Hurlenfer → Causalité intemporelle 3/2", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_015601_hdt.log#1@5833", "label": "Jouer Avant-garde du portail", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_015601_hdt.log#1@6296", "label": "Attaquer avec Gardien des couvées → Chevaucheuse d’araignée 1/4", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_015601_hdt.log#1@6515", "label": "Jouer Voyante distordue par le temps", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_015601_hdt.log#1@8014", "label": "Jouer Frappe anticipée → Uther le Porteur de Lumière (27 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_015601_hdt.log#1@8521", "label": "Jouer Colporteur de pétales", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_015601_hdt.log#1@8672", "label": "Attaquer avec Gardien des couvées → Uther le Porteur de Lumière (24 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_015601_hdt.log#1@10318", "label": "Jouer Suffusion d’ombreflamme → Uther le Porteur de Lumière (10 PV)", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261026_020236_hdt.log#1@1565", "label": "Jouer Sombre chevaucheur", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_020236_hdt.log#1@2026", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_020236_hdt.log#1@2697", "label": "Jouer Colporteur de pétales", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_020236_hdt.log#1@2757", "label": "Jouer La pièce", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_020236_hdt.log#1@2870", "label": "Jouer Voyante distordue par le temps", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_020236_hdt.log#1@4118", "label": "Jouer Avant-garde du portail", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_020236_hdt.log#1@4530", "label": "Attaquer avec Colporteur de pétales → Sombreraie 2/2", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_020236_hdt.log#1@4700", "label": "Attaquer avec Sombre chevaucheur → Sombreraie 2/1", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_020236_hdt.log#1@6127", "label": "Jouer Glissedrake visionnaire", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_020236_hdt.log#1@6253", "label": "Attaquer avec Avant-garde du portail → Garde des profondeurs 0/3", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_020236_hdt.log#1@6395", "label": "Attaquer avec Sombre chevaucheur → Garde des profondeurs 0/3", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_020236_hdt.log#1@8057", "label": "Jouer Sombre chevaucheur", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_020236_hdt.log#1@8534", "label": "Jouer Glissedrake visionnaire", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_020236_hdt.log#1@8660", "label": "Attaquer avec Glissedrake visionnaire → Garde des profondeurs 0/3", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_020236_hdt.log#1@10451", "label": "Jouer Chronoseigneur Époque", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_020236_hdt.log#1@10594", "label": "Attaquer avec Glissedrake visionnaire → Aile du Vide 5/5", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_020236_hdt.log#1@10804", "label": "Attaquer avec Glissedrake visionnaire → Aile du Vide 5/5", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_020236_hdt.log#1@11815", "label": "Jouer Chronoseigneur Époque", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_020236_hdt.log#1@11960", "label": "Jouer Profondeurs Sanguines", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_020236_hdt.log#1@12090", "label": "Activer Profondeurs Sanguines → Glissedrake visionnaire (allié) 7/5", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_020236_hdt.log#1@15176", "label": "Jouer Frappe anticipée → Aile du Vide 9/11", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_020236_hdt.log#1@15400", "label": "Attaquer avec Glissedrake visionnaire → Aile du Vide 9/8", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_020236_hdt.log#1@15707", "label": "Jouer Wyrm du pic venteux → Zek’voz (20 PV)", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261026_021216_hdt.log#1@963", "label": "Jouer Profondeurs Sanguines", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_021216_hdt.log#1@1754", "label": "Jouer Frappe anticipée → Chevalier floramer 2/3", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_021216_hdt.log#1@2698", "label": "Jouer Suffusion d’ombreflamme → Chevalier floramer 2/3", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_021216_hdt.log#1@3405", "label": "Activer Profondeurs Sanguines → Chevalier floramer 2/1", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_021216_hdt.log#1@4233", "label": "Jouer Gardien des couvées", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_021216_hdt.log#1@4526", "label": "Jouer Colporteur de pétales", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_021216_hdt.log#1@4663", "label": "Attaquer avec Garrosh Hurlenfer → Feu follet 1/1", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_021216_hdt.log#1@5671", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_021216_hdt.log#1@6070", "label": "Jouer Colporteur de pétales", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_021216_hdt.log#1@6286", "label": "Attaquer avec Garrosh Hurlenfer → Feu follet 1/1", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_021216_hdt.log#1@7528", "label": "Jouer Glissedrake visionnaire", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_021216_hdt.log#1@7617", "label": "Pouvoir héroïque Gain d’armure !", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_021216_hdt.log#1@7693", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_021216_hdt.log#1@8414", "label": "Jouer Wyrm du pic venteux → Jaina Portvaillant (30 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_021216_hdt.log#1@8704", "label": "Activer Profondeurs Sanguines → Glissedrake visionnaire (allié) 5/8", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_021216_hdt.log#1@8896", "label": "Attaquer avec Glissedrake visionnaire → Jaina Portvaillant (25 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_021216_hdt.log#1@10072", "label": "Jouer Chronoseigneur Époque", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_021216_hdt.log#1@10315", "label": "Jouer Luisaile", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_021216_hdt.log#1@11800", "label": "Jouer Morchie", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_021216_hdt.log#1@12150", "label": "Jouer Sombre chevaucheur", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_021216_hdt.log#1@14674", "label": "Jouer Avant-garde du portail", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_021216_hdt.log#1@18798", "label": "Jouer Glissedrake visionnaire", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_021216_hdt.log#1@21473", "label": "Jouer Wyrm du pic venteux → Chevaucheuse de feu follet 4/4", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_021216_hdt.log#1@21844", "label": "Attaquer avec Garrosh Hurlenfer → Gardienne bruissaile 4/4", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_021216_hdt.log#1@22061", "label": "Attaquer avec Glissedrake visionnaire → Gardienne bruissaile 4/4", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_021216_hdt.log#1@25212", "label": "Attaquer avec Glissedrake visionnaire → Jaina Portvaillant (29 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_021216_hdt.log#1@25617", "label": "Attaquer avec Dragonnet du Vol infini → Jaina Portvaillant (24 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_021216_hdt.log#1@25735", "label": "Jouer Voyante distordue par le temps", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_021216_hdt.log#1@28356", "label": "Activer Profondeurs Sanguines → Feu follet 1/1", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_021216_hdt.log#1@28914", "label": "Pouvoir héroïque Gain d’armure !", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_021216_hdt.log#1@29011", "label": "Jouer Sombre chevaucheur", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_023027_hdt.log#1@774", "label": "Jouer Sombre chevaucheur", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_023027_hdt.log#1@1856", "label": "Jouer Voyante distordue par le temps", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_023027_hdt.log#1@2109", "label": "Attaquer avec Sombre chevaucheur → Amasseur de trouvailles 2/1", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_023027_hdt.log#1@2787", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_023027_hdt.log#1@3156", "label": "Attaquer avec Voyante distordue par le temps → Rexxar (30 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_023027_hdt.log#1@4494", "label": "Jouer Suffusion d’ombreflamme → Amasseur de trouvailles 2/1", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_023027_hdt.log#1@5487", "label": "Jouer Gardien des couvées", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_023027_hdt.log#1@5631", "label": "Attaquer avec Forgeron dimensionnel → Dispositif de dissimulation 1/2", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_023027_hdt.log#1@6952", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_023027_hdt.log#1@7330", "label": "Jouer Poing-crochet 3000", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_023027_hdt.log#1@7547", "label": "Attaquer avec Garrosh Hurlenfer → Rexxar (23 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_023027_hdt.log#1@9501", "label": "Jouer Wyrm du pic venteux → Ours runique mythique 3/4", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_023027_hdt.log#1@9856", "label": "Attaquer avec Forgeron dimensionnel → Rexxar (13 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_023027_hdt.log#1@11798", "label": "Jouer Frappe anticipée → Rexxar (5 PV)", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261026_023027_hdt.log#1@12137", "label": "Jouer Frappe anticipée → Rexxar (2 PV)", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261026_103415_hdt.log#1@890", "label": "Jouer Profondeurs Sanguines", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_103415_hdt.log#1@1432", "label": "Jouer Suffusion d’ombreflamme → Le roi-liche (30 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_103415_hdt.log#1@2463", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_103415_hdt.log#1@2808", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_103415_hdt.log#1@3672", "label": "Jouer Sombre chevaucheur", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_103415_hdt.log#1@4187", "label": "Jouer Dragonnet du Vol infini", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_103415_hdt.log#1@5068", "label": "Jouer Profondeurs Sanguines", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_103415_hdt.log#1@5348", "label": "Jouer Verdaile illusoire", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_103415_hdt.log#1@5519", "label": "Activer Profondeurs Sanguines → Forgeron dimensionnel (allié) 2/5", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_103415_hdt.log#1@6978", "label": "Jouer Wyrm du pic venteux → Le roi-liche (28 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_103415_hdt.log#1@7157", "label": "Activer Profondeurs Sanguines → Verdaile illusoire (allié) 6/7", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_103415_hdt.log#1@7370", "label": "Attaquer avec Dragonnet du Vol infini → Verdaile illusoire 4/5", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_103415_hdt.log#1@8712", "label": "Jouer Forgeron dimensionnel", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261026_103415_hdt.log#1@9146", "label": "Jouer Salamandre dimensionnelle", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261026_103415_hdt.log#1@9375", "label": "Activer Profondeurs Sanguines → Wyrm du pic venteux (allié) 8/6", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261026_105144_hdt.log#1@2168", "label": "Jouer Voyante distordue par le temps", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_105144_hdt.log#1@2341", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_105144_hdt.log#1@3217", "label": "Jouer Colporteur de pétales", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_105144_hdt.log#1@3428", "label": "Attaquer avec Voyante distordue par le temps → Illidan, fléau des démons (30 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_105144_hdt.log#1@3577", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_105144_hdt.log#1@5112", "label": "Jouer Gardien des couvées", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_105144_hdt.log#1@5343", "label": "Jouer La pièce", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_105144_hdt.log#1@5512", "label": "Jouer Colporteur de pétales", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_105144_hdt.log#1@7422", "label": "Jouer Glissedrake visionnaire", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_105144_hdt.log#1@7523", "label": "Attaquer avec Gardien des couvées → Illidan, fléau des démons (30 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_105144_hdt.log#1@7648", "label": "Attaquer avec Garrosh Hurlenfer → Illidan, fléau des démons (28 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_105144_hdt.log#1@8843", "label": "Jouer Frappe anticipée → Brute furie-perçante 3/6", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_105144_hdt.log#1@9040", "label": "Attaquer avec Glissedrake visionnaire → Brute furie-perçante 3/3", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_105144_hdt.log#1@9361", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_105144_hdt.log#1@10442", "label": "Jouer Wyrm du pic venteux → Illidan, fléau des démons (22 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_105144_hdt.log#1@10596", "label": "Attaquer avec Glissedrake visionnaire → Illidan, fléau des démons (17 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_105144_hdt.log#1@11494", "label": "Jouer Suffusion d’ombreflamme → Illidan, fléau des démons (8 PV)", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261026_110008_hdt.log#1@964", "label": "Jouer Profondeurs Sanguines", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_110008_hdt.log#1@1636", "label": "Jouer Gardien des couvées", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_110008_hdt.log#1@1694", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_110008_hdt.log#1@2288", "label": "Jouer Gardien des couvées", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_110008_hdt.log#1@2409", "label": "Activer Profondeurs Sanguines → Colporteur de pétales (allié) 1/4", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_110008_hdt.log#1@2646", "label": "Attaquer avec Colporteur de pétales → Nemsie Nécroflop (28 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_110008_hdt.log#1@3888", "label": "Jouer Glissedrake visionnaire", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_110008_hdt.log#1@4023", "label": "Attaquer avec Gardien des couvées → Nemsie Nécroflop (26 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_110008_hdt.log#1@4173", "label": "Attaquer avec Garrosh Hurlenfer → Nemsie Nécroflop (24 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_110008_hdt.log#1@5174", "label": "Jouer Glissedrake visionnaire", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_110008_hdt.log#1@5313", "label": "Attaquer avec Glissedrake visionnaire → Sbire du gang des diablotins 2/5", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_110008_hdt.log#1@5588", "label": "Attaquer avec Gardien des couvées → Nemsie Nécroflop (22 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_110008_hdt.log#1@7241", "label": "Jouer Frappe anticipée → Fanatique sans-visage 2/3", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_110008_hdt.log#1@7475", "label": "Jouer Suffusion d’ombreflamme → Fanatique sans-visage 2/3", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_110008_hdt.log#1@8084", "label": "Activer Profondeurs Sanguines → Fanatique sans-visage 2/1", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_110604_hdt.log#1@1151", "label": "Jouer Sombre chevaucheur", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_110604_hdt.log#1@1665", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_110604_hdt.log#1@2325", "label": "Jouer La pièce", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_110604_hdt.log#1@2564", "label": "Jouer Forgeron dimensionnel", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_110604_hdt.log#1@3904", "label": "Jouer Dragonnet du Vol infini", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_111058_hdt.log#1@1179", "label": "Jouer Voyante distordue par le temps", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_111058_hdt.log#1@2078", "label": "Jouer Colporteur de pétales", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_111058_hdt.log#1@3012", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_111058_hdt.log#1@3945", "label": "Jouer Frappe anticipée → Maiev, gardienne de Dalaran (30 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_111058_hdt.log#1@4307", "label": "Jouer Suffusion d’ombreflamme → Maiev, gardienne de Dalaran (27 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_111058_hdt.log#1@4945", "label": "Attaquer avec Forgeron dimensionnel → Maiev, gardienne de Dalaran (25 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_111058_hdt.log#1@6251", "label": "Jouer Avant-garde du portail", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_111058_hdt.log#1@6856", "label": "Jouer Frappe anticipée → Maiev, gardienne de Dalaran (21 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_111058_hdt.log#1@8065", "label": "Jouer Wyrm du pic venteux → Émissaire de la Fin 5/4", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_111058_hdt.log#1@8212", "label": "Attaquer avec Avant-garde du portail → Maiev, gardienne de Dalaran (18 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_111058_hdt.log#1@12320", "label": "Jouer Chronoseigneur Époque", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_111058_hdt.log#1@12570", "label": "Attaquer avec Wyrm du pic venteux → Maiev, gardienne de Dalaran (16 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_111058_hdt.log#1@14407", "label": "Jouer Wyrm du pic venteux → Maiev, gardienne de Dalaran (8 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_111058_hdt.log#1@14538", "label": "Jouer Profondeurs Sanguines", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_111058_hdt.log#1@14650", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_111058_hdt.log#1@19022", "label": "Jouer Animatrice de stade", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_111058_hdt.log#1@19660", "label": "Attaquer avec Garrosh Hurlenfer → Maiev, gardienne de Dalaran (3 PV)", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261026_111843_hdt.log#1@1370", "label": "Jouer Voyante distordue par le temps", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_111843_hdt.log#1@1423", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_111843_hdt.log#1@1938", "label": "Jouer Gardien des couvées", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_111843_hdt.log#1@2033", "label": "Attaquer avec Voyante distordue par le temps → Hyène agile 1/1", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_111843_hdt.log#1@2280", "label": "Attaquer avec Garrosh Hurlenfer → Rexxar (30 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_111843_hdt.log#1@2925", "label": "Jouer Avant-garde du portail", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_111843_hdt.log#1@3327", "label": "Attaquer avec Gardien des couvées → Rexxar (28 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_111843_hdt.log#1@3472", "label": "Attaquer avec Voyante distordue par le temps → Rexxar (26 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_111843_hdt.log#1@4265", "label": "Jouer Suffusion d’ombreflamme → Buveuse de vie 3/3", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_111843_hdt.log#1@5024", "label": "Jouer Colporteur de pétales", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_111843_hdt.log#1@5204", "label": "Attaquer avec Avant-garde du portail → Rexxar (26 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_111843_hdt.log#1@6262", "label": "Jouer La pièce", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_111843_hdt.log#1@6492", "label": "Jouer Wyrm du pic venteux → Misha 4/4", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_111843_hdt.log#1@6671", "label": "Attaquer avec Colporteur de pétales → Rexxar (21 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_111843_hdt.log#1@7872", "label": "Jouer Profondeurs Sanguines", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_111843_hdt.log#1@8118", "label": "Activer Profondeurs Sanguines → Wyrm du pic venteux (allié) 6/6", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_111843_hdt.log#1@8312", "label": "Attaquer avec Gardien des couvées → Rexxar (12 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_112707_hdt.log#1@1699", "label": "Jouer Gardien des couvées", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_112707_hdt.log#1@1804", "label": "Attaquer avec Garrosh Hurlenfer → Tyrande Murmevent (30 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_112707_hdt.log#1@2682", "label": "Jouer Forgeron dimensionnel", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_112707_hdt.log#1@3036", "label": "Attaquer avec Garrosh Hurlenfer → Chevalier floramer 2/3", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_112707_hdt.log#1@3361", "label": "Attaquer avec Gardien des couvées → Chevalier floramer 2/1", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_112707_hdt.log#1@4169", "label": "Jouer Frappe anticipée → Soigneur du Crépuscule 3/4", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_112707_hdt.log#1@4519", "label": "Jouer Sombre chevaucheur", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_112707_hdt.log#1@5041", "label": "Jouer Voyante distordue par le temps", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_112707_hdt.log#1@6196", "label": "Jouer Glissedrake visionnaire", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_112707_hdt.log#1@6597", "label": "Jouer Voyante distordue par le temps", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_112707_hdt.log#1@6678", "label": "Attaquer avec Voyante distordue par le temps → Tyrande Murmevent (26 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_112707_hdt.log#1@8274", "label": "Attaquer avec Voyante distordue par le temps → Magma mécanique 2/5", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_112707_hdt.log#1@8636", "label": "Jouer Suffusion d’ombreflamme → Magma mécanique 2/4", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_112707_hdt.log#1@9232", "label": "Jouer Cogneur d’œufs → Glissedrake visionnaire (allié) 5/8", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_113340_hdt.log#1@898", "label": "Jouer Sombre chevaucheur", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_113340_hdt.log#1@2050", "label": "Jouer Sombre chevaucheur", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_113340_hdt.log#1@2789", "label": "Attaquer avec Sombre chevaucheur → Méca-Jaraxxus (30 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_113340_hdt.log#1@3462", "label": "Jouer Mère des couvées sombrécaille", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_113340_hdt.log#1@3660", "label": "Jouer Informateur anonyme", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_113340_hdt.log#1@3997", "label": "Attaquer avec Sombre chevaucheur → Méca-Jaraxxus (29 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_113340_hdt.log#1@4999", "label": "Jouer Dragonnet du Vol infini", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_113340_hdt.log#1@5280", "label": "Attaquer avec Informateur anonyme → Brute de C’Thrax 3/5", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_113340_hdt.log#1@5480", "label": "Finir le tour", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_113340_hdt.log#1@6732", "label": "Jouer Libération des Bêtes", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_113340_hdt.log#1@7336", "label": "Jouer Forgeron dimensionnel", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_113340_hdt.log#1@7556", "label": "Attaquer avec Dragonnet du Vol infini → Brute de C’Thrax 3/5", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_113340_hdt.log#1@9012", "label": "Jouer Chronoseigneur Époque", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_113340_hdt.log#1@9275", "label": "Attaquer avec Forgeron dimensionnel → Méca-Jaraxxus (28 PV)", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_113340_hdt.log#1@9418", "label": "Attaquer avec Dragonnet du Vol infini → Méca-Jaraxxus (25 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_113340_hdt.log#1@10513", "label": "Jouer Wyrm du pic venteux → Brute de C’Thrax 3/5", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_113340_hdt.log#1@10673", "label": "Attaquer avec Dragonnet du Vol infini → Brute de C’Thrax 3/5", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_113340_hdt.log#1@10923", "label": "Attaquer avec Forgeron dimensionnel → Méca-Jaraxxus (24 PV)", "origin": "plan", "phase": "prêt"}
+{"caseId": "sessions/20261026_113340_hdt.log#1@13388", "label": "Attaquer avec Wyrm du pic venteux → Sbire du gang des diablotins 2/5", "origin": "modèle", "phase": "partiel"}
+{"caseId": "sessions/20261026_113340_hdt.log#1@13852", "label": "Jouer Grommash Hurlenfer", "origin": "solveur", "phase": "prêt"}
+{"caseId": "sessions/20261026_113340_hdt.log#1@14028", "label": "Attaquer avec Forgeron dimensionnel → Méca-Jaraxxus (14 PV)", "origin": "solveur", "phase": "prêt"}

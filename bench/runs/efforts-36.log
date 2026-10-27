@@ -1,0 +1,184 @@
+36 cas sélectionnés sur 582 (bench/cases.jsonl).
+Instructions : 5502 caractères (empreinte 89db2eda2c5a), stratégie : 2076d066f36e
+[1/180] gpt-6.1-sol:low 2026_10_22_14_55_57/Power.log#3@3014 : Jouer Hache de guerre cataclysmique (exact, 10,4 s, 0,0152 $) | dépense 0,015 $
+[2/180] gpt-6.1-sol:medium#2 2026_10_22_14_55_57/Power.log#3@3014 : Jouer Hache de guerre cataclysmique (exact, 13,9 s, 0,0146 $) | dépense 0,030 $
+[3/180] gpt-6.1-sol:medium 2026_10_22_14_55_57/Power.log#3@3014 : Jouer Hache de guerre cataclysmique (exact, 14,7 s, 0,0063 $) | dépense 0,036 $
+[4/180] gpt-6-luna:medium 2026_10_22_14_55_57/Power.log#3@3014 : Jouer Hache de guerre cataclysmique (exact, 11,6 s, 0,0011 $) | dépense 0,037 $
+[5/180] gpt-6.1-sol:low 2026_10_22_14_55_57/Power.log#3@4679 : Jouer Mousse de la Voile sanglante (même-type, 9,9 s, 0,0150 $) | dépense 0,052 $
+[6/180] gpt-6.1-sol:medium 2026_10_22_14_55_57/Power.log#3@4679 : Jouer Mousse de la Voile sanglante (même-type, 13,3 s, 0,0166 $) | dépense 0,069 $
+[7/180] gpt-6.1-sol:high 2026_10_22_14_55_57/Power.log#3@3014 : Jouer Hache de guerre cataclysmique (exact, 29,1 s, 0,0244 $) | dépense 0,093 $
+[8/180] gpt-6.1-sol:low 2026_10_22_14_55_57/Power.log#7@10426 : Attaquer avec Garrosh Hurlenfer → Sindragosa (exact, 7,6 s, 0,0139 $) | dépense 0,107 $
+[9/180] gpt-6.1-sol:medium#2 2026_10_22_14_55_57/Power.log#3@4679 : Jouer Mousse de la Voile sanglante (même-type, 14,5 s, 0,0064 $) | dépense 0,113 $
+[10/180] gpt-6-luna:medium 2026_10_22_14_55_57/Power.log#3@4679 : Jouer Maîtrise du blocage (même-type, 12,3 s, 0,0012 $) | dépense 0,115 $
+[11/180] gpt-6.1-sol:medium 2026_10_22_14_55_57/Power.log#7@10426 : Attaquer avec Garrosh Hurlenfer → Sindragosa (exact, 12,7 s, 0,0159 $) | dépense 0,131 $
+[12/180] gpt-6.1-sol:high 2026_10_22_14_55_57/Power.log#3@4679 : Jouer Mousse de la Voile sanglante (même-type, 29,4 s, 0,0248 $) | dépense 0,155 $
+[13/180] gpt-6.1-sol:medium#2 2026_10_22_14_55_57/Power.log#7@10426 : Attaquer avec Garrosh Hurlenfer → Sindragosa (exact, 13,3 s, 0,0065 $) | dépense 0,162 $
+[14/180] gpt-6.1-sol:low 2026_10_22_14_55_57/Power.log#8@9340 : Attaquer avec Garrosh Hurlenfer → Sindragosa (différent, 10,4 s, 0,0165 $) | dépense 0,178 $
+[15/180] gpt-6-luna:medium 2026_10_22_14_55_57/Power.log#7@10426 : Attaquer avec Garrosh Hurlenfer → Sindragosa (exact, 14,3 s, 0,0012 $) | dépense 0,180 $
+[16/180] gpt-6.1-sol:medium 2026_10_22_14_55_57/Power.log#8@9340 : Attaquer avec Soldat de Ragnaros → Sindragosa (différent, 10,7 s, 0,0171 $) | dépense 0,197 $
+[17/180] gpt-6.1-sol:high 2026_10_22_14_55_57/Power.log#7@10426 : Attaquer avec Garrosh Hurlenfer → Sindragosa (exact, 30,1 s, 0,0238 $) | dépense 0,221 $
+[18/180] gpt-6.1-sol:medium#2 2026_10_22_14_55_57/Power.log#8@9340 : Attaquer avec Soldat de Ragnaros → Sindragosa (différent, 10,9 s, 0,0053 $) | dépense 0,226 $
+[19/180] gpt-6-luna:medium 2026_10_22_14_55_57/Power.log#8@9340 : Attaquer avec Soldat de Ragnaros → Sindragosa (différent, 12,0 s, 0,0012 $) | dépense 0,227 $
+[20/180] gpt-6.1-sol:low 2026_10_24_20_59_43/Power_old.log#10@17630 : Attaquer avec Glissedrake visionnaire → Rexxar (différent, 9,5 s, 0,0235 $) | dépense 0,250 $
+[21/180] gpt-6.1-sol:medium 2026_10_24_20_59_43/Power_old.log#10@17630 : Attaquer avec Glissedrake visionnaire → Rexxar (différent, 11,5 s, 0,0246 $) | dépense 0,275 $
+[22/180] gpt-6.1-sol:high 2026_10_22_14_55_57/Power.log#8@9340 : Attaquer avec Soldat de Ragnaros → Sindragosa (différent, 24,7 s, 0,0235 $) | dépense 0,299 $
+[23/180] gpt-6.1-sol:medium#2 2026_10_24_20_59_43/Power_old.log#10@17630 : Attaquer avec Glissedrake visionnaire → Rexxar (différent, 13,8 s, 0,0070 $) | dépense 0,306 $
+[24/180] gpt-6.1-sol:high 2026_10_24_20_59_43/Power_old.log#10@17630 : Attaquer avec Glissedrake visionnaire → Rexxar (différent, 18,7 s, 0,0284 $) | dépense 0,334 $
+[25/180] gpt-6.1-sol:low 2026_10_24_20_59_43/Power_old.log#12@1410 : Jouer Profondeurs Sanguines (exact, 11,7 s, 0,0088 $) | dépense 0,343 $
+[26/180] gpt-6-luna:medium 2026_10_24_20_59_43/Power_old.log#10@17630 : (id illégal : o75.5.t66) (sans-réponse, 13,3 s, 0,0016 $) | dépense 0,344 $
+[27/180] gpt-6.1-sol:medium 2026_10_24_20_59_43/Power_old.log#12@1410 : Jouer Profondeurs Sanguines (exact, 11,1 s, 0,0098 $) | dépense 0,354 $
+[28/180] gpt-6.1-sol:medium#2 2026_10_24_20_59_43/Power_old.log#12@1410 : Jouer Profondeurs Sanguines (exact, 11,7 s, 0,0054 $) | dépense 0,360 $
+[29/180] gpt-6.1-sol:low 2026_10_24_20_59_43/Power_old.log#15@12323 : Jouer Forgeron dimensionnel (exact, 8,7 s, 0,0145 $) | dépense 0,374 $
+[30/180] gpt-6-luna:medium 2026_10_24_20_59_43/Power_old.log#12@1410 : Jouer La pièce (même-type, 14,0 s, 0,0009 $) | dépense 0,375 $
+[31/180] gpt-6.1-sol:high 2026_10_24_20_59_43/Power_old.log#12@1410 : Jouer Profondeurs Sanguines (exact, 22,9 s, 0,0161 $) | dépense 0,391 $
+[32/180] gpt-6.1-sol:medium 2026_10_24_20_59_43/Power_old.log#15@12323 : Jouer Forgeron dimensionnel (exact, 10,7 s, 0,0161 $) | dépense 0,407 $
+[33/180] gpt-6.1-sol:medium#2 2026_10_24_20_59_43/Power_old.log#15@12323 : Jouer Forgeron dimensionnel (exact, 11,3 s, 0,0062 $) | dépense 0,413 $
+[34/180] gpt-6.1-sol:high 2026_10_24_20_59_43/Power_old.log#15@12323 : Jouer Forgeron dimensionnel (exact, 19,1 s, 0,0201 $) | dépense 0,433 $
+[35/180] gpt-6-luna:medium 2026_10_24_20_59_43/Power_old.log#15@12323 : Jouer Forgeron dimensionnel (exact, 13,9 s, 0,0013 $) | dépense 0,435 $
+[36/180] gpt-6.1-sol:low 2026_10_24_20_59_43/Power_old.log#15@16785 : Attaquer avec Garrosh Hurlenfer → Esprit du loup (différent, 14,5 s, 0,0216 $) | dépense 0,456 $
+[37/180] gpt-6.1-sol:medium 2026_10_24_20_59_43/Power_old.log#15@16785 : Attaquer avec Garrosh Hurlenfer → Esprit du loup (différent, 13,4 s, 0,0220 $) | dépense 0,478 $
+[38/180] gpt-6.1-sol:low 2026_10_24_20_59_43/Power_old.log#16@3126 : Attaquer avec Voyante distordue par le temps → Totem de griffes de pierre (exact, 7,0 s, 0,0093 $) | dépense 0,488 $
+[39/180] gpt-6.1-sol:medium#2 2026_10_24_20_59_43/Power_old.log#15@16785 : Attaquer avec Garrosh Hurlenfer → Esprit du loup (différent, 16,7 s, 0,0077 $) | dépense 0,495 $
+[40/180] gpt-6.1-sol:medium 2026_10_24_20_59_43/Power_old.log#16@3126 : Attaquer avec Voyante distordue par le temps → Totem de griffes de pierre (exact, 6,1 s, 0,0096 $) | dépense 0,505 $
+[41/180] gpt-6-luna:medium 2026_10_24_20_59_43/Power_old.log#15@16785 : Attaquer avec Wyrm du pic venteux → Esprit du loup (différent, 22,2 s, 0,0020 $) | dépense 0,507 $
+[42/180] gpt-6.1-sol:medium#2 2026_10_24_20_59_43/Power_old.log#16@3126 : Attaquer avec Voyante distordue par le temps → Totem de griffes de pierre (exact, 6,9 s, 0,0034 $) | dépense 0,510 $
+[43/180] gpt-6.1-sol:high 2026_10_24_20_59_43/Power_old.log#15@16785 : Attaquer avec Garrosh Hurlenfer → Esprit du loup (différent, 29,7 s, 0,0307 $) | dépense 0,541 $
+[44/180] gpt-6.1-sol:high 2026_10_24_20_59_43/Power_old.log#16@3126 : Attaquer avec Voyante distordue par le temps → Totem de griffes de pierre (exact, 12,0 s, 0,0122 $) | dépense 0,553 $
+[45/180] gpt-6-luna:medium 2026_10_24_20_59_43/Power_old.log#16@3126 : Attaquer avec Voyante distordue par le temps → Totem de griffes de pierre (exact, 5,1 s, 0,0006 $) | dépense 0,554 $
+[46/180] gpt-6.1-sol:low 2026_10_24_20_59_43/Power_old.log#18@17538 : Attaquer avec Forgeron dimensionnel → Jaina Portvaillant (différent, 6,0 s, 0,0180 $) | dépense 0,572 $
+[47/180] gpt-6.1-sol:medium 2026_10_24_20_59_43/Power_old.log#18@17538 : Attaquer avec Forgeron dimensionnel → Jaina Portvaillant (différent, 6,6 s, 0,0188 $) | dépense 0,591 $
+[48/180] gpt-6-luna:medium 2026_10_24_20_59_43/Power_old.log#18@17538 : Attaquer avec Le Grand Dracorex → Jaina Portvaillant (différent, 5,1 s, 0,0010 $) | dépense 0,592 $
+[49/180] gpt-6.1-sol:medium#2 2026_10_24_20_59_43/Power_old.log#18@17538 : Attaquer avec Forgeron dimensionnel → Jaina Portvaillant (différent, 6,9 s, 0,0037 $) | dépense 0,595 $
+[50/180] gpt-6.1-sol:high 2026_10_24_20_59_43/Power_old.log#18@17538 : Attaquer avec Forgeron dimensionnel → Jaina Portvaillant (différent, 12,2 s, 0,0216 $) | dépense 0,617 $
+[51/180] gpt-6.1-sol:low 2026_10_24_20_59_43/Power_old.log#18@6579 : Attaquer avec Colporteur de pétales → Amasseur de butin (même-type, 10,0 s, 0,0170 $) | dépense 0,634 $
+[52/180] gpt-6.1-sol:medium 2026_10_24_20_59_43/Power_old.log#18@6579 : Attaquer avec Colporteur de pétales → Amasseur de butin (même-type, 15,7 s, 0,0193 $) | dépense 0,653 $
+[53/180] gpt-6-luna:medium 2026_10_24_20_59_43/Power_old.log#18@6579 : Attaquer avec Glissedrake visionnaire → Aegwynn, la Gardienne (même-carte, 12,2 s, 0,0013 $) | dépense 0,654 $
+[54/180] gpt-6.1-sol:medium#2 2026_10_24_20_59_43/Power_old.log#18@6579 : Attaquer avec Colporteur de pétales → Amasseur de butin (même-type, 17,7 s, 0,0084 $) | dépense 0,663 $
+[55/180] gpt-6.1-sol:low 2026_10_24_20_59_43/Power_old.log#18@7591 : Attaquer avec Colporteur de pétales → Jaina Portvaillant (différent, 15,8 s, 0,0176 $) | dépense 0,680 $
+[56/180] gpt-6.1-sol:high 2026_10_24_20_59_43/Power_old.log#18@6579 : Attaquer avec Colporteur de pétales → Amasseur de butin (même-type, 39,6 s, 0,0307 $) | dépense 0,711 $
+[57/180] gpt-6.1-sol:medium 2026_10_24_20_59_43/Power_old.log#18@7591 : Jouer Duplicateur-inateur (même-type, 23,0 s, 0,0204 $) | dépense 0,732 $
+[58/180] gpt-6.1-sol:low 2026_10_24_20_59_43/Power_old.log#19@22383 : Attaquer avec Minotauren → Garrosh Hurlenfer (même-type, 7,8 s, 0,0194 $) | dépense 0,751 $
+[59/180] gpt-6.1-sol:medium#2 2026_10_24_20_59_43/Power_old.log#18@7591 : Jouer Duplicateur-inateur (même-type, 20,6 s, 0,0086 $) | dépense 0,760 $
+[60/180] gpt-6-luna:medium 2026_10_24_20_59_43/Power_old.log#18@7591 : Jouer Forgeron dimensionnel (même-type, 13,8 s, 0,0013 $) | dépense 0,761 $
+[61/180] gpt-6.1-sol:medium 2026_10_24_20_59_43/Power_old.log#19@22383 : Attaquer avec Minotauren → Garrosh Hurlenfer (même-type, 8,6 s, 0,0052 $) | dépense 0,766 $
+[62/180] gpt-6.1-sol:medium#2 2026_10_24_20_59_43/Power_old.log#19@22383 : Attaquer avec Minotauren → Garrosh Hurlenfer (même-type, 8,7 s, 0,0049 $) | dépense 0,771 $
+[63/180] gpt-6.1-sol:high 2026_10_24_20_59_43/Power_old.log#19@22383 : Attaquer avec Minotauren → Garrosh Hurlenfer (même-type, 16,6 s, 0,0243 $) | dépense 0,795 $
+[64/180] gpt-6-luna:medium 2026_10_24_20_59_43/Power_old.log#19@22383 : Attaquer avec Garrosh Hurlenfer → Garrosh Hurlenfer (exact, 11,7 s, 0,0014 $) | dépense 0,797 $
+[65/180] gpt-6.1-sol:low 2026_10_24_20_59_43/Power_old.log#22@36852 : Attaquer avec Croustille le crustacé → Seigneur Gargamoelle (différent, 12,6 s, 0,0329 $) | dépense 0,830 $
+[66/180] gpt-6.1-sol:high 2026_10_24_20_59_43/Power_old.log#18@7591 : Attaquer avec Colporteur de pétales → Jaina Portvaillant (différent, 58,4 s, 0,0367 $) | dépense 0,866 $
+[67/180] gpt-6.1-sol:medium 2026_10_24_20_59_43/Power_old.log#22@36852 : Attaquer avec Croustille le crustacé → Seigneur Gargamoelle (différent, 11,9 s, 0,0335 $) | dépense 0,900 $
+[68/180] gpt-6.1-sol:medium#2 2026_10_24_20_59_43/Power_old.log#22@36852 : Attaquer avec Croustille le crustacé → Seigneur Gargamoelle (différent, 10,6 s, 0,0066 $) | dépense 0,906 $
+[69/180] gpt-6.1-sol:low 2026_10_24_20_59_43/Power_old.log#8@1309 : Jouer Sombre chevaucheur (exact, 11,2 s, 0,0079 $) | dépense 0,914 $
+[70/180] gpt-6-luna:medium 2026_10_24_20_59_43/Power_old.log#22@36852 : Jouer Wyrm du pic venteux → Seigneur Gargamoelle (même-type, 12,3 s, 0,0020 $) | dépense 0,916 $
+[71/180] gpt-6.1-sol:medium 2026_10_24_20_59_43/Power_old.log#8@1309 : Jouer Voyante distordue par le temps (même-type, 12,6 s, 0,0089 $) | dépense 0,925 $
+[72/180] gpt-6.1-sol:medium#2 2026_10_24_20_59_43/Power_old.log#8@1309 : Jouer Voyante distordue par le temps (même-type, 10,2 s, 0,0050 $) | dépense 0,930 $
+[73/180] gpt-6.1-sol:high 2026_10_24_20_59_43/Power_old.log#22@36852 : Attaquer avec Croustille le crustacé → Seigneur Gargamoelle (différent, 31,4 s, 0,0424 $) | dépense 0,973 $
+[74/180] gpt-6-luna:medium 2026_10_24_20_59_43/Power_old.log#8@1309 : Jouer Sombre chevaucheur (exact, 6,5 s, 0,0005 $) | dépense 0,973 $
+[75/180] gpt-6.1-sol:medium 2026_10_24_20_59_43/Power_old.log#8@13795 : Jouer Frappe anticipée → Malfurion Hurlorage (même-type, 5,5 s, 0,0160 $) | dépense 0,989 $
+[76/180] gpt-6.1-sol:low 2026_10_24_20_59_43/Power_old.log#8@13795 : Jouer Frappe anticipée → Malfurion Hurlorage (même-type, 6,7 s, 0,0161 $) | dépense 1,005 $
+[77/180] gpt-6.1-sol:medium#2 2026_10_24_20_59_43/Power_old.log#8@13795 : Jouer Frappe anticipée → Malfurion Hurlorage (même-type, 5,3 s, 0,0031 $) | dépense 1,008 $
+[78/180] gpt-6.1-sol:high 2026_10_24_20_59_43/Power_old.log#8@13795 : Jouer Frappe anticipée → Malfurion Hurlorage (même-type, 11,5 s, 0,0186 $) | dépense 1,027 $
+[79/180] gpt-6.1-sol:high 2026_10_24_20_59_43/Power_old.log#8@1309 : Jouer Voyante distordue par le temps (même-type, 25,9 s, 0,0150 $) | dépense 1,042 $
+[80/180] gpt-6.1-sol:low 2026_10_24_20_59_43/Power_old.log#8@32608 : Attaquer avec Wyrm du pic venteux → Druide de la Griffe (même-type, 9,1 s, 0,0237 $) | dépense 1,066 $
+[81/180] gpt-6.1-sol:medium 2026_10_24_20_59_43/Power_old.log#8@32608 : Attaquer avec Wyrm du pic venteux → Druide de la Griffe (même-type, 9,7 s, 0,0236 $) | dépense 1,089 $
+[82/180] gpt-6-luna:medium 2026_10_24_20_59_43/Power_old.log#8@13795 : Jouer Frappe anticipée → Dragon assoupi (même-type, 18,4 s, 0,0016 $) | dépense 1,091 $
+[83/180] gpt-6.1-sol:medium#2 2026_10_24_20_59_43/Power_old.log#8@32608 : Attaquer avec Wyrm du pic venteux → Druide de la Griffe (même-type, 9,9 s, 0,0055 $) | dépense 1,096 $
+[84/180] gpt-6.1-sol:low 2026_10_24_20_59_43/Power_old.log#8@5127 : Attaquer avec Colporteur de pétales → Malfurion Hurlorage (exact, 6,3 s, 0,0113 $) | dépense 1,108 $
+[85/180] gpt-6.1-sol:high 2026_10_24_20_59_43/Power_old.log#8@32608 : Attaquer avec Wyrm du pic venteux → Druide de la Griffe (même-type, 18,2 s, 0,0284 $) | dépense 1,136 $
+[86/180] gpt-6.1-sol:medium 2026_10_24_20_59_43/Power_old.log#8@5127 : Attaquer avec Colporteur de pétales → Malfurion Hurlorage (exact, 5,5 s, 0,0109 $) | dépense 1,147 $
+[87/180] gpt-6-luna:medium 2026_10_24_20_59_43/Power_old.log#8@32608 : Attaquer avec Chronoseigneur Époque → Druide de la Griffe (même-type, 12,2 s, 0,0016 $) | dépense 1,148 $
+[88/180] gpt-6.1-sol:medium#2 2026_10_24_20_59_43/Power_old.log#8@5127 : Attaquer avec Colporteur de pétales → Malfurion Hurlorage (exact, 5,8 s, 0,0037 $) | dépense 1,152 $
+[89/180] gpt-6-luna:medium 2026_10_24_20_59_43/Power_old.log#8@5127 : Attaquer avec Colporteur de pétales → Malfurion Hurlorage (exact, 5,3 s, 0,0006 $) | dépense 1,153 $
+[90/180] gpt-6.1-sol:high 2026_10_24_20_59_43/Power_old.log#8@5127 : Attaquer avec Colporteur de pétales → Malfurion Hurlorage (exact, 13,0 s, 0,0137 $) | dépense 1,167 $
+[91/180] gpt-6.1-sol:low 2026_10_24_20_59_43/Power_old.log#9@21981 : Pouvoir héroïque Gain d’armure ! (différent, 12,2 s, 0,0257 $) | dépense 1,192 $
+[92/180] gpt-6.1-sol:medium 2026_10_24_20_59_43/Power_old.log#9@21981 : Pouvoir héroïque Gain d’armure ! (différent, 16,1 s, 0,0280 $) | dépense 1,220 $
+[93/180] gpt-6.1-sol:medium#2 2026_10_24_20_59_43/Power_old.log#9@21981 : Pouvoir héroïque Gain d’armure ! (différent, 17,2 s, 0,0085 $) | dépense 1,229 $
+[94/180] gpt-6.1-sol:low 2026_10_24_20_59_43/Power_old.log#9@3154 : Jouer Dragonnet du Vol infini (exact, 10,9 s, 0,0123 $) | dépense 1,241 $
+[95/180] gpt-6-luna:medium 2026_10_24_20_59_43/Power_old.log#9@21981 : Jouer Frappe anticipée → Hyène (même-type, 23,1 s, 0,0022 $) | dépense 1,243 $
+[96/180] gpt-6.1-sol:medium 2026_10_24_20_59_43/Power_old.log#9@3154 : Jouer Dragonnet du Vol infini (exact, 11,5 s, 0,0129 $) | dépense 1,256 $
+[97/180] gpt-6.1-sol:medium#2 2026_10_24_20_59_43/Power_old.log#9@3154 : Jouer Dragonnet du Vol infini (exact, 11,6 s, 0,0054 $) | dépense 1,262 $
+[98/180] gpt-6-luna:medium 2026_10_24_20_59_43/Power_old.log#9@3154 : Jouer Dragonnet du Vol infini (exact, 10,9 s, 0,0009 $) | dépense 1,263 $
+[99/180] gpt-6.1-sol:low 2026_10_25_01_34_44/Power_old.log#3@21689 : Attaquer avec Avant-garde du portail → Rexxar (même-carte, 6,3 s, 0,0264 $) | dépense 1,289 $
+[100/180] gpt-6.1-sol:medium 2026_10_25_01_34_44/Power_old.log#3@21689 : Attaquer avec Chronoseigneur Époque → Rexxar (même-type, 7,2 s, 0,0277 $) | dépense 1,317 $
+[101/180] gpt-6.1-sol:medium#2 2026_10_25_01_34_44/Power_old.log#3@21689 : Attaquer avec Chronoseigneur Époque → Rexxar (même-type, 7,1 s, 0,0045 $) | dépense 1,321 $
+[102/180] gpt-6.1-sol:high 2026_10_24_20_59_43/Power_old.log#9@3154 : Jouer Dragonnet du Vol infini (exact, 32,3 s, 0,0217 $) | dépense 1,343 $
+[103/180] gpt-6.1-sol:high 2026_10_25_01_34_44/Power_old.log#3@21689 : Attaquer avec Chronoseigneur Époque → Rexxar (même-type, 13,7 s, 0,0301 $) | dépense 1,373 $
+[104/180] gpt-6-luna:medium 2026_10_25_01_34_44/Power_old.log#3@21689 : Attaquer avec Chronoseigneur Époque → Rexxar (même-type, 5,8 s, 0,0014 $) | dépense 1,374 $
+[105/180] gpt-6.1-sol:low 2026_10_25_01_34_44/Power_old.log#3@29975 : Attaquer avec Colporteur de pétales → Rexxar (différent, 5,8 s, 0,0271 $) | dépense 1,402 $
+[106/180] gpt-6.1-sol:medium 2026_10_25_01_34_44/Power_old.log#3@29975 : Attaquer avec Colporteur de pétales → Rexxar (différent, 6,2 s, 0,0043 $) | dépense 1,406 $
+[107/180] gpt-6.1-sol:medium#2 2026_10_25_01_34_44/Power_old.log#3@29975 : Attaquer avec Colporteur de pétales → Rexxar (différent, 5,6 s, 0,0039 $) | dépense 1,410 $
+[108/180] gpt-6-luna:medium 2026_10_25_01_34_44/Power_old.log#3@29975 : Attaquer avec Colporteur de pétales → Rexxar (différent, 5,0 s, 0,0015 $) | dépense 1,411 $
+[109/180] gpt-6.1-sol:low 2026_10_25_01_34_44/Power_old.log#3@35672 : Attaquer avec Gardien des couvées → Rexxar (même-carte, 6,0 s, 0,0245 $) | dépense 1,436 $
+[110/180] gpt-6.1-sol:high 2026_10_24_20_59_43/Power_old.log#9@21981 : Jouer Le Grand Dracorex (même-type, 77,0 s, 0,0515 $) | dépense 1,487 $
+[111/180] gpt-6.1-sol:high 2026_10_25_01_34_44/Power_old.log#3@29975 : Attaquer avec Colporteur de pétales → Rexxar (différent, 15,3 s, 0,0320 $) | dépense 1,519 $
+[112/180] gpt-6.1-sol:medium 2026_10_25_01_34_44/Power_old.log#3@35672 : Attaquer avec Gardien des couvées → Rexxar (même-carte, 6,8 s, 0,0256 $) | dépense 1,545 $
+[113/180] gpt-6.1-sol:medium#2 2026_10_25_01_34_44/Power_old.log#3@35672 : Attaquer avec Gardien des couvées → Rexxar (même-carte, 7,0 s, 0,0043 $) | dépense 1,549 $
+[114/180] gpt-6-luna:medium 2026_10_25_01_34_44/Power_old.log#3@35672 : Attaquer avec Garrosh Hurlenfer → Rexxar (même-type, 6,4 s, 0,0014 $) | dépense 1,551 $
+[115/180] gpt-6.1-sol:high 2026_10_25_01_34_44/Power_old.log#3@35672 : Attaquer avec Gardien des couvées → Rexxar (même-carte, 10,5 s, 0,0271 $) | dépense 1,578 $
+[116/180] gpt-6.1-sol:low 2026_10_25_01_34_44/Power_old.log#4@11773 : Jouer Wyrm du pic venteux → Grommash Hurlenfer (exact, 10,0 s, 0,0191 $) | dépense 1,597 $
+[117/180] gpt-6.1-sol:medium 2026_10_25_01_34_44/Power_old.log#4@11773 : Jouer Wyrm du pic venteux → Grommash Hurlenfer (exact, 12,3 s, 0,0207 $) | dépense 1,618 $
+[118/180] gpt-6.1-sol:medium#2 2026_10_25_01_34_44/Power_old.log#4@11773 : Jouer Wyrm du pic venteux → Grommash Hurlenfer (exact, 12,7 s, 0,0067 $) | dépense 1,624 $
+[119/180] gpt-6-luna:medium 2026_10_25_01_34_44/Power_old.log#4@11773 : Jouer Wyrm du pic venteux → Grommash Hurlenfer (exact, 8,8 s, 0,0012 $) | dépense 1,625 $
+[120/180] gpt-6.1-sol:low 2026_10_25_10_27_21/Power_old.log#1@7801 : Attaquer avec Garrosh Hurlenfer → Jaina Portvaillant (différent, 13,7 s, 0,0158 $) | dépense 1,641 $
+[121/180] gpt-6.1-sol:medium 2026_10_25_10_27_21/Power_old.log#1@7801 : Attaquer avec Garrosh Hurlenfer → Jaina Portvaillant (différent, 20,8 s, 0,0195 $) | dépense 1,661 $
+[122/180] gpt-6.1-sol:high 2026_10_25_01_34_44/Power_old.log#4@11773 : Jouer Wyrm du pic venteux → Grommash Hurlenfer (exact, 38,9 s, 0,0322 $) | dépense 1,693 $
+[123/180] gpt-6.1-sol:medium#2 2026_10_25_10_27_21/Power_old.log#1@7801 : Attaquer avec Garrosh Hurlenfer → Gardien des couvées (différent, 19,7 s, 0,0084 $) | dépense 1,701 $
+[124/180] gpt-6.1-sol:low 2026_10_25_10_27_21/Power_old.log#2@8856 : Jouer Wyrm du pic venteux → Valeera Sanguinar (exact, 9,8 s, 0,0169 $) | dépense 1,718 $
+[125/180] gpt-6-luna:medium 2026_10_25_10_27_21/Power_old.log#1@7801 : Jouer Animatrice de stade (différent, 15,1 s, 0,0013 $) | dépense 1,720 $
+[126/180] gpt-6.1-sol:medium 2026_10_25_10_27_21/Power_old.log#2@8856 : Jouer Wyrm du pic venteux → Valeera Sanguinar (exact, 11,0 s, 0,0177 $) | dépense 1,737 $
+[127/180] gpt-6.1-sol:medium#2 2026_10_25_10_27_21/Power_old.log#2@8856 : Jouer Wyrm du pic venteux → Valeera Sanguinar (exact, 9,6 s, 0,0057 $) | dépense 1,743 $
+[128/180] gpt-6.1-sol:low 2026_10_25_10_27_21/Power_old.log#3@1597 : Jouer Profondeurs Sanguines (exact, 8,0 s, 0,0064 $) | dépense 1,749 $
+[129/180] gpt-6-luna:medium 2026_10_25_10_27_21/Power_old.log#2@8856 : Jouer Wyrm du pic venteux → Valeera Sanguinar (exact, 11,7 s, 0,0012 $) | dépense 1,751 $
+[130/180] gpt-6.1-sol:medium 2026_10_25_10_27_21/Power_old.log#3@1597 : Jouer Profondeurs Sanguines (exact, 7,8 s, 0,0069 $) | dépense 1,757 $
+[131/180] gpt-6.1-sol:high 2026_10_25_10_27_21/Power_old.log#1@7801 : Jouer Animatrice de stade (différent, 65,6 s, 0,0362 $) | dépense 1,794 $
+[132/180] gpt-6.1-sol:high 2026_10_25_10_27_21/Power_old.log#3@1597 : Jouer Profondeurs Sanguines (exact, 13,2 s, 0,0095 $) | dépense 1,803 $
+[133/180] gpt-6.1-sol:medium#2 2026_10_25_10_27_21/Power_old.log#3@1597 : Jouer Profondeurs Sanguines (exact, 6,3 s, 0,0031 $) | dépense 1,806 $
+[134/180] gpt-6.1-sol:high 2026_10_25_10_27_21/Power_old.log#2@8856 : Jouer Wyrm du pic venteux → Valeera Sanguinar (exact, 35,3 s, 0,0263 $) | dépense 1,833 $
+[135/180] gpt-6-luna:medium 2026_10_25_10_27_21/Power_old.log#3@1597 : Jouer Profondeurs Sanguines (exact, 8,3 s, 0,0006 $) | dépense 1,833 $
+[136/180] gpt-6.1-sol:low 2026_10_25_10_27_21/Power_old.log#3@3409 : Jouer Forgeron dimensionnel (même-type, 7,2 s, 0,0107 $) | dépense 1,844 $
+[137/180] gpt-6.1-sol:medium 2026_10_25_10_27_21/Power_old.log#3@3409 : Jouer Forgeron dimensionnel (même-type, 12,3 s, 0,0129 $) | dépense 1,857 $
+[138/180] gpt-6.1-sol:medium#2 2026_10_25_10_27_21/Power_old.log#3@3409 : Jouer Forgeron dimensionnel (même-type, 15,6 s, 0,0069 $) | dépense 1,864 $
+[139/180] gpt-6.1-sol:low 2026_10_25_10_27_21/Power_old.log#3@5162 : Jouer Glissedrake visionnaire (même-type, 11,3 s, 0,0152 $) | dépense 1,879 $
+[140/180] gpt-6-luna:medium 2026_10_25_10_27_21/Power_old.log#3@3409 : Jouer Forgeron dimensionnel (même-type, 22,6 s, 0,0014 $) | dépense 1,880 $
+[141/180] gpt-6.1-sol:high 2026_10_25_10_27_21/Power_old.log#3@3409 : Jouer Forgeron dimensionnel (même-type, 28,0 s, 0,0200 $) | dépense 1,900 $
+[142/180] gpt-6.1-sol:medium 2026_10_25_10_27_21/Power_old.log#3@5162 : Activer Profondeurs Sanguines → Sombre chevaucheur (différent, 14,6 s, 0,0166 $) | dépense 1,917 $
+[143/180] gpt-6.1-sol:medium#2 2026_10_25_10_27_21/Power_old.log#3@5162 : Activer Profondeurs Sanguines → Sombre chevaucheur (différent, 13,0 s, 0,0061 $) | dépense 1,923 $
+[144/180] gpt-6.1-sol:low 2026_10_25_10_27_21/Power_old.log#3@7034 : Jouer Glissedrake visionnaire (exact, 7,2 s, 0,0148 $) | dépense 1,938 $
+[145/180] gpt-6-luna:medium 2026_10_25_10_27_21/Power_old.log#3@5162 : Activer Profondeurs Sanguines → Sombre chevaucheur (différent, 16,2 s, 0,0012 $) | dépense 1,939 $
+[146/180] gpt-6.1-sol:high 2026_10_25_10_27_21/Power_old.log#3@5162 : Activer Profondeurs Sanguines → Sombre chevaucheur (différent, 28,6 s, 0,0224 $) | dépense 1,961 $
+[147/180] gpt-6.1-sol:medium 2026_10_25_10_27_21/Power_old.log#3@7034 : Jouer Glissedrake visionnaire (exact, 10,2 s, 0,0163 $) | dépense 1,978 $
+[148/180] gpt-6.1-sol:medium#2 2026_10_25_10_27_21/Power_old.log#3@7034 : Jouer Glissedrake visionnaire (exact, 10,6 s, 0,0064 $) | dépense 1,984 $
+[149/180] gpt-6.1-sol:low 2026_10_25_10_27_21/Power_old.log#3@7143 : Jouer Profondeurs Sanguines (exact, 7,9 s, 0,0131 $) | dépense 1,997 $
+[150/180] gpt-6-luna:medium 2026_10_25_10_27_21/Power_old.log#3@7034 : Jouer Glissedrake visionnaire (exact, 10,9 s, 0,0011 $) | dépense 1,998 $
+[151/180] gpt-6.1-sol:medium 2026_10_25_10_27_21/Power_old.log#3@7143 : Jouer Profondeurs Sanguines (exact, 12,5 s, 0,0156 $) | dépense 2,014 $
+[152/180] gpt-6.1-sol:high 2026_10_25_10_27_21/Power_old.log#3@7034 : Jouer Glissedrake visionnaire (exact, 30,4 s, 0,0243 $) | dépense 2,038 $
+[153/180] gpt-6.1-sol:medium#2 2026_10_25_10_27_21/Power_old.log#3@7143 : Jouer Profondeurs Sanguines (exact, 14,9 s, 0,0062 $) | dépense 2,044 $
+[154/180] gpt-6.1-sol:low 2026_10_25_10_27_21/Power_old.log#4@10863 : Jouer Écumeur du ciel (exact, 12,8 s, 0,0180 $) | dépense 2,062 $
+[155/180] gpt-6-luna:medium 2026_10_25_10_27_21/Power_old.log#3@7143 : Jouer Profondeurs Sanguines (exact, 17,6 s, 0,0013 $) | dépense 2,064 $
+[156/180] gpt-6.1-sol:medium 2026_10_25_10_27_21/Power_old.log#4@10863 : Jouer Écumeur du ciel (exact, 14,9 s, 0,0197 $) | dépense 2,083 $
+[157/180] gpt-6.1-sol:high 2026_10_25_10_27_21/Power_old.log#3@7143 : Jouer Profondeurs Sanguines (exact, 36,0 s, 0,0242 $) | dépense 2,107 $
+[158/180] gpt-6.1-sol:medium#2 2026_10_25_10_27_21/Power_old.log#4@10863 : Jouer Écumeur du ciel (exact, 11,7 s, 0,0059 $) | dépense 2,113 $
+[159/180] gpt-6.1-sol:low 2026_10_25_10_27_21/Power_old.log#4@14992 : Attaquer avec Colporteur de pétales → Drake de pierre (différent, 13,5 s, 0,0206 $) | dépense 2,134 $
+[160/180] gpt-6-luna:medium 2026_10_25_10_27_21/Power_old.log#4@10863 : Attaquer avec Garrosh Hurlenfer → Patin-o-tron (différent, 18,8 s, 0,0016 $) | dépense 2,136 $
+[161/180] gpt-6.1-sol:high 2026_10_25_10_27_21/Power_old.log#4@10863 : Jouer Écumeur du ciel (exact, 31,6 s, 0,0283 $) | dépense 2,164 $
+[162/180] gpt-6.1-sol:medium 2026_10_25_10_27_21/Power_old.log#4@14992 : Attaquer avec Colporteur de pétales → Drake de pierre (différent, 22,0 s, 0,0093 $) | dépense 2,173 $
+[163/180] gpt-6.1-sol:low 2026_10_25_10_27_21/Power_old.log#4@17065 : Attaquer avec Grommash Hurlenfer → Drake de pierre (exact, 9,7 s, 0,0172 $) | dépense 2,190 $
+[164/180] gpt-6.1-sol:medium#2 2026_10_25_10_27_21/Power_old.log#4@14992 : Attaquer avec Colporteur de pétales → Drake de pierre (différent, 20,1 s, 0,0087 $) | dépense 2,199 $
+[165/180] gpt-6-luna:medium 2026_10_25_10_27_21/Power_old.log#4@14992 : Attaquer avec Amalgame de cirque → Drake de pierre (différent, 15,9 s, 0,0016 $) | dépense 2,201 $
+[166/180] gpt-6.1-sol:medium 2026_10_25_10_27_21/Power_old.log#4@17065 : Attaquer avec Grommash Hurlenfer → Drake de pierre (exact, 13,3 s, 0,0187 $) | dépense 2,219 $
+[167/180] gpt-6.1-sol:medium#2 2026_10_25_10_27_21/Power_old.log#4@17065 : Attaquer avec Grommash Hurlenfer → Drake de pierre (exact, 10,1 s, 0,0052 $) | dépense 2,224 $
+[168/180] gpt-6-luna:medium 2026_10_25_10_27_21/Power_old.log#4@17065 : Attaquer avec Grommash Hurlenfer → Drake de pierre (exact, 6,0 s, 0,0010 $) | dépense 2,225 $
+[169/180] gpt-6.1-sol:high 2026_10_25_10_27_21/Power_old.log#4@17065 : Attaquer avec Grommash Hurlenfer → Drake de pierre (exact, 19,7 s, 0,0220 $) | dépense 2,247 $
+[170/180] gpt-6.1-sol:low 2026_10_25_10_27_21/Power_old.log#4@6240 : Jouer La pièce (même-type, 11,2 s, 0,0159 $) | dépense 2,263 $
+[171/180] gpt-6.1-sol:high 2026_10_25_10_27_21/Power_old.log#4@14992 : Attaquer avec Colporteur de pétales → Drake de pierre (différent, 45,8 s, 0,0349 $) | dépense 2,298 $
+[172/180] gpt-6.1-sol:medium 2026_10_25_10_27_21/Power_old.log#4@6240 : Jouer La pièce (même-type, 14,5 s, 0,0168 $) | dépense 2,315 $
+[173/180] gpt-6-luna:medium 2026_10_25_10_27_21/Power_old.log#4@6240 : Jouer Avant-garde du portail (même-type, 12,7 s, 0,0012 $) | dépense 2,316 $
+[174/180] gpt-6.1-sol:medium#2 2026_10_25_10_27_21/Power_old.log#4@6240 : Jouer La pièce (même-type, 16,0 s, 0,0075 $) | dépense 2,324 $
+[175/180] gpt-6.1-sol:low 2026_10_25_10_27_21/Power_old.log#4@8408 : Attaquer avec Dragonnet du Vol infini → Animatrice de stade (exact, 10,7 s, 0,0193 $) | dépense 2,343 $
+[176/180] gpt-6.1-sol:medium 2026_10_25_10_27_21/Power_old.log#4@8408 : Attaquer avec Dragonnet du Vol infini → Animatrice de stade (exact, 12,8 s, 0,0205 $) | dépense 2,363 $
+[177/180] gpt-6.1-sol:high 2026_10_25_10_27_21/Power_old.log#4@6240 : Jouer Dragonnet du Vol infini (exact, 36,7 s, 0,0248 $) | dépense 2,388 $
+[178/180] gpt-6.1-sol:medium#2 2026_10_25_10_27_21/Power_old.log#4@8408 : Attaquer avec Dragonnet du Vol infini → Animatrice de stade (exact, 13,7 s, 0,0068 $) | dépense 2,395 $
+[179/180] gpt-6-luna:medium 2026_10_25_10_27_21/Power_old.log#4@8408 : Attaquer avec Dragonnet du Vol infini → Animatrice de stade (exact, 13,1 s, 0,0014 $) | dépense 2,396 $
+[180/180] gpt-6.1-sol:high 2026_10_25_10_27_21/Power_old.log#4@8408 : Attaquer avec Dragonnet du Vol infini → Animatrice de stade (exact, 61,5 s, 0,0394 $) | dépense 2,436 $
+Terminé : 180 appel(s) exécuté(s), 0 déjà présent(s), dépense cumulée 2,436 $
+Synthèse écrite : bench/runs/efforts-36\report.md

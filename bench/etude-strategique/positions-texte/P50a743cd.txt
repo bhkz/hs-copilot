@@ -1,0 +1,94 @@
+Position P50a743cd — tour 10
+
+Mode GT_RANKED / FT_STANDARD — Tour 10 (TURN=20, vous) — étape MAIN_ACTION — premier joueur : adversaire
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+  [info] Rembobinage : l'état a été reconstruit à partir de l'instantané envoyé par le serveur.
+
+== ADVERSAIRE (DEATHKNIGHT) — Le roi-liche 15/30 PV — mana 1/10
+   Pouvoir : Goule assaillante (2) — utilisé
+   Plateau (6) :
+     1. Tour de goules 4/1 (max 9) [TRIGGER_VISUAL] {Sang drainé, Sang drainé} (épuisé)
+     2. Fantassin ressuscité 1/3 [TAUNT] (épuisé)
+     3. Commandante de la garde d’os 10/10 [TAUNT] {Sang drainé, Sang drainé} (épuisé)
+     4. Fantassin ressuscité 1/3 [TAUNT] (épuisé)
+     5. Fantassin ressuscité 1/3 [TAUNT] (épuisé)
+     6. Dévoreur fétide 11/8 [CANT_BE_TARGETED_BY_SPELLS, CANT_BE_TARGETED_BY_HERO_POWERS, ELUSIVE] {Repos serein} (épuisé)
+   Main (3) :
+     1. carte cachée — en main depuis TURN=18
+     2. carte cachée — en main depuis TURN=18
+     3. carte cachée — en main depuis TURN=19
+   Deck : 16 carte(s)
+   Dernier tour (TURN=19) : Dévoreur fétide (encore en jeu)
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 3/30 PV — mana 10/10
+   Pouvoir : Gain d’armure ! (2)
+   Plateau (3) :
+     1. Avant-garde du portail 4/2 {À la pointe} (peut attaquer)
+     2. Profondeurs Sanguines 3 charge(s) (activable)
+     3. Dragonnet du Vol infini 3/6 [POISONOUS, REBORN] {Garde du temps} (peut attaquer)
+   Main (7) :
+     1. (?) La pièce (créée)
+     2. (8) Grommash Hurlenfer 6/9 [base 4/9]
+     3. (1) Voyante distordue par le temps 1/3
+     4. (2) Mage de sang Thalnos 1/1 (créée)
+     5. (4) Animatrice de stade 3/3
+     6. (3) Forgeron dimensionnel 4/7 [base 2/5]
+     7. (1) Profondeurs Sanguines
+   Deck : 13 carte(s)
+   Dernier tour (TURN=18) : Avant-garde du portail (n'est plus en jeu), Dragonnet du Vol infini (encore en jeu), Avant-garde du portail (encore en jeu), Avant-garde du portail (encore en jeu)
+
+Actions légales (serveur, options #86, révision 143, à jour) : 11 jouable(s) + fin de tour
+  - Jouer La pièce
+  - Jouer Grommash Hurlenfer
+  - Jouer Voyante distordue par le temps
+  - Jouer Mage de sang Thalnos
+  - Jouer Animatrice de stade
+  - Jouer Forgeron dimensionnel
+  - Jouer Profondeurs Sanguines
+  - Pouvoir héroïque Gain d’armure !
+  - Activer le lieu Profondeurs Sanguines → Tour de goules, Commandante de la garde d’os, Fantassin ressuscité, Fantassin ressuscité, Fantassin ressuscité, Dragonnet du Vol infini (allié), Avant-garde du portail (allié), Dévoreur fétide
+  - Attaquer avec Dragonnet du Vol infini → Commandante de la garde d’os, Fantassin ressuscité, Fantassin ressuscité, Fantassin ressuscité
+  - Attaquer avec Avant-garde du portail → Commandante de la garde d’os, Fantassin ressuscité, Fantassin ressuscité, Fantassin ressuscité
+
+Historique récent :
+  T10 adversaire attaque : Commandante de la garde d’os → Garrosh Hurlenfer
+  T10 adversaire attaque : Fantassin ressuscité → Avant-garde du portail
+  T10 morts : Fantassin ressuscité, Avant-garde du portail
+  T10 adversaire attaque : Tour de goules → Garrosh Hurlenfer
+  T10 adversaire attaque : Fantassin ressuscité → Garrosh Hurlenfer
+  T10 adversaire attaque : Fantassin ressuscité → Garrosh Hurlenfer
+  T10 adversaire attaque : Fantassin ressuscité → Garrosh Hurlenfer
+  T10 adversaire pouvoir héroïque Goule assaillante
+  T10 adversaire attaque : Goule fragile → Garrosh Hurlenfer
+  T10 déclenchement Goule fragile (adversaire)
+  T10 morts : Goule fragile
+  — Tour 10 (TURN=20, vous) —
+
+
+Actions légales :
+  - Jouer La pièce
+  - Jouer Grommash Hurlenfer
+  - Jouer Voyante distordue par le temps
+  - Jouer Mage de sang Thalnos
+  - Jouer Animatrice de stade
+  - Jouer Forgeron dimensionnel
+  - Jouer Profondeurs Sanguines
+  - Pouvoir héroïque Gain d’armure !
+  - Activer Profondeurs Sanguines → Tour de goules 4/1
+  - Activer Profondeurs Sanguines → Commandante de la garde d’os 10/10
+  - Activer Profondeurs Sanguines → Fantassin ressuscité 1/3
+  - Activer Profondeurs Sanguines → Fantassin ressuscité 1/3
+  - Activer Profondeurs Sanguines → Fantassin ressuscité 1/3
+  - Activer Profondeurs Sanguines → Dragonnet du Vol infini (allié) 3/6
+  - Activer Profondeurs Sanguines → Avant-garde du portail (allié) 4/2
+  - Activer Profondeurs Sanguines → Dévoreur fétide 11/8
+  - Attaquer avec Dragonnet du Vol infini → Commandante de la garde d’os 10/10
+  - Attaquer avec Dragonnet du Vol infini → Fantassin ressuscité 1/3
+  - Attaquer avec Dragonnet du Vol infini → Fantassin ressuscité 1/3
+  - Attaquer avec Dragonnet du Vol infini → Fantassin ressuscité 1/3
+  - Attaquer avec Avant-garde du portail → Commandante de la garde d’os 10/10
+  - Attaquer avec Avant-garde du portail → Fantassin ressuscité 1/3
+  - Attaquer avec Avant-garde du portail → Fantassin ressuscité 1/3
+  - Attaquer avec Avant-garde du portail → Fantassin ressuscité 1/3
+  - Finir le tour

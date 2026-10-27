@@ -1,0 +1,70 @@
+Position Pa1e8043b — tour 9
+
+Mode GT_RANKED / FT_WILD — Tour 9 (TURN=17, vous) — étape MAIN_ACTION — premier joueur : vous
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+
+== ADVERSAIRE (PALADIN) — Uther le Porteur de Lumière 18/30 PV — mana 0/8
+   Pouvoir : Renfort (2) — utilisé
+   Arme : Tranche-lianes 4/1
+   Plateau (5) :
+     1. Recrue de la Main d’argent 7/6 [DEATHRATTLE] {Héritage de Régis, Force, Bien équipé} (épuisé)
+     2. Intendant 2/5 (épuisé)
+     3. Recrue de la Main d’argent 4/3 {Force, Bien équipé} (épuisé)
+     4. Sous-cheffe immorale 2/1 [DEATHRATTLE] (épuisé)
+     5. Recrue de la Main d’argent 4/3 {Force, Bien équipé} (épuisé)
+   Main (3) :
+     1. carte cachée — en main depuis TURN=1
+     2. carte cachée — en main depuis TURN=12
+     3. carte cachée — en main depuis TURN=14
+   Deck : 18 carte(s)
+   Dernier tour (TURN=16) : Intendant (encore en jeu), Sous-cheffe immorale (encore en jeu)
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 15/30 PV +2 armure — mana 9/9
+   Pouvoir : Gain d’armure ! (2)
+   Plateau (1) :
+     1. Avant-garde du portail 2/2 (peut attaquer)
+   Main (4) :
+     1. (4) Animatrice de stade 7/3 [base 3/3]
+     2. (5) Maîtresse du jeu Nemsie 3/6 (créée)
+     3. (4) Animatrice de stade 3/3
+     4. (1) Profondeurs Sanguines
+   Deck : 17 carte(s)
+   Dernier tour (TURN=15) : Suffusion d’ombreflamme, Saccageur de chapiteaux (n'est plus en jeu)
+
+Actions légales (serveur, options #67, révision 113, à jour) : 6 jouable(s) + fin de tour
+  - Jouer Animatrice de stade
+  - Jouer Maîtresse du jeu Nemsie
+  - Jouer Animatrice de stade
+  - Jouer Profondeurs Sanguines
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Avant-garde du portail → Uther le Porteur de Lumière, Recrue de la Main d’argent, Recrue de la Main d’argent, Recrue de la Main d’argent, Intendant, Sous-cheffe immorale
+
+Historique récent :
+  T8 vous attaque : Avant-garde du portail → Uther le Porteur de Lumière
+  T8 vous attaque : Garrosh Hurlenfer → Uther le Porteur de Lumière
+  T8 morts : Trancheuse cauchemardesque
+  T8 vous pouvoir héroïque Gain d’armure !
+  — Tour 8 (TURN=16, adversaire) —
+  T8 adversaire attaque : Uther le Porteur de Lumière → Saccageur de chapiteaux
+  T8 déclenchement Tranche-lianes (adversaire)
+  T8 morts : Saccageur de chapiteaux
+  T8 adversaire pouvoir héroïque Renfort
+  T8 adversaire joue Intendant
+  T8 adversaire joue Sous-cheffe immorale
+  — Tour 9 (TURN=17, vous) —
+
+
+Actions légales :
+  - Jouer Animatrice de stade
+  - Jouer Maîtresse du jeu Nemsie
+  - Jouer Animatrice de stade
+  - Jouer Profondeurs Sanguines
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Avant-garde du portail → Uther le Porteur de Lumière (18 PV)
+  - Attaquer avec Avant-garde du portail → Recrue de la Main d’argent 7/6
+  - Attaquer avec Avant-garde du portail → Recrue de la Main d’argent 4/3
+  - Attaquer avec Avant-garde du portail → Recrue de la Main d’argent 4/3
+  - Attaquer avec Avant-garde du portail → Intendant 2/5
+  - Attaquer avec Avant-garde du portail → Sous-cheffe immorale 2/1
+  - Finir le tour

@@ -1,0 +1,8 @@
+faits calculés (3) :
+  [alerte] Prochain tour : Profondeurs Sanguines (3 charge(s)) : l'activer ce tour le rend indisponible à ton prochain tour (recharge vérifiée sur tes parties) ; Grommash en main, jouable au prochain tour : le combo Grommash + Profondeurs Sanguines au prochain tour exige de ne pas l'activer maintenant.
+  [alerte] Nozdormu l’Intemporel aide aussi l'adversaire : l'adversaire aurait 10 cristaux au prochain tour au lieu de 7, avec 8 cartes en main.
+  [info] Encore possible : attaque de Garrosh Hurlenfer (4 ATQ), serviteurs seulement ; pouvoir héroïque Gain d’armure ! (2) ; 3 carte(s) jouable(s) avec 7 mana ; 1 lieu(x) activable(s).
+phase analyse : titre « ANALYSE », action « Analyse en cours… 0,0 s », faits affichés 3, alerte de danger visible : NON
+phase partiel : titre « ACTION IMMÉDIATE », action « Jouer Nozdormu l’Intemporel », faits affichés 0, alerte de danger visible : NON
+phase prêt (modèle) : titre « ACTION IMMÉDIATE », action « Jouer Nozdormu l’Intemporel », faits affichés 0, alerte de danger visible : NON
+phase prêt (suite du plan) : titre « ACTION IMMÉDIATE », action « Jouer Nozdormu l’Intemporel », faits affichés 0, alerte de danger visible : NON

@@ -1,0 +1,27 @@
+[
+  {
+    "case": "23:14:46.45 \u2014 Sombre don (tour 1)",
+    "payloadBefore": 8710,
+    "payloadAfter": 9845,
+    "avant": {
+      "action": "Choisir Dragon f\u00E9erique \u002B Posture de d\u00E9fense",
+      "summary": "Choisis Dragon f\u00E9erique pour renforcer ton d\u00E9but de partie, sans cible.",
+      "why": "Un Dragon peu co\u00FBteux et imm\u00E9diatement actif soutient mieux le tempo contre Chasseur.",
+      "rationale": "Dragon f\u00E9erique offre un corps 3/2 pour 2 mana avec Insaisissable et une cible future pour Colporteur de p\u00E9tales. Malgr\u00E9 plusieurs cartes peu co\u00FBteuses d\u00E9j\u00E0 en main, il para\u00EEt plus flexible que Nozdormu, dont le sommeil retarde l\u2019impact. Ysera co\u00FBte 9 mana et son effet de d\u00E9but de partie ne se d\u00E9clenche pas par cette d\u00E9couverte. Aucun mana ne reste ce tour.",
+      "plan": "Envisager Colporteur de p\u00E9tales au tour 2, puis d\u00E9velopper un autre Dragon.",
+      "costUsd": 0.0085477,
+      "inputTokens": 5210,
+      "outputTokens": 291
+    },
+    "apr\u00E8s": {
+      "action": "Choisir Dragon f\u00E9erique \u002B Posture de d\u00E9fense",
+      "summary": "Choisis Dragon f\u00E9erique avec Posture de d\u00E9fense, sans cible : une 3/6 Provocation et Insaisissable pour 2 mana.",
+      "why": "Excellent tempo d\u00E9fensif d\u00E8s le prochain tour, avec synergies Dragon et Colporteur.",
+      "rationale": "Dragon f\u00E9erique devient une 3/6 Provocation et Insaisissable pour 2 mana : une pr\u00E9sence imm\u00E9diate adapt\u00E9e au d\u00E9but de partie. Il pourra recevoir les bonus du Colporteur. Nozdormu offre une 12/13 pour 3, mais remplace la prochaine pioche et reste initialement en sommeil pendant cinq tours. Ysera devient une 2/12 pour 7 avec gain de mana au cri de guerre, mais arrive beaucoup plus tard ; son effet de d\u00E9but de partie ne s\u0027active pas ici. Aucun mana ne reste ce tour.",
+      "plan": "Envisager Dragon f\u00E9erique pour installer une Provocation solide d\u00E8s le tour 2.",
+      "costUsd": 0.0096872,
+      "inputTokens": 5622,
+      "outputTokens": 333
+    }
+  }
+]

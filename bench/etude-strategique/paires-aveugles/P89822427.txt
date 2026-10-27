@@ -1,0 +1,124 @@
+Position P89822427 — tour 7
+
+Mode GT_RANKED / FT_STANDARD — Tour 7 (TURN=14, vous) — étape MAIN_ACTION — premier joueur : adversaire
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+  [info] Rembobinage : l'état a été reconstruit à partir de l'instantané envoyé par le serveur.
+
+== ADVERSAIRE (WARRIOR) — Garrosh, roi des pirates 8/30 PV — mana 0/7
+   Pouvoir : Gain d’armure ! (2)
+   Arme : Hache de guerre cataclysmique 3/1
+   Plateau (5) :
+     1. Capitaine Crowley 4/2 (max 5) [REBORN, AURA] {Horreur persistante} (épuisé)
+     2. Canonnière 1/1 [TRIGGER_VISUAL] (épuisé)
+     3. Canonnière 1/1 [TRIGGER_VISUAL] (épuisé)
+     4. Soldat de Ragnaros 2/1 [DEATHRATTLE] (épuisé)
+     5. Flibustier des Voiles-de-Brume 2/2 (épuisé)
+   Main (5) :
+     1. carte cachée — en main depuis TURN=8
+     2. carte cachée — en main depuis TURN=8
+     3. Lardeur, briseur de chaînes (vue publiquement) — en main depuis TURN=8
+     4. carte cachée — en main depuis TURN=8
+     5. carte cachée — en main depuis TURN=11
+   Deck : 42 carte(s)
+   Dernier tour (TURN=13) : Amarrage forcé, Hache de guerre cataclysmique, Flibustier des Voiles-de-Brume (encore en jeu)
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 17/30 PV — mana 7/7
+   Pouvoir : Gain d’armure ! (2)
+   Plateau (4) :
+     1. Drake terrestre 6/4 [CHARGE, TRIGGER_VISUAL] {Somnambulisme sournois, À la pointe} (peut attaquer)
+     2. Colporteur de pétales 4/4 (max 7) [TRIGGER_VISUAL] {Garde du temps, Floraison} (peut attaquer)
+     3. Voyante distordue par le temps 1/1 (max 3) [SPELLPOWER+2] {Distorsion par le temps} (peut attaquer)
+     4. Forgeron dimensionnel 5/3 (max 8) {Floraison, Floraison} (peut attaquer)
+   Main (5) :
+     1. (2) Luisaile 5/2 [base 3/2]
+     2. (6, base 8) Wyrm du pic venteux 6/6 ✦condition remplie
+     3. (1) Voyante distordue par le temps 1/3
+     4. (3) Forgeron dimensionnel 2/5
+     5. (1) Sombre chevaucheur 1/1 ✦condition remplie
+   Deck : 18 carte(s)
+   Dernier tour (TURN=12) : Drake terrestre (encore en jeu)
+
+Actions légales (serveur, options #47, révision 98, à jour) : 10 jouable(s) + fin de tour
+  - Jouer Luisaile
+  - Jouer Wyrm du pic venteux → Garrosh Hurlenfer (allié), Garrosh, roi des pirates, Forgeron dimensionnel (allié), Voyante distordue par le temps (allié), Colporteur de pétales (allié), Capitaine Crowley, Drake terrestre (allié), Canonnière, Canonnière, Soldat de Ragnaros, Flibustier des Voiles-de-Brume
+  - Jouer Voyante distordue par le temps
+  - Jouer Forgeron dimensionnel
+  - Jouer Sombre chevaucheur
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Forgeron dimensionnel → Garrosh, roi des pirates, Capitaine Crowley, Canonnière, Canonnière, Soldat de Ragnaros, Flibustier des Voiles-de-Brume
+  - Attaquer avec Voyante distordue par le temps → Garrosh, roi des pirates, Capitaine Crowley, Canonnière, Canonnière, Soldat de Ragnaros, Flibustier des Voiles-de-Brume
+  - Attaquer avec Colporteur de pétales → Garrosh, roi des pirates, Capitaine Crowley, Canonnière, Canonnière, Soldat de Ragnaros, Flibustier des Voiles-de-Brume
+  - Attaquer avec Drake terrestre → Garrosh, roi des pirates, Capitaine Crowley, Canonnière, Canonnière, Soldat de Ragnaros, Flibustier des Voiles-de-Brume
+
+Historique récent :
+  T6 déclenchement Drake terrestre (vous)
+  — Tour 7 (TURN=13, adversaire) —
+  T7 adversaire joue Amarrage forcé
+  T7 choix adversaire (choix adverse (GENERAL))
+  T7 adversaire joue Hache de guerre cataclysmique
+  T7 adversaire joue Flibustier des Voiles-de-Brume → Dragonnet du Vol infini : Dragonnet du Vol infini (détruit pendant l'action)
+  T7 adversaire attaque : Capitaine Crowley → Colporteur de pétales
+  T7 morts : Colporteur de pétales
+  T7 adversaire attaque : Garrosh, roi des pirates → Garrosh Hurlenfer
+  T7 déclenchement Canonnière (adversaire) : Avant-garde du portail (détruit pendant l'action)
+  T7 déclenchement Canonnière (adversaire)
+  — Tour 7 (TURN=14, vous) —
+
+
+Actions légales :
+  - Jouer Luisaile
+  - Jouer Wyrm du pic venteux → Garrosh Hurlenfer (allié) (17 PV)
+  - Jouer Wyrm du pic venteux → Garrosh, roi des pirates (8 PV)
+  - Jouer Wyrm du pic venteux → Forgeron dimensionnel (allié) 5/3
+  - Jouer Wyrm du pic venteux → Voyante distordue par le temps (allié) 1/1
+  - Jouer Wyrm du pic venteux → Colporteur de pétales (allié) 4/4
+  - Jouer Wyrm du pic venteux → Capitaine Crowley 4/2
+  - Jouer Wyrm du pic venteux → Drake terrestre (allié) 6/4
+  - Jouer Wyrm du pic venteux → Canonnière 1/1
+  - Jouer Wyrm du pic venteux → Canonnière 1/1
+  - Jouer Wyrm du pic venteux → Soldat de Ragnaros 2/1
+  - Jouer Wyrm du pic venteux → Flibustier des Voiles-de-Brume 2/2
+  - Jouer Voyante distordue par le temps
+  - Jouer Forgeron dimensionnel
+  - Jouer Sombre chevaucheur
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Forgeron dimensionnel → Garrosh, roi des pirates (8 PV)
+  - Attaquer avec Forgeron dimensionnel → Capitaine Crowley 4/2
+  - Attaquer avec Forgeron dimensionnel → Canonnière 1/1
+  - Attaquer avec Forgeron dimensionnel → Canonnière 1/1
+  - Attaquer avec Forgeron dimensionnel → Soldat de Ragnaros 2/1
+  - Attaquer avec Forgeron dimensionnel → Flibustier des Voiles-de-Brume 2/2
+  - Attaquer avec Voyante distordue par le temps → Garrosh, roi des pirates (8 PV)
+  - Attaquer avec Voyante distordue par le temps → Capitaine Crowley 4/2
+  - Attaquer avec Voyante distordue par le temps → Canonnière 1/1
+  - Attaquer avec Voyante distordue par le temps → Canonnière 1/1
+  - Attaquer avec Voyante distordue par le temps → Soldat de Ragnaros 2/1
+  - Attaquer avec Voyante distordue par le temps → Flibustier des Voiles-de-Brume 2/2
+  - Attaquer avec Colporteur de pétales → Garrosh, roi des pirates (8 PV)
+  - Attaquer avec Colporteur de pétales → Capitaine Crowley 4/2
+  - Attaquer avec Colporteur de pétales → Canonnière 1/1
+  - Attaquer avec Colporteur de pétales → Canonnière 1/1
+  - Attaquer avec Colporteur de pétales → Soldat de Ragnaros 2/1
+  - Attaquer avec Colporteur de pétales → Flibustier des Voiles-de-Brume 2/2
+  - Attaquer avec Drake terrestre → Garrosh, roi des pirates (8 PV)
+  - Attaquer avec Drake terrestre → Capitaine Crowley 4/2
+  - Attaquer avec Drake terrestre → Canonnière 1/1
+  - Attaquer avec Drake terrestre → Canonnière 1/1
+  - Attaquer avec Drake terrestre → Soldat de Ragnaros 2/1
+  - Attaquer avec Drake terrestre → Flibustier des Voiles-de-Brume 2/2
+  - Finir le tour
+
+
+=== Conseil X ===
+  action : Jouer Wyrm du pic venteux → Garrosh, roi des pirates
+  résumé : Joue Wyrm du pic venteux sur Garrosh, roi des pirates, puis attaque avec Drake terrestre.
+  raison : Je recommande la première étape du létal calculé : Wyrm coûte 6 de tes 7 cristaux, inflige 5 dégâts au héros adverse et donne 5 d’armure. L’adversaire passe à 3 PV ; l’attaque du Drake terrestre suffit ensuite. Aucun Secret ni Provocation visible. La suite sera réévaluée après résolution.
+  suite prévue : Attaquer le héros adverse avec Drake terrestre pour 6 dégâts.
+
+=== Conseil Y ===
+  action : Jouer Wyrm du pic venteux → Garrosh, roi des pirates
+  résumé : Joue Wyrm du pic venteux sur Garrosh, roi des pirates, puis attaque avec Drake terrestre.
+  raison : Je recommande la première étape du létal calculé : Wyrm coûte 6 sur tes 7 cristaux, inflige 5 dégâts et donne 5 armure. L’adversaire descend à 3 PV ; les 6 dégâts du Drake suffisent ensuite. Aucun Secret ni Provocation visible. L’attaque suivante sera réévaluée après résolution.
+  suite prévue : Attaquer Garrosh, roi des pirates avec Drake terrestre pour terminer la partie.
+  plan du tour suivant : Aucun tour suivant à prévoir si la séquence se résout comme calculé.

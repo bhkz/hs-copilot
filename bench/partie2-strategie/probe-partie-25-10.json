@@ -1,0 +1,52 @@
+[
+  {
+    "case": "16:37:52.35 \u2014 Sombre don (tour 1)",
+    "payloadBefore": 8723,
+    "payloadAfter": 9848,
+    "avant": {
+      "action": "Choisir Drake terrestre \u002B Courtes griffes",
+      "summary": "Choisis Drake terrestre pour menacer le h\u00E9ros adverse avec ses d\u00E9g\u00E2ts de fin de tour.",
+      "why": "Son co\u00FBt interm\u00E9diaire et ses d\u00E9g\u00E2ts imm\u00E9diats soutiennent mieux ton plan de pression.",
+      "rationale": "Drake terrestre comble le palier \u00E0 5 mana et inflige 4 d\u00E9g\u00E2ts au h\u00E9ros adverse d\u00E8s la fin du tour o\u00F9 il est jou\u00E9, s\u2019il reste en jeu. Forgeron dimensionnel peut aussi augmenter son attaque en main. Les deux autres propositions co\u00FBtent nettement plus cher dans un deck d\u00E9j\u00E0 dot\u00E9 de menaces lourdes. Aucun mana ne reste ce tour.",
+      "plan": "Jouer Colporteur de p\u00E9tales pour pr\u00E9parer les prochains Dragons.",
+      "costUsd": 0.01311,
+      "inputTokens": 5205,
+      "outputTokens": 270
+    },
+    "apr\u00E8s": {
+      "action": "Choisir Drake terrestre \u002B Courtes griffes",
+      "summary": "Choisis Drake terrestre avec Courtes griffes, pour menacer le h\u00E9ros adverse d\u00E8s le tour 3.",
+      "why": "Une 2/4 pour 3 inflige imm\u00E9diatement 4 d\u00E9g\u00E2ts et profite du Colporteur.",
+      "rationale": "Drake terrestre devient une 2/4 pour 3, avec 4 d\u00E9g\u00E2ts au h\u00E9ros adverse en fin de tour : une menace pr\u00E9coce compl\u00E9mentaire au Colporteur. Concert promo-Drake offre une 8/8 Charge pour 8 et une destruction avec Final, mais arrive beaucoup plus tard. Seigneur Aile de mort fournit une 12/12 et une copie 2/2 pour 10, trop lent pour cette main d\u00E9j\u00E0 bien orient\u00E9e vers le d\u00E9veloppement.",
+      "plan": "Jouer Colporteur de p\u00E9tales pour pr\u00E9parer un Dragon au tour 3.",
+      "costUsd": 0.014104,
+      "inputTokens": 5627,
+      "outputTokens": 285
+    }
+  },
+  {
+    "case": "16:39:40 \u2014 action (tour 5, 5 mana)",
+    "payloadBefore": 16686,
+    "payloadAfter": 18379,
+    "avant": {
+      "action": "Jouer Avant-garde du portail",
+      "summary": "Joue Avant-garde du portail sans cible, puis envisage Gardien des couv\u00E9es pour \u00E9liminer la Chouette bec-de-fer.",
+      "why": "D\u00E9veloppe deux serviteurs, recharge la main et pr\u00E9pare une arme pour reprendre le plateau.",
+      "rationale": "Avant-garde co\u00FBte 3 et laisse 2 mana pour Gardien : deux corps 4/2 et 2/3, une pioche am\u00E9lior\u00E9e et une \u00E9p\u00E9e 2/2. Les Dragons conserv\u00E9s activent le Gardien. L\u2019attaque du h\u00E9ros peut retirer la Chouette en subissant 2 d\u00E9g\u00E2ts, un co\u00FBt acceptable \u00E0 26 PV. R\u00E9\u00E9valuer apr\u00E8s la pioche avant de d\u00E9penser le mana restant.",
+      "plan": "D\u00E9velopper Glissedrake visionnaire et exploiter le plateau pour mettre la pression.",
+      "costUsd": 0.014737700000000001,
+      "inputTokens": 7750,
+      "outputTokens": 402
+    },
+    "apr\u00E8s": {
+      "action": "Jouer Avant-garde du portail",
+      "summary": "Joue Avant-garde du portail sans cible pour piocher, puis envisage Gardien des couv\u00E9es et l\u2019\u00E9limination de la Chouette.",
+      "why": "La pioche d\u2019abord conserve tes options et pr\u00E9pare un d\u00E9veloppement efficace \u00E0 cinq cristaux.",
+      "rationale": "Avant-garde utilise trois des cinq cristaux et pioche un serviteur renforc\u00E9. Gardien peut ensuite utiliser les deux cristaux restants : les Dragons conserv\u00E9s activent son arme, permettant de supprimer la Chouette au prix de deux PV. Cette ligne d\u00E9veloppe deux serviteurs et renouvelle la main. R\u00E9\u00E9valuer apr\u00E8s la pioche avant de confirmer la suite.",
+      "plan": "D\u00E9velopper Glissedrake visionnaire et maintenir la pression avec l\u2019arme.",
+      "costUsd": 0.0155992,
+      "inputTokens": 8338,
+      "outputTokens": 381
+    }
+  }
+]

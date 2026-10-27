@@ -1,0 +1,83 @@
+Position P2f7927a5 — tour 6
+
+Mode GT_RANKED / FT_STANDARD — Tour 6 (TURN=11, vous) — étape MAIN_ACTION — premier joueur : vous
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+
+== ADVERSAIRE (PRIEST) — Tyrande Murmevent 20/30 PV — mana 1/5
+   Pouvoir : Bénédiction de la lune (2)
+   Arme : Lame de l’Empire noir 0/3
+   Plateau (2) :
+     1. Veilleur des couvées 4/5 [TAUNT] {Proie du Vide} (épuisé)
+     2. Magma mécanique 2/5 [TAUNT, TRIGGER_VISUAL] {Proie du Vide} (épuisé)
+   Main (7) :
+     1. carte cachée — hypothèse : probablement La pièce (règle : le second joueur la reçoit en début de partie) — en main depuis TURN=1
+     2. carte cachée — en main depuis TURN=2
+     3. carte cachée — en main depuis TURN=4
+     4. carte cachée — en main depuis TURN=7
+     5. carte cachée — en main depuis TURN=7
+     6. carte cachée — en main depuis TURN=8
+     7. carte cachée — en main depuis TURN=10
+   Deck : 21 carte(s)
+   Dernier tour (TURN=10) : Bulbe du Vide tombelaube
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 25/30 PV — mana 6/6
+   Pouvoir : Gain d’armure ! (2)
+   Plateau (4) :
+     1. Gardien des couvées 2/1 (max 3) (peut attaquer)
+     2. Glissedrake visionnaire 5/8 [REBORN, CANT_BE_TARGETED_BY_SPELLS, CANT_BE_TARGETED_BY_HERO_POWERS, ELUSIVE] {Horreur persistante} (peut attaquer)
+     3. Sombre chevaucheur 1/1 (peut attaquer)
+     4. Voyante distordue par le temps 1/3 (peut attaquer)
+   Main (4) :
+     1. (6) Chronoseigneur Époque 9/5 [base 7/5]
+     2. (3) Dragonnet du Vol infini 3/4 [base 1/4]
+     3. (2) Suffusion d’ombreflamme
+     4. (8) Grommash Hurlenfer 4/9
+   Deck : 20 carte(s)
+   Dernier tour (TURN=9) : Glissedrake visionnaire (encore en jeu), Voyante distordue par le temps (encore en jeu)
+
+Actions légales (serveur, options #31, révision 63, à jour) : 8 jouable(s) + fin de tour
+  - Jouer Chronoseigneur Époque
+  - Jouer Dragonnet du Vol infini
+  - Jouer Suffusion d’ombreflamme → Garrosh Hurlenfer (allié), Tyrande Murmevent, Gardien des couvées (allié), Sombre chevaucheur (allié), Voyante distordue par le temps (allié), Veilleur des couvées, Magma mécanique
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Gardien des couvées → Veilleur des couvées, Magma mécanique
+  - Attaquer avec Sombre chevaucheur → Veilleur des couvées, Magma mécanique
+  - Attaquer avec Glissedrake visionnaire → Veilleur des couvées, Magma mécanique
+  - Attaquer avec Voyante distordue par le temps → Veilleur des couvées, Magma mécanique
+
+Historique récent :
+  T4 adversaire joue Mot ancien : Écorchage : Forgeron dimensionnel (détruit pendant l'action)
+  T4 déclenchement Lame de l’Empire noir (adversaire)
+  — Tour 5 (TURN=9, vous) —
+  T5 vous joue Glissedrake visionnaire
+  T5 vous joue Voyante distordue par le temps
+  T5 vous attaque : Voyante distordue par le temps → Tyrande Murmevent
+  T5 vous attaque : Gardien des couvées → Tyrande Murmevent
+  T5 vous attaque : Sombre chevaucheur → Tyrande Murmevent
+  — Tour 5 (TURN=10, adversaire) —
+  T5 adversaire joue Bulbe du Vide tombelaube : Voyante distordue par le temps (détruit pendant l'action)
+  T5 déclenchement Lame de l’Empire noir (adversaire)
+  — Tour 6 (TURN=11, vous) —
+
+
+Actions légales :
+  - Jouer Chronoseigneur Époque
+  - Jouer Dragonnet du Vol infini
+  - Jouer Suffusion d’ombreflamme → Garrosh Hurlenfer (allié) (25 PV)
+  - Jouer Suffusion d’ombreflamme → Tyrande Murmevent (20 PV)
+  - Jouer Suffusion d’ombreflamme → Gardien des couvées (allié) 2/1
+  - Jouer Suffusion d’ombreflamme → Sombre chevaucheur (allié) 1/1
+  - Jouer Suffusion d’ombreflamme → Voyante distordue par le temps (allié) 1/3
+  - Jouer Suffusion d’ombreflamme → Veilleur des couvées 4/5
+  - Jouer Suffusion d’ombreflamme → Magma mécanique 2/5
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Gardien des couvées → Veilleur des couvées 4/5
+  - Attaquer avec Gardien des couvées → Magma mécanique 2/5
+  - Attaquer avec Sombre chevaucheur → Veilleur des couvées 4/5
+  - Attaquer avec Sombre chevaucheur → Magma mécanique 2/5
+  - Attaquer avec Glissedrake visionnaire → Veilleur des couvées 4/5
+  - Attaquer avec Glissedrake visionnaire → Magma mécanique 2/5
+  - Attaquer avec Voyante distordue par le temps → Veilleur des couvées 4/5
+  - Attaquer avec Voyante distordue par le temps → Magma mécanique 2/5
+  - Finir le tour

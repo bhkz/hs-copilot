@@ -1,0 +1,65 @@
+Position P79561396 — tour 7
+
+Mode GT_RANKED / FT_WILD — Tour 7 (TURN=13, vous) — étape MAIN_ACTION — premier joueur : vous
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+
+== ADVERSAIRE (PALADIN) — Uther le Porteur de Lumière 30/30 PV — mana 1/6
+   Pouvoir : Renfort (2) — utilisé
+   Plateau (1) :
+     1. Recrue de la Main d’argent 5/4 [DEATHRATTLE] {Héritage de Régis, Force} (épuisé)
+   Main (4) :
+     1. carte cachée — en main depuis TURN=1
+     2. carte cachée — en main depuis TURN=1
+     3. carte cachée — en main depuis TURN=2
+     4. carte cachée — en main depuis TURN=12
+   Deck : 20 carte(s)
+   Dernier tour (TURN=12) : Consécration
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 15/30 PV — mana 7/7
+   Pouvoir : Gain d’armure ! (2)
+   Plateau (1) :
+     1. Dragonnet du Vol infini 1/1 (max 4) [POISONOUS] (peut attaquer)
+   Main (4) :
+     1. (4) Animatrice de stade 7/3 [base 3/3]
+     2. (2) Luisaile 3/2
+     3. (2) Suffusion d’ombreflamme
+     4. (3) Avant-garde du portail 2/2
+   Deck : 20 carte(s)
+   Dernier tour (TURN=11) : Chronoseigneur Époque (n'est plus en jeu)
+
+Actions légales (serveur, options #45, révision 71, à jour) : 6 jouable(s) + fin de tour
+  - Jouer Animatrice de stade
+  - Jouer Luisaile
+  - Jouer Suffusion d’ombreflamme → Garrosh Hurlenfer (allié), Uther le Porteur de Lumière, Dragonnet du Vol infini (allié), Recrue de la Main d’argent
+  - Jouer Avant-garde du portail
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Dragonnet du Vol infini → Uther le Porteur de Lumière, Recrue de la Main d’argent
+
+Historique récent :
+  — Tour 6 (TURN=11, vous) —
+  T6 vous joue Chronoseigneur Époque : Recrue de la Main d’argent (détruit pendant l'action), Recrue de la Main d’argent (détruit pendant l'action)
+  T6 vous attaque : Garrosh Hurlenfer → Recrue de la Main d’argent
+  T6 morts : Recrue de la Main d’argent, Trancheuse cauchemardesque
+  T6 vous attaque : Dragonnet du Vol infini → Recrue de la Main d’argent
+  T6 morts : Recrue de la Main d’argent
+  — Tour 6 (TURN=12, adversaire) —
+  T6 adversaire joue Consécration : Dragonnet du Vol infini (détruit pendant l'action)
+  T6 adversaire attaque : Recrue de la Main d’argent → Chronoseigneur Époque
+  T6 morts : Recrue de la Main d’argent, Chronoseigneur Époque
+  T6 adversaire pouvoir héroïque Renfort
+  — Tour 7 (TURN=13, vous) —
+
+
+Actions légales :
+  - Jouer Animatrice de stade
+  - Jouer Luisaile
+  - Jouer Suffusion d’ombreflamme → Garrosh Hurlenfer (allié) (15 PV)
+  - Jouer Suffusion d’ombreflamme → Uther le Porteur de Lumière (30 PV)
+  - Jouer Suffusion d’ombreflamme → Dragonnet du Vol infini (allié) 1/1
+  - Jouer Suffusion d’ombreflamme → Recrue de la Main d’argent 5/4
+  - Jouer Avant-garde du portail
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Dragonnet du Vol infini → Uther le Porteur de Lumière (30 PV)
+  - Attaquer avec Dragonnet du Vol infini → Recrue de la Main d’argent 5/4
+  - Finir le tour

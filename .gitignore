@@ -1,0 +1,7 @@
+bin/
+obj/
+*.user
+.vs/
+TestResults/
+# Configuration personnelle (copier config/copilot.example.json)
+copilot.json

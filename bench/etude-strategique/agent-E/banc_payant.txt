@@ -1,0 +1,38 @@
+réponses acceptées : 30 / 50 ; paires complètes : 11
+même 1re action dans les paires : 10
+  jetons de raisonnement medium+local : médiane 129, moyenne 141.4, n=14
+  jetons de raisonnement medium+local+danger : médiane 162.5, moyenne 193.3, n=16
+  jetons de sortie medium+local : médiane 544, moyenne 551.6, n=14
+  jetons de sortie medium+local+danger : médiane 600, moyenne 620.2, n=16
+  latence (ms) medium+local : médiane 1.478e+04, moyenne 1.452e+04, n=14
+  latence (ms) medium+local+danger : médiane 1.52e+04, moyenne 1.896e+04, n=16
+  coût medium+local : médiane 0.02216, moyenne 0.02227, n=14
+  coût medium+local+danger : médiane 0.02336, moyenne 0.02339, n=16
+accord avec ton coup réel (étiquette) :
+  medium+local : exact 11/14
+  medium+local+danger : exact 11/16
+comparaison au conseil affiché en partie (1re action affichée pour ce bloc) :
+  20261025_194727_hdt.log#1@4618 | partie (modèle) : Jouer Forgeron dimensionnel | V0 : Jouer Forgeron dimensionnel | V1 : Jouer Forgeron dimensionnel | V0=partie : True | V1=partie : True
+  20261025_210804_hdt.log#1@15134 | partie (solveur) : Jouer Wyrm du pic venteux → Dame Liadrin (18 PV) | V0 : Jouer Wyrm du pic venteux → Dame Liadrin | V1 : Jouer Wyrm du pic venteux → Dame Liadrin | V0=partie : True | V1=partie : True
+  20261025_213529_hdt.log#1@10597 | partie (modèle) : Jouer Wyrm du pic venteux → Traqueur phasique 2/3 | V0 : Jouer Wyrm du pic venteux → Traqueur phasique | V1 : Jouer Wyrm du pic venteux → Traqueur phasique | V0=partie : True | V1=partie : True
+  20261025_213529_hdt.log#1@13819 | partie (solveur) : Activer Profondeurs Sanguines → Grommash Hurlenfer (all | V0 : Activer Profondeurs Sanguines → Grommash Hurl | V1 : Activer Profondeurs Sanguines → Grommash Hurl | V0=partie : True | V1=partie : True
+  20261025_214524_hdt.log#1@7971 | partie (modèle) : Attaquer avec Forgeron dimensionnel → Seigneur de la to | V0 : Attaquer avec Forgeron dimensionnel → Seigneu | V1 : Attaquer avec Forgeron dimensionnel → Seigneu | V0=partie : True | V1=partie : True
+  20261025_214524_hdt.log#1@9722 | partie (modèle) : Jouer Wyrm du pic venteux → Orweyna (30 PV + 1 armure) | V0 : Jouer Wyrm du pic venteux → Orweyna | V1 : Jouer Wyrm du pic venteux → Orweyna | V0=partie : True | V1=partie : True
+  20261025_224728_hdt.log#1@12746 | partie (modèle) : Jouer Animatrice de stade | V0 : Jouer Animatrice de stade | V1 : Jouer Animatrice de stade | V0=partie : True | V1=partie : True
+  20261025_224728_hdt.log#1@15002 | partie (modèle) : Jouer Nozdormu l’Intemporel | V0 : Jouer Nozdormu l’Intemporel | V1 : Attaquer avec Garrosh Hurlenfer → Devin | V0=partie : True | V1=partie : False
+  20261025_230748_hdt.log#1@10354 | partie (modèle) : Jouer Avant-garde du portail | V0 : Jouer Avant-garde du portail | V1 : Jouer Avant-garde du portail | V0=partie : True | V1=partie : True
+  20261025_230748_hdt.log#1@12570 | partie (modèle) : Jouer Suffusion d’ombreflamme → Recrue de la Main d’arg | V0 : - | V1 : - | V0=partie : - | V1=partie : -
+  20261025_230748_hdt.log#1@15984 | partie (modèle) : Jouer Animatrice de stade | V0 : - | V1 : Jouer Animatrice de stade | V0=partie : - | V1=partie : True
+  20261025_230748_hdt.log#1@8606 | partie (modèle) : Jouer Chronoseigneur Époque | V0 : Jouer Chronoseigneur Époque | V1 : - | V0=partie : True | V1=partie : -
+  20261026_000900_hdt.log#1@11609 | partie (modèle) : Jouer Ysondre | V0 : - | V1 : Jouer Ysondre | V0=partie : - | V1=partie : True
+  20261026_000900_hdt.log#1@15932 | partie (modèle) : Jouer Avant-garde du portail | V0 : - | V1 : Jouer Avant-garde du portail | V0=partie : - | V1=partie : True
+  20261026_000900_hdt.log#1@23506 | partie (modèle) : Jouer Mage de sang Thalnos | V0 : Jouer Mage de sang Thalnos | V1 : - | V0=partie : True | V1=partie : -
+  20261026_003106_hdt.log#1@18871 | partie (modèle) : Jouer Siamat | V0 : - | V1 : - | V0=partie : - | V1=partie : -
+  20261026_010743_hdt.log#1@11363 | partie (modèle) : Attaquer avec Dragonnet du Vol infini → Rescapée de la  | V0 : - | V1 : - | V0=partie : - | V1=partie : -
+  20261026_010743_hdt.log#1@15037 | partie (solveur) : Jouer Wyrm du pic venteux → Garrosh, roi des pirates (8 | V0 : Jouer Wyrm du pic venteux → Garrosh, roi des  | V1 : Jouer Wyrm du pic venteux → Garrosh, roi des  | V0=partie : True | V1=partie : True
+  20261026_010743_hdt.log#1@4478 | partie (modèle) : Jouer Colporteur de pétales | V0 : - | V1 : - | V0=partie : - | V1=partie : -
+  20261026_014601_hdt.log#1@17237 | partie (solveur) : Attaquer avec Animatrice de stade → Jaina Portvaillant  | V0 : - | V1 : - | V0=partie : - | V1=partie : -
+  20261026_020236_hdt.log#1@15176 | partie (modèle) : Jouer Frappe anticipée → Aile du Vide 9/11 | V0 : - | V1 : Jouer Frappe anticipée → Aile du Vide | V0=partie : - | V1=partie : True
+  20261026_020236_hdt.log#1@15707 | partie (solveur) : Jouer Wyrm du pic venteux → Zek’voz (20 PV) | V0 : Jouer Wyrm du pic venteux → Zek’voz | V1 : - | V0=partie : True | V1=partie : -
+  20261026_021216_hdt.log#1@28356 | partie (modèle) : Activer Profondeurs Sanguines → Feu follet 1/1 | V0 : - | V1 : Activer Profondeurs Sanguines → Feu follet | V0=partie : - | V1=partie : True
+  20261026_112707_hdt.log#1@8274 | partie (modèle) : Attaquer avec Voyante distordue par le temps → Magma mé | V0 : - | V1 : - | V0=partie : - | V1=partie : -

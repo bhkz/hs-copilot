@@ -1,0 +1,79 @@
+Position Pc6600069 — tour 6
+
+Mode GT_RANKED / FT_WILD — Tour 6 (TURN=12, vous) — étape MAIN_ACTION — premier joueur : adversaire
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+
+== ADVERSAIRE (DRUID) — Orweyna 30/30 PV +1 armure — mana 0/6
+   Pouvoir : Changeforme (2) — utilisé
+   Plateau (2) :
+     1. Bébé marsuul 1/1 (épuisé)
+     2. Matelot des mers du Sud 2/1 (épuisé)
+   Main (0) :
+   Deck : 20 carte(s)
+   Dernier tour (TURN=11) : Matelot des mers du Sud (encore en jeu), Rugissement sauvage
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 3/30 PV — mana 6/6
+   Pouvoir : Gain d’armure ! (2)
+   Plateau (4) :
+     1. Profondeurs Sanguines 2 charge(s) (activable)
+     2. Forgeron dimensionnel 4/4 (max 5) {À la pointe} (peut attaquer)
+     3. Glissedrake visionnaire 7/8 [CANT_BE_TARGETED_BY_SPELLS, CANT_BE_TARGETED_BY_HERO_POWERS, ELUSIVE] {À la pointe} (peut attaquer)
+     4. Forgeron dimensionnel 3/2 (max 6) {Floraison} (peut attaquer)
+   Main (4) :
+     1. (6, base 8) Wyrm du pic venteux 10/6 [base 6/6] ✦condition remplie
+     2. (8) Grommash Hurlenfer 8/9 [base 4/9]
+     3. (8) Le Grand Dracorex 5/12
+     4. (2) Gardien des couvées 2/3 ✦condition remplie
+   Deck : 20 carte(s)
+   Dernier tour (TURN=10) : Glissedrake visionnaire (encore en jeu)
+
+Actions légales (serveur, options #50, révision 78, à jour) : 7 jouable(s) + fin de tour
+  - Jouer Wyrm du pic venteux → Garrosh Hurlenfer (allié), Orweyna, Forgeron dimensionnel (allié), Bébé marsuul, Forgeron dimensionnel (allié), Glissedrake visionnaire (allié), Matelot des mers du Sud
+  - Jouer Gardien des couvées
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Forgeron dimensionnel → Orweyna, Bébé marsuul, Matelot des mers du Sud
+  - Attaquer avec Forgeron dimensionnel → Orweyna, Bébé marsuul, Matelot des mers du Sud
+  - Activer le lieu Profondeurs Sanguines → Forgeron dimensionnel (allié), Bébé marsuul, Forgeron dimensionnel (allié), Glissedrake visionnaire (allié), Matelot des mers du Sud
+  - Attaquer avec Glissedrake visionnaire → Orweyna, Bébé marsuul, Matelot des mers du Sud
+
+Historique récent :
+  T5 vous joue Glissedrake visionnaire
+  — Tour 6 (TURN=11, adversaire) —
+  T6 adversaire joue Matelot des mers du Sud
+  T6 adversaire joue Rugissement sauvage
+  T6 adversaire pouvoir héroïque Changeforme
+  T6 adversaire attaque : Orweyna → Garrosh Hurlenfer
+  T6 adversaire attaque : Bébé marsuul → Garrosh Hurlenfer
+  T6 déclenchement Rugissement sauvage (adversaire)
+  T6 déclenchement Rugissement sauvage (adversaire)
+  T6 déclenchement Rugissement sauvage (adversaire)
+  T6 déclenchement Attaque supplémentaire (adversaire)
+  — Tour 6 (TURN=12, vous) —
+
+
+Actions légales :
+  - Jouer Wyrm du pic venteux → Garrosh Hurlenfer (allié) (3 PV)
+  - Jouer Wyrm du pic venteux → Orweyna (30 PV + 1 armure)
+  - Jouer Wyrm du pic venteux → Forgeron dimensionnel (allié) 3/2
+  - Jouer Wyrm du pic venteux → Bébé marsuul 1/1
+  - Jouer Wyrm du pic venteux → Forgeron dimensionnel (allié) 4/4
+  - Jouer Wyrm du pic venteux → Glissedrake visionnaire (allié) 7/8
+  - Jouer Wyrm du pic venteux → Matelot des mers du Sud 2/1
+  - Jouer Gardien des couvées
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Forgeron dimensionnel → Orweyna (30 PV + 1 armure)
+  - Attaquer avec Forgeron dimensionnel → Bébé marsuul 1/1
+  - Attaquer avec Forgeron dimensionnel → Matelot des mers du Sud 2/1
+  - Attaquer avec Forgeron dimensionnel → Orweyna (30 PV + 1 armure)
+  - Attaquer avec Forgeron dimensionnel → Bébé marsuul 1/1
+  - Attaquer avec Forgeron dimensionnel → Matelot des mers du Sud 2/1
+  - Activer Profondeurs Sanguines → Forgeron dimensionnel (allié) 3/2
+  - Activer Profondeurs Sanguines → Bébé marsuul 1/1
+  - Activer Profondeurs Sanguines → Forgeron dimensionnel (allié) 4/4
+  - Activer Profondeurs Sanguines → Glissedrake visionnaire (allié) 7/8
+  - Activer Profondeurs Sanguines → Matelot des mers du Sud 2/1
+  - Attaquer avec Glissedrake visionnaire → Orweyna (30 PV + 1 armure)
+  - Attaquer avec Glissedrake visionnaire → Bébé marsuul 1/1
+  - Attaquer avec Glissedrake visionnaire → Matelot des mers du Sud 2/1
+  - Finir le tour

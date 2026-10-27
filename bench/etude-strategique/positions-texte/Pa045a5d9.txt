@@ -1,0 +1,71 @@
+Position Pa045a5d9 — tour 14
+
+Mode GT_RANKED / FT_STANDARD — Tour 14 (TURN=27, vous) — étape MAIN_ACTION — premier joueur : vous
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+  [info] Rembobinage : l'état a été reconstruit à partir de l'instantané envoyé par le serveur.
+
+== ADVERSAIRE (HUNTER) — Rexxar 27/30 PV — mana 0/10
+   Pouvoir : Tir assuré (2) — utilisé
+   Plateau (4) :
+     1. Niri du cratère 2/5 [TRIGGER_VISUAL] (épuisé)
+     2. Elekk migrateur 2/3 [TAUNT] (épuisé)
+     3. Nourrice du nid de raptors 2/2 [DEATHRATTLE] {Faune endémique} (épuisé)
+     4. Acolyte squelettique 2/4 {Faune endémique} (épuisé)
+   Main (4) :
+     1. carte cachée — en main depuis TURN=23
+     2. carte cachée — en main depuis TURN=23
+     3. carte cachée — en main depuis TURN=23
+     4. carte cachée — en main depuis TURN=24
+   Deck : 5 carte(s)
+   Dernier tour (TURN=26) : Niri du cratère (encore en jeu), Familier apprivoisé, Elekk migrateur (encore en jeu), Nourrice du nid de raptors (encore en jeu), Acolyte squelettique (encore en jeu)
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 25/30 PV +2 armure — mana 10/10
+   Pouvoir : Gain d’armure ! (2)
+   Plateau (4) :
+     1. Luisaile 3/2 (peut attaquer)
+     2. Dragon féerique 6/3 [CANT_BE_TARGETED_BY_SPELLS, CANT_BE_TARGETED_BY_HERO_POWERS, ELUSIVE] {À la pointe, Floraison} (peut attaquer)
+     3. Colporteur de pétales 1/4 [TRIGGER_VISUAL] (peut attaquer)
+     4. Glissedrake visionnaire 5/8 [CANT_BE_TARGETED_BY_SPELLS, CANT_BE_TARGETED_BY_HERO_POWERS, ELUSIVE] (peut attaquer)
+   Main (3) :
+     1. (4) Animatrice de stade 5/3 [base 3/3] (créée)
+     2. (7) Siamat 7/7 (créée)
+     3. (2) Gardien des couvées 2/3 ✦condition remplie (créée)
+   Deck : 12 carte(s)
+   Dernier tour (TURN=25) : Luisaile (encore en jeu), Glissedrake visionnaire (encore en jeu), Dragon féerique (encore en jeu), Colporteur de pétales (encore en jeu)
+
+Actions légales (serveur, options #99, révision 86, à jour) : 8 jouable(s) + fin de tour
+  - Jouer Animatrice de stade
+  - Jouer Siamat
+  - Jouer Gardien des couvées
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Luisaile → Elekk migrateur
+  - Attaquer avec Glissedrake visionnaire → Elekk migrateur
+  - Attaquer avec Dragon féerique → Elekk migrateur
+  - Attaquer avec Colporteur de pétales → Elekk migrateur
+
+Historique récent :
+  T13 vous joue Glissedrake visionnaire
+  T13 vous joue Dragon féerique
+  T13 vous joue Colporteur de pétales
+  T13 déclenchement Colporteur de pétales (vous)
+  — Tour 13 (TURN=26, adversaire) —
+  T13 adversaire joue Niri du cratère
+  T13 adversaire joue Familier apprivoisé
+  T13 adversaire joue Elekk migrateur
+  T13 adversaire joue Nourrice du nid de raptors
+  T13 adversaire joue Acolyte squelettique
+  T13 adversaire pouvoir héroïque Tir assuré
+  — Tour 14 (TURN=27, vous) —
+
+
+Actions légales :
+  - Jouer Animatrice de stade
+  - Jouer Siamat
+  - Jouer Gardien des couvées
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Luisaile → Elekk migrateur 2/3
+  - Attaquer avec Glissedrake visionnaire → Elekk migrateur 2/3
+  - Attaquer avec Dragon féerique → Elekk migrateur 2/3
+  - Attaquer avec Colporteur de pétales → Elekk migrateur 2/3
+  - Finir le tour

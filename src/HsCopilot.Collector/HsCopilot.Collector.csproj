@@ -1,0 +1,52 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <!--
+    Plugin HDT (Game Collector). HDT 1.59.x tourne sur .NET Framework 4.7.2 (HearthstoneDeckTracker.exe.config :
+    supportedRuntime .NETFramework,Version=v4.7.2). Compilation sans Visual Studio grâce au paquet
+    Microsoft.NETFramework.ReferenceAssemblies. Les assemblies de HDT ne sont jamais copiées (Private=false).
+  -->
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+    <OutputType>Library</OutputType>
+    <AssemblyName>HsCopilot.Collector</AssemblyName>
+    <RootNamespace>HsCopilot.Collector</RootNamespace>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <GenerateDocumentationFile>false</GenerateDocumentationFile>
+    <HDTInstallDir Condition="'$(HDTInstallDir)' == ''">$(LocalAppData)\HearthstoneDeckTracker\current</HDTInstallDir>
+    <AssemblyVersion>0.1.0.0</AssemblyVersion>
+    <FileVersion>0.1.0.0</FileVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies" Version="1.0.3" PrivateAssets="all" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="HearthstoneDeckTracker">
+      <HintPath>$(HDTInstallDir)\HearthstoneDeckTracker.exe</HintPath>
+      <Private>False</Private>
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="HearthDb">
+      <HintPath>$(HDTInstallDir)\HearthDb.dll</HintPath>
+      <Private>False</Private>
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>$(HDTInstallDir)\Newtonsoft.Json.dll</HintPath>
+      <Private>False</Private>
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System.Xaml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="..\Shared\PipeProtocol.cs" Link="PipeProtocol.cs" />
+  </ItemGroup>
+</Project>

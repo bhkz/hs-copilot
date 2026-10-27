@@ -1,0 +1,82 @@
+Position P79561396 — tour 7
+
+Mode GT_RANKED / FT_WILD — Tour 7 (TURN=13, vous) — étape MAIN_ACTION — premier joueur : vous
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+
+== ADVERSAIRE (PALADIN) — Uther le Porteur de Lumière 30/30 PV — mana 1/6
+   Pouvoir : Renfort (2) — utilisé
+   Plateau (1) :
+     1. Recrue de la Main d’argent 5/4 [DEATHRATTLE] {Héritage de Régis, Force} (épuisé)
+   Main (4) :
+     1. carte cachée — en main depuis TURN=1
+     2. carte cachée — en main depuis TURN=1
+     3. carte cachée — en main depuis TURN=2
+     4. carte cachée — en main depuis TURN=12
+   Deck : 20 carte(s)
+   Dernier tour (TURN=12) : Consécration
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 15/30 PV — mana 7/7
+   Pouvoir : Gain d’armure ! (2)
+   Plateau (1) :
+     1. Dragonnet du Vol infini 1/1 (max 4) [POISONOUS] (peut attaquer)
+   Main (4) :
+     1. (4) Animatrice de stade 7/3 [base 3/3]
+     2. (2) Luisaile 3/2
+     3. (2) Suffusion d’ombreflamme
+     4. (3) Avant-garde du portail 2/2
+   Deck : 20 carte(s)
+   Dernier tour (TURN=11) : Chronoseigneur Époque (n'est plus en jeu)
+
+Actions légales (serveur, options #45, révision 71, à jour) : 6 jouable(s) + fin de tour
+  - Jouer Animatrice de stade
+  - Jouer Luisaile
+  - Jouer Suffusion d’ombreflamme → Garrosh Hurlenfer (allié), Uther le Porteur de Lumière, Dragonnet du Vol infini (allié), Recrue de la Main d’argent
+  - Jouer Avant-garde du portail
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Dragonnet du Vol infini → Uther le Porteur de Lumière, Recrue de la Main d’argent
+
+Historique récent :
+  — Tour 6 (TURN=11, vous) —
+  T6 vous joue Chronoseigneur Époque : Recrue de la Main d’argent (détruit pendant l'action), Recrue de la Main d’argent (détruit pendant l'action)
+  T6 vous attaque : Garrosh Hurlenfer → Recrue de la Main d’argent
+  T6 morts : Recrue de la Main d’argent, Trancheuse cauchemardesque
+  T6 vous attaque : Dragonnet du Vol infini → Recrue de la Main d’argent
+  T6 morts : Recrue de la Main d’argent
+  — Tour 6 (TURN=12, adversaire) —
+  T6 adversaire joue Consécration : Dragonnet du Vol infini (détruit pendant l'action)
+  T6 adversaire attaque : Recrue de la Main d’argent → Chronoseigneur Époque
+  T6 morts : Recrue de la Main d’argent, Chronoseigneur Époque
+  T6 adversaire pouvoir héroïque Renfort
+  — Tour 7 (TURN=13, vous) —
+
+
+Actions légales :
+  - Jouer Animatrice de stade
+  - Jouer Luisaile
+  - Jouer Suffusion d’ombreflamme → Garrosh Hurlenfer (allié) (15 PV)
+  - Jouer Suffusion d’ombreflamme → Uther le Porteur de Lumière (30 PV)
+  - Jouer Suffusion d’ombreflamme → Dragonnet du Vol infini (allié) 1/1
+  - Jouer Suffusion d’ombreflamme → Recrue de la Main d’argent 5/4
+  - Jouer Avant-garde du portail
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Dragonnet du Vol infini → Uther le Porteur de Lumière (30 PV)
+  - Attaquer avec Dragonnet du Vol infini → Recrue de la Main d’argent 5/4
+  - Finir le tour
+
+
+=== Conseil X ===
+  action : Jouer Avant-garde du portail
+  résumé : Joue Avant-garde du portail sans cible pour connaître ta pioche avant d’engager les quatre manas restants.
+  raison : Avant-garde coûte 3 sur 7 manas et fournit un serviteur renforcé avant de choisir la suite. Le Dragonnet 1/1 avec Toxicité peut ensuite échanger contre la Recrue 5/4, supprimant ses 5 dégâts visibles. Selon la pioche, les 4 manas restants permettent un développement adapté ; Luisaile et Gain d’armure constituent une option prudente. L’Héritage de Régis restera toutefois transmissible à une future recrue.
+  suite prévue : Attaquer la Recrue avec le Dragonnet : Toxicité élimine la 5/4.
+  plan du tour suivant : Développer les Dragons et conserver une réponse aux prochaines recrues renforcées.
+  risque signalé : Retirer la Recrue actuelle n’empêche pas son râle d’agonie de renforcer la suivante.
+
+=== Conseil Y ===
+  action : Jouer Avant-garde du portail
+  résumé : Joue Avant-garde du portail, sans cible, pour piocher avant de choisir tes dépenses restantes.
+  raison : Avant-garde coûte 3 sur les 7 cristaux disponibles et apporte une pioche renforcée avant les autres dépenses. Le Dragonnet peut ensuite éliminer la Recrue 5/4 grâce à Toxicité, sans exposer tes 15 PV dans un échange avec le héros. Aucun bonus d’attaque utile n’est actuellement disponible. Selon la pioche, les 4 cristaux restants permettent notamment Luisaile et Gain d’armure.
+  suite prévue : Échanger le Dragonnet toxique contre la Recrue 5/4. ; Jouer Luisaile si la pioche ne fournit pas de meilleure option. ; Utiliser Gain d’armure si deux cristaux restent disponibles.
+  plan du tour suivant : Développer les Dragons tout en contenant les nouvelles recrues renforcées.
+  risque signalé : Le râle d’agonie de la Recrue transmet son enchantement à une prochaine recrue : l’échange réduit la pression immédiate seulement.

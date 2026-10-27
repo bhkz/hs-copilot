@@ -1,0 +1,72 @@
+Position P1ba3bc76 — tour 4
+
+Mode GT_RANKED / FT_STANDARD — Tour 4 (TURN=7, vous) — étape MAIN_ACTION — premier joueur : vous
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+
+== ADVERSAIRE (WARLOCK) — Méca-Jaraxxus 30/30 PV — mana 1/3
+   Pouvoir : Connexion (2)
+   Plateau (2) :
+     1. Brute de C’Thrax 3/5 [TAUNT] (épuisé)
+     2. Brute de C’Thrax 3/5 [TAUNT] (épuisé)
+   Main (4) :
+     1. carte cachée — en main depuis TURN=1
+     2. carte cachée — en main depuis TURN=1
+     3. carte cachée — en main depuis TURN=4
+     4. carte cachée — en main depuis TURN=6
+   Deck : 23 carte(s)
+   Quêtes/éléments publics : Rituel de C’Thun
+   Dernier tour (TURN=6) : Drain d’âme
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 30/30 PV — mana 1/4
+   Pouvoir : Gain d’armure ! (2)
+   Plateau (4) :
+     1. Sombre chevaucheur 1/1 (peut attaquer)
+     2. Sombre chevaucheur 1/1 (peut attaquer)
+     3. Informateur anonyme 6/7 {Beaux rêves} (peut attaquer)
+     4. Dragonnet du Vol infini 1/4 [POISONOUS, REBORN] (ne peut pas attaquer)
+   Main (4) :
+     1. (3) Avant-garde du portail 2/2
+     2. (8) Grommash Hurlenfer 4/9
+     3. (6) Chronoseigneur Époque 7/5
+     4. (2) Libération des Bêtes (créée)
+   Deck : 24 carte(s)
+   Dernier tour (TURN=5) : Mère des couvées sombrécaille (n'est plus en jeu), Informateur anonyme (encore en jeu)
+   Ce tour : Dragonnet du Vol infini
+
+Actions légales (serveur, options #19, révision 48, à jour) : 3 jouable(s) + fin de tour
+  - Attaquer avec Sombre chevaucheur → Brute de C’Thrax, Brute de C’Thrax
+  - Attaquer avec Sombre chevaucheur → Brute de C’Thrax, Brute de C’Thrax
+  - Attaquer avec Informateur anonyme → Brute de C’Thrax, Brute de C’Thrax
+
+Historique récent :
+  T3 déclenchement Atlas de Godfrey (adversaire)
+  T3 vous attaque : Sombre chevaucheur → Méca-Jaraxxus
+  T3 déclenchement Atlas de Godfrey (adversaire)
+  T3 déclenchement Atlas de Godfrey (adversaire)
+  — Tour 3 (TURN=6, adversaire) —
+  T3 déclenchement Rituel d’invocation (adversaire)
+  T3 déclenchement Rituel de C’Thun (adversaire)
+  T3 déclenchement Atlas de Godfrey (adversaire)
+  T3 adversaire joue Drain d’âme → Mère des couvées sombrécaille : Mère des couvées sombrécaille (détruit pendant l'action)
+  T3 déclenchement Atlas de Godfrey (adversaire)
+  — Tour 4 (TURN=7, vous) —
+  T4 vous joue Dragonnet du Vol infini
+
+
+Actions légales :
+  - Attaquer avec Sombre chevaucheur → Brute de C’Thrax 3/5
+  - Attaquer avec Sombre chevaucheur → Brute de C’Thrax 3/5
+  - Attaquer avec Sombre chevaucheur → Brute de C’Thrax 3/5
+  - Attaquer avec Sombre chevaucheur → Brute de C’Thrax 3/5
+  - Attaquer avec Informateur anonyme → Brute de C’Thrax 3/5
+  - Attaquer avec Informateur anonyme → Brute de C’Thrax 3/5
+  - Finir le tour
+
+
+Conseil donné en partie par HS Copilot :
+  action : Attaquer avec Informateur anonyme → Brute de C’Thrax 3/5
+  résumé : Attaque la Brute de C’Thrax avec l’Informateur anonyme pour éliminer une Provocation sans perdre ton Dragon.
+  raison : Ton Informateur survit en 6/4 ; les attaques des 1/1 seraient peu rentables.
+  suite prévue : []
+  plan : Envisager Avant-garde du portail puis Libération des Bêtes avec les cinq cristaux disponibles.

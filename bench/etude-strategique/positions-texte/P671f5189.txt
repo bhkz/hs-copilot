@@ -1,0 +1,89 @@
+Position P671f5189 — tour 9
+
+Mode GT_RANKED / FT_STANDARD — Tour 9 (TURN=18, vous) — étape MAIN_ACTION — premier joueur : adversaire
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+
+== ADVERSAIRE (DEATHKNIGHT) — Le roi-liche 15/30 PV — mana 0/9
+   Pouvoir : Goule assaillante (2)
+   Plateau (7) :
+     1. Tour de goules 4/1 (max 9) [TRIGGER_VISUAL] {Sang drainé, Sang drainé} (épuisé)
+     2. Fantassin ressuscité 1/3 [TAUNT] (épuisé)
+     3. Fantassin ressuscité 1/3 [TAUNT] (épuisé)
+     4. Commandante de la garde d’os 10/10 [TAUNT] {Sang drainé, Sang drainé} (épuisé)
+     5. Fantassin ressuscité 1/3 [TAUNT] (épuisé)
+     6. Fantassin ressuscité 1/3 [TAUNT] (épuisé)
+     7. Ramasse-cadavres 1/3 (épuisé)
+   Main (3) :
+     1. carte cachée — en main depuis TURN=11
+     2. carte cachée — en main depuis TURN=15
+     3. carte cachée — en main depuis TURN=15
+   Deck : 17 carte(s)
+   Dernier tour (TURN=17) : Ramasse-cadavres (encore en jeu), Commandante de la garde d’os (encore en jeu)
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 16/30 PV +5 armure — mana 9/9
+   Pouvoir : Gain d’armure ! (2)
+   Plateau (2) :
+     1. Profondeurs Sanguines 3 charge(s) (activable)
+     2. Wyrm du pic venteux 6/3 (max 6) (peut attaquer)
+   Main (7) :
+     1. (3) Avant-garde du portail 4/2 [base 2/2]
+     2. (0) La pièce (créée)
+     3. (3) Avant-garde du portail 4/2 [base 2/2]
+     4. (8) Grommash Hurlenfer 6/9 [base 4/9]
+     5. (1) Voyante distordue par le temps 1/3
+     6. (2) Mage de sang Thalnos 1/1 (créée)
+     7. (4) Animatrice de stade 3/3
+   Deck : 16 carte(s)
+   Dernier tour (TURN=16) : Wyrm du pic venteux (encore en jeu), Luisaile (n'est plus en jeu)
+
+Actions légales (serveur, options #70, révision 116, à jour) : 10 jouable(s) + fin de tour
+  - Jouer La pièce
+  - Jouer Avant-garde du portail
+  - Jouer Avant-garde du portail
+  - Jouer Grommash Hurlenfer
+  - Jouer Voyante distordue par le temps
+  - Jouer Mage de sang Thalnos
+  - Jouer Animatrice de stade
+  - Pouvoir héroïque Gain d’armure !
+  - Activer le lieu Profondeurs Sanguines → Tour de goules, Wyrm du pic venteux (allié), Ramasse-cadavres, Commandante de la garde d’os, Fantassin ressuscité, Fantassin ressuscité, Fantassin ressuscité, Fantassin ressuscité
+  - Attaquer avec Wyrm du pic venteux → Commandante de la garde d’os, Fantassin ressuscité, Fantassin ressuscité, Fantassin ressuscité, Fantassin ressuscité
+
+Historique récent :
+  T9 adversaire joue Ramasse-cadavres
+  T9 adversaire attaque : Thassarian → Wyrm du pic venteux
+  T9 morts : Thassarian
+  T9 déclenchement Thassarian (adversaire)
+  T9 adversaire attaque : Tour de goules → Néantiseur
+  T9 morts : Néantiseur
+  T9 adversaire attaque : Goule fragile → Luisaile
+  T9 morts : Goule fragile
+  T9 adversaire attaque : Goule fragile → Luisaile
+  T9 morts : Luisaile, Goule fragile
+  T9 adversaire joue Commandante de la garde d’os
+  — Tour 9 (TURN=18, vous) —
+
+
+Actions légales :
+  - Jouer La pièce
+  - Jouer Avant-garde du portail
+  - Jouer Avant-garde du portail
+  - Jouer Grommash Hurlenfer
+  - Jouer Voyante distordue par le temps
+  - Jouer Mage de sang Thalnos
+  - Jouer Animatrice de stade
+  - Pouvoir héroïque Gain d’armure !
+  - Activer Profondeurs Sanguines → Tour de goules 4/1
+  - Activer Profondeurs Sanguines → Wyrm du pic venteux (allié) 6/3
+  - Activer Profondeurs Sanguines → Ramasse-cadavres 1/3
+  - Activer Profondeurs Sanguines → Commandante de la garde d’os 10/10
+  - Activer Profondeurs Sanguines → Fantassin ressuscité 1/3
+  - Activer Profondeurs Sanguines → Fantassin ressuscité 1/3
+  - Activer Profondeurs Sanguines → Fantassin ressuscité 1/3
+  - Activer Profondeurs Sanguines → Fantassin ressuscité 1/3
+  - Attaquer avec Wyrm du pic venteux → Commandante de la garde d’os 10/10
+  - Attaquer avec Wyrm du pic venteux → Fantassin ressuscité 1/3
+  - Attaquer avec Wyrm du pic venteux → Fantassin ressuscité 1/3
+  - Attaquer avec Wyrm du pic venteux → Fantassin ressuscité 1/3
+  - Attaquer avec Wyrm du pic venteux → Fantassin ressuscité 1/3
+  - Finir le tour

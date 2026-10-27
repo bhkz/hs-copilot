@@ -1,0 +1,26 @@
+{
+  "createdUtc": "2026-10-26T11:03:52.631467Z",
+  "updatedUtc": "2026-10-26T11:03:52.631529Z",
+  "casesSource": "bench/etude-strategique/positions-benchmark.jsonl",
+  "casesFingerprint": "3153321989f9",
+  "caseCount": 25,
+  "variants": [
+    "gpt-6.1-sol:medium+local",
+    "gpt-6.1-sol:medium+local+danger"
+  ],
+  "instructionsFingerprint": "f313f7c17a59",
+  "strategyFingerprint": "589c3f3f50f9",
+  "historyItems": 25,
+  "concurrency": 1,
+  "budgetUsd": 0.95,
+  "maxOutputTokens": 24000,
+  "prices": {
+    "gpt-6.1-sol": {
+      "input": 2,
+      "cachedInput": 0.1,
+      "output": 10,
+      "source": "developers.openai.com et annonce GPT-6.1 Sol, 25/10/2026"
+    }
+  },
+  "note": "Le coup réellement joué sert d'étiquette d'évaluation et n'est jamais transmis au modèle."
+}

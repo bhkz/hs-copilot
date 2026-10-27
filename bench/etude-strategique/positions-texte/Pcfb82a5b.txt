@@ -1,0 +1,82 @@
+Position Pcfb82a5b — tour 8
+
+Mode GT_RANKED / FT_STANDARD — Tour 8 (TURN=16, vous) — étape MAIN_ACTION — premier joueur : adversaire
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+
+== ADVERSAIRE (PRIEST) — Zek’voz 11/30 PV — mana 1/8
+   Pouvoir : Bénédiction de la lune (2)
+   Plateau (5) :
+     1. Diacre obscur 3/2 (épuisé)
+     2. Aile du Vide 9/11 [TAUNT, LIFESTEAL, REBORN] {Hantise, Hantise} (épuisé)
+     3. Aile du Vide 5/5 [LIFESTEAL] (épuisé)
+     4. Aile du Vide 5/5 [LIFESTEAL] (épuisé)
+     5. Aile du Vide 5/5 [LIFESTEAL] (épuisé)
+   Main (3) :
+     1. carte cachée — en main depuis TURN=5
+     2. carte cachée — en main depuis TURN=13
+     3. carte cachée — en main depuis TURN=15
+   Deck : 17 carte(s)
+   Dernier tour (TURN=15) : Mot ancien : Manifestation, Diacre obscur (encore en jeu), Hanter
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 27/30 PV — mana 8/8
+   Pouvoir : Gain d’armure ! (2)
+   Plateau (4) :
+     1. Glissedrake visionnaire 9/1 (max 10) [CANT_BE_TARGETED_BY_SPELLS, CANT_BE_TARGETED_BY_HERO_POWERS, ELUSIVE] {Garde du temps, Faveur de Tombe-Vice} (peut attaquer)
+     2. Chronoseigneur Époque 10/4 (max 5) [LIFESTEAL] {Terreur en éveil} (peut attaquer)
+     3. Profondeurs Sanguines 2 charge(s) (non activable)
+     4. Chronoseigneur Époque 7/5 (peut attaquer)
+   Main (5) :
+     1. (4) Animatrice de stade 3/3
+     2. (5) Guerrière du Vol infini 3/5 (créée)
+     3. (3) Dragonnet du Vol infini 1/4
+     4. (1) Voyante distordue par le temps 1/3
+     5. (2) Frappe anticipée ✦condition remplie
+   Deck : 17 carte(s)
+   Dernier tour (TURN=14) : Chronoseigneur Époque (encore en jeu), Profondeurs Sanguines
+
+Actions légales (serveur, options #59, révision 117, à jour) : 9 jouable(s) + fin de tour
+  - Jouer Animatrice de stade
+  - Jouer Guerrière du Vol infini
+  - Jouer Dragonnet du Vol infini
+  - Jouer Voyante distordue par le temps
+  - Jouer Frappe anticipée → Garrosh Hurlenfer (allié), Zek’voz, Chronoseigneur Époque (allié), Chronoseigneur Époque (allié), Aile du Vide, Aile du Vide, Diacre obscur, Aile du Vide, Aile du Vide
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Glissedrake visionnaire → Aile du Vide
+  - Attaquer avec Chronoseigneur Époque → Aile du Vide
+  - Attaquer avec Chronoseigneur Époque → Aile du Vide
+
+Historique récent :
+  — Tour 7 (TURN=14, vous) —
+  T7 vous joue Chronoseigneur Époque : Tyrande (détruit pendant l'action)
+  T7 vous joue Profondeurs Sanguines
+  T7 vous active le lieu Profondeurs Sanguines → Glissedrake visionnaire
+  T7 vous attaque : Glissedrake visionnaire → Zek’voz
+  T7 vous attaque : Chronoseigneur Époque → Zek’voz
+  — Tour 8 (TURN=15, adversaire) —
+  T8 adversaire joue Mot ancien : Manifestation
+  T8 adversaire joue Diacre obscur
+  T8 choix adversaire (choix adverse (GENERAL))
+  T8 adversaire joue Hanter → Aile du Vide
+  — Tour 8 (TURN=16, vous) —
+
+
+Actions légales :
+  - Jouer Animatrice de stade
+  - Jouer Guerrière du Vol infini
+  - Jouer Dragonnet du Vol infini
+  - Jouer Voyante distordue par le temps
+  - Jouer Frappe anticipée → Garrosh Hurlenfer (allié) (27 PV)
+  - Jouer Frappe anticipée → Zek’voz (11 PV)
+  - Jouer Frappe anticipée → Chronoseigneur Époque (allié) 10/4
+  - Jouer Frappe anticipée → Chronoseigneur Époque (allié) 7/5
+  - Jouer Frappe anticipée → Aile du Vide 9/11
+  - Jouer Frappe anticipée → Aile du Vide 5/5
+  - Jouer Frappe anticipée → Diacre obscur 3/2
+  - Jouer Frappe anticipée → Aile du Vide 5/5
+  - Jouer Frappe anticipée → Aile du Vide 5/5
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Glissedrake visionnaire → Aile du Vide 9/11
+  - Attaquer avec Chronoseigneur Époque → Aile du Vide 9/11
+  - Attaquer avec Chronoseigneur Époque → Aile du Vide 9/11
+  - Finir le tour

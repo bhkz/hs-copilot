@@ -1,0 +1,79 @@
+Position P35b7c9ae — tour 5
+
+Mode GT_RANKED / FT_STANDARD — Tour 5 (TURN=9, vous) — étape MAIN_ACTION — premier joueur : vous
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+
+== ADVERSAIRE (DEMONHUNTER) — Illidan Hurlorage 27/30 PV — mana 3/4
+   Pouvoir : Griffes de démon (1) — utilisé
+   Plateau (1) :
+     1. Prototype instable 0/1 [DEATHRATTLE]
+   Main (5) :
+     1. carte cachée — en main depuis TURN=2
+     2. carte cachée — en main depuis TURN=4
+     3. carte cachée — en main depuis TURN=6
+     4. carte cachée — en main depuis TURN=6
+     5. carte cachée — en main depuis TURN=8
+   Deck : 22 carte(s)
+   Dernier tour (TURN=8) : aucune carte jouée
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 30/30 PV — mana 5/5
+   Pouvoir : Gain d’armure ! (2)
+   Plateau (4) :
+     1. Dragonnet du Vol infini 1/1 (max 4) [POISONOUS] (peut attaquer)
+     2. Profondeurs Sanguines 2 charge(s) (non activable)
+     3. Sombre chevaucheur 1/1 (peut attaquer)
+     4. Voyante distordue par le temps 1/3 (peut attaquer)
+   Main (5) :
+     1. (4) Animatrice de stade 3/3
+     2. (5) Héritière de l’au-delà 5/6 [base 2/6] (créée)
+     3. (8) Le Grand Dracorex 5/12
+     4. (6, base 8) Wyrm du pic venteux 6/6 ✦condition remplie
+     5. (3) Forgeron dimensionnel 2/5
+   Deck : 21 carte(s)
+   Dernier tour (TURN=7) : Frappe anticipée, Voyante distordue par le temps (encore en jeu)
+
+Actions légales (serveur, options #26, révision 55, à jour) : 7 jouable(s) + fin de tour
+  - Jouer Animatrice de stade
+  - Jouer Héritière de l’au-delà
+  - Jouer Forgeron dimensionnel
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Sombre chevaucheur → Illidan Hurlorage, Prototype instable
+  - Attaquer avec Voyante distordue par le temps → Illidan Hurlorage, Prototype instable
+  - Attaquer avec Dragonnet du Vol infini → Illidan Hurlorage, Prototype instable
+
+Historique récent :
+  T4 vous joue Frappe anticipée → T0ut0u
+  T4 vous active le lieu Profondeurs Sanguines → T0ut0u
+  T4 vous attaque : Dragonnet du Vol infini → Wyrm primordial
+  T4 morts : Wyrm primordial
+  T4 vous joue Voyante distordue par le temps
+  T4 vous attaque : Sombre chevaucheur → Illidan Hurlorage
+  — Tour 4 (TURN=8, adversaire) —
+  T4 adversaire pouvoir héroïque Griffes de démon
+  T4 adversaire attaque : Illidan Hurlorage → Dragonnet du Vol infini
+  T4 morts : Dragonnet du Vol infini
+  T4 déclenchement Attaque supplémentaire (adversaire)
+  — Tour 5 (TURN=9, vous) —
+
+
+Actions légales :
+  - Jouer Animatrice de stade
+  - Jouer Héritière de l’au-delà
+  - Jouer Forgeron dimensionnel
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Sombre chevaucheur → Illidan Hurlorage (27 PV)
+  - Attaquer avec Sombre chevaucheur → Prototype instable 0/1
+  - Attaquer avec Voyante distordue par le temps → Illidan Hurlorage (27 PV)
+  - Attaquer avec Voyante distordue par le temps → Prototype instable 0/1
+  - Attaquer avec Dragonnet du Vol infini → Illidan Hurlorage (27 PV)
+  - Attaquer avec Dragonnet du Vol infini → Prototype instable 0/1
+  - Finir le tour
+
+
+Conseil donné en partie par HS Copilot :
+  action : Jouer Héritière de l’au-delà
+  résumé : Joue Héritière de l’au-delà sans cible : le Dragonnet blessé la renforce en 7/8.
+  raison : Développe une grosse menace avec Provocation et Vol de vie, tout en préparant Parenté.
+  suite prévue : ['Attaquer Illidan avec le Dragonnet du Vol infini.', 'Attaquer Illidan avec Sombre chevaucheur.', 'Attaquer Illidan avec la Voyante distordue par le temps.']
+  plan : Envisager le Wyrm à 6 mana pour supprimer une menace ou accentuer la pression.

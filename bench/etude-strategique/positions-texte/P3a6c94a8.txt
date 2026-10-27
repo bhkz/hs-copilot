@@ -1,0 +1,85 @@
+Position P3a6c94a8 — tour 6
+
+Mode GT_RANKED / FT_WILD — Tour 6 (TURN=11, vous) — étape MAIN_ACTION — premier joueur : vous
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+
+== ADVERSAIRE (PALADIN) — Uther le Porteur de Lumière 30/30 PV — mana 0/5
+   Pouvoir : Renfort (2)
+   Plateau (5) :
+     1. Recrue de la Main d’argent 6/5 [DEATHRATTLE] {Force, Héritage de Régis, Convocation des jurés} (épuisé)
+     2. Recrue de la Main d’argent 3/2 {Force, Convocation des jurés} (épuisé)
+     3. Recrue de la Main d’argent 3/2 {Force, Convocation des jurés} (épuisé)
+     4. Recrue de la Main d’argent 3/2 {Force, Convocation des jurés} (épuisé)
+     5. Recrue de la Main d’argent 3/2 {Force, Convocation des jurés} (épuisé)
+   Main (4) :
+     1. carte cachée — en main depuis TURN=1
+     2. carte cachée — en main depuis TURN=1
+     3. carte cachée — en main depuis TURN=2
+     4. carte cachée — en main depuis TURN=4
+   Deck : 21 carte(s)
+   Dernier tour (TURN=10) : Recrue de la Main d’argent (encore en jeu), Recrue de la Main d’argent (encore en jeu), Fonctions de juré
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 20/30 PV, 2 ATQ — mana 6/6
+   Pouvoir : Gain d’armure ! (2)
+   Arme : Trancheuse cauchemardesque 2/1
+   Plateau (1) :
+     1. Dragonnet du Vol infini 5/4 [POISONOUS, REBORN] {À la pointe, À la pointe} (peut attaquer)
+   Main (4) :
+     1. (4) Animatrice de stade 7/3 [base 3/3]
+     2. (6) Chronoseigneur Époque 11/5 [base 7/5]
+     3. (2) Luisaile 3/2
+     4. (2) Suffusion d’ombreflamme
+   Deck : 21 carte(s)
+   Dernier tour (TURN=9) : Gardien des couvées (n'est plus en jeu), Dragonnet du Vol infini (encore en jeu)
+
+Actions légales (serveur, options #37, révision 59, à jour) : 7 jouable(s) + fin de tour
+  - Jouer Animatrice de stade
+  - Jouer Chronoseigneur Époque
+  - Jouer Luisaile
+  - Jouer Suffusion d’ombreflamme → Garrosh Hurlenfer (allié), Uther le Porteur de Lumière, Recrue de la Main d’argent, Dragonnet du Vol infini (allié), Recrue de la Main d’argent, Recrue de la Main d’argent, Recrue de la Main d’argent, Recrue de la Main d’argent
+  - Attaquer avec Garrosh Hurlenfer → Uther le Porteur de Lumière, Recrue de la Main d’argent, Recrue de la Main d’argent, Recrue de la Main d’argent, Recrue de la Main d’argent, Recrue de la Main d’argent
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Dragonnet du Vol infini → Uther le Porteur de Lumière, Recrue de la Main d’argent, Recrue de la Main d’argent, Recrue de la Main d’argent, Recrue de la Main d’argent, Recrue de la Main d’argent
+
+Historique récent :
+  T5 morts : Sous-cheffe immorale
+  T5 déclenchement Sous-cheffe immorale (adversaire)
+  — Tour 5 (TURN=10, adversaire) —
+  T5 adversaire attaque : Régis, le régisseur → Forgeron dimensionnel
+  T5 morts : Régis, le régisseur, Forgeron dimensionnel
+  T5 déclenchement Régis, le régisseur (adversaire)
+  T5 adversaire joue Recrue de la Main d’argent
+  T5 adversaire joue Recrue de la Main d’argent
+  T5 adversaire joue Fonctions de juré
+  T5 adversaire attaque : Recrue de la Main d’argent → Gardien des couvées
+  T5 morts : Gardien des couvées
+  — Tour 6 (TURN=11, vous) —
+
+
+Actions légales :
+  - Jouer Animatrice de stade
+  - Jouer Chronoseigneur Époque
+  - Jouer Luisaile
+  - Jouer Suffusion d’ombreflamme → Garrosh Hurlenfer (allié) (20 PV)
+  - Jouer Suffusion d’ombreflamme → Uther le Porteur de Lumière (30 PV)
+  - Jouer Suffusion d’ombreflamme → Recrue de la Main d’argent 3/2
+  - Jouer Suffusion d’ombreflamme → Dragonnet du Vol infini (allié) 5/4
+  - Jouer Suffusion d’ombreflamme → Recrue de la Main d’argent 6/5
+  - Jouer Suffusion d’ombreflamme → Recrue de la Main d’argent 3/2
+  - Jouer Suffusion d’ombreflamme → Recrue de la Main d’argent 3/2
+  - Jouer Suffusion d’ombreflamme → Recrue de la Main d’argent 3/2
+  - Attaquer avec Garrosh Hurlenfer → Uther le Porteur de Lumière (30 PV)
+  - Attaquer avec Garrosh Hurlenfer → Recrue de la Main d’argent 3/2
+  - Attaquer avec Garrosh Hurlenfer → Recrue de la Main d’argent 6/5
+  - Attaquer avec Garrosh Hurlenfer → Recrue de la Main d’argent 3/2
+  - Attaquer avec Garrosh Hurlenfer → Recrue de la Main d’argent 3/2
+  - Attaquer avec Garrosh Hurlenfer → Recrue de la Main d’argent 3/2
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Dragonnet du Vol infini → Uther le Porteur de Lumière (30 PV)
+  - Attaquer avec Dragonnet du Vol infini → Recrue de la Main d’argent 3/2
+  - Attaquer avec Dragonnet du Vol infini → Recrue de la Main d’argent 6/5
+  - Attaquer avec Dragonnet du Vol infini → Recrue de la Main d’argent 3/2
+  - Attaquer avec Dragonnet du Vol infini → Recrue de la Main d’argent 3/2
+  - Attaquer avec Dragonnet du Vol infini → Recrue de la Main d’argent 3/2
+  - Finir le tour

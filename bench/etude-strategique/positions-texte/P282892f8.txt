@@ -1,0 +1,67 @@
+Position P282892f8 — tour 8
+
+Mode GT_RANKED / FT_WILD — Tour 8 (TURN=15, vous) — étape MAIN_ACTION — premier joueur : vous
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+  [info] Rembobinage : l'état a été reconstruit à partir de l'instantané envoyé par le serveur.
+  [warning] Entité créée deux fois (flux rejoué ou désordonné).
+
+== ADVERSAIRE (HUNTER) — Rexxar 17/30 PV — mana 0/7
+   Pouvoir : Tir assuré (2)
+   Plateau (1) :
+     1. Trotteur de Sombrelune 3/1 (max 3) (épuisé)
+   Main (3) :
+     1. carte cachée — en main depuis TURN=9
+     2. carte cachée — en main depuis TURN=9
+     3. carte cachée — en main depuis TURN=10
+   Deck : 17 carte(s)
+   Dernier tour (TURN=14) : Études cadavériques, Fichu élémentaire (n'est plus en jeu), Mini-ferme
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 10/30 PV +8 armure — mana 0/8
+   Pouvoir : Gain d’armure ! (2)
+   Plateau (4) :
+     1. Grommash Hurlenfer 12/7 (max 9) [CHARGE, ENRAGED] {À la pointe, Enragé} (peut attaquer)
+     2. Wyrm du pic venteux 8/3 (max 10) [TAUNT] {Posture de défense, À la pointe} (ne peut pas attaquer)
+     3. Wyrm du pic venteux 8/4 (max 8) {Garde du temps} (peut attaquer)
+     4. Profondeurs Sanguines 3 charge(s) (activable)
+   Main (6) :
+     1. (6) Chronoseigneur Époque 9/5 [base 7/5]
+     2. (3) Avant-garde du portail 4/2 [base 2/2]
+     3. (4, base 7) Glissedrake visionnaire 5/8 ✦condition remplie
+     4. (5, base 3) Forgeron dimensionnel 2/5
+     5. (1) Sombre chevaucheur 1/1 ✦condition remplie
+     6. (2) Colporteur de pétales 1/4
+   Deck : 17 carte(s)
+   Dernier tour (TURN=13) : Wyrm du pic venteux (encore en jeu), Profondeurs Sanguines
+   Ce tour : Grommash Hurlenfer
+
+Actions légales (serveur, options #52, révision 100, à jour) : 3 jouable(s) + fin de tour
+  - Attaquer avec Wyrm du pic venteux → Rexxar, Trotteur de Sombrelune
+  - Activer le lieu Profondeurs Sanguines → Wyrm du pic venteux (allié), Wyrm du pic venteux (allié), Trotteur de Sombrelune, Grommash Hurlenfer (allié)
+  - Attaquer avec Grommash Hurlenfer → Rexxar, Trotteur de Sombrelune
+
+Historique récent :
+  T7 morts : Gardien des couvées, Avant-garde du portail
+  T7 vous attaque : Wyrm du pic venteux → Rexxar
+  — Tour 7 (TURN=14, adversaire) —
+  T7 adversaire joue Études cadavériques
+  T7 choix adversaire (choix adverse (GENERAL))
+  T7 adversaire joue Fichu élémentaire
+  T7 adversaire joue Mini-ferme
+  — Tour 8 (TURN=15, vous) —
+  T8 vous joue Grommash Hurlenfer
+  T8 vous attaque : Wyrm du pic venteux → Fichu élémentaire
+  T8 morts : Fichu élémentaire
+  T8 déclenchement Fichu élémentaire (adversaire)
+
+
+Actions légales :
+  - Attaquer avec Wyrm du pic venteux → Rexxar (17 PV)
+  - Attaquer avec Wyrm du pic venteux → Trotteur de Sombrelune 3/1
+  - Activer Profondeurs Sanguines → Wyrm du pic venteux (allié) 8/4
+  - Activer Profondeurs Sanguines → Wyrm du pic venteux (allié) 8/3
+  - Activer Profondeurs Sanguines → Trotteur de Sombrelune 3/1
+  - Activer Profondeurs Sanguines → Grommash Hurlenfer (allié) 12/7
+  - Attaquer avec Grommash Hurlenfer → Rexxar (17 PV)
+  - Attaquer avec Grommash Hurlenfer → Trotteur de Sombrelune 3/1
+  - Finir le tour

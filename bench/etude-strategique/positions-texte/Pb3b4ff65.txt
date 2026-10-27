@@ -1,0 +1,64 @@
+Position Pb3b4ff65 — tour 3
+
+Mode GT_RANKED / FT_STANDARD — Tour 3 (TURN=6, vous) — étape MAIN_ACTION — premier joueur : adversaire
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+
+== ADVERSAIRE (WARRIOR) — Garrosh, roi des pirates 30/30 PV +4 armure — mana 1/3
+   Pouvoir : Gain d’armure ! (2)
+   Plateau (0) :
+   Main (6) :
+     1. carte cachée — en main depuis TURN=1
+     2. carte cachée — en main depuis TURN=1
+     3. Lardeur, briseur de chaînes (vue publiquement) — en main depuis TURN=3
+     4. carte cachée — en main depuis TURN=3
+     5. carte cachée — en main depuis TURN=5
+     6. carte cachée — en main depuis TURN=5
+   Deck : 45 carte(s)
+   Dernier tour (TURN=5) : Suffusion d’ombreflamme
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 30/30 PV — mana 3/3
+   Pouvoir : Gain d’armure ! (2)
+   Plateau (1) :
+     1. Forgeron dimensionnel 2/5 (peut attaquer)
+   Main (6) :
+     1. (2) Luisaile 5/2 [base 3/2]
+     2. (3) Avant-garde du portail 4/2 [base 2/2]
+     3. (2) Colporteur de pétales 3/4 [base 1/4]
+     4. (5) Drake terrestre 6/4 [base 4/4] (créée)
+     5. (3) Dragonnet du Vol infini 3/4 [base 1/4]
+     6. (6, base 8) Wyrm du pic venteux 6/6 ✦condition remplie
+   Deck : 23 carte(s)
+   Dernier tour (TURN=4) : La pièce, Forgeron dimensionnel (encore en jeu)
+
+Actions légales (serveur, options #12, révision 33, à jour) : 6 jouable(s) + fin de tour
+  - Jouer Luisaile
+  - Jouer Avant-garde du portail
+  - Jouer Colporteur de pétales
+  - Jouer Dragonnet du Vol infini
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Forgeron dimensionnel → Garrosh, roi des pirates
+
+Historique récent :
+  T1 vous joue Sombre chevaucheur
+  T1 choix vous (GENERAL) : Serpent-nuage (proposée), Aile de l’effroi tourmentée (proposée), Drake terrestre (choisie)
+  — Tour 2 (TURN=3, adversaire) —
+  T2 adversaire joue Maîtrise du blocage
+  — Tour 2 (TURN=4, vous) —
+  T2 vous joue La pièce
+  T2 vous joue Forgeron dimensionnel
+  T2 vous attaque : Sombre chevaucheur → Garrosh, roi des pirates
+  — Tour 3 (TURN=5, adversaire) —
+  T3 adversaire joue Suffusion d’ombreflamme → Sombre chevaucheur : Sombre chevaucheur (détruit pendant l'action)
+  T3 choix adversaire (choix adverse (GENERAL))
+  — Tour 3 (TURN=6, vous) —
+
+
+Actions légales :
+  - Jouer Luisaile
+  - Jouer Avant-garde du portail
+  - Jouer Colporteur de pétales
+  - Jouer Dragonnet du Vol infini
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Forgeron dimensionnel → Garrosh, roi des pirates (30 PV + 4 armure)
+  - Finir le tour

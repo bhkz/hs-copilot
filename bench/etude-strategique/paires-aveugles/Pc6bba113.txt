@@ -1,0 +1,94 @@
+Position Pc6bba113 — tour 3
+
+Mode GT_RANKED / FT_WILD — Tour 3 (TURN=6, vous) — étape MAIN_ACTION — premier joueur : adversaire
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+
+== ADVERSAIRE (SHAMAN) — Thrall 30/30 PV — mana 0/3
+   Pouvoir : Appel totémique (2) — utilisé
+   Plateau (2) :
+     1. Oracle sinistrécaille 1/1 [AURA] (épuisé)
+     2. Totem de griffes de pierre 0/2 [TAUNT] (épuisé)
+   Main (4) :
+     1. carte cachée — en main depuis TURN=1
+     2. carte cachée — en main depuis TURN=1
+     3. carte cachée — en main depuis TURN=3
+     4. carte cachée — en main depuis TURN=5
+   Deck : 24 carte(s)
+   Dernier tour (TURN=5) : Oracle sinistrécaille (encore en jeu)
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 30/30 PV — mana 3/3
+   Pouvoir : Gain d’armure ! (2)
+   Plateau (1) :
+     1. Gorgonzormu 3/3 {Cauchemar vivant} (peut attaquer)
+   Main (7) :
+     1. (1) Voyante distordue par le temps 1/3
+     2. (3) Forgeron dimensionnel 2/5
+     3. (2) Suffusion d’ombreflamme
+     4. (6) Chronoseigneur Époque 7/5
+     5. (2) Frappe anticipée ✦condition remplie
+     6. (2) Fromage savoureux (créée)
+     7. (2) Luisaile 3/2
+   Deck : 23 carte(s)
+   Dernier tour (TURN=4) : La pièce, Gorgonzormu (encore en jeu)
+
+Actions légales (serveur, options #14, révision 32, à jour) : 8 jouable(s) + fin de tour
+  - Jouer Voyante distordue par le temps
+  - Jouer Forgeron dimensionnel
+  - Jouer Suffusion d’ombreflamme → Garrosh Hurlenfer (allié), Thrall, Gorgonzormu (allié), Oracle sinistrécaille, Totem de griffes de pierre
+  - Jouer Frappe anticipée → Garrosh Hurlenfer (allié), Thrall, Gorgonzormu (allié), Oracle sinistrécaille, Totem de griffes de pierre
+  - Jouer Fromage savoureux
+  - Jouer Luisaile
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Gorgonzormu → Totem de griffes de pierre
+
+Historique récent :
+  — Tour 2 (TURN=4, vous) —
+  T2 vous joue La pièce
+  T2 vous joue Gorgonzormu
+  T2 vous attaque : Sombre chevaucheur → Chasse-marée murloc
+  T2 morts : Sombre chevaucheur, Chasse-marée murloc
+  T2 déclenchement Fromage savoureux (vous)
+  — Tour 3 (TURN=5, adversaire) —
+  T3 adversaire joue Oracle sinistrécaille
+  T3 adversaire pouvoir héroïque Appel totémique
+  T3 adversaire attaque : Éclaireur murloc → Gorgonzormu
+  T3 morts : Éclaireur murloc, Gorgonzormu
+  — Tour 3 (TURN=6, vous) —
+
+
+Actions légales :
+  - Jouer Voyante distordue par le temps
+  - Jouer Forgeron dimensionnel
+  - Jouer Suffusion d’ombreflamme → Garrosh Hurlenfer (allié) (30 PV)
+  - Jouer Suffusion d’ombreflamme → Thrall (30 PV)
+  - Jouer Suffusion d’ombreflamme → Gorgonzormu (allié) 3/3
+  - Jouer Suffusion d’ombreflamme → Oracle sinistrécaille 1/1
+  - Jouer Suffusion d’ombreflamme → Totem de griffes de pierre 0/2
+  - Jouer Frappe anticipée → Garrosh Hurlenfer (allié) (30 PV)
+  - Jouer Frappe anticipée → Thrall (30 PV)
+  - Jouer Frappe anticipée → Gorgonzormu (allié) 3/3
+  - Jouer Frappe anticipée → Oracle sinistrécaille 1/1
+  - Jouer Frappe anticipée → Totem de griffes de pierre 0/2
+  - Jouer Fromage savoureux
+  - Jouer Luisaile
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Gorgonzormu → Totem de griffes de pierre 0/2
+  - Finir le tour
+
+
+=== Conseil X ===
+  action : Jouer Forgeron dimensionnel
+  résumé : Joue Forgeron dimensionnel sans cible, puis attaque le Totem de griffes de pierre avec Gorgonzormu.
+  raison : Le Forgeron utilise les 3 cristaux et donne +2 ATQ à la Voyante, à Époque et à Luisaile en main. Gorgonzormu peut ensuite détruire gratuitement le Totem 0/2 et rester à 3 PV. À 30 PV face à seulement 1 ATQ visible, développer le plateau paraît préférable à dépenser un sort de gestion.
+  suite prévue : Attaquer le Totem de griffes de pierre avec Gorgonzormu.
+  plan du tour suivant : Développer les Dragons renforcés et éliminer l’Oracle si les Murlocs deviennent menaçants.
+  risque signalé : Laisser l’Oracle en vie permet à d’éventuels nouveaux Murlocs de profiter de son bonus d’attaque.
+
+=== Conseil Y ===
+  action : Jouer Forgeron dimensionnel
+  résumé : Joue Forgeron dimensionnel pour renforcer ta main, puis attaque le Totem de griffes de pierre avec Gorgonzormu.
+  raison : Le Forgeron utilise les 3 cristaux et donne +2 ATQ à la Voyante, à Luisaile et à Chronoseigneur Époque en main. Gorgonzormu peut ensuite éliminer gratuitement le Totem 0/2 et rester à 3 PV. Avec seulement 1 dégât adverse visible, développer le plateau paraît préférable à dépenser un sort sur l’Oracle. Le Fromage reste disponible pour un tour ultérieur.
+  suite prévue : Attaquer le Totem de griffes de pierre avec Gorgonzormu.
+  plan du tour suivant : Déployer Luisaile et la Voyante renforcées selon le plateau adverse.
+  risque signalé : Laisser l’Oracle peut favoriser une sortie Murlocs adverse ; réévaluer cette menace au prochain tour.

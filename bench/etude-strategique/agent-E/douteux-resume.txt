@@ -1,0 +1,14 @@
+conseils appariés à une action légale : 802 ; signalés : 63
+    36  FIN_DE_TOUR_PREMATUREE (à vérifier) / modèle
+     9  HEROS_ATTAQUE_SANS_TUER (à vérifier) / modèle
+     7  LETAL_IGNORE (à vérifier) / solveur
+     2  FRAPPE_SANS_PIOCHE (info) / solveur
+     1  ECHANGE_PERDANT (douteux) / modèle
+     1  PROFONDEURS_SUR_ADVERSAIRE (douteux) / plan
+     1  ECHANGE_PERDANT (douteux) / plan
+     1  CHRONOSEIGNEUR_SANS_CIBLE (à vérifier) / modèle
+     1  FRAPPE_SANS_PIOCHE (info) / modèle
+     1  HEROS_ATTAQUE_SANS_TUER (à vérifier) / plan
+     1  LETAL_AVEC_MAIN_IGNORE (à vérifier) / solveur
+     1  LETAL_IGNORE (à vérifier) / modèle
+     1  LETAL_IGNORE (à vérifier) / plan

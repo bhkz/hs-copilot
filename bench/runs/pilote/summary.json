@@ -1,0 +1,98 @@
+{
+  "generatedUtc": "2026-10-25T13:37:34.8713655Z",
+  "manifest": {
+    "createdUtc": "2026-10-25T13:12:51.9656248Z",
+    "updatedUtc": "2026-10-25T13:12:51.9657133Z",
+    "casesSource": "bench/cases.jsonl",
+    "casesFingerprint": "2eddddb22e4e",
+    "caseCount": 3,
+    "variants": [
+      "gpt-6.1-sol:medium"
+    ],
+    "instructionsFingerprint": "89db2eda2c5a",
+    "strategyFingerprint": "2076d066f36e",
+    "historyItems": 25,
+    "concurrency": 3,
+    "budgetUsd": 1,
+    "maxOutputTokens": 24000,
+    "prices": {
+      "gpt-6.1-sol": {
+        "input": 2,
+        "cachedInput": 0.1,
+        "output": 10,
+        "source": "developers.openai.com et annonce GPT-6.1 Sol, 25/10/2026"
+      }
+    },
+    "note": "Le coup réellement joué sert d'étiquette d'évaluation et n'est jamais transmis au modèle."
+  },
+  "cases": 3,
+  "tagCounts": {
+    "milieu-de-tour": 3,
+    "létal-attaques": 2,
+    "profondeurs-prêtes": 1,
+    "wyrm-jouable": 1,
+    "rembobinage-jouable": 1
+  },
+  "lethalCases": 2,
+  "rankedCases": 1,
+  "actualMapped": 3,
+  "actualWithDubious": 0,
+  "actualFlagCounts": {
+    "LETAL_IGNORE": 1
+  },
+  "actualFlagExamples": [
+    {
+      "caseId": "2026_10_25_01_34_44/Power_old.log#3@29975",
+      "turnNumber": 15,
+      "variant": "réel",
+      "code": "LETAL_IGNORE",
+      "severity": "à vérifier",
+      "message": "Létal possible par les attaques autorisées sur le héros (36 dégâts contre 1 PV + 0 armure) mais le coup choisi est « Jouer Suffusion d’ombreflamme → Hyène ». Secrets adverses éventuels non pris en compte.",
+      "actionLabel": "Jouer Suffusion d’ombreflamme → Hyène"
+    }
+  ],
+  "actualLethalTaken": 1,
+  "actualAnnotations": {},
+  "variants": [
+    {
+      "variant": "gpt-6.1-sol:medium",
+      "calls": 3,
+      "apiErrors": 0,
+      "errorSamples": [],
+      "responded": 3,
+      "legal": 3,
+      "accepted": 3,
+      "illegalSamples": [],
+      "withActual": 3,
+      "agreeExact": 0,
+      "agreeSameCard": 0,
+      "agreeSameKind": 1,
+      "withActualRanked": 1,
+      "agreeExactRanked": 0,
+      "agreeSameCardRanked": 0,
+      "withDubious": 0,
+      "withCheck": 0,
+      "flagCounts": {},
+      "flagExamples": [],
+      "lethalCases": 2,
+      "lethalTaken": 2,
+      "confidence": {
+        "élevée": 3
+      },
+      "certaintyWarnings": 0,
+      "latencyP50Ms": 9734.5465,
+      "latencyP95Ms": 19472.3389,
+      "latencyMaxMs": 19472.3389,
+      "meanInputTokens": 11123.333333333334,
+      "meanCachedTokens": 1092.6666666666667,
+      "meanOutputTokens": 466,
+      "meanReasoningTokens": 125.66666666666667,
+      "meanCostUsd": 0.024830599999999998,
+      "totalCostUsd": 0.0744918,
+      "within20s": 3,
+      "annotations": {}
+    }
+  ],
+  "pairs": [],
+  "totalCostUsd": 0.0744918
+}

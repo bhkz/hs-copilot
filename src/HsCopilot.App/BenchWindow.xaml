@@ -1,0 +1,125 @@
+<Window x:Class="HsCopilot.App.BenchWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="HS Copilot — Banc d'essai du conseiller"
+        Width="1440" Height="900" MinWidth="1000" MinHeight="600"
+        Background="{StaticResource Bg}" Foreground="{StaticResource Text}" FontFamily="Segoe UI" FontSize="12.5"
+        WindowStartupLocation="CenterScreen">
+  <Window.Resources>
+    <Style TargetType="TextBlock">
+      <Setter Property="TextWrapping" Value="Wrap" />
+    </Style>
+    <Style TargetType="RadioButton">
+      <Setter Property="Foreground" Value="{StaticResource Text}" />
+      <Setter Property="Margin" Value="0,0,14,0" />
+      <Setter Property="VerticalContentAlignment" Value="Center" />
+    </Style>
+  </Window.Resources>
+
+  <DockPanel>
+    <Border DockPanel.Dock="Top" Background="{StaticResource Panel}" Padding="12,8" BorderBrush="{StaticResource Border}" BorderThickness="0,0,0,1">
+      <DockPanel>
+        <StackPanel DockPanel.Dock="Right" Orientation="Horizontal" VerticalAlignment="Center">
+          <TextBlock Text="Filtre" VerticalAlignment="Center" Foreground="{StaticResource Muted}" />
+          <ComboBox x:Name="FilterCombo" SelectionChanged="Filter_Changed" MinWidth="230" />
+          <Button Content="Ouvrir un dossier…" Click="Open_Click" Margin="12,0,0,0" />
+          <Button Content="Synthèse (report.md)" Click="Report_Click" />
+        </StackPanel>
+        <StackPanel>
+          <TextBlock x:Name="TitleText" Text="Banc d'essai" FontWeight="Bold" FontSize="15" Foreground="{StaticResource Accent}" />
+          <TextBlock x:Name="InfoText" Foreground="{StaticResource Muted}" />
+        </StackPanel>
+      </DockPanel>
+    </Border>
+
+    <Border DockPanel.Dock="Bottom" Background="{StaticResource Panel}" Padding="12,4" BorderBrush="{StaticResource Border}" BorderThickness="0,1,0,0">
+      <TextBlock x:Name="StatusText" Foreground="{StaticResource Muted}"
+                 Text="Les accords mesurent la ressemblance avec ton jeu, pas la qualité. Les signalements sont des heuristiques. Aucun conseil n'est prouvé optimal." />
+    </Border>
+
+    <Grid>
+      <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="330" />
+        <ColumnDefinition Width="5" />
+        <ColumnDefinition Width="*" MinWidth="320" />
+        <ColumnDefinition Width="5" />
+        <ColumnDefinition Width="1.2*" MinWidth="380" />
+      </Grid.ColumnDefinitions>
+
+      <ListBox x:Name="CaseList" Grid.Column="0" Background="{StaticResource Panel}" BorderThickness="0" SelectionChanged="Case_Selected"
+               ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+        <ListBox.ItemTemplate>
+          <DataTemplate>
+            <StackPanel Margin="2,4">
+              <TextBlock Text="{Binding Title}" FontWeight="SemiBold" Foreground="{StaticResource Text}" />
+              <TextBlock Text="{Binding Subtitle}" FontSize="10.5" Foreground="{StaticResource Muted}" />
+              <TextBlock Text="{Binding Badges}" FontSize="11" Foreground="{Binding BadgeColor}" />
+            </StackPanel>
+          </DataTemplate>
+        </ListBox.ItemTemplate>
+      </ListBox>
+      <GridSplitter Grid.Column="1" Width="5" HorizontalAlignment="Stretch" Background="{StaticResource Border}" />
+
+      <Grid Grid.Column="2" Margin="8">
+        <Grid.RowDefinitions>
+          <RowDefinition Height="Auto" />
+          <RowDefinition Height="1.4*" />
+          <RowDefinition Height="Auto" />
+          <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" x:Name="CaseHeader" Style="{StaticResource SectionTitle}" Text="État observable au moment de la décision" />
+        <TextBox Grid.Row="1" x:Name="StateBox" IsReadOnly="True" FontFamily="Consolas" FontSize="11.5" TextWrapping="NoWrap"
+                 Background="{StaticResource Panel}" Foreground="{StaticResource Text}" BorderBrush="{StaticResource Border}"
+                 VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" />
+        <TextBlock Grid.Row="2" Style="{StaticResource SectionTitle}" Text="Actions légales (vert : ton coup ; or : choisi par une variante)" />
+        <ListBox Grid.Row="3" x:Name="ActionList" Background="{StaticResource Panel}" BorderBrush="{StaticResource Border}"
+                 ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+          <ListBox.ItemTemplate>
+            <DataTemplate>
+              <StackPanel Orientation="Horizontal">
+                <TextBlock Text="{Binding Id}" Width="110" FontFamily="Consolas" Foreground="{StaticResource Muted}" />
+                <TextBlock Text="{Binding Label}" Foreground="{Binding Color}" FontWeight="{Binding Weight}" />
+                <TextBlock Text="{Binding Marks}" Foreground="{Binding Color}" Margin="8,0,0,0" FontSize="11" />
+              </StackPanel>
+            </DataTemplate>
+          </ListBox.ItemTemplate>
+        </ListBox>
+      </Grid>
+      <GridSplitter Grid.Column="3" Width="5" HorizontalAlignment="Stretch" Background="{StaticResource Border}" />
+
+      <ScrollViewer Grid.Column="4" VerticalScrollBarVisibility="Auto" Margin="8">
+        <ItemsControl x:Name="AnswerList">
+          <ItemsControl.ItemTemplate>
+            <DataTemplate>
+              <Border Background="{StaticResource Panel}" BorderBrush="{StaticResource Border}" BorderThickness="1" CornerRadius="8" Padding="12,10" Margin="0,0,0,10">
+                <StackPanel>
+                  <TextBlock Text="{Binding Title}" Foreground="{Binding TitleColor}" FontWeight="Bold" FontSize="13.5" />
+                  <TextBlock Text="{Binding Action}" FontSize="14" FontWeight="SemiBold" Margin="0,3,0,0" />
+                  <TextBlock Text="{Binding Meta}" Style="{StaticResource MutedText}" FontSize="11" />
+                  <TextBlock Text="{Binding Error}" Style="{StaticResource Optional}" Foreground="{StaticResource Bad}" />
+                  <TextBlock Text="{Binding Summary}" Style="{StaticResource Optional}" FontSize="13" Margin="0,6,0,0" Foreground="{StaticResource Accent}" />
+                  <TextBlock Text="{Binding Rationale}" Style="{StaticResource Optional}" Margin="0,4,0,0" />
+                  <TextBlock Text="{Binding Alternative}" Style="{StaticResource MutedText}" Margin="0,4,0,0" />
+                  <TextBlock Text="{Binding Plan}" Style="{StaticResource MutedText}" Margin="0,2,0,0" />
+                  <TextBlock Text="{Binding FollowUp}" Style="{StaticResource MutedText}" Margin="0,2,0,0" />
+                  <TextBlock Text="{Binding Uncertainty}" Style="{StaticResource MutedText}" Margin="0,2,0,0" />
+                  <TextBlock Text="{Binding Flags}" Style="{StaticResource Optional}" Foreground="{Binding FlagColor}" Margin="0,6,0,0" />
+                  <StackPanel Orientation="Horizontal" Margin="0,8,0,0">
+                    <TextBlock Text="Ton avis :" Foreground="{StaticResource Muted}" Margin="0,0,10,0" VerticalAlignment="Center" />
+                    <RadioButton Content="Bon" IsChecked="{Binding IsGood, Mode=TwoWay}" GroupName="{Binding Variant}" />
+                    <RadioButton Content="Discutable" IsChecked="{Binding IsDebatable, Mode=TwoWay}" GroupName="{Binding Variant}" />
+                    <RadioButton Content="Mauvais" IsChecked="{Binding IsBad, Mode=TwoWay}" GroupName="{Binding Variant}" />
+                    <Button Content="Effacer" Click="ClearVerdict_Click" Tag="{Binding}" Padding="6,1" />
+                  </StackPanel>
+                  <TextBox Text="{Binding Note, Mode=TwoWay, UpdateSourceTrigger=LostFocus}" Margin="0,6,0,0" MinHeight="24" TextWrapping="Wrap" AcceptsReturn="True"
+                           Background="{StaticResource PanelAlt}" Foreground="{StaticResource Text}" BorderBrush="{StaticResource Border}"
+                           ToolTip="Note libre (enregistrée dans annotations.json)" />
+                </StackPanel>
+              </Border>
+            </DataTemplate>
+          </ItemsControl.ItemTemplate>
+        </ItemsControl>
+      </ScrollViewer>
+    </Grid>
+  </DockPanel>
+</Window>

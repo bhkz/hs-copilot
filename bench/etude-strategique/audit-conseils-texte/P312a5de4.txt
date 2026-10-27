@@ -1,0 +1,99 @@
+Position P312a5de4 — tour 11
+
+Mode GT_RANKED / FT_STANDARD — Tour 11 (TURN=21, vous) — étape MAIN_ACTION — premier joueur : vous
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+  [info] Rembobinage : l'état a été reconstruit à partir de l'instantané envoyé par le serveur.
+  [warning] Entité créée deux fois (flux rejoué ou désordonné).
+
+== ADVERSAIRE (MAGE) — Jaina Portvaillant 23/30 PV — mana 0/10
+   Pouvoir : Bénédiction du feu follet (2)
+   Plateau (6) :
+     1. Chevaucheuse de feu follet 4/4 (épuisé)
+     2. Gardienne bruissaile 4/4 [TAUNT, DIVINE_SHIELD] (épuisé)
+     3. Feu follet 1/1 (épuisé)
+     4. Feu follet 1/1 (épuisé)
+     5. Feu follet 1/1 (épuisé)
+     6. Feu follet 1/1 (épuisé)
+   Main (8) :
+     1. carte cachée — en main depuis TURN=19
+     2. carte cachée — en main depuis TURN=19
+     3. carte cachée — en main depuis TURN=19
+     4. carte cachée — en main depuis TURN=19
+     5. carte cachée — en main depuis TURN=19
+     6. carte cachée — en main depuis TURN=19
+     7. carte cachée — en main depuis TURN=19
+     8. carte cachée — en main depuis TURN=20
+   Deck : 9 carte(s)
+   Dernier tour (TURN=20) : Gardienne bruissaile (encore en jeu), Chevaucheuse de feu follet (encore en jeu), Éclair de feu éternel
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 25/30 PV +6 armure, 2 ATQ — mana 10/10
+   Pouvoir : Gain d’armure ! (2)
+   Arme : Trancheuse cauchemardesque 2/1
+   Plateau (3) :
+     1. Profondeurs Sanguines 1 charge(s) (activable)
+     2. Glissedrake visionnaire 5/6 (max 8) [CANT_BE_TARGETED_BY_SPELLS, CANT_BE_TARGETED_BY_HERO_POWERS, ELUSIVE] (peut attaquer)
+     3. Voyante distordue par le temps 1/1 (max 3) [REBORN, SPELLPOWER+2] {Horreur persistante, Distorsion par le temps} (peut attaquer)
+   Main (2) :
+     1. (3) Dragonnet du Vol infini 1/4
+     2. (6, base 8) Wyrm du pic venteux 6/6 ✦condition remplie
+   Deck : 14 carte(s)
+   Dernier tour (TURN=19) : Avant-garde du portail (n'est plus en jeu), Avant-garde du portail (n'est plus en jeu), Glissedrake visionnaire (encore en jeu), Gardien des couvées (n'est plus en jeu), Voyante distordue par le temps (encore en jeu)
+
+Actions légales (serveur, options #79, révision 140, à jour) : 7 jouable(s) + fin de tour
+  - Jouer Dragonnet du Vol infini
+  - Jouer Wyrm du pic venteux → Jaina Portvaillant, Garrosh Hurlenfer (allié), Glissedrake visionnaire (allié), Voyante distordue par le temps (allié), Gardienne bruissaile, Chevaucheuse de feu follet, Feu follet, Feu follet, Feu follet, Feu follet
+  - Attaquer avec Garrosh Hurlenfer → Gardienne bruissaile
+  - Pouvoir héroïque Gain d’armure !
+  - Activer le lieu Profondeurs Sanguines → Glissedrake visionnaire (allié), Voyante distordue par le temps (allié), Gardienne bruissaile, Chevaucheuse de feu follet, Feu follet, Feu follet, Feu follet, Feu follet
+  - Attaquer avec Glissedrake visionnaire → Gardienne bruissaile
+  - Attaquer avec Voyante distordue par le temps → Gardienne bruissaile
+
+Historique récent :
+  T10 adversaire attaque : Feu follet → Avant-garde du portail
+  T10 morts : Feu follet
+  T10 adversaire attaque : Feu follet → Avant-garde du portail
+  T10 morts : Feu follet, Avant-garde du portail
+  T10 adversaire attaque : Feu follet → Glissedrake visionnaire
+  T10 morts : Feu follet
+  T10 adversaire joue Chevaucheuse de feu follet
+  T10 adversaire active le lieu Sources cosmiques
+  T10 adversaire joue Éclair de feu éternel → Gardien des couvées : Gardien des couvées (détruit pendant l'action)
+  T10 déclenchement Éclair de feu éternel (adversaire)
+  — Tour 11 (TURN=21, vous) —
+  T11 déclenchement Éclair de feu éternel (adversaire)
+
+
+Actions légales :
+  - Jouer Dragonnet du Vol infini
+  - Jouer Wyrm du pic venteux → Jaina Portvaillant (23 PV)
+  - Jouer Wyrm du pic venteux → Garrosh Hurlenfer (allié) (25 PV + 6 armure)
+  - Jouer Wyrm du pic venteux → Glissedrake visionnaire (allié) 5/6
+  - Jouer Wyrm du pic venteux → Voyante distordue par le temps (allié) 1/1
+  - Jouer Wyrm du pic venteux → Gardienne bruissaile 4/4
+  - Jouer Wyrm du pic venteux → Chevaucheuse de feu follet 4/4
+  - Jouer Wyrm du pic venteux → Feu follet 1/1
+  - Jouer Wyrm du pic venteux → Feu follet 1/1
+  - Jouer Wyrm du pic venteux → Feu follet 1/1
+  - Jouer Wyrm du pic venteux → Feu follet 1/1
+  - Attaquer avec Garrosh Hurlenfer → Gardienne bruissaile 4/4
+  - Pouvoir héroïque Gain d’armure !
+  - Activer Profondeurs Sanguines → Glissedrake visionnaire (allié) 5/6
+  - Activer Profondeurs Sanguines → Voyante distordue par le temps (allié) 1/1
+  - Activer Profondeurs Sanguines → Gardienne bruissaile 4/4
+  - Activer Profondeurs Sanguines → Chevaucheuse de feu follet 4/4
+  - Activer Profondeurs Sanguines → Feu follet 1/1
+  - Activer Profondeurs Sanguines → Feu follet 1/1
+  - Activer Profondeurs Sanguines → Feu follet 1/1
+  - Activer Profondeurs Sanguines → Feu follet 1/1
+  - Attaquer avec Glissedrake visionnaire → Gardienne bruissaile 4/4
+  - Attaquer avec Voyante distordue par le temps → Gardienne bruissaile 4/4
+  - Finir le tour
+
+
+Conseil donné en partie par HS Copilot :
+  action : Jouer Wyrm du pic venteux → Chevaucheuse de feu follet 4/4
+  résumé : Joue Wyrm du pic venteux sur la Chevaucheuse de feu follet pour réduire le plateau adverse.
+  raison : Retire une 4/4, gagne cinq points d’armure et prépare le nettoyage de la Provocation.
+  suite prévue : ['Attaquer la Gardienne bruissaile avec Garrosh pour retirer son Bouclier divin.', 'Éliminer la Gardienne bruissaile avec le Glissedrake visionnaire.', 'Jouer Dragonnet du Vol infini.']
+  plan : Conserver le plateau et garder les Profondeurs prêtes pour une éventuelle pioche de Grommash.

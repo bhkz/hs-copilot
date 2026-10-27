@@ -1,0 +1,425 @@
+{
+  "generatedUtc": "2026-10-25T13:42:23.2384127Z",
+  "manifest": {
+    "createdUtc": "2026-10-25T13:14:24.0216595Z",
+    "updatedUtc": "2026-10-25T13:14:24.0217295Z",
+    "casesSource": "bench/cases.jsonl",
+    "casesFingerprint": "cc2c334b2950",
+    "caseCount": 36,
+    "variants": [
+      "gpt-6.1-sol:low",
+      "gpt-6.1-sol:medium",
+      "gpt-6.1-sol:high",
+      "gpt-6.1-sol:medium#2",
+      "gpt-6-luna:medium"
+    ],
+    "instructionsFingerprint": "89db2eda2c5a",
+    "strategyFingerprint": "2076d066f36e",
+    "historyItems": 25,
+    "concurrency": 4,
+    "budgetUsd": 8,
+    "maxOutputTokens": 24000,
+    "prices": {
+      "gpt-6.1-sol": {
+        "input": 2,
+        "cachedInput": 0.1,
+        "output": 10,
+        "source": "developers.openai.com et annonce GPT-6.1 Sol, 25/10/2026"
+      },
+      "gpt-6-luna": {
+        "input": 0.1,
+        "cachedInput": 0.01,
+        "output": 0.5,
+        "source": "developers.openai.com et comparateurs, 25/10/2026"
+      }
+    },
+    "note": "Le coup réellement joué sert d'étiquette d'évaluation et n'est jamais transmis au modèle."
+  },
+  "cases": 36,
+  "tagCounts": {
+    "début-de-tour": 24,
+    "milieu-de-tour": 12,
+    "rembobinage-jouable": 12,
+    "profondeurs-prêtes": 10,
+    "létal-attaques": 7,
+    "wyrm-jouable": 5,
+    "menace-létale-adverse": 3,
+    "grommash-jouable": 3,
+    "chronoseigneur-jouable": 3,
+    "létal-avec-main": 2
+  },
+  "lethalCases": 9,
+  "rankedCases": 10,
+  "actualMapped": 36,
+  "actualWithDubious": 3,
+  "actualFlagCounts": {
+    "LETAL_IGNORE": 6,
+    "LETAL_AVEC_MAIN_IGNORE": 2,
+    "ECHANGE_PERDANT": 2
+  },
+  "actualFlagExamples": [
+    {
+      "caseId": "2026_10_22_14_55_57/Power.log#8@9340",
+      "turnNumber": 7,
+      "variant": "réel",
+      "code": "LETAL_IGNORE",
+      "severity": "à vérifier",
+      "message": "Létal possible par les attaques autorisées sur le héros (6 dégâts contre 6 PV + 0 armure) mais le coup choisi est « Jouer Frappe héroïque ». Secrets adverses éventuels non pris en compte.",
+      "actionLabel": "Jouer Frappe héroïque"
+    },
+    {
+      "caseId": "2026_10_24_20_59_43/Power_old.log#10@17630",
+      "turnNumber": 9,
+      "variant": "réel",
+      "code": "LETAL_AVEC_MAIN_IGNORE",
+      "severity": "à vérifier",
+      "message": "Létal apparent avec « Jouer Grommash Hurlenfer » (4) et les attaques autorisées (15) contre 17 PV + 0 armure, mais le coup choisi est « Pouvoir héroïque Gain d’armure\u00A0! ».",
+      "actionLabel": "Pouvoir héroïque Gain d’armure\u00A0!"
+    },
+    {
+      "caseId": "2026_10_24_20_59_43/Power_old.log#18@17538",
+      "turnNumber": 9,
+      "variant": "réel",
+      "code": "LETAL_IGNORE",
+      "severity": "à vérifier",
+      "message": "Létal possible par les attaques autorisées sur le héros (15 dégâts contre 1 PV + 0 armure) mais le coup choisi est « Jouer Chronoseigneur Époque ». Secrets adverses éventuels non pris en compte.",
+      "actionLabel": "Jouer Chronoseigneur Époque"
+    },
+    {
+      "caseId": "2026_10_24_20_59_43/Power_old.log#22@36852",
+      "turnNumber": 17,
+      "variant": "réel",
+      "code": "LETAL_IGNORE",
+      "severity": "à vérifier",
+      "message": "Létal possible par les attaques autorisées sur le héros (32 dégâts contre 30 PV + 2 armure) mais le coup choisi est « Jouer Pointe d’os ». Secrets adverses éventuels non pris en compte.",
+      "actionLabel": "Jouer Pointe d’os"
+    },
+    {
+      "caseId": "2026_10_24_20_59_43/Power_old.log#8@13795",
+      "turnNumber": 9,
+      "variant": "réel",
+      "code": "LETAL_AVEC_MAIN_IGNORE",
+      "severity": "à vérifier",
+      "message": "Létal apparent avec « Jouer Frappe anticipée → Malfurion Hurlorage » (3) et les attaques autorisées (0) contre 3 PV + 0 armure, mais le coup choisi est « Jouer Chronoseigneur Époque ».",
+      "actionLabel": "Jouer Chronoseigneur Époque"
+    },
+    {
+      "caseId": "2026_10_24_20_59_43/Power_old.log#8@32608",
+      "turnNumber": 18,
+      "variant": "réel",
+      "code": "ECHANGE_PERDANT",
+      "severity": "douteux",
+      "message": "Luisaile (3/2) meurt contre Druide de la Griffe (4/4) sans le tuer.",
+      "actionLabel": "Attaquer avec Luisaile → Druide de la Griffe"
+    },
+    {
+      "caseId": "2026_10_25_01_34_44/Power_old.log#3@35672",
+      "turnNumber": 17,
+      "variant": "réel",
+      "code": "ECHANGE_PERDANT",
+      "severity": "douteux",
+      "message": "Gardien des couvées (2/3) meurt contre Faucon-dragon difforme (5/5) sans le tuer.",
+      "actionLabel": "Attaquer avec Gardien des couvées → Faucon-dragon difforme"
+    }
+  ],
+  "actualLethalTaken": 1,
+  "actualAnnotations": {},
+  "variants": [
+    {
+      "variant": "gpt-6-luna:medium",
+      "calls": 36,
+      "apiErrors": 0,
+      "errorSamples": [],
+      "responded": 36,
+      "legal": 35,
+      "accepted": 35,
+      "illegalSamples": [
+        "2026_10_24_20_59_43/Power_old.log#10@17630 : o75.5.t66 (action « o75.5.t66 » absente des actions légales de la révision 136)"
+      ],
+      "withActual": 35,
+      "agreeExact": 15,
+      "agreeSameCard": 16,
+      "agreeSameKind": 27,
+      "withActualRanked": 10,
+      "agreeExactRanked": 5,
+      "agreeSameCardRanked": 5,
+      "withDubious": 0,
+      "withCheck": 1,
+      "flagCounts": {
+        "LETAL_AVEC_MAIN_IGNORE": 1
+      },
+      "flagExamples": [
+        {
+          "caseId": "2026_10_24_20_59_43/Power_old.log#8@13795",
+          "turnNumber": 9,
+          "variant": "gpt-6-luna:medium",
+          "code": "LETAL_AVEC_MAIN_IGNORE",
+          "severity": "à vérifier",
+          "message": "Létal apparent avec « Jouer Frappe anticipée → Malfurion Hurlorage » (3) et les attaques autorisées (0) contre 3 PV + 0 armure, mais le coup choisi est « Jouer Frappe anticipée → Dragon assoupi ».",
+          "actionLabel": "Jouer Frappe anticipée → Dragon assoupi",
+          "summary": "Joue Frappe anticipée sur le Dragon assoupi pour ouvrir une séquence de létal."
+        }
+      ],
+      "lethalCases": 9,
+      "lethalTaken": 7,
+      "confidence": {
+        "moyenne": 21,
+        "élevée": 15
+      },
+      "certaintyWarnings": 3,
+      "latencyP50Ms": 12249.0282,
+      "latencyP95Ms": 22607.3643,
+      "latencyMaxMs": 23082.6554,
+      "meanInputTokens": 8253.055555555555,
+      "meanCachedTokens": 1593.4722222222222,
+      "meanOutputTokens": 1174.611111111111,
+      "meanReasoningTokens": 864.2222222222222,
+      "meanCostUsd": 0.0012691986111111112,
+      "totalCostUsd": 0.04569115,
+      "within20s": 33,
+      "annotations": {}
+    },
+    {
+      "variant": "gpt-6.1-sol:low",
+      "calls": 36,
+      "apiErrors": 0,
+      "errorSamples": [],
+      "responded": 36,
+      "legal": 36,
+      "accepted": 36,
+      "illegalSamples": [],
+      "withActual": 36,
+      "agreeExact": 16,
+      "agreeSameCard": 18,
+      "agreeSameKind": 26,
+      "withActualRanked": 10,
+      "agreeExactRanked": 6,
+      "agreeSameCardRanked": 6,
+      "withDubious": 0,
+      "withCheck": 0,
+      "flagCounts": {},
+      "flagExamples": [],
+      "lethalCases": 9,
+      "lethalTaken": 9,
+      "confidence": {
+        "élevée": 31,
+        "moyenne": 5
+      },
+      "certaintyWarnings": 2,
+      "latencyP50Ms": 9789.4818,
+      "latencyP95Ms": 14533.6859,
+      "latencyMaxMs": 15811.058,
+      "meanInputTokens": 8253.055555555555,
+      "meanCachedTokens": 1593.4722222222222,
+      "meanOutputTokens": 376.5833333333333,
+      "meanReasoningTokens": 31.805555555555557,
+      "meanCostUsd": 0.017244347222222223,
+      "totalCostUsd": 0.6207965000000001,
+      "within20s": 36,
+      "annotations": {}
+    },
+    {
+      "variant": "gpt-6.1-sol:medium",
+      "calls": 36,
+      "apiErrors": 0,
+      "errorSamples": [],
+      "responded": 36,
+      "legal": 36,
+      "accepted": 36,
+      "illegalSamples": [],
+      "withActual": 36,
+      "agreeExact": 15,
+      "agreeSameCard": 16,
+      "agreeSameKind": 26,
+      "withActualRanked": 10,
+      "agreeExactRanked": 6,
+      "agreeSameCardRanked": 6,
+      "withDubious": 0,
+      "withCheck": 0,
+      "flagCounts": {},
+      "flagExamples": [],
+      "lethalCases": 9,
+      "lethalTaken": 9,
+      "confidence": {
+        "moyenne": 5,
+        "élevée": 31
+      },
+      "certaintyWarnings": 3,
+      "latencyP50Ms": 11881.3588,
+      "latencyP95Ms": 22038.3569,
+      "latencyMaxMs": 22972.4426,
+      "meanInputTokens": 8253.055555555555,
+      "meanCachedTokens": 2543.277777777778,
+      "meanOutputTokens": 510.8611111111111,
+      "meanReasoningTokens": 141.19444444444446,
+      "meanCostUsd": 0.01678249444444444,
+      "totalCostUsd": 0.6041697999999999,
+      "within20s": 33,
+      "annotations": {}
+    },
+    {
+      "variant": "gpt-6.1-sol:medium#2",
+      "calls": 36,
+      "apiErrors": 0,
+      "errorSamples": [],
+      "responded": 36,
+      "legal": 36,
+      "accepted": 36,
+      "illegalSamples": [],
+      "withActual": 36,
+      "agreeExact": 15,
+      "agreeSameCard": 16,
+      "agreeSameKind": 26,
+      "withActualRanked": 10,
+      "agreeExactRanked": 6,
+      "agreeSameCardRanked": 6,
+      "withDubious": 0,
+      "withCheck": 1,
+      "flagCounts": {
+        "HEROS_ATTAQUE_SANS_TUER": 1
+      },
+      "flagExamples": [
+        {
+          "caseId": "2026_10_25_10_27_21/Power_old.log#1@7801",
+          "turnNumber": 6,
+          "variant": "gpt-6.1-sol:medium#2",
+          "code": "HEROS_ATTAQUE_SANS_TUER",
+          "severity": "à vérifier",
+          "message": "Le héros (2 ATQ) attaque Gardien des couvées (3 PV) sans le tuer et subit 2 dégâts.",
+          "actionLabel": "Attaquer avec Garrosh Hurlenfer → Gardien des couvées",
+          "summary": "Attaque le Gardien des couvées adverse avec la Trancheuse cauchemardesque pour préparer son élimination."
+        }
+      ],
+      "lethalCases": 9,
+      "lethalTaken": 9,
+      "confidence": {
+        "élevée": 31,
+        "moyenne": 5
+      },
+      "certaintyWarnings": 1,
+      "latencyP50Ms": 11634.3305,
+      "latencyP95Ms": 20065.0082,
+      "latencyMaxMs": 20564.5059,
+      "meanInputTokens": 8253.055555555555,
+      "meanCachedTokens": 8135.888888888889,
+      "meanOutputTokens": 513.6388888888889,
+      "meanReasoningTokens": 145.38888888888889,
+      "meanCostUsd": 0.006184311111111112,
+      "totalCostUsd": 0.22263520000000003,
+      "within20s": 34,
+      "annotations": {}
+    },
+    {
+      "variant": "gpt-6.1-sol:high",
+      "calls": 36,
+      "apiErrors": 0,
+      "errorSamples": [],
+      "responded": 36,
+      "legal": 36,
+      "accepted": 36,
+      "illegalSamples": [],
+      "withActual": 36,
+      "agreeExact": 16,
+      "agreeSameCard": 17,
+      "agreeSameKind": 26,
+      "withActualRanked": 10,
+      "agreeExactRanked": 7,
+      "agreeSameCardRanked": 7,
+      "withDubious": 0,
+      "withCheck": 0,
+      "flagCounts": {},
+      "flagExamples": [],
+      "lethalCases": 9,
+      "lethalTaken": 9,
+      "confidence": {
+        "élevée": 26,
+        "moyenne": 10
+      },
+      "certaintyWarnings": 2,
+      "latencyP50Ms": 28578.1215,
+      "latencyP95Ms": 65597.2103,
+      "latencyMaxMs": 77032.5007,
+      "meanInputTokens": 8253.055555555555,
+      "meanCachedTokens": 1593.4722222222222,
+      "meanOutputTokens": 1270.361111111111,
+      "meanReasoningTokens": 904.4444444444445,
+      "meanCostUsd": 0.026182125,
+      "totalCostUsd": 0.9425565,
+      "within20s": 13,
+      "annotations": {}
+    }
+  ],
+  "pairs": [
+    {
+      "a": "gpt-6-luna:medium",
+      "b": "gpt-6.1-sol:low",
+      "common": 35,
+      "sameAction": 16,
+      "sameCard": 17
+    },
+    {
+      "a": "gpt-6-luna:medium",
+      "b": "gpt-6.1-sol:medium",
+      "common": 35,
+      "sameAction": 18,
+      "sameCard": 19
+    },
+    {
+      "a": "gpt-6-luna:medium",
+      "b": "gpt-6.1-sol:medium#2",
+      "common": 35,
+      "sameAction": 18,
+      "sameCard": 19
+    },
+    {
+      "a": "gpt-6-luna:medium",
+      "b": "gpt-6.1-sol:high",
+      "common": 35,
+      "sameAction": 19,
+      "sameCard": 20
+    },
+    {
+      "a": "gpt-6.1-sol:low",
+      "b": "gpt-6.1-sol:medium",
+      "common": 36,
+      "sameAction": 31,
+      "sameCard": 31
+    },
+    {
+      "a": "gpt-6.1-sol:low",
+      "b": "gpt-6.1-sol:medium#2",
+      "common": 36,
+      "sameAction": 30,
+      "sameCard": 31
+    },
+    {
+      "a": "gpt-6.1-sol:low",
+      "b": "gpt-6.1-sol:high",
+      "common": 36,
+      "sameAction": 29,
+      "sameCard": 29
+    },
+    {
+      "a": "gpt-6.1-sol:medium",
+      "b": "gpt-6.1-sol:medium#2",
+      "common": 36,
+      "sameAction": 35,
+      "sameCard": 36
+    },
+    {
+      "a": "gpt-6.1-sol:medium",
+      "b": "gpt-6.1-sol:high",
+      "common": 36,
+      "sameAction": 32,
+      "sameCard": 32
+    },
+    {
+      "a": "gpt-6.1-sol:medium#2",
+      "b": "gpt-6.1-sol:high",
+      "common": 36,
+      "sameAction": 32,
+      "sameCard": 32
+    }
+  ],
+  "totalCostUsd": 2.4358491500000006
+}

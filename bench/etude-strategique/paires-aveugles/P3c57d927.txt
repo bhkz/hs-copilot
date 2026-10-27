@@ -1,0 +1,87 @@
+Position P3c57d927 — tour 7
+
+Mode GT_RANKED / FT_WILD — Tour 7 (TURN=13, vous) — étape MAIN_ACTION — premier joueur : vous
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+  [info] Rembobinage : l'état a été reconstruit à partir de l'instantané envoyé par le serveur.
+
+== ADVERSAIRE (PRIEST) — Tyrande Murmevent 12/30 PV — mana 0/6
+   Pouvoir : Soins inférieurs (2)
+   Arme : Puissance de Menethil 4/1
+   Plateau (2) :
+     1. Auxiliaire de l’ombre 2/2 (max 3) {Longévité} (épuisé)
+     2. Devin 6/6 [TAUNT, DEATHRATTLE] (épuisé)
+   Main (8) :
+     1. carte cachée — en main depuis TURN=9
+     2. carte cachée — en main depuis TURN=9
+     3. carte cachée — en main depuis TURN=9
+     4. carte cachée — en main depuis TURN=9
+     5. carte cachée — en main depuis TURN=9
+     6. carte cachée — en main depuis TURN=10
+     7. carte cachée — en main depuis TURN=10
+     8. carte cachée — en main depuis TURN=12
+   Deck : 13 carte(s)
+   Dernier tour (TURN=12) : Devin (encore en jeu), Attaque mentale
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 21/30 PV, 4 ATQ — mana 7/7
+   Pouvoir : Gain d’armure ! (2)
+   Arme : Canon à eau 4/3
+   Plateau (1) :
+     1. Profondeurs Sanguines 3 charge(s) (activable)
+   Main (4) :
+     1. (4) Nozdormu l’Intemporel 10/8 [base 8/8] (créée)
+     2. (4) Animatrice de stade 5/3 [base 3/3]
+     3. (8) Grommash Hurlenfer 6/11 [base 4/9]
+     4. (2) Gardien des couvées 2/3 ✦condition remplie
+   Deck : 18 carte(s)
+   Dernier tour (TURN=11) : Animatrice de stade (n'est plus en jeu), Profondeurs Sanguines
+
+Actions légales (serveur, options #49, révision 94, à jour) : 6 jouable(s) + fin de tour
+  - Jouer Nozdormu l’Intemporel
+  - Jouer Animatrice de stade
+  - Jouer Gardien des couvées
+  - Attaquer avec Garrosh Hurlenfer → Devin
+  - Pouvoir héroïque Gain d’armure !
+  - Activer le lieu Profondeurs Sanguines → Auxiliaire de l’ombre, Devin
+
+Historique récent :
+  T6 vous joue Animatrice de stade
+  T6 choix vous (GENERAL) : Ligne temporelle actuelle (choisie), Ligne temporelle passée (proposée)
+  T6 vous attaque : Garrosh Hurlenfer → Tyrande Murmevent
+  T6 déclenchement Canon à eau (vous)
+  T6 vous joue Profondeurs Sanguines
+  — Tour 6 (TURN=12, adversaire) —
+  T6 adversaire joue Devin
+  T6 adversaire attaque : Auxiliaire de l’ombre → Toboggan à eau
+  T6 morts : Toboggan à eau
+  T6 adversaire joue Attaque mentale : Animatrice de stade (détruit pendant l'action)
+  T6 adversaire attaque : Tyrande Murmevent → Garrosh Hurlenfer
+  — Tour 7 (TURN=13, vous) —
+
+
+Actions légales :
+  - Jouer Nozdormu l’Intemporel
+  - Jouer Animatrice de stade
+  - Jouer Gardien des couvées
+  - Attaquer avec Garrosh Hurlenfer → Devin 6/6
+  - Pouvoir héroïque Gain d’armure !
+  - Activer Profondeurs Sanguines → Auxiliaire de l’ombre 2/2
+  - Activer Profondeurs Sanguines → Devin 6/6
+  - Finir le tour
+
+
+=== Conseil X ===
+  action : Jouer Nozdormu l’Intemporel
+  résumé : Joue Nozdormu l’Intemporel sans cible pour développer une menace, en gardant les Profondeurs pour Grommash.
+  raison : Nozdormu coûte 4 sur les 7 cristaux disponibles et apporte une menace 10/8 sans remplacer notre arme. L’attaque à 4 affaiblit Devin pour faciliter son élimination ultérieure, mais inflige 6 dégâts à Garrosh ; le pouvoir héroïque compense ensuite partiellement cette perte. Ne pas activer les Profondeurs conserve le combo Grommash à 14 ATQ pour le prochain tour. Le principal compromis est d’accélérer aussi le mana adverse.
+  suite prévue : Attaquer Devin avec Garrosh pour affaiblir sa Provocation et déclencher le Canon à eau. ; Utiliser Gain d’armure !
+  plan du tour suivant : Envisager Grommash avec les Profondeurs, selon la Provocation restante et la réponse adverse.
+  risque signalé : Nozdormu donne accès à 10 cristaux à l’adversaire ; Devin soigne aussi de 6 et invoque un serviteur à sa mort.
+
+=== Conseil Y ===
+  action : Attaquer avec Garrosh Hurlenfer → Devin
+  résumé : Attaque le Devin avec Garrosh Hurlenfer et le Canon à eau avant de remplacer l’arme.
+  raison : L’attaque inflige 4 au Devin, le laissant à 2 PV avant le Pirate, et coûte 6 PV à Garrosh. Je privilégie exceptionnellement l’attaque avant le changement d’arme pour exploiter le Canon à eau. Animatrice puis pouvoir héroïque coûtent 6 mana et développent une 5/3. Conserver les Profondeurs disponibles prépare Grommash à 14 ATQ au prochain tour, sans garantir de létal : le Devin soigne et invoque un serviteur à sa mort.
+  suite prévue : Jouer Animatrice de stade, puis réévaluer l’arme et le Rembobinage. ; Utiliser Gain d’armure ! avec les 3 cristaux restants.
+  plan du tour suivant : Envisager Grommash avec les Profondeurs, après réévaluation de la Provocation et des soins adverses.
+  risque signalé : Après l’attaque, Garrosh tombe à 15 PV avant l’armure ; les dégâts cachés adverses restent non chiffrés.

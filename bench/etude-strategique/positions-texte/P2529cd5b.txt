@@ -1,0 +1,65 @@
+Position P2529cd5b — tour 6
+
+Mode GT_RANKED / FT_WILD — Tour 6 (TURN=11, vous) — étape MAIN_ACTION — premier joueur : vous
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+  [info] Rembobinage : l'état a été reconstruit à partir de l'instantané envoyé par le serveur.
+
+== ADVERSAIRE (PRIEST) — Tyrande Murmevent 17/30 PV — mana 0/5
+   Pouvoir : Soins inférieurs (2)
+   Plateau (1) :
+     1. Auxiliaire de l’ombre 2/3 {Longévité} (épuisé)
+   Main (9) :
+     1. carte cachée — en main depuis TURN=9
+     2. carte cachée — en main depuis TURN=9
+     3. carte cachée — en main depuis TURN=9
+     4. carte cachée — en main depuis TURN=9
+     5. carte cachée — en main depuis TURN=9
+     6. carte cachée — en main depuis TURN=9
+     7. carte cachée — en main depuis TURN=9
+     8. carte cachée — en main depuis TURN=10
+     9. carte cachée — en main depuis TURN=10
+   Deck : 14 carte(s)
+   Dernier tour (TURN=10) : Guérison, Mot ancien : Écorchage, Floraison tombelaube, Mot ancien : Écorchage
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 30/30 PV — mana 6/6
+   Pouvoir : Gain d’armure ! (2)
+   Plateau (0) :
+   Main (5) :
+     1. (4) Animatrice de stade 5/3 [base 3/3]
+     2. (4) Nozdormu l’Intemporel 10/8 [base 8/8] (créée)
+     3. (4) Animatrice de stade 5/3 [base 3/3]
+     4. (8) Grommash Hurlenfer 6/11 [base 4/9]
+     5. (1) Profondeurs Sanguines
+   Deck : 19 carte(s)
+   Dernier tour (TURN=9) : Avant-garde du portail (n'est plus en jeu), Avant-garde du portail (n'est plus en jeu), Colporteur de pétales (n'est plus en jeu)
+
+Actions légales (serveur, options #40, révision 78, à jour) : 5 jouable(s) + fin de tour
+  - Jouer Animatrice de stade
+  - Jouer Nozdormu l’Intemporel
+  - Jouer Animatrice de stade
+  - Jouer Profondeurs Sanguines
+  - Pouvoir héroïque Gain d’armure !
+
+Historique récent :
+  T5 déclenchement Colporteur de pétales (vous)
+  — Tour 5 (TURN=10, adversaire) —
+  T5 adversaire attaque : Auxiliaire de l’ombre → Forgeron dimensionnel
+  T5 morts : Forgeron dimensionnel
+  T5 déclenchement Dissipation des ténèbres (adversaire)
+  T5 déclenchement Corruption de la lumière (adversaire)
+  T5 adversaire joue Guérison → Auxiliaire de l’ombre
+  T5 adversaire joue Mot ancien : Écorchage
+  T5 adversaire joue Floraison tombelaube
+  T5 adversaire joue Mot ancien : Écorchage : Colporteur de pétales (détruit pendant l'action), Avant-garde du portail (détruit pendant l'action)
+  T5 déclenchement carte cachée (adversaire)
+  — Tour 6 (TURN=11, vous) —
+
+
+Actions légales :
+  - Jouer Animatrice de stade
+  - Jouer Nozdormu l’Intemporel
+  - Jouer Animatrice de stade
+  - Jouer Profondeurs Sanguines
+  - Pouvoir héroïque Gain d’armure !
+  - Finir le tour

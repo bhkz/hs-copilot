@@ -1,0 +1,86 @@
+Position P01b4e5d9 — tour 9
+
+Mode GT_RANKED / FT_WILD — Tour 9 (TURN=17, vous) — étape MAIN_ACTION — premier joueur : vous
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+
+== ADVERSAIRE (PRIEST) — Roi Anduin 28/40 PV — mana 1/8
+   Pouvoir : Soins inférieurs (2)
+   Plateau (3) :
+     1. Cathédrale de l’Expiation 2 charge(s) (prêt)
+     2. Zéphrys le Grand 3/2 (épuisé)
+     3. Disciple de Galakrond 1/2 (épuisé)
+   Main (8) :
+     1. carte cachée — en main depuis TURN=2
+     2. carte cachée — en main depuis TURN=4
+     3. carte cachée — en main depuis TURN=6
+     4. carte cachée — en main depuis TURN=6
+     5. carte cachée — en main depuis TURN=10
+     6. carte cachée — en main depuis TURN=10
+     7. carte cachée — en main depuis TURN=14
+     8. carte cachée — en main depuis TURN=16
+   Deck : 26 carte(s)
+   Quêtes/éléments publics : Découvrir l’éclat du Vide
+   Dernier tour (TURN=16) : Zéphrys le Grand (encore en jeu), Mot de l’ombre : Ruine, Disciple de Galakrond (encore en jeu)
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 30/30 PV +5 armure — mana 6/9
+   Pouvoir : Gain d’armure ! (2)
+   Plateau (1) :
+     1. Avant-garde du portail 4/2 {À la pointe} (ne peut pas attaquer)
+   Main (7) :
+     1. (2) Luisaile 5/2 [base 3/2]
+     2. (4) Animatrice de stade 3/3
+     3. (4) Animatrice de stade 3/3
+     4. (9) Mal’Ganis 9/7 (créée)
+     5. (2) Frappe anticipée ✦condition remplie
+     6. (4, base 7) Glissedrake visionnaire 5/8 ✦condition remplie
+     7. (3) Dragonnet du Vol infini 3/6 [base 1/4]
+   Deck : 16 carte(s)
+   Dernier tour (TURN=15) : Le Grand Dracorex (n'est plus en jeu)
+   Ce tour : Avant-garde du portail
+
+Actions légales (serveur, options #53, révision 119, à jour) : 7 jouable(s) + fin de tour
+  - Jouer Luisaile
+  - Jouer Animatrice de stade
+  - Jouer Animatrice de stade
+  - Jouer Frappe anticipée → Garrosh Hurlenfer (allié), Roi Anduin, Zéphrys le Grand, Disciple de Galakrond, Avant-garde du portail (allié)
+  - Jouer Glissedrake visionnaire
+  - Jouer Dragonnet du Vol infini
+  - Pouvoir héroïque Gain d’armure !
+
+Historique récent :
+  T8 déclenchement Le Grand Dracorex (vous) : Écorcheur d’esprit Kaahrj (détruit pendant l'action)
+  T8 morts : Wyrm du pic venteux
+  T8 vous attaque : Serpent-nuage → Roi Anduin
+  T8 vous attaque : Wyrm du pic venteux → Roi Anduin
+  — Tour 8 (TURN=16, adversaire) —
+  T8 adversaire joue Zéphrys le Grand
+  T8 choix adversaire (choix adverse (GENERAL))
+  T8 adversaire joue Mot de l’ombre : Ruine : Serpent-nuage (détruit pendant l'action), Wyrm du pic venteux (détruit pendant l'action), Le Grand Dracorex (détruit pendant l'action)
+  T8 adversaire joue Disciple de Galakrond
+  — Tour 9 (TURN=17, vous) —
+  T9 vous joue Avant-garde du portail
+  T9 choix vous (GENERAL) : Ligne temporelle actuelle (choisie), Ligne temporelle passée (proposée)
+
+
+Actions légales :
+  - Jouer Luisaile
+  - Jouer Animatrice de stade
+  - Jouer Animatrice de stade
+  - Jouer Frappe anticipée → Garrosh Hurlenfer (allié) (30 PV + 5 armure)
+  - Jouer Frappe anticipée → Roi Anduin (28 PV)
+  - Jouer Frappe anticipée → Zéphrys le Grand 3/2
+  - Jouer Frappe anticipée → Disciple de Galakrond 1/2
+  - Jouer Frappe anticipée → Avant-garde du portail (allié) 4/2
+  - Jouer Glissedrake visionnaire
+  - Jouer Dragonnet du Vol infini
+  - Pouvoir héroïque Gain d’armure !
+  - Finir le tour
+
+
+Conseil donné en partie par HS Copilot :
+  action : Jouer Frappe anticipée → Zéphrys le Grand 3/2
+  résumé : Joue Frappe anticipée sur Zéphrys le Grand, puis envisage Glissedrake visionnaire pour renforcer ton plateau.
+  raison : Élimine Zéphrys, pioche un serviteur et conserve quatre cristaux pour développer ton plateau.
+  suite prévue : ['Jouer Glissedrake visionnaire, sauf si la pioche offre un meilleur développement.']
+  plan : Mettre la pression avec les Dragons et adapter les échanges à la réponse adverse.

@@ -1,0 +1,127 @@
+{
+ "sessions/20261025_194727_hdt.log#1@4618": {
+  "categorie": "témoin",
+  "resultatPartie": "WON",
+  "coupJoue": "Jouer Forgeron dimensionnel"
+ },
+ "sessions/20261025_210804_hdt.log#1@15134": {
+  "categorie": "létal",
+  "resultatPartie": "WON",
+  "coupJoue": "Jouer Wyrm du pic venteux → Dame Liadrin"
+ },
+ "sessions/20261025_213529_hdt.log#1@10597": {
+  "categorie": "danger : danger élevé",
+  "resultatPartie": "WON",
+  "coupJoue": "Jouer Wyrm du pic venteux → Traqueur phasique"
+ },
+ "sessions/20261025_213529_hdt.log#1@13819": {
+  "categorie": "létal",
+  "resultatPartie": "WON",
+  "coupJoue": "?"
+ },
+ "sessions/20261025_214524_hdt.log#1@7971": {
+  "categorie": "danger : danger élevé",
+  "resultatPartie": "WON",
+  "coupJoue": "Attaquer avec Forgeron dimensionnel → Seigneur de la toile nérub’ar"
+ },
+ "sessions/20261025_214524_hdt.log#1@9722": {
+  "categorie": "danger : létal visible",
+  "resultatPartie": "WON",
+  "coupJoue": "Jouer Wyrm du pic venteux → Orweyna"
+ },
+ "sessions/20261025_224728_hdt.log#1@12746": {
+  "categorie": "cadeau à l’adversaire",
+  "resultatPartie": "LOST",
+  "coupJoue": "Jouer Animatrice de stade"
+ },
+ "sessions/20261025_224728_hdt.log#1@15002": {
+  "categorie": "cadeau à l’adversaire",
+  "resultatPartie": "LOST",
+  "coupJoue": "Jouer Nozdormu l’Intemporel"
+ },
+ "sessions/20261025_230748_hdt.log#1@10354": {
+  "categorie": "témoin",
+  "resultatPartie": "LOST",
+  "coupJoue": "Jouer Avant-garde du portail"
+ },
+ "sessions/20261025_230748_hdt.log#1@12570": {
+  "categorie": "danger : danger élevé",
+  "resultatPartie": "LOST",
+  "coupJoue": "Jouer Suffusion d’ombreflamme → Recrue de la Main d’argent"
+ },
+ "sessions/20261025_230748_hdt.log#1@15984": {
+  "categorie": "danger : létal visible",
+  "resultatPartie": "LOST",
+  "coupJoue": "Jouer Animatrice de stade"
+ },
+ "sessions/20261025_230748_hdt.log#1@8606": {
+  "categorie": "danger : danger élevé",
+  "resultatPartie": "LOST",
+  "coupJoue": "Jouer Chronoseigneur Époque"
+ },
+ "sessions/20261026_000900_hdt.log#1@11609": {
+  "categorie": "témoin",
+  "resultatPartie": "LOST",
+  "coupJoue": "Jouer Ysondre"
+ },
+ "sessions/20261026_000900_hdt.log#1@15932": {
+  "categorie": "danger : danger élevé",
+  "resultatPartie": "LOST",
+  "coupJoue": "Jouer Avant-garde du portail"
+ },
+ "sessions/20261026_000900_hdt.log#1@23506": {
+  "categorie": "danger : létal visible",
+  "resultatPartie": "LOST",
+  "coupJoue": "Jouer Mage de sang Thalnos"
+ },
+ "sessions/20261026_003106_hdt.log#1@18871": {
+  "categorie": "témoin",
+  "resultatPartie": "LOST",
+  "coupJoue": "Jouer Siamat"
+ },
+ "sessions/20261026_003106_hdt.log#1@32017": {
+  "categorie": "danger : létal visible",
+  "resultatPartie": "LOST",
+  "coupJoue": "Jouer Forgeron dimensionnel"
+ },
+ "sessions/20261026_010743_hdt.log#1@11363": {
+  "categorie": "danger : danger élevé",
+  "resultatPartie": "WON",
+  "coupJoue": "Attaquer avec Dragonnet du Vol infini → Rescapée de la fin des temps"
+ },
+ "sessions/20261026_010743_hdt.log#1@15037": {
+  "categorie": "létal sous danger",
+  "resultatPartie": "WON",
+  "coupJoue": "Jouer Wyrm du pic venteux → Garrosh, roi des pirates"
+ },
+ "sessions/20261026_010743_hdt.log#1@4478": {
+  "categorie": "témoin",
+  "resultatPartie": "WON",
+  "coupJoue": "Jouer Colporteur de pétales"
+ },
+ "sessions/20261026_014601_hdt.log#1@17237": {
+  "categorie": "létal",
+  "resultatPartie": "WON",
+  "coupJoue": "Attaquer avec Avant-garde du portail → Jaina Portvaillant"
+ },
+ "sessions/20261026_020236_hdt.log#1@15176": {
+  "categorie": "danger : létal visible",
+  "resultatPartie": "WON",
+  "coupJoue": "Jouer Frappe anticipée → Aile du Vide"
+ },
+ "sessions/20261026_020236_hdt.log#1@15707": {
+  "categorie": "létal sous danger",
+  "resultatPartie": "WON",
+  "coupJoue": "Jouer Wyrm du pic venteux → Zek’voz"
+ },
+ "sessions/20261026_021216_hdt.log#1@28356": {
+  "categorie": "danger : létal visible",
+  "resultatPartie": "LOST",
+  "coupJoue": "Activer Profondeurs Sanguines → Feu follet"
+ },
+ "sessions/20261026_112707_hdt.log#1@8274": {
+  "categorie": "témoin",
+  "resultatPartie": "WON",
+  "coupJoue": "Attaquer avec Voyante distordue par le temps → Magma mécanique"
+ }
+}

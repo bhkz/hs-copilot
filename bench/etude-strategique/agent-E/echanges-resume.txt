@@ -1,0 +1,2 @@
+830 cas ; niveaux du solveur : aucun 750, conditionnel 8, plausible 28, certain 44
+positions bloquées par une Provocation, sans létal certain : 180 ; létal trouvé par échanges : 18 (dont démontrés sans risque : 5)

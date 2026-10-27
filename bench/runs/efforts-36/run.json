@@ -1,0 +1,35 @@
+{
+  "createdUtc": "2026-10-25T13:14:24.0216595Z",
+  "updatedUtc": "2026-10-25T13:14:24.0217295Z",
+  "casesSource": "bench/cases.jsonl",
+  "casesFingerprint": "cc2c334b2950",
+  "caseCount": 36,
+  "variants": [
+    "gpt-6.1-sol:low",
+    "gpt-6.1-sol:medium",
+    "gpt-6.1-sol:high",
+    "gpt-6.1-sol:medium#2",
+    "gpt-6-luna:medium"
+  ],
+  "instructionsFingerprint": "89db2eda2c5a",
+  "strategyFingerprint": "2076d066f36e",
+  "historyItems": 25,
+  "concurrency": 4,
+  "budgetUsd": 8,
+  "maxOutputTokens": 24000,
+  "prices": {
+    "gpt-6.1-sol": {
+      "input": 2,
+      "cachedInput": 0.1,
+      "output": 10,
+      "source": "developers.openai.com et annonce GPT-6.1 Sol, 25/10/2026"
+    },
+    "gpt-6-luna": {
+      "input": 0.1,
+      "cachedInput": 0.01,
+      "output": 0.5,
+      "source": "developers.openai.com et comparateurs, 25/10/2026"
+    }
+  },
+  "note": "Le coup réellement joué sert d'étiquette d'évaluation et n'est jamais transmis au modèle."
+}

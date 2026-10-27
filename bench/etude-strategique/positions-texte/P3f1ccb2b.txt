@@ -1,0 +1,76 @@
+Position P3f1ccb2b — tour 16
+
+Mode GT_RANKED / FT_STANDARD — Tour 16 (TURN=31, vous) — étape MAIN_ACTION — premier joueur : vous
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+  [info] Rembobinage : l'état a été reconstruit à partir de l'instantané envoyé par le serveur. (×2)
+  [warning] Entité créée deux fois (flux rejoué ou désordonné). (×2)
+
+== ADVERSAIRE (HUNTER) — Rexxar 17/30 PV — mana 0/10
+   Pouvoir : Tir assuré (2)
+   Arme : Canon à main 3/1
+   Plateau (4) :
+     1. Prédateur en chasse 4/7 (max 8) [CANT_BE_TARGETED_BY_SPELLS, CANT_BE_TARGETED_BY_HERO_POWERS, ELUSIVE, TRIGGER_VISUAL] (épuisé)
+     2. Parle-esprit 2/2 (épuisé)
+     3. Serpent éternel 7/3 (max 9) [RUSH] (épuisé)
+     4. Ursol 9/7 (épuisé)
+   Main (3) :
+     1. carte cachée — en main depuis TURN=29
+     2. carte cachée — en main depuis TURN=29
+     3. carte cachée — en main depuis TURN=29
+   Deck : 1 carte(s)
+   Secrets : Secret inconnu (HUNTER)
+   Dernier tour (TURN=30) : Familier apprivoisé, Parle-esprit (encore en jeu), Compagnon animal, 
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 23/30 PV +2 armure, 3 ATQ — mana 10/10
+   Pouvoir : Gain d’armure ! (2)
+   Arme : Lame runique horrible 3/3
+   Plateau (2) :
+     1. Gardien des couvées 2/3 (peut attaquer)
+     2. Glissedrake visionnaire 6/5 (max 9) [CANT_BE_TARGETED_BY_SPELLS, CANT_BE_TARGETED_BY_HERO_POWERS, ELUSIVE] {Floraison} (peut attaquer)
+   Main (1) :
+     1. (3) Forgeron dimensionnel 2/5 (créée)
+   Deck : 10 carte(s)
+   Dernier tour (TURN=29) : Dragonnet du Vol infini (n'est plus en jeu), Animatrice de stade (n'est plus en jeu), Animatrice de stade (n'est plus en jeu)
+
+Actions légales (serveur, options #130, révision 152, à jour) : 5 jouable(s) + fin de tour
+  - Jouer Forgeron dimensionnel
+  - Attaquer avec Garrosh Hurlenfer → Rexxar, Prédateur en chasse, Parle-esprit, Serpent éternel, Ursol
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Glissedrake visionnaire → Rexxar, Prédateur en chasse, Parle-esprit, Serpent éternel, Ursol
+  - Attaquer avec Gardien des couvées → Rexxar, Prédateur en chasse, Parle-esprit, Serpent éternel, Ursol
+
+Historique récent :
+  T15 adversaire joue Parle-esprit
+  T15 choix adversaire (choix adverse (GENERAL))
+  T15 adversaire attaque : Serpent éternel → Animatrice de stade
+  T15 morts : Animatrice de stade
+  T15 adversaire attaque : Prédateur en chasse → Colporteur de pétales
+  T15 morts : Colporteur de pétales, Dragonnet du Vol infini
+  T15 adversaire attaque : Rexxar → Dragonnet du Vol infini
+  T15 déclenchement Défense de cristal (adversaire)
+  T15 morts : Dragonnet du Vol infini
+  T15 adversaire joue Compagnon animal
+  T15 adversaire joue carte cachée
+  — Tour 16 (TURN=31, vous) —
+
+
+Actions légales :
+  - Jouer Forgeron dimensionnel
+  - Attaquer avec Garrosh Hurlenfer → Rexxar (17 PV)
+  - Attaquer avec Garrosh Hurlenfer → Prédateur en chasse 4/7
+  - Attaquer avec Garrosh Hurlenfer → Parle-esprit 2/2
+  - Attaquer avec Garrosh Hurlenfer → Serpent éternel 7/3
+  - Attaquer avec Garrosh Hurlenfer → Ursol 9/7
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Glissedrake visionnaire → Rexxar (17 PV)
+  - Attaquer avec Glissedrake visionnaire → Prédateur en chasse 4/7
+  - Attaquer avec Glissedrake visionnaire → Parle-esprit 2/2
+  - Attaquer avec Glissedrake visionnaire → Serpent éternel 7/3
+  - Attaquer avec Glissedrake visionnaire → Ursol 9/7
+  - Attaquer avec Gardien des couvées → Rexxar (17 PV)
+  - Attaquer avec Gardien des couvées → Prédateur en chasse 4/7
+  - Attaquer avec Gardien des couvées → Parle-esprit 2/2
+  - Attaquer avec Gardien des couvées → Serpent éternel 7/3
+  - Attaquer avec Gardien des couvées → Ursol 9/7
+  - Finir le tour

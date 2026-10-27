@@ -1,0 +1,71 @@
+Position Pecf9bbff — tour 3
+
+Mode GT_RANKED / FT_STANDARD — Tour 3 (TURN=5, vous) — étape MAIN_ACTION — premier joueur : vous
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+
+== ADVERSAIRE (WARLOCK) — Gul’dan 26/30 PV — mana 0/2
+   Pouvoir : Connexion (2) — utilisé
+   Plateau (0) :
+   Main (6) :
+     1. carte cachée — en main depuis TURN=1
+     2. carte cachée — en main depuis TURN=1
+     3. carte cachée — en main depuis TURN=1
+     4. carte cachée — en main depuis TURN=1
+     5. carte cachée — en main depuis TURN=4
+     6. carte cachée — en main depuis TURN=4
+   Deck : 28 carte(s)
+   Quêtes/éléments publics : Rituel d’invocation
+   Dernier tour (TURN=4) : aucune carte jouée
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 30/30 PV, 2 ATQ — mana 3/3
+   Pouvoir : Gain d’armure ! (2)
+   Arme : Trancheuse cauchemardesque 2/1
+   Plateau (2) :
+     1. Profondeurs Sanguines 3 charge(s) (activable)
+     2. Gardien des couvées 2/3 (peut attaquer)
+   Main (4) :
+     1. (6) Chronoseigneur Époque 7/5
+     2. (8) Le Grand Dracorex 5/12
+     3. (4, base 7) Glissedrake visionnaire 5/8 ✦condition remplie
+     4. (2) Colporteur de pétales 1/4
+   Deck : 24 carte(s)
+   Dernier tour (TURN=3) : Gardien des couvées (encore en jeu)
+
+Actions légales (serveur, options #11, révision 25, à jour) : 5 jouable(s) + fin de tour
+  - Jouer Colporteur de pétales
+  - Attaquer avec Garrosh Hurlenfer → Gul’dan
+  - Pouvoir héroïque Gain d’armure !
+  - Activer le lieu Profondeurs Sanguines → Gardien des couvées (allié)
+  - Attaquer avec Gardien des couvées → Gul’dan
+
+Historique récent :
+  T1 déclenchement Âme de dragon fracassée (adversaire)
+  T1 vous joue Profondeurs Sanguines
+  — Tour 1 (TURN=2, adversaire) —
+  T1 adversaire joue La pièce
+  T1 adversaire joue Rituel d’invocation
+  — Tour 2 (TURN=3, vous) —
+  T2 vous joue Gardien des couvées
+  T2 vous attaque : Garrosh Hurlenfer → Gul’dan
+  — Tour 2 (TURN=4, adversaire) —
+  T2 déclenchement Rituel d’invocation (adversaire)
+  T2 adversaire pouvoir héroïque Connexion
+  — Tour 3 (TURN=5, vous) —
+
+
+Actions légales :
+  - Jouer Colporteur de pétales
+  - Attaquer avec Garrosh Hurlenfer → Gul’dan (26 PV)
+  - Pouvoir héroïque Gain d’armure !
+  - Activer Profondeurs Sanguines → Gardien des couvées (allié) 2/3
+  - Attaquer avec Gardien des couvées → Gul’dan (26 PV)
+  - Finir le tour
+
+
+Conseil donné en partie par HS Copilot :
+  action : Activer Profondeurs Sanguines → Gardien des couvées (allié) 2/3
+  résumé : Active Profondeurs Sanguines sur le Gardien des couvées avant son attaque, puis développe le Colporteur de pétales.
+  raison : Le bonus permet 6 dégâts ce tour tout en développant ton plateau.
+  suite prévue : ['Jouer Colporteur de pétales pour 2 mana.', 'Attaquer Gul’dan avec le Gardien des couvées pour 4 dégâts.', 'Attaquer Gul’dan avec Garrosh pour 2 dégâts.']
+  plan : Jouer Glissedrake visionnaire pour profiter du bonus du Colporteur de pétales.

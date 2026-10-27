@@ -1,0 +1,86 @@
+Position P65f491fa — tour 9
+
+Mode GT_RANKED / FT_STANDARD — Tour 9 (TURN=17, vous) — étape MAIN_ACTION — premier joueur : vous
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+
+== ADVERSAIRE (HUNTER) — Rexxar 27/30 PV — mana 0/8
+   Pouvoir : Tir assuré (2)
+   Plateau (5) :
+     1. Punisseuse du fort Pourpre 4/1 (max 3)
+     2. Elekk migrateur 6/7 [TAUNT] {Brique après brique, Brique après brique} (épuisé)
+     3. Ours runique mythique 5/6 [TAUNT] {Brique après brique} (épuisé)
+     4. Ours runique mythique 5/6 [TAUNT] {Brique après brique} (épuisé)
+     5. Survivant à l’abri 4/5 {Brique après brique} (épuisé)
+   Main (7) :
+     1. carte cachée — en main depuis TURN=16
+     2. carte cachée — en main depuis TURN=16
+     3. carte cachée — en main depuis TURN=16
+     4. carte cachée — en main depuis TURN=16
+     5. carte cachée — en main depuis TURN=16
+     6. carte cachée — en main depuis TURN=16
+     7. carte cachée — en main depuis TURN=16
+   Deck : 12 carte(s)
+   Secrets : Secret inconnu (HUNTER)
+   Dernier tour (TURN=16) : Ours runique mythique (encore en jeu), Survivant à l’abri (encore en jeu)
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 30/30 PV — mana 9/9
+   Pouvoir : Gain d’armure ! (2)
+   Plateau (3) :
+     1. Dragonnet du Vol infini 3/1 (max 4) {À la pointe} (peut attaquer)
+     2. Glissedrake visionnaire 7/8 [CANT_BE_TARGETED_BY_SPELLS, CANT_BE_TARGETED_BY_HERO_POWERS, ELUSIVE] {À la pointe} (peut attaquer)
+     3. Dragonnet du Vol de bronze 4/5 [TAUNT, LIFESTEAL] {Posture de défense} (peut attaquer)
+   Main (6) :
+     1. (4) Animatrice de stade 5/3 [base 3/3] (créée)
+     2. (2) Dragon féerique 5/2 [base 3/2] (créée)
+     3. (3) Avant-garde du portail 2/2 (créée)
+     4. (2) Colporteur de pétales 1/4 (créée)
+     5. (8) Champion invaincu 13/13 (créée)
+     6. (8) Le Grand Dracorex 5/12 (créée)
+   Deck : 18 carte(s)
+
+Actions légales (serveur, options #49, révision 5, à jour) : 10 jouable(s) + fin de tour
+  - Jouer Animatrice de stade
+  - Jouer Dragon féerique
+  - Jouer Avant-garde du portail
+  - Jouer Colporteur de pétales
+  - Jouer Champion invaincu
+  - Jouer Le Grand Dracorex
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Glissedrake visionnaire → Elekk migrateur, Ours runique mythique, Ours runique mythique
+  - Attaquer avec Dragonnet du Vol infini → Elekk migrateur, Ours runique mythique, Ours runique mythique
+  - Attaquer avec Dragonnet du Vol de bronze → Elekk migrateur, Ours runique mythique, Ours runique mythique
+
+Historique récent :
+  — Tour 8 (TURN=16, adversaire) —
+  T8 adversaire joue Ours runique mythique
+  T8 adversaire joue Survivant à l’abri → cible cachée
+  — Tour 9 (TURN=17, vous) —
+
+
+Actions légales :
+  - Jouer Animatrice de stade
+  - Jouer Dragon féerique
+  - Jouer Avant-garde du portail
+  - Jouer Colporteur de pétales
+  - Jouer Champion invaincu
+  - Jouer Le Grand Dracorex
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Glissedrake visionnaire → Elekk migrateur 6/7
+  - Attaquer avec Glissedrake visionnaire → Ours runique mythique 5/6
+  - Attaquer avec Glissedrake visionnaire → Ours runique mythique 5/6
+  - Attaquer avec Dragonnet du Vol infini → Elekk migrateur 6/7
+  - Attaquer avec Dragonnet du Vol infini → Ours runique mythique 5/6
+  - Attaquer avec Dragonnet du Vol infini → Ours runique mythique 5/6
+  - Attaquer avec Dragonnet du Vol de bronze → Elekk migrateur 6/7
+  - Attaquer avec Dragonnet du Vol de bronze → Ours runique mythique 5/6
+  - Attaquer avec Dragonnet du Vol de bronze → Ours runique mythique 5/6
+  - Finir le tour
+
+
+Conseil donné en partie par HS Copilot :
+  action : Jouer Le Grand Dracorex
+  résumé : Joue Le Grand Dracorex, puis vise l’Elekk migrateur après un échange du Glissedrake visionnaire.
+  raison : Ses dégâts de zone permettent d’envisager un nettoyage des cinq serviteurs adverses.
+  suite prévue : ['Attaquer l’Ours runique mythique avec le Glissedrake visionnaire pour tester le Secret avant l’attaque du Dracorex.', 'Attaquer l’Elekk migrateur avec Le Grand Dracorex, puis réévaluer les dégâts de zone.', 'Si l’Elekk reste à 2 PV, l’achever avec le Dragonnet du Vol de bronze.', 'Si le second Ours reste à 1 PV, l’achever avec le Dragonnet du Vol infini.']
+  plan : Consolider le plateau avec les Dragons et conserver le Champion invaincu comme menace résistante.

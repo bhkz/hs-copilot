@@ -1,0 +1,173 @@
+{
+  "generatedUtc": "2026-10-25T13:37:35.9172155Z",
+  "manifest": {
+    "createdUtc": "2026-10-25T13:29:07.2591861Z",
+    "updatedUtc": "2026-10-25T13:29:07.2592877Z",
+    "casesSource": "bench/cases-deck.jsonl",
+    "casesFingerprint": "472128292b87",
+    "caseCount": 30,
+    "variants": [
+      "gpt-6.1-sol:medium"
+    ],
+    "instructionsFingerprint": "89db2eda2c5a",
+    "strategyFingerprint": "2076d066f36e",
+    "historyItems": 25,
+    "concurrency": 4,
+    "budgetUsd": 2,
+    "maxOutputTokens": 24000,
+    "prices": {
+      "gpt-6.1-sol": {
+        "input": 2,
+        "cachedInput": 0.1,
+        "output": 10,
+        "source": "developers.openai.com et annonce GPT-6.1 Sol, 25/10/2026"
+      }
+    },
+    "note": "Le coup réellement joué sert d'étiquette d'évaluation et n'est jamais transmis au modèle."
+  },
+  "cases": 30,
+  "tagCounts": {
+    "début-de-tour": 19,
+    "rembobinage-jouable": 11,
+    "milieu-de-tour": 11,
+    "profondeurs-prêtes": 8,
+    "létal-attaques": 6,
+    "wyrm-jouable": 5,
+    "grommash-jouable": 3,
+    "chronoseigneur-jouable": 3,
+    "létal-avec-main": 2,
+    "menace-létale-adverse": 2
+  },
+  "lethalCases": 8,
+  "rankedCases": 10,
+  "actualMapped": 30,
+  "actualWithDubious": 3,
+  "actualFlagCounts": {
+    "LETAL_AVEC_MAIN_IGNORE": 2,
+    "LETAL_IGNORE": 5,
+    "ECHANGE_PERDANT": 2
+  },
+  "actualFlagExamples": [
+    {
+      "caseId": "2026_10_24_20_59_43/Power_old.log#10@17630",
+      "turnNumber": 9,
+      "variant": "réel",
+      "code": "LETAL_AVEC_MAIN_IGNORE",
+      "severity": "à vérifier",
+      "message": "Létal apparent avec « Jouer Grommash Hurlenfer » (4) et les attaques autorisées (15) contre 17 PV + 0 armure, mais le coup choisi est « Pouvoir héroïque Gain d’armure\u00A0! ».",
+      "actionLabel": "Pouvoir héroïque Gain d’armure\u00A0!"
+    },
+    {
+      "caseId": "2026_10_24_20_59_43/Power_old.log#18@17538",
+      "turnNumber": 9,
+      "variant": "réel",
+      "code": "LETAL_IGNORE",
+      "severity": "à vérifier",
+      "message": "Létal possible par les attaques autorisées sur le héros (15 dégâts contre 1 PV + 0 armure) mais le coup choisi est « Jouer Chronoseigneur Époque ». Secrets adverses éventuels non pris en compte.",
+      "actionLabel": "Jouer Chronoseigneur Époque"
+    },
+    {
+      "caseId": "2026_10_24_20_59_43/Power_old.log#22@36852",
+      "turnNumber": 17,
+      "variant": "réel",
+      "code": "LETAL_IGNORE",
+      "severity": "à vérifier",
+      "message": "Létal possible par les attaques autorisées sur le héros (32 dégâts contre 30 PV + 2 armure) mais le coup choisi est « Jouer Pointe d’os ». Secrets adverses éventuels non pris en compte.",
+      "actionLabel": "Jouer Pointe d’os"
+    },
+    {
+      "caseId": "2026_10_24_20_59_43/Power_old.log#8@13795",
+      "turnNumber": 9,
+      "variant": "réel",
+      "code": "LETAL_AVEC_MAIN_IGNORE",
+      "severity": "à vérifier",
+      "message": "Létal apparent avec « Jouer Frappe anticipée → Malfurion Hurlorage » (3) et les attaques autorisées (0) contre 3 PV + 0 armure, mais le coup choisi est « Jouer Chronoseigneur Époque ».",
+      "actionLabel": "Jouer Chronoseigneur Époque"
+    },
+    {
+      "caseId": "2026_10_24_20_59_43/Power_old.log#8@32608",
+      "turnNumber": 18,
+      "variant": "réel",
+      "code": "ECHANGE_PERDANT",
+      "severity": "douteux",
+      "message": "Luisaile (3/2) meurt contre Druide de la Griffe (4/4) sans le tuer.",
+      "actionLabel": "Attaquer avec Luisaile → Druide de la Griffe"
+    },
+    {
+      "caseId": "2026_10_25_01_34_44/Power_old.log#3@21689",
+      "turnNumber": 11,
+      "variant": "réel",
+      "code": "LETAL_IGNORE",
+      "severity": "douteux",
+      "message": "Létal possible par les attaques autorisées sur le héros (28 dégâts contre 1 PV + 0 armure) mais le coup choisi est « Attaquer avec Avant-garde du portail → Hyène charognarde ». Secrets adverses éventuels non pris en compte.",
+      "actionLabel": "Attaquer avec Avant-garde du portail → Hyène charognarde"
+    },
+    {
+      "caseId": "2026_10_25_01_34_44/Power_old.log#3@35672",
+      "turnNumber": 17,
+      "variant": "réel",
+      "code": "ECHANGE_PERDANT",
+      "severity": "douteux",
+      "message": "Gardien des couvées (2/3) meurt contre Faucon-dragon difforme (5/5) sans le tuer.",
+      "actionLabel": "Attaquer avec Gardien des couvées → Faucon-dragon difforme"
+    }
+  ],
+  "actualLethalTaken": 1,
+  "actualAnnotations": {},
+  "variants": [
+    {
+      "variant": "gpt-6.1-sol:medium",
+      "calls": 30,
+      "apiErrors": 0,
+      "errorSamples": [],
+      "responded": 30,
+      "legal": 30,
+      "accepted": 30,
+      "illegalSamples": [],
+      "withActual": 30,
+      "agreeExact": 12,
+      "agreeSameCard": 13,
+      "agreeSameKind": 21,
+      "withActualRanked": 10,
+      "agreeExactRanked": 6,
+      "agreeSameCardRanked": 6,
+      "withDubious": 0,
+      "withCheck": 0,
+      "flagCounts": {
+        "FRAPPE_SANS_PIOCHE": 1
+      },
+      "flagExamples": [
+        {
+          "caseId": "2026_10_24_20_59_43/Power_old.log#9@3154",
+          "turnNumber": 3,
+          "variant": "gpt-6.1-sol:medium",
+          "code": "FRAPPE_SANS_PIOCHE",
+          "severity": "info",
+          "message": "Frappe anticipée jouée sans serviteur coûtant 5 ou plus en main : pas de pioche.",
+          "actionLabel": "Jouer Frappe anticipée → Éleveur sélectif",
+          "summary": "Joue Frappe anticipée sur l’Éleveur sélectif pour conserver Dragonnet du Vol infini et préparer Glissedrake visionnaire."
+        }
+      ],
+      "lethalCases": 8,
+      "lethalTaken": 8,
+      "confidence": {
+        "élevée": 23,
+        "moyenne": 7
+      },
+      "certaintyWarnings": 1,
+      "latencyP50Ms": 11409.8819,
+      "latencyP95Ms": 21640.2793,
+      "latencyMaxMs": 22747.0783,
+      "meanInputTokens": 8724.733333333334,
+      "meanCachedTokens": 1639,
+      "meanOutputTokens": 507.5,
+      "meanReasoningTokens": 151.53333333333333,
+      "meanCostUsd": 0.019410366666666668,
+      "totalCostUsd": 0.582311,
+      "within20s": 28,
+      "annotations": {}
+    }
+  ],
+  "pairs": [],
+  "totalCostUsd": 0.582311
+}

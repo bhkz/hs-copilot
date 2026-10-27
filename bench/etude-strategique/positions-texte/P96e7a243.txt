@@ -1,0 +1,80 @@
+Position P96e7a243 — tour 8
+
+Mode GT_RANKED / FT_WILD — Tour 8 (TURN=15, vous) — étape MAIN_ACTION — premier joueur : vous
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+
+== ADVERSAIRE (PALADIN) — Uther le Porteur de Lumière 25/30 PV — mana 1/7
+   Pouvoir : Renfort (2)
+   Arme : Tranche-lianes 4/2
+   Plateau (2) :
+     1. Recrue de la Main d’argent 5/4 [DEATHRATTLE] {Héritage de Régis, Force} (épuisé)
+     2. Recrue de la Main d’argent 2/1 {Force} (épuisé)
+   Main (4) :
+     1. carte cachée — en main depuis TURN=1
+     2. carte cachée — en main depuis TURN=2
+     3. carte cachée — en main depuis TURN=12
+     4. carte cachée — en main depuis TURN=14
+   Deck : 19 carte(s)
+   Dernier tour (TURN=14) : Tranche-lianes
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 15/30 PV, 2 ATQ — mana 8/8
+   Pouvoir : Gain d’armure ! (2)
+   Arme : Trancheuse cauchemardesque 2/1
+   Plateau (2) :
+     1. Avant-garde du portail 2/2 (peut attaquer)
+     2. Gardien des couvées 4/5 {Garde du temps} (peut attaquer)
+   Main (4) :
+     1. (4) Animatrice de stade 7/3 [base 3/3]
+     2. (2) Suffusion d’ombreflamme
+     3. (5) Maîtresse du jeu Nemsie 3/6 (créée)
+     4. (4) Animatrice de stade 3/3
+   Deck : 18 carte(s)
+   Dernier tour (TURN=13) : Avant-garde du portail (encore en jeu), Gardien des couvées (encore en jeu), Luisaile (n'est plus en jeu)
+
+Actions légales (serveur, options #54, révision 89, à jour) : 8 jouable(s) + fin de tour
+  - Jouer Animatrice de stade
+  - Jouer Suffusion d’ombreflamme → Garrosh Hurlenfer (allié), Uther le Porteur de Lumière, Avant-garde du portail (allié), Gardien des couvées (allié), Recrue de la Main d’argent, Recrue de la Main d’argent
+  - Jouer Maîtresse du jeu Nemsie
+  - Jouer Animatrice de stade
+  - Attaquer avec Garrosh Hurlenfer → Uther le Porteur de Lumière, Recrue de la Main d’argent, Recrue de la Main d’argent
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Avant-garde du portail → Uther le Porteur de Lumière, Recrue de la Main d’argent, Recrue de la Main d’argent
+  - Attaquer avec Gardien des couvées → Uther le Porteur de Lumière, Recrue de la Main d’argent, Recrue de la Main d’argent
+
+Historique récent :
+  T7 vous joue Gardien des couvées
+  T7 vous attaque : Dragonnet du Vol infini → Recrue de la Main d’argent
+  T7 morts : Dragonnet du Vol infini, Recrue de la Main d’argent
+  T7 déclenchement Recrue de la Main d’argent (adversaire)
+  T7 vous joue Luisaile
+  T7 vous attaque : Garrosh Hurlenfer → Uther le Porteur de Lumière
+  — Tour 7 (TURN=14, adversaire) —
+  T7 adversaire joue Tranche-lianes
+  T7 adversaire attaque : Uther le Porteur de Lumière → Luisaile
+  T7 déclenchement Tranche-lianes (adversaire)
+  T7 morts : Luisaile
+  — Tour 8 (TURN=15, vous) —
+
+
+Actions légales :
+  - Jouer Animatrice de stade
+  - Jouer Suffusion d’ombreflamme → Garrosh Hurlenfer (allié) (15 PV)
+  - Jouer Suffusion d’ombreflamme → Uther le Porteur de Lumière (25 PV)
+  - Jouer Suffusion d’ombreflamme → Avant-garde du portail (allié) 2/2
+  - Jouer Suffusion d’ombreflamme → Gardien des couvées (allié) 4/5
+  - Jouer Suffusion d’ombreflamme → Recrue de la Main d’argent 5/4
+  - Jouer Suffusion d’ombreflamme → Recrue de la Main d’argent 2/1
+  - Jouer Maîtresse du jeu Nemsie
+  - Jouer Animatrice de stade
+  - Attaquer avec Garrosh Hurlenfer → Uther le Porteur de Lumière (25 PV)
+  - Attaquer avec Garrosh Hurlenfer → Recrue de la Main d’argent 5/4
+  - Attaquer avec Garrosh Hurlenfer → Recrue de la Main d’argent 2/1
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Avant-garde du portail → Uther le Porteur de Lumière (25 PV)
+  - Attaquer avec Avant-garde du portail → Recrue de la Main d’argent 5/4
+  - Attaquer avec Avant-garde du portail → Recrue de la Main d’argent 2/1
+  - Attaquer avec Gardien des couvées → Uther le Porteur de Lumière (25 PV)
+  - Attaquer avec Gardien des couvées → Recrue de la Main d’argent 5/4
+  - Attaquer avec Gardien des couvées → Recrue de la Main d’argent 2/1
+  - Finir le tour

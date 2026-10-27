@@ -1,0 +1,91 @@
+Position P92e667bd — tour 6
+
+Mode GT_RANKED / FT_WILD — Tour 6 (TURN=11, vous) — étape MAIN_ACTION — premier joueur : vous
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+  [info] Rembobinage : l'état a été reconstruit à partir de l'instantané envoyé par le serveur.
+  [warning] Entité créée deux fois (flux rejoué ou désordonné).
+
+== ADVERSAIRE (HUNTER) — Rexxar 30/30 PV — mana 2/5
+   Pouvoir : Tir assuré (2) — utilisé
+   Plateau (2) :
+     1. Traqueur phasique 2/3 [TRIGGER_VISUAL] (épuisé)
+     2. Guide 1/1 (épuisé)
+   Main (3) :
+     1. carte cachée — en main depuis TURN=9
+     2. carte cachée — en main depuis TURN=9
+     3. carte cachée — en main depuis TURN=10
+   Deck : 19 carte(s)
+   Secrets : Secret inconnu (HUNTER)
+   Dernier tour (TURN=10) : Ordre de tuer
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 10/30 PV — mana 6/6
+   Pouvoir : Gain d’armure ! (2)
+   Plateau (2) :
+     1. Avant-garde du portail 4/2 {À la pointe} (peut attaquer)
+     2. Gardien des couvées 2/1 (max 3) (peut attaquer)
+   Main (8) :
+     1. (8) Grommash Hurlenfer 6/9 [base 4/9]
+     2. (6) Chronoseigneur Époque 9/5 [base 7/5]
+     3. (6, base 8) Wyrm du pic venteux 8/10 [base 6/6] ✦condition remplie (créée)
+     4. (3) Avant-garde du portail 4/2 [base 2/2]
+     5. (4, base 7) Glissedrake visionnaire 5/8 ✦condition remplie
+     6. (5, base 3) Forgeron dimensionnel 2/5
+     7. (6, base 8) Wyrm du pic venteux 8/8 [base 6/6] ✦condition remplie
+     8. (1) Sombre chevaucheur 1/1 ✦condition remplie
+   Deck : 19 carte(s)
+   Dernier tour (TURN=9) : Frappe anticipée, Avant-garde du portail (encore en jeu), Avant-garde du portail (encore en jeu)
+
+Actions légales (serveur, options #37, révision 72, à jour) : 10 jouable(s) + fin de tour
+  - Jouer Chronoseigneur Époque
+  - Jouer Wyrm du pic venteux → Garrosh Hurlenfer (allié), Rexxar, Gardien des couvées (allié), Traqueur phasique, Guide, Avant-garde du portail (allié)
+  - Jouer Avant-garde du portail
+  - Jouer Glissedrake visionnaire
+  - Jouer Forgeron dimensionnel
+  - Jouer Wyrm du pic venteux → Garrosh Hurlenfer (allié), Rexxar, Gardien des couvées (allié), Traqueur phasique, Guide, Avant-garde du portail (allié)
+  - Jouer Sombre chevaucheur
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Gardien des couvées → Rexxar, Traqueur phasique, Guide
+  - Attaquer avec Avant-garde du portail → Rexxar, Traqueur phasique, Guide
+
+Historique récent :
+  T5 vous attaque : Gardien des couvées → Augmarchand de défense
+  T5 morts : Augmarchand de défense
+  T5 vous joue Avant-garde du portail
+  T5 choix vous (GENERAL) : Ligne temporelle actuelle (proposée), Ligne temporelle passée (choisie) [annulé par Rembobinage]
+  T5 REMBOBINAGE par Avant-garde du portail : État de partie réinitialisé par le serveur (Rembobinage)
+  T5 vous joue Avant-garde du portail
+  — Tour 5 (TURN=10, adversaire) —
+  T5 adversaire pouvoir héroïque Tir assuré
+  T5 adversaire joue Ordre de tuer → Garrosh Hurlenfer
+  T5 adversaire attaque : Guide → Garrosh Hurlenfer
+  T5 adversaire attaque : Traqueur phasique → Garrosh Hurlenfer
+  — Tour 6 (TURN=11, vous) —
+
+
+Actions légales :
+  - Jouer Chronoseigneur Époque
+  - Jouer Wyrm du pic venteux → Garrosh Hurlenfer (allié) (10 PV)
+  - Jouer Wyrm du pic venteux → Rexxar (30 PV)
+  - Jouer Wyrm du pic venteux → Gardien des couvées (allié) 2/1
+  - Jouer Wyrm du pic venteux → Traqueur phasique 2/3
+  - Jouer Wyrm du pic venteux → Guide 1/1
+  - Jouer Wyrm du pic venteux → Avant-garde du portail (allié) 4/2
+  - Jouer Avant-garde du portail
+  - Jouer Glissedrake visionnaire
+  - Jouer Forgeron dimensionnel
+  - Jouer Wyrm du pic venteux → Garrosh Hurlenfer (allié) (10 PV)
+  - Jouer Wyrm du pic venteux → Rexxar (30 PV)
+  - Jouer Wyrm du pic venteux → Gardien des couvées (allié) 2/1
+  - Jouer Wyrm du pic venteux → Traqueur phasique 2/3
+  - Jouer Wyrm du pic venteux → Guide 1/1
+  - Jouer Wyrm du pic venteux → Avant-garde du portail (allié) 4/2
+  - Jouer Sombre chevaucheur
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Gardien des couvées → Rexxar (30 PV)
+  - Attaquer avec Gardien des couvées → Traqueur phasique 2/3
+  - Attaquer avec Gardien des couvées → Guide 1/1
+  - Attaquer avec Avant-garde du portail → Rexxar (30 PV)
+  - Attaquer avec Avant-garde du portail → Traqueur phasique 2/3
+  - Attaquer avec Avant-garde du portail → Guide 1/1
+  - Finir le tour

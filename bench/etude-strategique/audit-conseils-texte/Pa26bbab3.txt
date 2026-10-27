@@ -1,0 +1,89 @@
+Position Pa26bbab3 — tour 8
+
+Mode GT_RANKED / FT_STANDARD — Tour 8 (TURN=15, vous) — étape MAIN_ACTION — premier joueur : vous
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+
+== ADVERSAIRE (HUNTER) — Rexxar 27/30 PV — mana 0/7
+   Pouvoir : Tir assuré (2)
+   Plateau (1) :
+     1. Punisseuse du fort Pourpre 8/6 (max 7) [POISONOUS, REBORN] {Brique après brique, Punition exemplaire, Punition exemplaire} (épuisé)
+   Main (10) :
+     1. carte cachée — en main depuis TURN=13
+     2. carte cachée — en main depuis TURN=13
+     3. carte cachée — en main depuis TURN=13
+     4. carte cachée — en main depuis TURN=13
+     5. carte cachée — en main depuis TURN=13
+     6. carte cachée — en main depuis TURN=13
+     7. carte cachée — en main depuis TURN=14
+     8. carte cachée — en main depuis TURN=14
+     9. carte cachée — en main depuis TURN=14
+     10. carte cachée — en main depuis TURN=14
+   Deck : 13 carte(s)
+   Secrets : Secret inconnu (HUNTER)
+   Dernier tour (TURN=14) : Punisseuse du fort Pourpre (encore en jeu), Ravitaillement aérien
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 28/30 PV — mana 8/8
+   Pouvoir : Gain d’armure ! (2)
+   Plateau (3) :
+     1. Dragonnet du Vol infini 3/1 (max 4) {À la pointe} (ne peut pas attaquer)
+     2. Glissedrake visionnaire 7/8 [CANT_BE_TARGETED_BY_SPELLS, CANT_BE_TARGETED_BY_HERO_POWERS, ELUSIVE] {À la pointe} (peut attaquer)
+     3. Dragonnet du Vol de bronze 4/5 [TAUNT, DIVINE_SHIELD, LIFESTEAL] {Posture de défense} (peut attaquer)
+   Main (5) :
+     1. (4) Animatrice de stade 5/3 [base 3/3] (créée)
+     2. (2) Dragon féerique 5/2 [base 3/2] (créée)
+     3. (3) Avant-garde du portail 2/2 (créée)
+     4. (2) Suffusion d’ombreflamme (créée)
+     5. (2) Colporteur de pétales 1/4 (créée)
+   Deck : 19 carte(s)
+   Dernier tour (TURN=13) : Dragonnet du Vol infini (encore en jeu), Dragonnet du Vol de bronze (encore en jeu)
+
+Actions légales (serveur, options #43, révision 16, à jour) : 8 jouable(s) + fin de tour
+  - Jouer Animatrice de stade
+  - Jouer Dragon féerique
+  - Jouer Avant-garde du portail
+  - Jouer Suffusion d’ombreflamme → Rexxar, Garrosh Hurlenfer (allié), Dragonnet du Vol infini (allié), Dragonnet du Vol de bronze (allié), Punisseuse du fort Pourpre
+  - Jouer Colporteur de pétales
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Glissedrake visionnaire → Rexxar, Punisseuse du fort Pourpre
+  - Attaquer avec Dragonnet du Vol de bronze → Rexxar, Punisseuse du fort Pourpre
+
+Historique récent :
+  T7 vous attaque : Sombre chevaucheur → Grizzly du bois Maudit
+  T7 morts : Grizzly du bois Maudit, Sombre chevaucheur
+  T7 vous joue Dragonnet du Vol infini
+  T7 vous joue Dragonnet du Vol de bronze
+  — Tour 7 (TURN=14, adversaire) —
+  T7 adversaire joue Punisseuse du fort Pourpre → Dragonnet du Vol infini
+  T7 adversaire joue Ravitaillement aérien
+  — Tour 8 (TURN=15, vous) —
+  T8 vous attaque : Dragonnet du Vol infini → Ours runique mythique
+  T8 morts : Ours runique mythique
+  T8 vous attaque : Dragonnet livreur → Punisseuse du fort Pourpre
+  T8 morts : Dragonnet livreur
+
+
+Actions légales :
+  - Jouer Animatrice de stade
+  - Jouer Dragon féerique
+  - Jouer Avant-garde du portail
+  - Jouer Suffusion d’ombreflamme → Rexxar (27 PV)
+  - Jouer Suffusion d’ombreflamme → Garrosh Hurlenfer (allié) (28 PV)
+  - Jouer Suffusion d’ombreflamme → Dragonnet du Vol infini (allié) 3/1
+  - Jouer Suffusion d’ombreflamme → Dragonnet du Vol de bronze (allié) 4/5
+  - Jouer Suffusion d’ombreflamme → Punisseuse du fort Pourpre 8/6
+  - Jouer Colporteur de pétales
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Glissedrake visionnaire → Rexxar (27 PV)
+  - Attaquer avec Glissedrake visionnaire → Punisseuse du fort Pourpre 8/6
+  - Attaquer avec Dragonnet du Vol de bronze → Rexxar (27 PV)
+  - Attaquer avec Dragonnet du Vol de bronze → Punisseuse du fort Pourpre 8/6
+  - Finir le tour
+
+
+Conseil donné en partie par HS Copilot :
+  action : Attaquer avec Dragonnet du Vol de bronze → Punisseuse du fort Pourpre 8/6
+  résumé : Attaquez la Punisseuse du fort Pourpre avec le Dragonnet du Vol de bronze pour exploiter son Bouclier divin.
+  raison : Le Bouclier divin absorbe la riposte toxique ; Suffusion pourra ensuite achever ses 2 PV.
+  suite prévue : ['Jouer Suffusion d’ombreflamme sur la Punisseuse, puis réévaluer la Découverte et sa Réincarnation.']
+  plan : Préserver les Dragons et maintenir la pression après avoir contenu la Punisseuse.

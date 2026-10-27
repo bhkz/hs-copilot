@@ -1,0 +1,11 @@
+   87  analysées
+    4  ligne jouée létale
+    2  ligne jouée strictement dominée
+  195  phases
+   10  écartée : Secret adverse
+   60  écartée : adverse non simulable
+   37  écartée : attaquant non simulable
+    1  écartée : ligne jouée non rejouable
+gains (F visage, -T menace, A ton ATQ, P tes PV, H PV de tes serviteurs, -W coups d arme) des lignes dominantes :
+  20261025_235725_hdt.log#1@2855 tour 3 joué (0, -1, 3, 30, 7, 0) gain [0, 0, 0, 0, 1, 0] | Attaquer avec Colporteur de pétales → Ennuy-o-tron
+  20261026_013916_hdt.log#1@5635 tour 4 joué (4, 0, 13, 30, 20, 0) gain [0, 0, 1, 0, 0, 0] | Attaquer avec Sombre chevaucheur → Soldat de Cho’gall ; Attaquer avec Forgeron dimensionnel → Gul’dan ; Attaquer avec Colporteur de pétales → Gul’dan ; Finir le

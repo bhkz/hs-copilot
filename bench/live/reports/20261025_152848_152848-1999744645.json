@@ -1,0 +1,257 @@
+{
+  "gameId": "152848-1999744645",
+  "source": "hdt-plugin",
+  "startedAt": "2026-10-25T15:28:48.7940461+01:00",
+  "endedAt": "2026-10-25T15:37:10.4502304+01:00",
+  "finished": true,
+  "gameType": "GT_VS_AI",
+  "result": "WON",
+  "lines": 9030,
+  "firstRevision": 2,
+  "lastRevision": 147,
+  "checks": [
+    {
+      "name": "Début de partie détecté (CREATE_GAME)",
+      "status": 0,
+      "detail": "partie 152848-1999744645"
+    },
+    {
+      "name": "Joueur local confirmé par le serveur ou le client",
+      "status": 0,
+      "detail": "preuve : SentByClient"
+    },
+    {
+      "name": "Mulligan terminé",
+      "status": 0,
+      "detail": ""
+    },
+    {
+      "name": "Tours observés (vous / adversaire)",
+      "status": 0,
+      "detail": "10 / 9"
+    },
+    {
+      "name": "Pioche en début de tour local",
+      "status": 0,
+      "detail": "10 pioche(s) détectée(s) sur 10 tour(s)"
+    },
+    {
+      "name": "Actions jouées (cartes, pouvoirs, lieux, attaques)",
+      "status": 0,
+      "detail": "vous : 22 jouées, 16 attaques · adversaire : 20 jouées, 11 attaques · 47 options envoyées"
+    },
+    {
+      "name": "Fin de tour (changement de joueur)",
+      "status": 0,
+      "detail": "19 début(s) de tour"
+    },
+    {
+      "name": "Fin de partie et résultat",
+      "status": 0,
+      "detail": "WON"
+    },
+    {
+      "name": "Rembobinage appliqué",
+      "status": 1,
+      "detail": "0 RESET_GAME reçu(s), 0 appliqué(s)"
+    },
+    {
+      "name": "Vues du client = état reconstruit",
+      "status": 0,
+      "detail": "1590 vues, 1372 identiques, 218 en retard (max 6 rév.), 0 écart(s)"
+    },
+    {
+      "name": "Tour attribué au joueur local quand le serveur envoie ses options",
+      "status": 0,
+      "detail": "47 blocs d'options, 0 écart(s)"
+    },
+    {
+      "name": "Références de joueur toutes associées",
+      "status": 0,
+      "detail": "0 changement(s) en attente"
+    },
+    {
+      "name": "Coût et mana = légalité serveur",
+      "status": 0,
+      "detail": "130 cartes jugées, 0 désaccord(s)"
+    },
+    {
+      "name": "Aucune carte adverse cachée exposée",
+      "status": 0,
+      "detail": "139 états, 256 emplacements, 0 violation(s)"
+    },
+    {
+      "name": "Concordance avec HDT au repos",
+      "status": 1,
+      "detail": "aucun relevé (plugin HDT absent ou partie trop rapide)"
+    },
+    {
+      "name": "États incomplets après la mise en place",
+      "status": 0,
+      "detail": "0 état(s) incomplet(s) sur 141, 0,0 s"
+    },
+    {
+      "name": "Latence log → réception (P95 < 1000 ms, seuil indicatif)",
+      "status": 0,
+      "detail": "log → réception : P50 0 ms, P95 1 ms, max 7 ms (191 mesures)"
+    },
+    {
+      "name": "Latence état → affichage (P95 < 250 ms, seuil indicatif)",
+      "status": 0,
+      "detail": "état publié → affichage : P50 0 ms, P95 2 ms, max 81 ms (141 mesures)"
+    }
+  ],
+  "oracle": {
+    "optionBlocks": 47,
+    "checks": 1590,
+    "exactMatches": 1372,
+    "laggedMatches": 218,
+    "mismatches": 0,
+    "missingEntities": 0,
+    "maxLagRevisions": 6,
+    "lagHistogram": {
+      "0": 1372,
+      "2": 117,
+      "3": 30,
+      "4": 31,
+      "5": 38,
+      "6": 2
+    },
+    "examples": [],
+    "manaChecks": 130,
+    "turnOwnerChecks": 47,
+    "turnOwnerMismatches": 0,
+    "manaMismatches": 0,
+    "manaExamples": [],
+    "agreementRate": 1
+  },
+  "visibility": {
+    "snapshotsChecked": 139,
+    "opponentHiddenSlotsChecked": 256,
+    "violations": 0,
+    "examples": []
+  },
+  "snapshots": 141,
+  "incompleteSnapshots": 0,
+  "incompleteSeconds": 0,
+  "flagsSeen": {
+    "DECKLIST_UNKNOWN": 141,
+    "LOCAL_PLAYER_HEURISTIC": 1,
+    "CHOSEN_WITHOUT_CHOICE": 141,
+    "OPTIONS_STALE": 49
+  },
+  "hdtMismatches": [],
+  "latencies": [
+    {
+      "name": "action → nouvelles options",
+      "count": 37,
+      "p50": 326.8599,
+      "p95": 529.7192,
+      "max": 10223.5803,
+      "mean": 605.2537243243244
+    },
+    {
+      "name": "appel stratégie (LLM)",
+      "count": 14,
+      "p50": 8945.2679,
+      "p95": 12846.0675,
+      "max": 12846.0675,
+      "mean": 8898.301635714286
+    },
+    {
+      "name": "appel stratégie → premier fragment",
+      "count": 14,
+      "p50": 2804.8926,
+      "p95": 6839.2532,
+      "max": 6839.2532,
+      "mean": 3488.0997571428566
+    },
+    {
+      "name": "début de tour → premier conseil",
+      "count": 10,
+      "p50": 10613.5985,
+      "p95": 29753.7785,
+      "max": 29753.7785,
+      "mean": 12209.8504
+    },
+    {
+      "name": "début de tour → première action affichée",
+      "count": 10,
+      "p50": 4771.035,
+      "p95": 25437.7146,
+      "max": 25437.7146,
+      "mean": 6510.718879999999
+    },
+    {
+      "name": "décision → action affichée",
+      "count": 20,
+      "p50": 4673.5038,
+      "p95": 8404.9711,
+      "max": 9262.0017,
+      "mean": 5227.264074999999
+    },
+    {
+      "name": "décision → conseil",
+      "count": 14,
+      "p50": 9261.858,
+      "p95": 14401.575,
+      "max": 14401.575,
+      "mean": 9834.529207142858
+    },
+    {
+      "name": "log → affichage",
+      "count": 140,
+      "p50": 1.8378,
+      "p95": 78.5889,
+      "max": 190.7968,
+      "mean": 21.561227142857142
+    },
+    {
+      "name": "log → réception",
+      "count": 191,
+      "p50": 0.2588,
+      "p95": 0.7997,
+      "max": 7.3169,
+      "mean": 0.3570335078534032
+    },
+    {
+      "name": "plugin → réception",
+      "count": 190,
+      "p50": 0.2542,
+      "p95": 0.798,
+      "max": 7.3189,
+      "mean": 0.34383052631578975
+    },
+    {
+      "name": "réception → état publié",
+      "count": 141,
+      "p50": 1.2097,
+      "p95": 77.7038,
+      "max": 143.8108,
+      "mean": 20.014601418439717
+    },
+    {
+      "name": "état publié → affichage",
+      "count": 141,
+      "p50": 0.1897,
+      "p95": 1.7575,
+      "max": 80.5309,
+      "mean": 1.4341141843971632
+    }
+  ],
+  "counters": {
+    "stratégie : actions proposées légales": 14,
+    "stratégie : appels annulés (décision passée)": 18,
+    "stratégie : appels envoyés": 29,
+    "stratégie : points de décision": 32,
+    "stratégie : points sans conseil": 17,
+    "stratégie : premier conseil dans le budget du tour": 10
+  },
+  "amounts": {
+    "stratégie : coût API (USD)": 0.21758099999999997,
+    "stratégie : coût estimé des appels annulés (USD)": 0.2244,
+    "stratégie : jetons envoyés": 109517,
+    "stratégie : jetons reçus": 5055
+  },
+  "verdict": "À COMPLÉTER"
+}

@@ -1,0 +1,78 @@
+Position Pc0cc9065 — tour 6
+
+Mode GT_RANKED / FT_WILD — Tour 6 (TURN=11, vous) — étape MAIN_ACTION — premier joueur : vous
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+
+== ADVERSAIRE (DEMONHUNTER) — Illidan, ravageur de fiel 24/30 PV — mana 0/5
+   Pouvoir : Griffes de démon (1)
+   Plateau (1) :
+     1. Artificier mo’arg 2/4 (épuisé)
+   Main (6) :
+     1. carte cachée — en main depuis TURN=1
+     2. carte cachée — en main depuis TURN=1
+     3. carte cachée — en main depuis TURN=2
+     4. carte cachée — en main depuis TURN=6
+     5. Deuxième portail vers Argus (vue publiquement) — en main depuis TURN=8
+     6. carte cachée — en main depuis TURN=11
+   Deck : 18 carte(s)
+   Dernier tour (TURN=10) : Brute écaille-du-Vide (n'est plus en jeu), Trait de Vide, La pièce, Âme du Vide
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 28/30 PV — mana 4/6
+   Pouvoir : Gain d’armure ! (2)
+   Plateau (1) :
+     1. Colporteur de pétales 3/6 [TRIGGER_VISUAL] {Garde du temps} (peut attaquer)
+   Main (6) :
+     1. (4) Animatrice de stade 3/3
+     2. (4) Cogneur d’œufs 3/5 (créée)
+     3. (4) Animatrice de stade 3/3
+     4. (2) Gardien des couvées 4/5 [base 2/3] ✦condition remplie
+     5. (8) Grommash Hurlenfer 4/9
+     6. (4) Calamar pas cuit 3/8 (créée)
+   Deck : 19 carte(s)
+   Dernier tour (TURN=9) : Avant-garde du portail (n'est plus en jeu), Colporteur de pétales (encore en jeu)
+   Ce tour : Suffusion d’ombreflamme
+
+Actions légales (serveur, options #37, révision 71, à jour) : 7 jouable(s) + fin de tour
+  - Jouer Animatrice de stade
+  - Jouer Cogneur d’œufs → Colporteur de pétales (allié), Artificier mo’arg
+  - Jouer Animatrice de stade
+  - Jouer Gardien des couvées
+  - Jouer Calamar pas cuit → Artificier mo’arg
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Colporteur de pétales → Illidan, ravageur de fiel, Artificier mo’arg
+
+Historique récent :
+  T5 vous joue Avant-garde du portail
+  T5 choix vous (GENERAL) : Ligne temporelle actuelle (choisie), Ligne temporelle passée (proposée)
+  T5 vous joue Colporteur de pétales
+  T5 déclenchement Colporteur de pétales (vous)
+  — Tour 5 (TURN=10, adversaire) —
+  T5 adversaire joue Brute écaille-du-Vide
+  T5 adversaire joue Trait de Vide → Avant-garde du portail : Avant-garde du portail (détruit pendant l'action)
+  T5 adversaire joue La pièce
+  T5 adversaire joue Âme du Vide
+  — Tour 6 (TURN=11, vous) —
+  T6 vous joue Suffusion d’ombreflamme → Brute écaille-du-Vide : Brute écaille-du-Vide (détruit pendant l'action)
+  T6 choix vous (GENERAL) : Calamar pas cuit (choisie), Avocat commis d’office (proposée), Écumeur du ciel (proposée)
+
+
+Actions légales :
+  - Jouer Animatrice de stade
+  - Jouer Cogneur d’œufs → Colporteur de pétales (allié) 3/6
+  - Jouer Cogneur d’œufs → Artificier mo’arg 2/4
+  - Jouer Animatrice de stade
+  - Jouer Gardien des couvées
+  - Jouer Calamar pas cuit → Artificier mo’arg 2/4
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Colporteur de pétales → Illidan, ravageur de fiel (24 PV)
+  - Attaquer avec Colporteur de pétales → Artificier mo’arg 2/4
+  - Finir le tour
+
+
+Conseil donné en partie par HS Copilot :
+  action : Jouer Calamar pas cuit → Artificier mo’arg 2/4
+  résumé : Joue Calamar pas cuit sur l’Artificier mo’arg, puis attaque Illidan avec le Colporteur de pétales.
+  raison : Le Calamar découvert retire maintenant l’Artificier sans sacrifier l’attaque du Colporteur.
+  suite prévue : ['Attaquer Illidan avec le Colporteur de pétales pour 3 dégâts.']
+  plan : Développer le Gardien des couvées et conserver le Cogneur pour renforcer une menace prête à attaquer.

@@ -1,0 +1,85 @@
+Position P89986087 — tour 9
+
+Mode GT_RANKED / FT_STANDARD — Tour 9 (TURN=17, vous) — étape MAIN_ACTION — premier joueur : vous
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+  [info] Rembobinage : l'état a été reconstruit à partir de l'instantané envoyé par le serveur.
+
+== ADVERSAIRE (MAGE) — Jaina Portvaillant 5/30 PV — mana 1/8
+   Pouvoir : Explosion de feu (2) — utilisé
+   Arme : Glaive perdu dans le temps 2/1
+   Plateau (2) :
+     1. Ombre flétrie 6/7 [LIFESTEAL, TRIGGER_VISUAL] (épuisé)
+     2. Dragonnet de Berceau-de-l’Hiver 1/2 (épuisé)
+   Main (8) :
+     1. carte cachée — en main depuis TURN=15
+     2. carte cachée — en main depuis TURN=15
+     3. carte cachée — en main depuis TURN=15
+     4. carte cachée — en main depuis TURN=15
+     5. carte cachée — en main depuis TURN=15
+     6. carte cachée — en main depuis TURN=15
+     7. carte cachée — en main depuis TURN=16
+     8. carte cachée — en main depuis TURN=16
+   Deck : 11 carte(s)
+   Dernier tour (TURN=16) : Noyau tellurique, Ligne tellurique cristallisée, Dragonnet de Berceau-de-l’Hiver (encore en jeu), Rugissement terrestre, Éclair de feu éternel
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 25/30 PV +3 armure, 3 ATQ — mana 9/9
+   Pouvoir : Gain d’armure ! (2)
+   Arme : Rouage-marteau 3/3
+   Plateau (3) :
+     1. Animatrice de stade 3/3 (peut attaquer)
+     2. Sombre chevaucheur 1/1 (peut attaquer)
+     3. Avant-garde du portail 4/2 {À la pointe} (peut attaquer)
+   Main (4) :
+     1. (6) Chronoseigneur Époque 9/5 [base 7/5]
+     2. (4) Roi Maluk 5/6 (créée)
+     3. (2) Gardien des couvées 2/3 ✦condition remplie
+     4. (3) Dragonnet du Vol infini 1/4
+   Deck : 17 carte(s)
+   Dernier tour (TURN=15) : Animatrice de stade (encore en jeu), Animatrice de stade (encore en jeu), Dragonnet du Vol infini (n'est plus en jeu)
+
+Actions légales (serveur, options #63, révision 124, à jour) : 9 jouable(s) + fin de tour
+  - Jouer Chronoseigneur Époque
+  - Jouer Roi Maluk
+  - Jouer Gardien des couvées
+  - Jouer Dragonnet du Vol infini
+  - Attaquer avec Garrosh Hurlenfer → Jaina Portvaillant, Ombre flétrie, Dragonnet de Berceau-de-l’Hiver
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Avant-garde du portail → Jaina Portvaillant, Ombre flétrie, Dragonnet de Berceau-de-l’Hiver
+  - Attaquer avec Sombre chevaucheur → Jaina Portvaillant, Ombre flétrie, Dragonnet de Berceau-de-l’Hiver
+  - Attaquer avec Animatrice de stade → Jaina Portvaillant, Ombre flétrie, Dragonnet de Berceau-de-l’Hiver
+
+Historique récent :
+  T8 adversaire joue Rugissement terrestre → Wyrm du pic venteux
+  T8 choix adversaire (choix adverse (TARGET))
+  T8 adversaire pouvoir héroïque Explosion de feu → Dragonnet du Vol infini
+  T8 adversaire joue Éclair de feu éternel → Wyrm du pic venteux : Wyrm du pic venteux (détruit pendant l'action)
+  T8 adversaire attaque : Jaina Portvaillant → Garrosh Hurlenfer
+  T8 déclenchement Horion de flammes (adversaire)
+  T8 déclenchement Éclair de feu éternel (adversaire)
+  — Tour 9 (TURN=17, vous) —
+  T9 déclenchement Éclair de feu éternel (adversaire)
+  T9 vous attaque : Dragonnet du Vol infini → Techysaurus
+  T9 morts : Techysaurus, Dragonnet du Vol infini
+  T9 déclenchement Horion de flammes (adversaire)
+
+
+Actions légales :
+  - Jouer Chronoseigneur Époque
+  - Jouer Roi Maluk
+  - Jouer Gardien des couvées
+  - Jouer Dragonnet du Vol infini
+  - Attaquer avec Garrosh Hurlenfer → Jaina Portvaillant (5 PV)
+  - Attaquer avec Garrosh Hurlenfer → Ombre flétrie 6/7
+  - Attaquer avec Garrosh Hurlenfer → Dragonnet de Berceau-de-l’Hiver 1/2
+  - Pouvoir héroïque Gain d’armure !
+  - Attaquer avec Avant-garde du portail → Jaina Portvaillant (5 PV)
+  - Attaquer avec Avant-garde du portail → Ombre flétrie 6/7
+  - Attaquer avec Avant-garde du portail → Dragonnet de Berceau-de-l’Hiver 1/2
+  - Attaquer avec Sombre chevaucheur → Jaina Portvaillant (5 PV)
+  - Attaquer avec Sombre chevaucheur → Ombre flétrie 6/7
+  - Attaquer avec Sombre chevaucheur → Dragonnet de Berceau-de-l’Hiver 1/2
+  - Attaquer avec Animatrice de stade → Jaina Portvaillant (5 PV)
+  - Attaquer avec Animatrice de stade → Ombre flétrie 6/7
+  - Attaquer avec Animatrice de stade → Dragonnet de Berceau-de-l’Hiver 1/2
+  - Finir le tour

@@ -1,0 +1,111 @@
+{
+  "generatedUtc": "2026-10-25T13:37:36.3309796Z",
+  "manifest": {
+    "createdUtc": "2026-10-25T13:31:15.0323391Z",
+    "updatedUtc": "2026-10-25T13:31:15.0324126Z",
+    "casesFingerprint": "6c2476d5a285",
+    "caseCount": 8,
+    "variants": [
+      "gpt-6.1-sol:xhigh"
+    ],
+    "instructionsFingerprint": "89db2eda2c5a",
+    "strategyFingerprint": "2076d066f36e",
+    "historyItems": 25,
+    "concurrency": 4,
+    "budgetUsd": 2,
+    "maxOutputTokens": 24000,
+    "prices": {
+      "gpt-6.1-sol": {
+        "input": 2,
+        "cachedInput": 0.1,
+        "output": 10,
+        "source": "developers.openai.com et annonce GPT-6.1 Sol, 25/10/2026"
+      }
+    },
+    "note": "Le coup réellement joué sert d'étiquette d'évaluation et n'est jamais transmis au modèle."
+  },
+  "cases": 8,
+  "tagCounts": {
+    "début-de-tour": 7,
+    "profondeurs-prêtes": 4,
+    "rembobinage-jouable": 4,
+    "létal-attaques": 2,
+    "menace-létale-adverse": 2,
+    "grommash-jouable": 1,
+    "wyrm-jouable": 1,
+    "milieu-de-tour": 1
+  },
+  "lethalCases": 2,
+  "rankedCases": 2,
+  "actualMapped": 8,
+  "actualWithDubious": 1,
+  "actualFlagCounts": {
+    "LETAL_IGNORE": 2
+  },
+  "actualFlagExamples": [
+    {
+      "caseId": "2026_10_22_14_55_57/Power.log#8@9340",
+      "turnNumber": 7,
+      "variant": "réel",
+      "code": "LETAL_IGNORE",
+      "severity": "à vérifier",
+      "message": "Létal possible par les attaques autorisées sur le héros (6 dégâts contre 6 PV + 0 armure) mais le coup choisi est « Jouer Frappe héroïque ». Secrets adverses éventuels non pris en compte.",
+      "actionLabel": "Jouer Frappe héroïque"
+    },
+    {
+      "caseId": "2026_10_25_01_34_44/Power_old.log#3@21689",
+      "turnNumber": 11,
+      "variant": "réel",
+      "code": "LETAL_IGNORE",
+      "severity": "douteux",
+      "message": "Létal possible par les attaques autorisées sur le héros (28 dégâts contre 1 PV + 0 armure) mais le coup choisi est « Attaquer avec Avant-garde du portail → Hyène charognarde ». Secrets adverses éventuels non pris en compte.",
+      "actionLabel": "Attaquer avec Avant-garde du portail → Hyène charognarde"
+    }
+  ],
+  "actualLethalTaken": 0,
+  "actualAnnotations": {},
+  "variants": [
+    {
+      "variant": "gpt-6.1-sol:xhigh",
+      "calls": 8,
+      "apiErrors": 0,
+      "errorSamples": [],
+      "responded": 8,
+      "legal": 8,
+      "accepted": 8,
+      "illegalSamples": [],
+      "withActual": 8,
+      "agreeExact": 0,
+      "agreeSameCard": 0,
+      "agreeSameKind": 3,
+      "withActualRanked": 2,
+      "agreeExactRanked": 0,
+      "agreeSameCardRanked": 0,
+      "withDubious": 0,
+      "withCheck": 0,
+      "flagCounts": {},
+      "flagExamples": [],
+      "lethalCases": 2,
+      "lethalTaken": 2,
+      "confidence": {
+        "élevée": 2,
+        "faible": 1,
+        "moyenne": 5
+      },
+      "certaintyWarnings": 2,
+      "latencyP50Ms": 58391.5583,
+      "latencyP95Ms": 127362.7169,
+      "latencyMaxMs": 127362.7169,
+      "meanInputTokens": 8239.625,
+      "meanCachedTokens": 1434.125,
+      "meanOutputTokens": 2935.5,
+      "meanReasoningTokens": 2544.25,
+      "meanCostUsd": 0.0431094125,
+      "totalCostUsd": 0.3448753,
+      "within20s": 0,
+      "annotations": {}
+    }
+  ],
+  "pairs": [],
+  "totalCostUsd": 0.3448753
+}

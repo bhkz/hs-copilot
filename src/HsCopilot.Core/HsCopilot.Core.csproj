@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <RootNamespace>HsCopilot.Core</RootNamespace>
+    <AssemblyName>HsCopilot.Core</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="..\Shared\PipeProtocol.cs" Link="Transport\PipeProtocol.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <InternalsVisibleTo Include="HsCopilot.Core.Tests" />
+  </ItemGroup>
+</Project>

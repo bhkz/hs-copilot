@@ -1,0 +1,74 @@
+Position Pf7cf118d — tour 5
+
+Mode GT_RANKED / FT_STANDARD — Tour 5 (TURN=10, vous) — étape MAIN_ACTION — premier joueur : adversaire
+Indicateurs :
+  [info] Liste du deck inconnue : cartes restantes non calculées.
+
+== ADVERSAIRE (PALADIN) — Dame Liadrin 27/30 PV — mana 1/5
+   Pouvoir : Renfort (2)
+   Plateau (3) :
+     1. Voyant froide-lumière 2/3 (épuisé)
+     2. Bibliothécaire royal 4/1 (max 4) (épuisé)
+     3. Végétaileron avide 1/1 (épuisé)
+   Main (3) :
+     1. carte cachée — en main depuis TURN=5
+     2. carte cachée — en main depuis TURN=7
+     3. carte cachée — en main depuis TURN=9
+   Deck : 22 carte(s)
+   Quêtes/éléments publics : Plongée dans l’abîme de Golakka
+   Dernier tour (TURN=9) : Voyant froide-lumière (encore en jeu), Végétaileron avide (encore en jeu)
+
+== VOUS (WARRIOR) — Garrosh Hurlenfer 30/30 PV — mana 0/5
+   Pouvoir : Gain d’armure ! (2)
+   Plateau (5) :
+     1. Luisaile 7/2 {À la pointe, À la pointe} (ne peut pas attaquer)
+     2. Forgeron dimensionnel 2/5 (ne peut pas attaquer)
+     3. Glissedrake visionnaire 7/8 [CANT_BE_TARGETED_BY_SPELLS, CANT_BE_TARGETED_BY_HERO_POWERS, ELUSIVE] {À la pointe} (peut attaquer)
+     4. Forgeron dimensionnel 3/3 (max 6) {Floraison} (peut attaquer)
+     5. Profondeurs Sanguines 1 charge(s) (non activable)
+   Main (4) :
+     1. (8) Grommash Hurlenfer 8/9 [base 4/9]
+     2. (4) Animatrice de stade 5/3 [base 3/3]
+     3. (4, base 7) Glissedrake visionnaire 7/8 [base 5/8] ✦condition remplie
+     4. (5) Broll Mantelours 3/5 (créée)
+   Deck : 21 carte(s)
+   Dernier tour (TURN=8) : Glissedrake visionnaire (encore en jeu)
+   Ce tour : Forgeron dimensionnel, Luisaile
+
+Actions légales (serveur, options #31, révision 56, à jour) : 2 jouable(s) + fin de tour
+  - Attaquer avec Forgeron dimensionnel → Dame Liadrin, Bibliothécaire royal, Voyant froide-lumière, Végétaileron avide
+  - Attaquer avec Glissedrake visionnaire → Dame Liadrin, Bibliothécaire royal, Voyant froide-lumière, Végétaileron avide
+
+Historique récent :
+  T4 vous joue Glissedrake visionnaire
+  T4 vous attaque : Forgeron dimensionnel → Murmie
+  T4 morts : Murmie
+  T4 vous attaque : Colporteur de pétales → Dame Liadrin
+  — Tour 5 (TURN=9, adversaire) —
+  T5 adversaire attaque : Bibliothécaire royal → Colporteur de pétales
+  T5 morts : Colporteur de pétales
+  T5 adversaire joue Voyant froide-lumière
+  T5 adversaire joue Végétaileron avide
+  — Tour 5 (TURN=10, vous) —
+  T5 vous joue Forgeron dimensionnel
+  T5 vous joue Luisaile
+
+
+Actions légales :
+  - Attaquer avec Forgeron dimensionnel → Dame Liadrin (27 PV)
+  - Attaquer avec Forgeron dimensionnel → Bibliothécaire royal 4/1
+  - Attaquer avec Forgeron dimensionnel → Voyant froide-lumière 2/3
+  - Attaquer avec Forgeron dimensionnel → Végétaileron avide 1/1
+  - Attaquer avec Glissedrake visionnaire → Dame Liadrin (27 PV)
+  - Attaquer avec Glissedrake visionnaire → Bibliothécaire royal 4/1
+  - Attaquer avec Glissedrake visionnaire → Voyant froide-lumière 2/3
+  - Attaquer avec Glissedrake visionnaire → Végétaileron avide 1/1
+  - Finir le tour
+
+
+Conseil donné en partie par HS Copilot :
+  action : Attaquer avec Forgeron dimensionnel → Voyant froide-lumière 2/3
+  résumé : Attaque le Voyant froide-lumière avec le Forgeron dimensionnel, puis vise Dame Liadrin avec le Glissedrake visionnaire.
+  raison : Le Forgeron élimine un Murloc en survivant ; le Glissedrake maintient la pression.
+  suite prévue : ['Attaquer Dame Liadrin avec le Glissedrake visionnaire pour 7 dégâts.']
+  plan : Renforcer le plateau avec Glissedrake et chercher une conclusion grâce aux Profondeurs Sanguines.
